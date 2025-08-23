@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const AlarmArrowDownCircleDuotone = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M12 1.75a9.75 9.75 0 0 0-9.75 9.75c0 4.775 3.432 8.747 7.964 9.587a.75.75 0 0 0 .854-.958 7.25 7.25 0 0 1 9.607-8.87.75.75 0 0 0 1.023-.774C21.19 5.577 17.042 1.75 12 1.75" opacity=".4"/><path fill="currentColor" d="M5.678 1.947a2.05 2.05 0 0 0-2.731 2.731.75.75 0 0 1-1.355.644 3.55 3.55 0 0 1 4.73-4.73.75.75 0 0 1-.644 1.355M19.2 1.75c-.316 0-.613.07-.878.197a.75.75 0 0 1-.644-1.355 3.55 3.55 0 0 1 4.73 4.73.75.75 0 0 1-1.355-.644A2.05 2.05 0 0 0 19.2 1.75M6.28 17.72a.75.75 0 0 1 0 1.06l-2.75 2.75a.75.75 0 0 1-1.06-1.06l2.75-2.75a.75.75 0 0 1 1.06 0M12 5.75a.75.75 0 0 1 .75.75v5a.75.75 0 0 1-1.5 0v-5a.75.75 0 0 1 .75-.75"/><path fill="currentColor" fill-rule="evenodd" d="M18 12.25a5.75 5.75 0 1 0 0 11.5 5.75 5.75 0 0 0 0-11.5m-.625 6.741V15.5a.625.625 0 0 1 1.25 0v3.491l.933-.933a.625.625 0 0 1 .884.884l-2 2a.625.625 0 0 1-.884 0l-2-2a.625.625 0 1 1 .884-.884z" clip-rule="evenodd"/>
+  </IconBase>
+);
+
+export default AlarmArrowDownCircleDuotone;

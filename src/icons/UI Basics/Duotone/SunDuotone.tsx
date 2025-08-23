@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const SunDuotone = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10" opacity=".4"/><path fill="currentColor" d="M11.25 4.5a.75.75 0 0 0 1.5 0V2a.75.75 0 0 0-1.5 0zm-10 7.5c0 .414.336.75.75.75h2.5a.75.75 0 0 0 0-1.5H2a.75.75 0 0 0-.75.75m21.5 0a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5H22a.75.75 0 0 1 .75.75M12 22.75a.75.75 0 0 1-.75-.75v-2.5a.75.75 0 0 1 1.5 0V22a.75.75 0 0 1-.75.75M5.46 4.399a.75.75 0 0 0-1.061 1.06l1.767 1.768a.75.75 0 0 0 1.061-1.06zM19.601 5.46a.75.75 0 1 0-1.06-1.061l-1.768 1.767a.75.75 0 0 0 1.06 1.061zM7.227 17.834a.75.75 0 1 0-1.06-1.061l-1.768 1.768a.75.75 0 0 0 1.06 1.06zm10.607-1.061a.75.75 0 1 0-1.061 1.06l1.768 1.768a.75.75 0 0 0 1.06-1.06z"/>
+  </IconBase>
+);
+
+export default SunDuotone;

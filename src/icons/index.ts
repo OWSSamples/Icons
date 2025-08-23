@@ -1,4 +1,3 @@
-export * as Group1UiBasics from './UI Basics';
 export * as Arrows from './Arrows';
 export * as Buildings from './Buildings';
 export * as BusinessFinance from './Business & Finance';
@@ -26,4 +25,5 @@ export * as Security from './Security';
 export * as SignIndices from './Sign & Indices';
 export * as SupportReviews from './Support & Reviews';
 export * as TextFormatting from './Text Formatting';
+export * as UiBasics from './UI Basics';
 export * as UsersPeople from './Users & People';

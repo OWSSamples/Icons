@@ -1,4 +1,4 @@
-export * as Group1Light from './Light';
-export * as Group2Regular from './Regular';
-export * as Group3Filled from './Filled';
-export * as Group4Duotone from './Duotone';
+export * as Duotone from './Duotone';
+export * as Filled from './Filled';
+export * as Light from './Light';
+export * as Regular from './Regular';

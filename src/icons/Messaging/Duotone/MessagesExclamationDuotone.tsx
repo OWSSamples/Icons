@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const MessagesExclamationDuotone = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M4.8 1.25A3.55 3.55 0 0 0 1.25 4.8v12.8c0 .959 1.105 1.496 1.86.904l2.627-2.06a.45.45 0 0 1 .278-.096H15.2a3.55 3.55 0 0 0 3.55-3.55V4.8a3.55 3.55 0 0 0-3.55-3.55z" opacity=".4"/><path fill="currentColor" d="M9.25 5v4a.75.75 0 0 0 1.5 0V5a.75.75 0 0 0-1.5 0m11.161 2.099a.75.75 0 0 1 1.054-.124 3.37 3.37 0 0 1 1.285 2.65v12a1.125 1.125 0 0 1-1.82.885l-2.462-1.932a.38.38 0 0 0-.232-.08h-8.61a3.37 3.37 0 0 1-2.874-1.604.75.75 0 1 1 1.276-.788c.331.537.923.892 1.597.892h8.612c.42 0 .827.14 1.157.4l1.856 1.456V9.624a1.87 1.87 0 0 0-.715-1.472.75.75 0 0 1-.124-1.053M9 12.5a1 1 0 1 1 2 0 1 1 0 0 1-2 0"/>
+  </IconBase>
+);
+
+export default MessagesExclamationDuotone;

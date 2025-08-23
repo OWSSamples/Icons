@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const SendPauseCircleRegular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M2.052 1.057A2.735 2.735 0 0 1 5.205.534L21.16 8.44c1.382.684 1.851 2.21 1.444 3.461a.75.75 0 1 1-1.427-.465c.202-.618-.037-1.332-.683-1.652L4.539 1.878a1.235 1.235 0 0 0-1.424.237 1.26 1.26 0 0 0-.31 1.25l1.763 5.822 7.295 1.569c.264.056.264.432 0 .488l-7.295 1.57-1.764 5.821c-.134.443-.014.924.31 1.25.377.378.95.472 1.425.237L8.7 18.06a.75.75 0 0 1 .666 1.344l-4.16 2.062a2.735 2.735 0 0 1-3.154-.523 2.76 2.76 0 0 1-.683-2.743L3.55 11 1.37 3.8a2.76 2.76 0 0 1 .683-2.743"/><path fill="currentColor" d="M15.75 15.75a.75.75 0 0 1 .75.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 .75-.75m3.25.75a.75.75 0 0 0-1.5 0v3a.75.75 0 0 0 1.5 0z"/><path fill="currentColor" fill-rule="evenodd" d="M17 12.25a5.75 5.75 0 1 0 0 11.5 5.75 5.75 0 0 0 0-11.5M12.75 18a4.25 4.25 0 1 1 8.5 0 4.25 4.25 0 0 1-8.5 0" clip-rule="evenodd"/>
+  </IconBase>
+);
+
+export default SendPauseCircleRegular;

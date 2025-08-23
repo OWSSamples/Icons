@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const WifiLocationPinLight = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M1.357 8.85C4.055 6.097 7.821 4.5 12 4.5c2.776 0 5.368.704 7.586 1.983a.5.5 0 1 0 .499-.867C17.712 4.248 14.946 3.5 12 3.5 7.561 3.5 3.535 5.198.643 8.15a.5.5 0 1 0 .714.7m3.487 3.511a10.38 10.38 0 0 1 8.31-2.797.5.5 0 1 0 .11-.994Q12.642 8.5 12 8.5a11.38 11.38 0 0 0-7.843 3.135.5.5 0 1 0 .688.726m3.747 3.504C9.498 15.016 10.638 14.5 12 14.5h.059a.5.5 0 1 0 .01-1H12c-1.637 0-3.016.629-4.09 1.635a.5.5 0 1 0 .683.73M12 18.25a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5"/><path fill="currentColor" fill-rule="evenodd" d="M19 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-1 2a1 1 0 1 1 2 0 1 1 0 0 1-2 0" clip-rule="evenodd"/><path fill="currentColor" fill-rule="evenodd" d="M14.5 13.002a4.5 4.5 0 1 1 9-.002c0 2.767-2.2 4.9-4.2 6.4a.5.5 0 0 1-.6 0c-2-1.5-4.2-3.633-4.2-6.398M19 9.5a3.5 3.5 0 0 0-3.5 3.502c0 2.12 1.623 3.91 3.5 5.369 1.877-1.46 3.5-3.25 3.5-5.371A3.5 3.5 0 0 0 19 9.5" clip-rule="evenodd"/>
+  </IconBase>
+);
+
+export default WifiLocationPinLight;

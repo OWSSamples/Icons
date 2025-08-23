@@ -12,26 +12,17 @@ if (!fs.existsSync(distDir)) {
 
 console.log('📦 Copiando archivos principales...');
 
-// Crear un tsconfig temporal para el build
+// Crear un tsconfig temporal para el build completo
 const buildTsConfig = {
   extends: './tsconfig.json',
-  include: ['src/index.ts', 'src/IconBase.tsx', 'src/types.ts'],
-  exclude: ['src/icons/**/*', 'src/setupTests.ts'],
+  include: ['src/**/*'],
+  exclude: ['src/setupTests.ts'],
 };
 
 fs.writeFileSync(
   path.join(__dirname, '../tsconfig.build-temp.json'),
   JSON.stringify(buildTsConfig, null, 2)
 );
-
-// Crear un archivo index.js simple que exporte todo
-const indexContent = `// Build generado automáticamente
-export * from './index.js';
-export { default as IconBase } from './IconBase.js';
-export * from './types.js';
-`;
-
-fs.writeFileSync(path.join(distDir, 'index.js'), indexContent);
 
 // Crear package.json para el build
 const packageJson = {
@@ -46,6 +37,16 @@ const packageJson = {
       import: './index.js',
       require: './index.js',
     },
+    './icons': {
+      types: './icons/index.d.ts',
+      import: './icons/index.js',
+      require: './icons/index.js',
+    },
+    './icons/*': {
+      types: './icons/*.d.ts',
+      import: './icons/*.js',
+      require: './icons/*.js',
+    },
   },
   peerDependencies: {
     react: '>=16.8',
@@ -57,7 +58,7 @@ fs.writeFileSync(
   JSON.stringify(packageJson, null, 2)
 );
 
-// Compilar solo los archivos principales con TypeScript
+// Compilar todos los archivos con TypeScript
 console.log('🔨 Compilando archivos principales...');
 
 try {

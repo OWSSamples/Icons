@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const TimeNext_50DuotoneLine = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M12 3.5a9.5 9.5 0 1 1 0 19 9.5 9.5 0 0 1 0-19" opacity=".4"/><path fill="currentColor" d="M10.146 1.854a.5.5 0 0 1 .708-.708l2.5 2.5a.5.5 0 0 1 0 .708l-2.5 2.5a.5.5 0 0 1-.708-.708l1.644-1.643a8.5 8.5 0 1 0 4.932 1.428.5.5 0 1 1 .556-.831 9.5 9.5 0 1 1-5.483-1.598z"/><path fill="currentColor" fill-rule="evenodd" d="M12.75 11.75a2.25 2.25 0 0 1 4.5 0v2.5a2.25 2.25 0 0 1-4.5 0zM15 10.5c-.69 0-1.25.56-1.25 1.25v2.5a1.25 1.25 0 1 0 2.5 0v-2.5c0-.69-.56-1.25-1.25-1.25m-7.25-1a.5.5 0 0 0-.493.418l-.5 3a.5.5 0 0 0 .77.498l.017-.01.077-.044A3.05 3.05 0 0 1 9.042 13c.657 0 1.208.57 1.208 1.25 0 .69-.56 1.25-1.25 1.25-.547 0-1.114-.333-1.3-.717a.5.5 0 0 0-.9.434c.385.798 1.35 1.283 2.2 1.283a2.25 2.25 0 0 0 2.25-2.25c0-1.196-.963-2.25-2.207-2.25-.438 0-.83.076-1.148.173l.279-1.673H10.5a.5.5 0 0 0 0-1zm-.223 3.916-.002.001z" clip-rule="evenodd"/>
+  </IconBase>
+);
+
+export default TimeNext_50DuotoneLine;

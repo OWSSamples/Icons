@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const LightEmergencyDuotone = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M12 1.25A7.75 7.75 0 0 0 4.25 9v6.25c0 .414.336.75.75.75h14a.75.75 0 0 0 .75-.75V9A7.75 7.75 0 0 0 12 1.25" opacity=".4"/><path fill="currentColor" d="M8.75 9A3.25 3.25 0 0 1 12 5.75a.75.75 0 0 0 0-1.5A4.75 4.75 0 0 0 7.25 9a.75.75 0 0 0 1.5 0M1.5 19A1.5 1.5 0 0 1 3 17.5h18a1.5 1.5 0 0 1 1.5 1.5v2a1.5 1.5 0 0 1-1.5 1.5H3A1.5 1.5 0 0 1 1.5 21z"/>
+  </IconBase>
+);
+
+export default LightEmergencyDuotone;
