@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.1.1] - 2025-08-29
+
+### 🐛 Bug Fixes
+
+- Correcciones de bugs
+
+### 📦 Build
+- Versión: 3.1.1
+- Iconos totales: 44260
+- Fecha: 2025-08-29
+
+---
+
+
+
 ## [3.1.0] - 2025-08-29
 
 ### ✨ Features
