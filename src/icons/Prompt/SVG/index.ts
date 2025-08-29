@@ -1,0 +1,12 @@
+export { default as IcFluentPrompt_16Filled } from './IcFluentPrompt_16Filled';
+export { default as IcFluentPrompt_16Regular } from './IcFluentPrompt_16Regular';
+export { default as IcFluentPrompt_20Filled } from './IcFluentPrompt_20Filled';
+export { default as IcFluentPrompt_20Regular } from './IcFluentPrompt_20Regular';
+export { default as IcFluentPrompt_24Filled } from './IcFluentPrompt_24Filled';
+export { default as IcFluentPrompt_24Regular } from './IcFluentPrompt_24Regular';
+export { default as IcFluentPrompt_28Filled } from './IcFluentPrompt_28Filled';
+export { default as IcFluentPrompt_28Regular } from './IcFluentPrompt_28Regular';
+export { default as IcFluentPrompt_32Filled } from './IcFluentPrompt_32Filled';
+export { default as IcFluentPrompt_32Regular } from './IcFluentPrompt_32Regular';
+export { default as IcFluentPrompt_48Filled } from './IcFluentPrompt_48Filled';
+export { default as IcFluentPrompt_48Regular } from './IcFluentPrompt_48Regular';

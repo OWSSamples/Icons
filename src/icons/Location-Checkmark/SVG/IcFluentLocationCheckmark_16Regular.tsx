@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentLocationCheckmark_16Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M10.12 5.164 7.25 8.042 5.854 6.646l-.07-.058a.5.5 0 0 0-.638.765l1.75 1.75.07.058a.5.5 0 0 0 .638-.058l3.224-3.233.058-.07a.5.5 0 0 0-.766-.636m-.961 9.394C10.903 13.016 14 9.874 14 7A6 6 0 0 0 2 7c0 2.874 3.097 6.016 4.841 7.558.668.59 1.65.59 2.318 0M8 2a5 5 0 0 1 5 5c0 1.108-.615 2.395-1.57 3.683-.934 1.258-2.087 2.377-2.933 3.126a.737.737 0 0 1-.994 0c-.846-.749-2-1.867-2.933-3.126C3.615 9.395 3 8.108 3 7a5 5 0 0 1 5-5"/>
+  </IconBase>
+);
+
+export default IcFluentLocationCheckmark_16Regular;

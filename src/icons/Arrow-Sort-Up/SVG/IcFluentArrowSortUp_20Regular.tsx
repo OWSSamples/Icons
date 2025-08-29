@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentArrowSortUp_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M8.998 4.71 6.354 7.354a.5.5 0 1 1-.708-.707L9.115 3.18A.5.5 0 0 1 9.498 3H9.5a.5.5 0 0 1 .354.147l.01.01 3.49 3.49a.5.5 0 1 1-.707.707l-2.65-2.649V16.5a.5.5 0 0 1-1 0z"/>
+  </IconBase>
+);
+
+export default IcFluentArrowSortUp_20Regular;

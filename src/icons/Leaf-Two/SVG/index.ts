@@ -1,0 +1,10 @@
+export { default as IcFluentLeafTwo_16Filled } from './IcFluentLeafTwo_16Filled';
+export { default as IcFluentLeafTwo_16Regular } from './IcFluentLeafTwo_16Regular';
+export { default as IcFluentLeafTwo_20Filled } from './IcFluentLeafTwo_20Filled';
+export { default as IcFluentLeafTwo_20Regular } from './IcFluentLeafTwo_20Regular';
+export { default as IcFluentLeafTwo_24Filled } from './IcFluentLeafTwo_24Filled';
+export { default as IcFluentLeafTwo_24Regular } from './IcFluentLeafTwo_24Regular';
+export { default as IcFluentLeafTwo_32Filled } from './IcFluentLeafTwo_32Filled';
+export { default as IcFluentLeafTwo_32Regular } from './IcFluentLeafTwo_32Regular';
+export { default as IcFluentLeafTwo_48Filled } from './IcFluentLeafTwo_48Filled';
+export { default as IcFluentLeafTwo_48Regular } from './IcFluentLeafTwo_48Regular';

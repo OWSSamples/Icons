@@ -1,0 +1,12 @@
+export { default as IcFluentAlertBadge_16Color } from './IcFluentAlertBadge_16Color';
+export { default as IcFluentAlertBadge_16Filled } from './IcFluentAlertBadge_16Filled';
+export { default as IcFluentAlertBadge_16Regular } from './IcFluentAlertBadge_16Regular';
+export { default as IcFluentAlertBadge_20Color } from './IcFluentAlertBadge_20Color';
+export { default as IcFluentAlertBadge_20Filled } from './IcFluentAlertBadge_20Filled';
+export { default as IcFluentAlertBadge_20Regular } from './IcFluentAlertBadge_20Regular';
+export { default as IcFluentAlertBadge_24Color } from './IcFluentAlertBadge_24Color';
+export { default as IcFluentAlertBadge_24Filled } from './IcFluentAlertBadge_24Filled';
+export { default as IcFluentAlertBadge_24Regular } from './IcFluentAlertBadge_24Regular';
+export { default as IcFluentAlertBadge_32Color } from './IcFluentAlertBadge_32Color';
+export { default as IcFluentAlertBadge_32Filled } from './IcFluentAlertBadge_32Filled';
+export { default as IcFluentAlertBadge_32Regular } from './IcFluentAlertBadge_32Regular';

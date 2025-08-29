@@ -1,0 +1,14 @@
+export { default as IcFluentTooltipQuote_12Filled } from './IcFluentTooltipQuote_12Filled';
+export { default as IcFluentTooltipQuote_12Regular } from './IcFluentTooltipQuote_12Regular';
+export { default as IcFluentTooltipQuote_16Filled } from './IcFluentTooltipQuote_16Filled';
+export { default as IcFluentTooltipQuote_16Regular } from './IcFluentTooltipQuote_16Regular';
+export { default as IcFluentTooltipQuote_20Filled } from './IcFluentTooltipQuote_20Filled';
+export { default as IcFluentTooltipQuote_20Regular } from './IcFluentTooltipQuote_20Regular';
+export { default as IcFluentTooltipQuote_24Filled } from './IcFluentTooltipQuote_24Filled';
+export { default as IcFluentTooltipQuote_24Regular } from './IcFluentTooltipQuote_24Regular';
+export { default as IcFluentTooltipQuote_28Filled } from './IcFluentTooltipQuote_28Filled';
+export { default as IcFluentTooltipQuote_28Regular } from './IcFluentTooltipQuote_28Regular';
+export { default as IcFluentTooltipQuote_32Filled } from './IcFluentTooltipQuote_32Filled';
+export { default as IcFluentTooltipQuote_32Regular } from './IcFluentTooltipQuote_32Regular';
+export { default as IcFluentTooltipQuote_48Filled } from './IcFluentTooltipQuote_48Filled';
+export { default as IcFluentTooltipQuote_48Regular } from './IcFluentTooltipQuote_48Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentStarHalf_12Filled } from './IcFluentStarHalf_12Filled';
+export { default as IcFluentStarHalf_12Regular } from './IcFluentStarHalf_12Regular';
+export { default as IcFluentStarHalf_16Filled } from './IcFluentStarHalf_16Filled';
+export { default as IcFluentStarHalf_16Regular } from './IcFluentStarHalf_16Regular';
+export { default as IcFluentStarHalf_20Filled } from './IcFluentStarHalf_20Filled';
+export { default as IcFluentStarHalf_20Regular } from './IcFluentStarHalf_20Regular';
+export { default as IcFluentStarHalf_24Filled } from './IcFluentStarHalf_24Filled';
+export { default as IcFluentStarHalf_24Regular } from './IcFluentStarHalf_24Regular';
+export { default as IcFluentStarHalf_28Filled } from './IcFluentStarHalf_28Filled';
+export { default as IcFluentStarHalf_28Regular } from './IcFluentStarHalf_28Regular';

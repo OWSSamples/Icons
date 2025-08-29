@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentPersonWarning_16Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M9.267 8 6.29 13.964C3.58 13.684 2 11.818 2 10v-.5A1.5 1.5 0 0 1 3.5 8zM7 1.5A2.75 2.75 0 1 1 7 7a2.75 2.75 0 0 1 0-5.5m3.603 6.054-3.496 6.998A1 1 0 0 0 8.002 16h6.996a1 1 0 0 0 .895-1.448l-3.5-6.999a1 1 0 0 0-1.79 0m1.395 1.941v3.002a.5.5 0 1 1-1 0V9.495a.5.5 0 1 1 1 0m-.5 5.504a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1"/>
+  </IconBase>
+);
+
+export default IcFluentPersonWarning_16Filled;

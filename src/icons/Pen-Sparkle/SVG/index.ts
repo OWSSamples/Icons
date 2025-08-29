@@ -1,0 +1,13 @@
+export { default as IcFluentPenSparkle_16Filled } from './IcFluentPenSparkle_16Filled';
+export { default as IcFluentPenSparkle_16Regular } from './IcFluentPenSparkle_16Regular';
+export { default as IcFluentPenSparkle_20Filled } from './IcFluentPenSparkle_20Filled';
+export { default as IcFluentPenSparkle_20Regular } from './IcFluentPenSparkle_20Regular';
+export { default as IcFluentPenSparkle_24Filled } from './IcFluentPenSparkle_24Filled';
+export { default as IcFluentPenSparkle_24Regular } from './IcFluentPenSparkle_24Regular';
+export { default as IcFluentPenSparkle_28Filled } from './IcFluentPenSparkle_28Filled';
+export { default as IcFluentPenSparkle_28Regular } from './IcFluentPenSparkle_28Regular';
+export { default as IcFluentPenSparkle_32Filled } from './IcFluentPenSparkle_32Filled';
+export { default as IcFluentPenSparkle_32Light } from './IcFluentPenSparkle_32Light';
+export { default as IcFluentPenSparkle_32Regular } from './IcFluentPenSparkle_32Regular';
+export { default as IcFluentPenSparkle_48Filled } from './IcFluentPenSparkle_48Filled';
+export { default as IcFluentPenSparkle_48Regular } from './IcFluentPenSparkle_48Regular';

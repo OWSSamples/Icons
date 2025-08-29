@@ -1,0 +1,12 @@
+export { default as IcFluentDiamond_16Filled } from './IcFluentDiamond_16Filled';
+export { default as IcFluentDiamond_16Regular } from './IcFluentDiamond_16Regular';
+export { default as IcFluentDiamond_20Filled } from './IcFluentDiamond_20Filled';
+export { default as IcFluentDiamond_20Regular } from './IcFluentDiamond_20Regular';
+export { default as IcFluentDiamond_24Filled } from './IcFluentDiamond_24Filled';
+export { default as IcFluentDiamond_24Regular } from './IcFluentDiamond_24Regular';
+export { default as IcFluentDiamond_28Filled } from './IcFluentDiamond_28Filled';
+export { default as IcFluentDiamond_28Regular } from './IcFluentDiamond_28Regular';
+export { default as IcFluentDiamond_32Filled } from './IcFluentDiamond_32Filled';
+export { default as IcFluentDiamond_32Regular } from './IcFluentDiamond_32Regular';
+export { default as IcFluentDiamond_48Filled } from './IcFluentDiamond_48Filled';
+export { default as IcFluentDiamond_48Regular } from './IcFluentDiamond_48Regular';

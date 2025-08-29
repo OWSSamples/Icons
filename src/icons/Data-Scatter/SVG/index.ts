@@ -1,0 +1,9 @@
+export { default as IcFluentDataScatter_20Color } from './IcFluentDataScatter_20Color';
+export { default as IcFluentDataScatter_20Filled } from './IcFluentDataScatter_20Filled';
+export { default as IcFluentDataScatter_20Regular } from './IcFluentDataScatter_20Regular';
+export { default as IcFluentDataScatter_24Color } from './IcFluentDataScatter_24Color';
+export { default as IcFluentDataScatter_24Filled } from './IcFluentDataScatter_24Filled';
+export { default as IcFluentDataScatter_24Regular } from './IcFluentDataScatter_24Regular';
+export { default as IcFluentDataScatter_32Color } from './IcFluentDataScatter_32Color';
+export { default as IcFluentDataScatter_32Filled } from './IcFluentDataScatter_32Filled';
+export { default as IcFluentDataScatter_32Regular } from './IcFluentDataScatter_32Regular';

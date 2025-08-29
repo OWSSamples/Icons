@@ -1,0 +1,10 @@
+export { default as IcFluentTemperature_16Filled } from './IcFluentTemperature_16Filled';
+export { default as IcFluentTemperature_16Regular } from './IcFluentTemperature_16Regular';
+export { default as IcFluentTemperature_20Filled } from './IcFluentTemperature_20Filled';
+export { default as IcFluentTemperature_20Regular } from './IcFluentTemperature_20Regular';
+export { default as IcFluentTemperature_24Filled } from './IcFluentTemperature_24Filled';
+export { default as IcFluentTemperature_24Regular } from './IcFluentTemperature_24Regular';
+export { default as IcFluentTemperature_32Filled } from './IcFluentTemperature_32Filled';
+export { default as IcFluentTemperature_32Regular } from './IcFluentTemperature_32Regular';
+export { default as IcFluentTemperature_48Filled } from './IcFluentTemperature_48Filled';
+export { default as IcFluentTemperature_48Regular } from './IcFluentTemperature_48Regular';

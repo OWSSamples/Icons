@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentSubtractSquare_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M6.5 9.5a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zM6 3a3 3 0 0 0-3 3v8a3 3 0 0 0 3 3h8a3 3 0 0 0 3-3V6a3 3 0 0 0-3-3zM4 6a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2z"/>
+  </IconBase>
+);
+
+export default IcFluentSubtractSquare_20Regular;

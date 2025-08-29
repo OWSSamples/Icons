@@ -1,0 +1,12 @@
+export { default as IcFluentPlugConnected_16Filled } from './IcFluentPlugConnected_16Filled';
+export { default as IcFluentPlugConnected_16Regular } from './IcFluentPlugConnected_16Regular';
+export { default as IcFluentPlugConnected_20Filled } from './IcFluentPlugConnected_20Filled';
+export { default as IcFluentPlugConnected_20Regular } from './IcFluentPlugConnected_20Regular';
+export { default as IcFluentPlugConnected_24Filled } from './IcFluentPlugConnected_24Filled';
+export { default as IcFluentPlugConnected_24Regular } from './IcFluentPlugConnected_24Regular';
+export { default as IcFluentPlugConnected_28Filled } from './IcFluentPlugConnected_28Filled';
+export { default as IcFluentPlugConnected_28Regular } from './IcFluentPlugConnected_28Regular';
+export { default as IcFluentPlugConnected_32Filled } from './IcFluentPlugConnected_32Filled';
+export { default as IcFluentPlugConnected_32Regular } from './IcFluentPlugConnected_32Regular';
+export { default as IcFluentPlugConnected_48Filled } from './IcFluentPlugConnected_48Filled';
+export { default as IcFluentPlugConnected_48Regular } from './IcFluentPlugConnected_48Regular';

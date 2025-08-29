@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentShoppingBag_32Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M13.5 2A4.5 4.5 0 0 0 9 6.5V10H7a2 2 0 0 0-2 2v13.5A4.5 4.5 0 0 0 9.5 30h13a4.5 4.5 0 0 0 4.5-4.5V12a2 2 0 0 0-2-2h-2.002V6.5A4.5 4.5 0 0 0 16 2.757 4.5 4.5 0 0 0 13.5 2M25 12v13.5a2.5 2.5 0 0 1-5 0V12zm-6.242 16H9.5A2.5 2.5 0 0 1 7 25.5V12h11v13.5c0 .925.28 1.785.758 2.5m2.24-18H18V6.5a4.5 4.5 0 0 0-.6-2.246A2.5 2.5 0 0 1 20.998 6.5zM11 6.5a2.5 2.5 0 0 1 5 0V10h-5z"/>
+  </IconBase>
+);
+
+export default IcFluentShoppingBag_32Regular;

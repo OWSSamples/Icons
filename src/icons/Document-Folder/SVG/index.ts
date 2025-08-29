@@ -1,0 +1,15 @@
+export { default as IcFluentDocumentFolder_16Color } from './IcFluentDocumentFolder_16Color';
+export { default as IcFluentDocumentFolder_16Filled } from './IcFluentDocumentFolder_16Filled';
+export { default as IcFluentDocumentFolder_16Regular } from './IcFluentDocumentFolder_16Regular';
+export { default as IcFluentDocumentFolder_20Color } from './IcFluentDocumentFolder_20Color';
+export { default as IcFluentDocumentFolder_20Filled } from './IcFluentDocumentFolder_20Filled';
+export { default as IcFluentDocumentFolder_20Regular } from './IcFluentDocumentFolder_20Regular';
+export { default as IcFluentDocumentFolder_24Color } from './IcFluentDocumentFolder_24Color';
+export { default as IcFluentDocumentFolder_24Filled } from './IcFluentDocumentFolder_24Filled';
+export { default as IcFluentDocumentFolder_24Regular } from './IcFluentDocumentFolder_24Regular';
+export { default as IcFluentDocumentFolder_28Filled } from './IcFluentDocumentFolder_28Filled';
+export { default as IcFluentDocumentFolder_28Regular } from './IcFluentDocumentFolder_28Regular';
+export { default as IcFluentDocumentFolder_32Filled } from './IcFluentDocumentFolder_32Filled';
+export { default as IcFluentDocumentFolder_32Regular } from './IcFluentDocumentFolder_32Regular';
+export { default as IcFluentDocumentFolder_48Filled } from './IcFluentDocumentFolder_48Filled';
+export { default as IcFluentDocumentFolder_48Regular } from './IcFluentDocumentFolder_48Regular';

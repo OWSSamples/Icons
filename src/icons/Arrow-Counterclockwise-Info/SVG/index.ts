@@ -1,0 +1,10 @@
+export { default as IcFluentArrowCounterclockwiseInfo_20Filled } from './IcFluentArrowCounterclockwiseInfo_20Filled';
+export { default as IcFluentArrowCounterclockwiseInfo_20Regular } from './IcFluentArrowCounterclockwiseInfo_20Regular';
+export { default as IcFluentArrowCounterclockwiseInfo_24Filled } from './IcFluentArrowCounterclockwiseInfo_24Filled';
+export { default as IcFluentArrowCounterclockwiseInfo_24Regular } from './IcFluentArrowCounterclockwiseInfo_24Regular';
+export { default as IcFluentArrowCounterclockwiseInfo_28Filled } from './IcFluentArrowCounterclockwiseInfo_28Filled';
+export { default as IcFluentArrowCounterclockwiseInfo_28Regular } from './IcFluentArrowCounterclockwiseInfo_28Regular';
+export { default as IcFluentArrowCounterclockwiseInfo_32Filled } from './IcFluentArrowCounterclockwiseInfo_32Filled';
+export { default as IcFluentArrowCounterclockwiseInfo_32Regular } from './IcFluentArrowCounterclockwiseInfo_32Regular';
+export { default as IcFluentArrowCounterclockwiseInfo_48Filled } from './IcFluentArrowCounterclockwiseInfo_48Filled';
+export { default as IcFluentArrowCounterclockwiseInfo_48Regular } from './IcFluentArrowCounterclockwiseInfo_48Regular';

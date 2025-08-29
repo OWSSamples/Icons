@@ -1,0 +1,10 @@
+export { default as IcFluentBuildingSwap_16Filled } from './IcFluentBuildingSwap_16Filled';
+export { default as IcFluentBuildingSwap_16Regular } from './IcFluentBuildingSwap_16Regular';
+export { default as IcFluentBuildingSwap_20Filled } from './IcFluentBuildingSwap_20Filled';
+export { default as IcFluentBuildingSwap_20Regular } from './IcFluentBuildingSwap_20Regular';
+export { default as IcFluentBuildingSwap_24Filled } from './IcFluentBuildingSwap_24Filled';
+export { default as IcFluentBuildingSwap_24Regular } from './IcFluentBuildingSwap_24Regular';
+export { default as IcFluentBuildingSwap_32Filled } from './IcFluentBuildingSwap_32Filled';
+export { default as IcFluentBuildingSwap_32Regular } from './IcFluentBuildingSwap_32Regular';
+export { default as IcFluentBuildingSwap_48Filled } from './IcFluentBuildingSwap_48Filled';
+export { default as IcFluentBuildingSwap_48Regular } from './IcFluentBuildingSwap_48Regular';

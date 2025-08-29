@@ -1,0 +1,11 @@
+export { default as IcFluentDataPie_16Filled } from './IcFluentDataPie_16Filled';
+export { default as IcFluentDataPie_16Regular } from './IcFluentDataPie_16Regular';
+export { default as IcFluentDataPie_20Color } from './IcFluentDataPie_20Color';
+export { default as IcFluentDataPie_20Filled } from './IcFluentDataPie_20Filled';
+export { default as IcFluentDataPie_20Regular } from './IcFluentDataPie_20Regular';
+export { default as IcFluentDataPie_24Color } from './IcFluentDataPie_24Color';
+export { default as IcFluentDataPie_24Filled } from './IcFluentDataPie_24Filled';
+export { default as IcFluentDataPie_24Regular } from './IcFluentDataPie_24Regular';
+export { default as IcFluentDataPie_32Color } from './IcFluentDataPie_32Color';
+export { default as IcFluentDataPie_32Filled } from './IcFluentDataPie_32Filled';
+export { default as IcFluentDataPie_32Regular } from './IcFluentDataPie_32Regular';

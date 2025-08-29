@@ -1,0 +1,10 @@
+export { default as IcFluentChannelDismiss_16Filled } from './IcFluentChannelDismiss_16Filled';
+export { default as IcFluentChannelDismiss_16Regular } from './IcFluentChannelDismiss_16Regular';
+export { default as IcFluentChannelDismiss_20Filled } from './IcFluentChannelDismiss_20Filled';
+export { default as IcFluentChannelDismiss_20Regular } from './IcFluentChannelDismiss_20Regular';
+export { default as IcFluentChannelDismiss_24Filled } from './IcFluentChannelDismiss_24Filled';
+export { default as IcFluentChannelDismiss_24Regular } from './IcFluentChannelDismiss_24Regular';
+export { default as IcFluentChannelDismiss_28Filled } from './IcFluentChannelDismiss_28Filled';
+export { default as IcFluentChannelDismiss_28Regular } from './IcFluentChannelDismiss_28Regular';
+export { default as IcFluentChannelDismiss_48Filled } from './IcFluentChannelDismiss_48Filled';
+export { default as IcFluentChannelDismiss_48Regular } from './IcFluentChannelDismiss_48Regular';

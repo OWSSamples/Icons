@@ -1,0 +1,10 @@
+export { default as IcFluentWand_16Filled } from './IcFluentWand_16Filled';
+export { default as IcFluentWand_16Regular } from './IcFluentWand_16Regular';
+export { default as IcFluentWand_20Filled } from './IcFluentWand_20Filled';
+export { default as IcFluentWand_20Regular } from './IcFluentWand_20Regular';
+export { default as IcFluentWand_24Filled } from './IcFluentWand_24Filled';
+export { default as IcFluentWand_24Regular } from './IcFluentWand_24Regular';
+export { default as IcFluentWand_28Filled } from './IcFluentWand_28Filled';
+export { default as IcFluentWand_28Regular } from './IcFluentWand_28Regular';
+export { default as IcFluentWand_48Filled } from './IcFluentWand_48Filled';
+export { default as IcFluentWand_48Regular } from './IcFluentWand_48Regular';

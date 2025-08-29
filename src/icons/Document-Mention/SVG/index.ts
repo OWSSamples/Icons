@@ -1,0 +1,10 @@
+export { default as IcFluentDocumentMention_16Filled } from './IcFluentDocumentMention_16Filled';
+export { default as IcFluentDocumentMention_16Regular } from './IcFluentDocumentMention_16Regular';
+export { default as IcFluentDocumentMention_20Filled } from './IcFluentDocumentMention_20Filled';
+export { default as IcFluentDocumentMention_20Regular } from './IcFluentDocumentMention_20Regular';
+export { default as IcFluentDocumentMention_24Filled } from './IcFluentDocumentMention_24Filled';
+export { default as IcFluentDocumentMention_24Regular } from './IcFluentDocumentMention_24Regular';
+export { default as IcFluentDocumentMention_28Filled } from './IcFluentDocumentMention_28Filled';
+export { default as IcFluentDocumentMention_28Regular } from './IcFluentDocumentMention_28Regular';
+export { default as IcFluentDocumentMention_48Filled } from './IcFluentDocumentMention_48Filled';
+export { default as IcFluentDocumentMention_48Regular } from './IcFluentDocumentMention_48Regular';

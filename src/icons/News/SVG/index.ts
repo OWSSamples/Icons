@@ -1,0 +1,12 @@
+export { default as IcFluentNews_16Color } from './IcFluentNews_16Color';
+export { default as IcFluentNews_16Filled } from './IcFluentNews_16Filled';
+export { default as IcFluentNews_16Regular } from './IcFluentNews_16Regular';
+export { default as IcFluentNews_20Color } from './IcFluentNews_20Color';
+export { default as IcFluentNews_20Filled } from './IcFluentNews_20Filled';
+export { default as IcFluentNews_20Regular } from './IcFluentNews_20Regular';
+export { default as IcFluentNews_24Color } from './IcFluentNews_24Color';
+export { default as IcFluentNews_24Filled } from './IcFluentNews_24Filled';
+export { default as IcFluentNews_24Regular } from './IcFluentNews_24Regular';
+export { default as IcFluentNews_28Color } from './IcFluentNews_28Color';
+export { default as IcFluentNews_28Filled } from './IcFluentNews_28Filled';
+export { default as IcFluentNews_28Regular } from './IcFluentNews_28Regular';

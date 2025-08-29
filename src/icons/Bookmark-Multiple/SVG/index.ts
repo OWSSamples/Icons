@@ -1,0 +1,12 @@
+export { default as IcFluentBookmarkMultiple_16Filled } from './IcFluentBookmarkMultiple_16Filled';
+export { default as IcFluentBookmarkMultiple_16Regular } from './IcFluentBookmarkMultiple_16Regular';
+export { default as IcFluentBookmarkMultiple_20Filled } from './IcFluentBookmarkMultiple_20Filled';
+export { default as IcFluentBookmarkMultiple_20Regular } from './IcFluentBookmarkMultiple_20Regular';
+export { default as IcFluentBookmarkMultiple_24Filled } from './IcFluentBookmarkMultiple_24Filled';
+export { default as IcFluentBookmarkMultiple_24Regular } from './IcFluentBookmarkMultiple_24Regular';
+export { default as IcFluentBookmarkMultiple_28Filled } from './IcFluentBookmarkMultiple_28Filled';
+export { default as IcFluentBookmarkMultiple_28Regular } from './IcFluentBookmarkMultiple_28Regular';
+export { default as IcFluentBookmarkMultiple_32Filled } from './IcFluentBookmarkMultiple_32Filled';
+export { default as IcFluentBookmarkMultiple_32Regular } from './IcFluentBookmarkMultiple_32Regular';
+export { default as IcFluentBookmarkMultiple_48Filled } from './IcFluentBookmarkMultiple_48Filled';
+export { default as IcFluentBookmarkMultiple_48Regular } from './IcFluentBookmarkMultiple_48Regular';

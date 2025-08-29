@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentLineHorizontal_1Dashes_24Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M2 11.75a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75m7.5 0a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75m7.5 0a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 0 1.5h-3.5a.75.75 0 0 1-.75-.75"/>
+  </IconBase>
+);
+
+export default IcFluentLineHorizontal_1Dashes_24Regular;

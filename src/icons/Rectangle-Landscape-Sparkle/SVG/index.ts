@@ -1,0 +1,12 @@
+export { default as IcFluentRectangleLandscapeSparkle_16Filled } from './IcFluentRectangleLandscapeSparkle_16Filled';
+export { default as IcFluentRectangleLandscapeSparkle_16Regular } from './IcFluentRectangleLandscapeSparkle_16Regular';
+export { default as IcFluentRectangleLandscapeSparkle_20Filled } from './IcFluentRectangleLandscapeSparkle_20Filled';
+export { default as IcFluentRectangleLandscapeSparkle_20Regular } from './IcFluentRectangleLandscapeSparkle_20Regular';
+export { default as IcFluentRectangleLandscapeSparkle_24Filled } from './IcFluentRectangleLandscapeSparkle_24Filled';
+export { default as IcFluentRectangleLandscapeSparkle_24Regular } from './IcFluentRectangleLandscapeSparkle_24Regular';
+export { default as IcFluentRectangleLandscapeSparkle_28Filled } from './IcFluentRectangleLandscapeSparkle_28Filled';
+export { default as IcFluentRectangleLandscapeSparkle_28Regular } from './IcFluentRectangleLandscapeSparkle_28Regular';
+export { default as IcFluentRectangleLandscapeSparkle_32Filled } from './IcFluentRectangleLandscapeSparkle_32Filled';
+export { default as IcFluentRectangleLandscapeSparkle_32Regular } from './IcFluentRectangleLandscapeSparkle_32Regular';
+export { default as IcFluentRectangleLandscapeSparkle_48Filled } from './IcFluentRectangleLandscapeSparkle_48Filled';
+export { default as IcFluentRectangleLandscapeSparkle_48Regular } from './IcFluentRectangleLandscapeSparkle_48Regular';

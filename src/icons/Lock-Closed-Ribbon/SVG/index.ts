@@ -1,0 +1,12 @@
+export { default as IcFluentLockClosedRibbon_16Filled } from './IcFluentLockClosedRibbon_16Filled';
+export { default as IcFluentLockClosedRibbon_16Regular } from './IcFluentLockClosedRibbon_16Regular';
+export { default as IcFluentLockClosedRibbon_20Filled } from './IcFluentLockClosedRibbon_20Filled';
+export { default as IcFluentLockClosedRibbon_20Regular } from './IcFluentLockClosedRibbon_20Regular';
+export { default as IcFluentLockClosedRibbon_24Filled } from './IcFluentLockClosedRibbon_24Filled';
+export { default as IcFluentLockClosedRibbon_24Regular } from './IcFluentLockClosedRibbon_24Regular';
+export { default as IcFluentLockClosedRibbon_28Filled } from './IcFluentLockClosedRibbon_28Filled';
+export { default as IcFluentLockClosedRibbon_28Regular } from './IcFluentLockClosedRibbon_28Regular';
+export { default as IcFluentLockClosedRibbon_32Filled } from './IcFluentLockClosedRibbon_32Filled';
+export { default as IcFluentLockClosedRibbon_32Regular } from './IcFluentLockClosedRibbon_32Regular';
+export { default as IcFluentLockClosedRibbon_48Filled } from './IcFluentLockClosedRibbon_48Filled';
+export { default as IcFluentLockClosedRibbon_48Regular } from './IcFluentLockClosedRibbon_48Regular';

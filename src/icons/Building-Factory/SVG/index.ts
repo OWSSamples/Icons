@@ -1,0 +1,12 @@
+export { default as IcFluentBuildingFactory_16Filled } from './IcFluentBuildingFactory_16Filled';
+export { default as IcFluentBuildingFactory_16Regular } from './IcFluentBuildingFactory_16Regular';
+export { default as IcFluentBuildingFactory_20Filled } from './IcFluentBuildingFactory_20Filled';
+export { default as IcFluentBuildingFactory_20Regular } from './IcFluentBuildingFactory_20Regular';
+export { default as IcFluentBuildingFactory_24Filled } from './IcFluentBuildingFactory_24Filled';
+export { default as IcFluentBuildingFactory_24Regular } from './IcFluentBuildingFactory_24Regular';
+export { default as IcFluentBuildingFactory_28Filled } from './IcFluentBuildingFactory_28Filled';
+export { default as IcFluentBuildingFactory_28Regular } from './IcFluentBuildingFactory_28Regular';
+export { default as IcFluentBuildingFactory_32Filled } from './IcFluentBuildingFactory_32Filled';
+export { default as IcFluentBuildingFactory_32Regular } from './IcFluentBuildingFactory_32Regular';
+export { default as IcFluentBuildingFactory_48Filled } from './IcFluentBuildingFactory_48Filled';
+export { default as IcFluentBuildingFactory_48Regular } from './IcFluentBuildingFactory_48Regular';

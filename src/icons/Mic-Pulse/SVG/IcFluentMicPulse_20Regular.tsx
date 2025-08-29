@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentMicPulse_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M9 13q.105 0 .21-.007.165-.582.448-1.104A2 2 0 0 1 7 10V5.001a2 2 0 1 1 4 0v5q0 .138-.018.272.47-.392 1.018-.672V5a3 3 0 1 0-6 0v5a3 3 0 0 0 3 3m-4.5-3A4.5 4.5 0 0 0 9 14.5c0 .819.179 1.596.5 2.294v.706a.5.5 0 0 1-1 0v-2.022A5.5 5.5 0 0 1 3.5 10a.5.5 0 0 1 1 0M19 14.5a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0m-5.556-2a.5.5 0 0 1 .455.332l.629 1.758.58-1.443a.5.5 0 0 1 .904-.05l.573 1.07H17a.5.5 0 1 1 0 1h-.714a.5.5 0 0 1-.441-.264l-.209-.39-.672 1.673a.5.5 0 0 1-.935-.018l-.643-1.8-.212.496a.5.5 0 0 1-.46.303H12a.5.5 0 0 1 0-1h.385l.584-1.364a.5.5 0 0 1 .475-.303"/>
+  </IconBase>
+);
+
+export default IcFluentMicPulse_20Regular;

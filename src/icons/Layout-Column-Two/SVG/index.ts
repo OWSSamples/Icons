@@ -1,0 +1,9 @@
+export { default as IcFluentLayoutColumnTwo_16Filled } from './IcFluentLayoutColumnTwo_16Filled';
+export { default as IcFluentLayoutColumnTwo_16Regular } from './IcFluentLayoutColumnTwo_16Regular';
+export { default as IcFluentLayoutColumnTwo_20Filled } from './IcFluentLayoutColumnTwo_20Filled';
+export { default as IcFluentLayoutColumnTwo_20Regular } from './IcFluentLayoutColumnTwo_20Regular';
+export { default as IcFluentLayoutColumnTwo_24Filled } from './IcFluentLayoutColumnTwo_24Filled';
+export { default as IcFluentLayoutColumnTwo_24Regular } from './IcFluentLayoutColumnTwo_24Regular';
+export { default as IcFluentLayoutColumnTwo_32Filled } from './IcFluentLayoutColumnTwo_32Filled';
+export { default as IcFluentLayoutColumnTwo_32Light } from './IcFluentLayoutColumnTwo_32Light';
+export { default as IcFluentLayoutColumnTwo_32Regular } from './IcFluentLayoutColumnTwo_32Regular';

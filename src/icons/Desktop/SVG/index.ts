@@ -1,0 +1,12 @@
+export { default as IcFluentDesktop_16Filled } from './IcFluentDesktop_16Filled';
+export { default as IcFluentDesktop_16Regular } from './IcFluentDesktop_16Regular';
+export { default as IcFluentDesktop_20Filled } from './IcFluentDesktop_20Filled';
+export { default as IcFluentDesktop_20Regular } from './IcFluentDesktop_20Regular';
+export { default as IcFluentDesktop_24Filled } from './IcFluentDesktop_24Filled';
+export { default as IcFluentDesktop_24Regular } from './IcFluentDesktop_24Regular';
+export { default as IcFluentDesktop_28Filled } from './IcFluentDesktop_28Filled';
+export { default as IcFluentDesktop_28Regular } from './IcFluentDesktop_28Regular';
+export { default as IcFluentDesktop_32Filled } from './IcFluentDesktop_32Filled';
+export { default as IcFluentDesktop_32Regular } from './IcFluentDesktop_32Regular';
+export { default as IcFluentDesktop_48Filled } from './IcFluentDesktop_48Filled';
+export { default as IcFluentDesktop_48Regular } from './IcFluentDesktop_48Regular';

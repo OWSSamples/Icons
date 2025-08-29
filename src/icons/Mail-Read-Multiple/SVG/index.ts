@@ -1,0 +1,11 @@
+export { default as IcFluentMailReadMultiple_16Filled } from './IcFluentMailReadMultiple_16Filled';
+export { default as IcFluentMailReadMultiple_16Regular } from './IcFluentMailReadMultiple_16Regular';
+export { default as IcFluentMailReadMultiple_20Filled } from './IcFluentMailReadMultiple_20Filled';
+export { default as IcFluentMailReadMultiple_20Regular } from './IcFluentMailReadMultiple_20Regular';
+export { default as IcFluentMailReadMultiple_24Filled } from './IcFluentMailReadMultiple_24Filled';
+export { default as IcFluentMailReadMultiple_24Regular } from './IcFluentMailReadMultiple_24Regular';
+export { default as IcFluentMailReadMultiple_28Filled } from './IcFluentMailReadMultiple_28Filled';
+export { default as IcFluentMailReadMultiple_28Regular } from './IcFluentMailReadMultiple_28Regular';
+export { default as IcFluentMailReadMultiple_32Filled } from './IcFluentMailReadMultiple_32Filled';
+export { default as IcFluentMailReadMultiple_32Light } from './IcFluentMailReadMultiple_32Light';
+export { default as IcFluentMailReadMultiple_32Regular } from './IcFluentMailReadMultiple_32Regular';

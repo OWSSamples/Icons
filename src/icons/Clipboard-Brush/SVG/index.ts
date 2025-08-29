@@ -1,0 +1,10 @@
+export { default as IcFluentClipboardBrush_16Filled } from './IcFluentClipboardBrush_16Filled';
+export { default as IcFluentClipboardBrush_16Regular } from './IcFluentClipboardBrush_16Regular';
+export { default as IcFluentClipboardBrush_20Filled } from './IcFluentClipboardBrush_20Filled';
+export { default as IcFluentClipboardBrush_20Regular } from './IcFluentClipboardBrush_20Regular';
+export { default as IcFluentClipboardBrush_24Filled } from './IcFluentClipboardBrush_24Filled';
+export { default as IcFluentClipboardBrush_24Regular } from './IcFluentClipboardBrush_24Regular';
+export { default as IcFluentClipboardBrush_28Filled } from './IcFluentClipboardBrush_28Filled';
+export { default as IcFluentClipboardBrush_28Regular } from './IcFluentClipboardBrush_28Regular';
+export { default as IcFluentClipboardBrush_32Filled } from './IcFluentClipboardBrush_32Filled';
+export { default as IcFluentClipboardBrush_32Regular } from './IcFluentClipboardBrush_32Regular';

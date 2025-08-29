@@ -1,0 +1,12 @@
+export { default as IcFluentNotebook_16Color } from './IcFluentNotebook_16Color';
+export { default as IcFluentNotebook_16Filled } from './IcFluentNotebook_16Filled';
+export { default as IcFluentNotebook_16Regular } from './IcFluentNotebook_16Regular';
+export { default as IcFluentNotebook_20Color } from './IcFluentNotebook_20Color';
+export { default as IcFluentNotebook_20Filled } from './IcFluentNotebook_20Filled';
+export { default as IcFluentNotebook_20Regular } from './IcFluentNotebook_20Regular';
+export { default as IcFluentNotebook_24Color } from './IcFluentNotebook_24Color';
+export { default as IcFluentNotebook_24Filled } from './IcFluentNotebook_24Filled';
+export { default as IcFluentNotebook_24Regular } from './IcFluentNotebook_24Regular';
+export { default as IcFluentNotebook_32Color } from './IcFluentNotebook_32Color';
+export { default as IcFluentNotebook_32Filled } from './IcFluentNotebook_32Filled';
+export { default as IcFluentNotebook_32Regular } from './IcFluentNotebook_32Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentFlipHorizontal_16Filled } from './IcFluentFlipHorizontal_16Filled';
+export { default as IcFluentFlipHorizontal_16Regular } from './IcFluentFlipHorizontal_16Regular';
+export { default as IcFluentFlipHorizontal_20Filled } from './IcFluentFlipHorizontal_20Filled';
+export { default as IcFluentFlipHorizontal_20Regular } from './IcFluentFlipHorizontal_20Regular';
+export { default as IcFluentFlipHorizontal_24Filled } from './IcFluentFlipHorizontal_24Filled';
+export { default as IcFluentFlipHorizontal_24Regular } from './IcFluentFlipHorizontal_24Regular';
+export { default as IcFluentFlipHorizontal_28Filled } from './IcFluentFlipHorizontal_28Filled';
+export { default as IcFluentFlipHorizontal_28Regular } from './IcFluentFlipHorizontal_28Regular';
+export { default as IcFluentFlipHorizontal_32Filled } from './IcFluentFlipHorizontal_32Filled';
+export { default as IcFluentFlipHorizontal_32Regular } from './IcFluentFlipHorizontal_32Regular';
+export { default as IcFluentFlipHorizontal_48Filled } from './IcFluentFlipHorizontal_48Filled';
+export { default as IcFluentFlipHorizontal_48Regular } from './IcFluentFlipHorizontal_48Regular';

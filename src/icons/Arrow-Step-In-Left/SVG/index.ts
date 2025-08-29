@@ -1,0 +1,10 @@
+export { default as IcFluentArrowStepInLeft_12Filled } from './IcFluentArrowStepInLeft_12Filled';
+export { default as IcFluentArrowStepInLeft_12Regular } from './IcFluentArrowStepInLeft_12Regular';
+export { default as IcFluentArrowStepInLeft_16Filled } from './IcFluentArrowStepInLeft_16Filled';
+export { default as IcFluentArrowStepInLeft_16Regular } from './IcFluentArrowStepInLeft_16Regular';
+export { default as IcFluentArrowStepInLeft_20Filled } from './IcFluentArrowStepInLeft_20Filled';
+export { default as IcFluentArrowStepInLeft_20Regular } from './IcFluentArrowStepInLeft_20Regular';
+export { default as IcFluentArrowStepInLeft_24Filled } from './IcFluentArrowStepInLeft_24Filled';
+export { default as IcFluentArrowStepInLeft_24Regular } from './IcFluentArrowStepInLeft_24Regular';
+export { default as IcFluentArrowStepInLeft_28Filled } from './IcFluentArrowStepInLeft_28Filled';
+export { default as IcFluentArrowStepInLeft_28Regular } from './IcFluentArrowStepInLeft_28Regular';

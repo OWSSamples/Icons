@@ -1,0 +1,16 @@
+export { default as IcFluentDocumentSparkle_16Filled } from './IcFluentDocumentSparkle_16Filled';
+export { default as IcFluentDocumentSparkle_16Regular } from './IcFluentDocumentSparkle_16Regular';
+export { default as IcFluentDocumentSparkle_20Filled } from './IcFluentDocumentSparkle_20Filled';
+export { default as IcFluentDocumentSparkle_20Regular } from './IcFluentDocumentSparkle_20Regular';
+export { default as IcFluentDocumentSparkle_24Filled } from './IcFluentDocumentSparkle_24Filled';
+export { default as IcFluentDocumentSparkle_24Light } from './IcFluentDocumentSparkle_24Light';
+export { default as IcFluentDocumentSparkle_24Regular } from './IcFluentDocumentSparkle_24Regular';
+export { default as IcFluentDocumentSparkle_28Filled } from './IcFluentDocumentSparkle_28Filled';
+export { default as IcFluentDocumentSparkle_28Light } from './IcFluentDocumentSparkle_28Light';
+export { default as IcFluentDocumentSparkle_28Regular } from './IcFluentDocumentSparkle_28Regular';
+export { default as IcFluentDocumentSparkle_32Filled } from './IcFluentDocumentSparkle_32Filled';
+export { default as IcFluentDocumentSparkle_32Light } from './IcFluentDocumentSparkle_32Light';
+export { default as IcFluentDocumentSparkle_32Regular } from './IcFluentDocumentSparkle_32Regular';
+export { default as IcFluentDocumentSparkle_48Filled } from './IcFluentDocumentSparkle_48Filled';
+export { default as IcFluentDocumentSparkle_48Light } from './IcFluentDocumentSparkle_48Light';
+export { default as IcFluentDocumentSparkle_48Regular } from './IcFluentDocumentSparkle_48Regular';

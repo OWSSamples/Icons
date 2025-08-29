@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentLayoutRowTwo_48Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M12.25 6A6.25 6.25 0 0 0 6 12.25v10.5h36v-10.5A6.25 6.25 0 0 0 35.75 6zM42 25.25H6v10.5A6.25 6.25 0 0 0 12.25 42h23.5A6.25 6.25 0 0 0 42 35.75z"/>
+  </IconBase>
+);
+
+export default IcFluentLayoutRowTwo_48Filled;

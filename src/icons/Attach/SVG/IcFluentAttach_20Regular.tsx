@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentAttach_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="m4.828 10.485 5.657-5.657a3 3 0 0 1 4.243 4.243L8.01 15.788a1.5 1.5 0 0 1-2.121-2.121l6.01-6.01a.5.5 0 1 0-.707-.708l-6.01 6.01a2.5 2.5 0 0 0 3.535 3.536l6.718-6.717A4 4 0 1 0 9.778 4.12L4.12 9.778a.5.5 0 0 0 .707.707"/>
+  </IconBase>
+);
+
+export default IcFluentAttach_20Regular;

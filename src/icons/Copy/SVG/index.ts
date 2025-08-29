@@ -1,0 +1,11 @@
+export { default as IcFluentCopy_16Filled } from './IcFluentCopy_16Filled';
+export { default as IcFluentCopy_16Regular } from './IcFluentCopy_16Regular';
+export { default as IcFluentCopy_20Filled } from './IcFluentCopy_20Filled';
+export { default as IcFluentCopy_20Regular } from './IcFluentCopy_20Regular';
+export { default as IcFluentCopy_24Filled } from './IcFluentCopy_24Filled';
+export { default as IcFluentCopy_24Regular } from './IcFluentCopy_24Regular';
+export { default as IcFluentCopy_28Filled } from './IcFluentCopy_28Filled';
+export { default as IcFluentCopy_28Regular } from './IcFluentCopy_28Regular';
+export { default as IcFluentCopy_32Filled } from './IcFluentCopy_32Filled';
+export { default as IcFluentCopy_32Light } from './IcFluentCopy_32Light';
+export { default as IcFluentCopy_32Regular } from './IcFluentCopy_32Regular';

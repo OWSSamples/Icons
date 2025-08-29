@@ -1,0 +1,12 @@
+export { default as IcFluentTablet_12Filled } from './IcFluentTablet_12Filled';
+export { default as IcFluentTablet_12Regular } from './IcFluentTablet_12Regular';
+export { default as IcFluentTablet_16Filled } from './IcFluentTablet_16Filled';
+export { default as IcFluentTablet_16Regular } from './IcFluentTablet_16Regular';
+export { default as IcFluentTablet_20Filled } from './IcFluentTablet_20Filled';
+export { default as IcFluentTablet_20Regular } from './IcFluentTablet_20Regular';
+export { default as IcFluentTablet_24Filled } from './IcFluentTablet_24Filled';
+export { default as IcFluentTablet_24Regular } from './IcFluentTablet_24Regular';
+export { default as IcFluentTablet_32Filled } from './IcFluentTablet_32Filled';
+export { default as IcFluentTablet_32Regular } from './IcFluentTablet_32Regular';
+export { default as IcFluentTablet_48Filled } from './IcFluentTablet_48Filled';
+export { default as IcFluentTablet_48Regular } from './IcFluentTablet_48Regular';

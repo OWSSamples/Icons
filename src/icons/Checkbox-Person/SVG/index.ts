@@ -1,0 +1,9 @@
+export { default as IcFluentCheckboxPerson_16Color } from './IcFluentCheckboxPerson_16Color';
+export { default as IcFluentCheckboxPerson_16Filled } from './IcFluentCheckboxPerson_16Filled';
+export { default as IcFluentCheckboxPerson_16Regular } from './IcFluentCheckboxPerson_16Regular';
+export { default as IcFluentCheckboxPerson_20Color } from './IcFluentCheckboxPerson_20Color';
+export { default as IcFluentCheckboxPerson_20Filled } from './IcFluentCheckboxPerson_20Filled';
+export { default as IcFluentCheckboxPerson_20Regular } from './IcFluentCheckboxPerson_20Regular';
+export { default as IcFluentCheckboxPerson_24Color } from './IcFluentCheckboxPerson_24Color';
+export { default as IcFluentCheckboxPerson_24Filled } from './IcFluentCheckboxPerson_24Filled';
+export { default as IcFluentCheckboxPerson_24Regular } from './IcFluentCheckboxPerson_24Regular';

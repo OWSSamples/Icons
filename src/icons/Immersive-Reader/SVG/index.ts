@@ -1,0 +1,13 @@
+export { default as IcFluentImmersiveReader_16Filled } from './IcFluentImmersiveReader_16Filled';
+export { default as IcFluentImmersiveReader_16Regular } from './IcFluentImmersiveReader_16Regular';
+export { default as IcFluentImmersiveReader_20Filled } from './IcFluentImmersiveReader_20Filled';
+export { default as IcFluentImmersiveReader_20Regular } from './IcFluentImmersiveReader_20Regular';
+export { default as IcFluentImmersiveReader_24Filled } from './IcFluentImmersiveReader_24Filled';
+export { default as IcFluentImmersiveReader_24Regular } from './IcFluentImmersiveReader_24Regular';
+export { default as IcFluentImmersiveReader_28Filled } from './IcFluentImmersiveReader_28Filled';
+export { default as IcFluentImmersiveReader_28Regular } from './IcFluentImmersiveReader_28Regular';
+export { default as IcFluentImmersiveReader_32Filled } from './IcFluentImmersiveReader_32Filled';
+export { default as IcFluentImmersiveReader_32Light } from './IcFluentImmersiveReader_32Light';
+export { default as IcFluentImmersiveReader_32Regular } from './IcFluentImmersiveReader_32Regular';
+export { default as IcFluentImmersiveReader_48Filled } from './IcFluentImmersiveReader_48Filled';
+export { default as IcFluentImmersiveReader_48Regular } from './IcFluentImmersiveReader_48Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentClipboardNumber_123_16Filled } from './IcFluentClipboardNumber_123_16Filled';
+export { default as IcFluentClipboardNumber_123_16Regular } from './IcFluentClipboardNumber_123_16Regular';
+export { default as IcFluentClipboardNumber_123_20Filled } from './IcFluentClipboardNumber_123_20Filled';
+export { default as IcFluentClipboardNumber_123_20Regular } from './IcFluentClipboardNumber_123_20Regular';
+export { default as IcFluentClipboardNumber_123_24Filled } from './IcFluentClipboardNumber_123_24Filled';
+export { default as IcFluentClipboardNumber_123_24Regular } from './IcFluentClipboardNumber_123_24Regular';
+export { default as IcFluentClipboardNumber_123_28Filled } from './IcFluentClipboardNumber_123_28Filled';
+export { default as IcFluentClipboardNumber_123_28Regular } from './IcFluentClipboardNumber_123_28Regular';
+export { default as IcFluentClipboardNumber_123_32Filled } from './IcFluentClipboardNumber_123_32Filled';
+export { default as IcFluentClipboardNumber_123_32Regular } from './IcFluentClipboardNumber_123_32Regular';

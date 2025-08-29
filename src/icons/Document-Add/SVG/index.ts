@@ -1,0 +1,15 @@
+export { default as IcFluentDocumentAdd_16Color } from './IcFluentDocumentAdd_16Color';
+export { default as IcFluentDocumentAdd_16Filled } from './IcFluentDocumentAdd_16Filled';
+export { default as IcFluentDocumentAdd_16Regular } from './IcFluentDocumentAdd_16Regular';
+export { default as IcFluentDocumentAdd_20Color } from './IcFluentDocumentAdd_20Color';
+export { default as IcFluentDocumentAdd_20Filled } from './IcFluentDocumentAdd_20Filled';
+export { default as IcFluentDocumentAdd_20Regular } from './IcFluentDocumentAdd_20Regular';
+export { default as IcFluentDocumentAdd_24Color } from './IcFluentDocumentAdd_24Color';
+export { default as IcFluentDocumentAdd_24Filled } from './IcFluentDocumentAdd_24Filled';
+export { default as IcFluentDocumentAdd_24Regular } from './IcFluentDocumentAdd_24Regular';
+export { default as IcFluentDocumentAdd_28Color } from './IcFluentDocumentAdd_28Color';
+export { default as IcFluentDocumentAdd_28Filled } from './IcFluentDocumentAdd_28Filled';
+export { default as IcFluentDocumentAdd_28Regular } from './IcFluentDocumentAdd_28Regular';
+export { default as IcFluentDocumentAdd_48Color } from './IcFluentDocumentAdd_48Color';
+export { default as IcFluentDocumentAdd_48Filled } from './IcFluentDocumentAdd_48Filled';
+export { default as IcFluentDocumentAdd_48Regular } from './IcFluentDocumentAdd_48Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentChannelSubtract_16Filled } from './IcFluentChannelSubtract_16Filled';
+export { default as IcFluentChannelSubtract_16Regular } from './IcFluentChannelSubtract_16Regular';
+export { default as IcFluentChannelSubtract_20Filled } from './IcFluentChannelSubtract_20Filled';
+export { default as IcFluentChannelSubtract_20Regular } from './IcFluentChannelSubtract_20Regular';
+export { default as IcFluentChannelSubtract_24Filled } from './IcFluentChannelSubtract_24Filled';
+export { default as IcFluentChannelSubtract_24Regular } from './IcFluentChannelSubtract_24Regular';
+export { default as IcFluentChannelSubtract_28Filled } from './IcFluentChannelSubtract_28Filled';
+export { default as IcFluentChannelSubtract_28Regular } from './IcFluentChannelSubtract_28Regular';
+export { default as IcFluentChannelSubtract_48Filled } from './IcFluentChannelSubtract_48Filled';
+export { default as IcFluentChannelSubtract_48Regular } from './IcFluentChannelSubtract_48Regular';

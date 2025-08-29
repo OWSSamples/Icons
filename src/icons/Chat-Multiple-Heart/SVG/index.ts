@@ -1,0 +1,10 @@
+export { default as IcFluentChatMultipleHeart_16Filled } from './IcFluentChatMultipleHeart_16Filled';
+export { default as IcFluentChatMultipleHeart_16Regular } from './IcFluentChatMultipleHeart_16Regular';
+export { default as IcFluentChatMultipleHeart_20Filled } from './IcFluentChatMultipleHeart_20Filled';
+export { default as IcFluentChatMultipleHeart_20Regular } from './IcFluentChatMultipleHeart_20Regular';
+export { default as IcFluentChatMultipleHeart_24Filled } from './IcFluentChatMultipleHeart_24Filled';
+export { default as IcFluentChatMultipleHeart_24Regular } from './IcFluentChatMultipleHeart_24Regular';
+export { default as IcFluentChatMultipleHeart_28Filled } from './IcFluentChatMultipleHeart_28Filled';
+export { default as IcFluentChatMultipleHeart_28Regular } from './IcFluentChatMultipleHeart_28Regular';
+export { default as IcFluentChatMultipleHeart_32Filled } from './IcFluentChatMultipleHeart_32Filled';
+export { default as IcFluentChatMultipleHeart_32Regular } from './IcFluentChatMultipleHeart_32Regular';

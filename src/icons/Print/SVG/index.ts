@@ -1,0 +1,13 @@
+export { default as IcFluentPrint_16Filled } from './IcFluentPrint_16Filled';
+export { default as IcFluentPrint_16Regular } from './IcFluentPrint_16Regular';
+export { default as IcFluentPrint_20Filled } from './IcFluentPrint_20Filled';
+export { default as IcFluentPrint_20Regular } from './IcFluentPrint_20Regular';
+export { default as IcFluentPrint_24Filled } from './IcFluentPrint_24Filled';
+export { default as IcFluentPrint_24Regular } from './IcFluentPrint_24Regular';
+export { default as IcFluentPrint_28Filled } from './IcFluentPrint_28Filled';
+export { default as IcFluentPrint_28Regular } from './IcFluentPrint_28Regular';
+export { default as IcFluentPrint_32Filled } from './IcFluentPrint_32Filled';
+export { default as IcFluentPrint_32Light } from './IcFluentPrint_32Light';
+export { default as IcFluentPrint_32Regular } from './IcFluentPrint_32Regular';
+export { default as IcFluentPrint_48Filled } from './IcFluentPrint_48Filled';
+export { default as IcFluentPrint_48Regular } from './IcFluentPrint_48Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentSlideSearch_16Filled } from './IcFluentSlideSearch_16Filled';
+export { default as IcFluentSlideSearch_16Regular } from './IcFluentSlideSearch_16Regular';
+export { default as IcFluentSlideSearch_20Filled } from './IcFluentSlideSearch_20Filled';
+export { default as IcFluentSlideSearch_20Regular } from './IcFluentSlideSearch_20Regular';
+export { default as IcFluentSlideSearch_24Filled } from './IcFluentSlideSearch_24Filled';
+export { default as IcFluentSlideSearch_24Regular } from './IcFluentSlideSearch_24Regular';
+export { default as IcFluentSlideSearch_28Filled } from './IcFluentSlideSearch_28Filled';
+export { default as IcFluentSlideSearch_28Regular } from './IcFluentSlideSearch_28Regular';
+export { default as IcFluentSlideSearch_32Filled } from './IcFluentSlideSearch_32Filled';
+export { default as IcFluentSlideSearch_32Regular } from './IcFluentSlideSearch_32Regular';

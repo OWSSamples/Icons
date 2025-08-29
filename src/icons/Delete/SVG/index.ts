@@ -1,0 +1,15 @@
+export { default as IcFluentDelete_12Filled } from './IcFluentDelete_12Filled';
+export { default as IcFluentDelete_12Regular } from './IcFluentDelete_12Regular';
+export { default as IcFluentDelete_16Filled } from './IcFluentDelete_16Filled';
+export { default as IcFluentDelete_16Regular } from './IcFluentDelete_16Regular';
+export { default as IcFluentDelete_20Filled } from './IcFluentDelete_20Filled';
+export { default as IcFluentDelete_20Regular } from './IcFluentDelete_20Regular';
+export { default as IcFluentDelete_24Filled } from './IcFluentDelete_24Filled';
+export { default as IcFluentDelete_24Regular } from './IcFluentDelete_24Regular';
+export { default as IcFluentDelete_28Filled } from './IcFluentDelete_28Filled';
+export { default as IcFluentDelete_28Regular } from './IcFluentDelete_28Regular';
+export { default as IcFluentDelete_32Filled } from './IcFluentDelete_32Filled';
+export { default as IcFluentDelete_32Light } from './IcFluentDelete_32Light';
+export { default as IcFluentDelete_32Regular } from './IcFluentDelete_32Regular';
+export { default as IcFluentDelete_48Filled } from './IcFluentDelete_48Filled';
+export { default as IcFluentDelete_48Regular } from './IcFluentDelete_48Regular';

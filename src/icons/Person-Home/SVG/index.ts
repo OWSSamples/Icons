@@ -1,0 +1,12 @@
+export { default as IcFluentPersonHome_16Filled } from './IcFluentPersonHome_16Filled';
+export { default as IcFluentPersonHome_16Regular } from './IcFluentPersonHome_16Regular';
+export { default as IcFluentPersonHome_20Filled } from './IcFluentPersonHome_20Filled';
+export { default as IcFluentPersonHome_20Regular } from './IcFluentPersonHome_20Regular';
+export { default as IcFluentPersonHome_24Filled } from './IcFluentPersonHome_24Filled';
+export { default as IcFluentPersonHome_24Regular } from './IcFluentPersonHome_24Regular';
+export { default as IcFluentPersonHome_28Filled } from './IcFluentPersonHome_28Filled';
+export { default as IcFluentPersonHome_28Regular } from './IcFluentPersonHome_28Regular';
+export { default as IcFluentPersonHome_32Filled } from './IcFluentPersonHome_32Filled';
+export { default as IcFluentPersonHome_32Regular } from './IcFluentPersonHome_32Regular';
+export { default as IcFluentPersonHome_48Filled } from './IcFluentPersonHome_48Filled';
+export { default as IcFluentPersonHome_48Regular } from './IcFluentPersonHome_48Regular';

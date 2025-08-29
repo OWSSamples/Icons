@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentLayoutColumnFour_16Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M8.5 14H11V2H8.5zm-1-12H5v12h2.5zm6.5 9.5a2.5 2.5 0 0 1-2 2.45V2.05a2.5 2.5 0 0 1 2 2.45zM4 2.05A2.5 2.5 0 0 0 2 4.5v7a2.5 2.5 0 0 0 2 2.45z"/>
+  </IconBase>
+);
+
+export default IcFluentLayoutColumnFour_16Filled;

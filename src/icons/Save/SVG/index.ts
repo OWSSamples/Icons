@@ -1,0 +1,11 @@
+export { default as IcFluentSave_16Filled } from './IcFluentSave_16Filled';
+export { default as IcFluentSave_16Regular } from './IcFluentSave_16Regular';
+export { default as IcFluentSave_20Filled } from './IcFluentSave_20Filled';
+export { default as IcFluentSave_20Regular } from './IcFluentSave_20Regular';
+export { default as IcFluentSave_24Filled } from './IcFluentSave_24Filled';
+export { default as IcFluentSave_24Regular } from './IcFluentSave_24Regular';
+export { default as IcFluentSave_28Filled } from './IcFluentSave_28Filled';
+export { default as IcFluentSave_28Regular } from './IcFluentSave_28Regular';
+export { default as IcFluentSave_32Filled } from './IcFluentSave_32Filled';
+export { default as IcFluentSave_32Light } from './IcFluentSave_32Light';
+export { default as IcFluentSave_32Regular } from './IcFluentSave_32Regular';

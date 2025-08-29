@@ -1,0 +1,9 @@
+export { default as IcFluentStarSettings_20Color } from './IcFluentStarSettings_20Color';
+export { default as IcFluentStarSettings_20Filled } from './IcFluentStarSettings_20Filled';
+export { default as IcFluentStarSettings_20Regular } from './IcFluentStarSettings_20Regular';
+export { default as IcFluentStarSettings_24Color } from './IcFluentStarSettings_24Color';
+export { default as IcFluentStarSettings_24Filled } from './IcFluentStarSettings_24Filled';
+export { default as IcFluentStarSettings_24Regular } from './IcFluentStarSettings_24Regular';
+export { default as IcFluentStarSettings_32Color } from './IcFluentStarSettings_32Color';
+export { default as IcFluentStarSettings_32Filled } from './IcFluentStarSettings_32Filled';
+export { default as IcFluentStarSettings_32Regular } from './IcFluentStarSettings_32Regular';

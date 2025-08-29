@@ -1,0 +1,13 @@
+export { default as IcFluentArrowDownload_16Filled } from './IcFluentArrowDownload_16Filled';
+export { default as IcFluentArrowDownload_16Regular } from './IcFluentArrowDownload_16Regular';
+export { default as IcFluentArrowDownload_20Filled } from './IcFluentArrowDownload_20Filled';
+export { default as IcFluentArrowDownload_20Regular } from './IcFluentArrowDownload_20Regular';
+export { default as IcFluentArrowDownload_24Filled } from './IcFluentArrowDownload_24Filled';
+export { default as IcFluentArrowDownload_24Regular } from './IcFluentArrowDownload_24Regular';
+export { default as IcFluentArrowDownload_28Filled } from './IcFluentArrowDownload_28Filled';
+export { default as IcFluentArrowDownload_28Regular } from './IcFluentArrowDownload_28Regular';
+export { default as IcFluentArrowDownload_32Filled } from './IcFluentArrowDownload_32Filled';
+export { default as IcFluentArrowDownload_32Light } from './IcFluentArrowDownload_32Light';
+export { default as IcFluentArrowDownload_32Regular } from './IcFluentArrowDownload_32Regular';
+export { default as IcFluentArrowDownload_48Filled } from './IcFluentArrowDownload_48Filled';
+export { default as IcFluentArrowDownload_48Regular } from './IcFluentArrowDownload_48Regular';

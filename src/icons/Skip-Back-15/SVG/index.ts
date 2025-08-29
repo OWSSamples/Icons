@@ -1,0 +1,10 @@
+export { default as IcFluentSkipBack_15_20Filled } from './IcFluentSkipBack_15_20Filled';
+export { default as IcFluentSkipBack_15_20Regular } from './IcFluentSkipBack_15_20Regular';
+export { default as IcFluentSkipBack_15_24Filled } from './IcFluentSkipBack_15_24Filled';
+export { default as IcFluentSkipBack_15_24Regular } from './IcFluentSkipBack_15_24Regular';
+export { default as IcFluentSkipBack_15_28Filled } from './IcFluentSkipBack_15_28Filled';
+export { default as IcFluentSkipBack_15_28Regular } from './IcFluentSkipBack_15_28Regular';
+export { default as IcFluentSkipBack_15_32Filled } from './IcFluentSkipBack_15_32Filled';
+export { default as IcFluentSkipBack_15_32Regular } from './IcFluentSkipBack_15_32Regular';
+export { default as IcFluentSkipBack_15_48Filled } from './IcFluentSkipBack_15_48Filled';
+export { default as IcFluentSkipBack_15_48Regular } from './IcFluentSkipBack_15_48Regular';

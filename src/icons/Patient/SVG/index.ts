@@ -1,0 +1,9 @@
+export { default as IcFluentPatient_20Color } from './IcFluentPatient_20Color';
+export { default as IcFluentPatient_20Filled } from './IcFluentPatient_20Filled';
+export { default as IcFluentPatient_20Regular } from './IcFluentPatient_20Regular';
+export { default as IcFluentPatient_24Color } from './IcFluentPatient_24Color';
+export { default as IcFluentPatient_24Filled } from './IcFluentPatient_24Filled';
+export { default as IcFluentPatient_24Regular } from './IcFluentPatient_24Regular';
+export { default as IcFluentPatient_32Color } from './IcFluentPatient_32Color';
+export { default as IcFluentPatient_32Filled } from './IcFluentPatient_32Filled';
+export { default as IcFluentPatient_32Regular } from './IcFluentPatient_32Regular';

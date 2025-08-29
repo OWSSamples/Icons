@@ -1,0 +1,12 @@
+export { default as IcFluentSpatulaSpoon_16Filled } from './IcFluentSpatulaSpoon_16Filled';
+export { default as IcFluentSpatulaSpoon_16Regular } from './IcFluentSpatulaSpoon_16Regular';
+export { default as IcFluentSpatulaSpoon_20Filled } from './IcFluentSpatulaSpoon_20Filled';
+export { default as IcFluentSpatulaSpoon_20Regular } from './IcFluentSpatulaSpoon_20Regular';
+export { default as IcFluentSpatulaSpoon_24Filled } from './IcFluentSpatulaSpoon_24Filled';
+export { default as IcFluentSpatulaSpoon_24Regular } from './IcFluentSpatulaSpoon_24Regular';
+export { default as IcFluentSpatulaSpoon_28Filled } from './IcFluentSpatulaSpoon_28Filled';
+export { default as IcFluentSpatulaSpoon_28Regular } from './IcFluentSpatulaSpoon_28Regular';
+export { default as IcFluentSpatulaSpoon_32Filled } from './IcFluentSpatulaSpoon_32Filled';
+export { default as IcFluentSpatulaSpoon_32Regular } from './IcFluentSpatulaSpoon_32Regular';
+export { default as IcFluentSpatulaSpoon_48Filled } from './IcFluentSpatulaSpoon_48Filled';
+export { default as IcFluentSpatulaSpoon_48Regular } from './IcFluentSpatulaSpoon_48Regular';

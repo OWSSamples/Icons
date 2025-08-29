@@ -1,0 +1,13 @@
+export { default as IcFluentCalendarEmpty_16Filled } from './IcFluentCalendarEmpty_16Filled';
+export { default as IcFluentCalendarEmpty_16Regular } from './IcFluentCalendarEmpty_16Regular';
+export { default as IcFluentCalendarEmpty_20Filled } from './IcFluentCalendarEmpty_20Filled';
+export { default as IcFluentCalendarEmpty_20Regular } from './IcFluentCalendarEmpty_20Regular';
+export { default as IcFluentCalendarEmpty_24Filled } from './IcFluentCalendarEmpty_24Filled';
+export { default as IcFluentCalendarEmpty_24Regular } from './IcFluentCalendarEmpty_24Regular';
+export { default as IcFluentCalendarEmpty_28Filled } from './IcFluentCalendarEmpty_28Filled';
+export { default as IcFluentCalendarEmpty_28Regular } from './IcFluentCalendarEmpty_28Regular';
+export { default as IcFluentCalendarEmpty_32Filled } from './IcFluentCalendarEmpty_32Filled';
+export { default as IcFluentCalendarEmpty_32Light } from './IcFluentCalendarEmpty_32Light';
+export { default as IcFluentCalendarEmpty_32Regular } from './IcFluentCalendarEmpty_32Regular';
+export { default as IcFluentCalendarEmpty_48Filled } from './IcFluentCalendarEmpty_48Filled';
+export { default as IcFluentCalendarEmpty_48Regular } from './IcFluentCalendarEmpty_48Regular';

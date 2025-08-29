@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentCut_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M5.92 2.228a.5.5 0 0 0-.84.544L9.405 9.43 7.48 12.39a3 3 0 1 0 .779.636L10 10.348l1.74 2.68a3 3 0 1 0 .779-.636zM14 17a2 2 0 1 1 0-4 2 2 0 0 1 0 4M4 15a2 2 0 1 1 4 0 2 2 0 0 1-4 0m7.192-6.489-.596-.918 3.485-5.365a.5.5 0 0 1 .838.544z"/>
+  </IconBase>
+);
+
+export default IcFluentCut_20Regular;

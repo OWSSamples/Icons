@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentOptions_32Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M20.5 6.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5M3 10h13.112a4.502 4.502 0 0 0 8.777 0H29a1 1 0 1 0 0-2h-4.111a4.502 4.502 0 0 0-8.777 0H3a1 1 0 0 0 0 2m8.5 10.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5M29 24H15.889a4.502 4.502 0 0 1-8.777 0H3a1 1 0 1 1 0-2h4.112a4.502 4.502 0 0 1 8.777 0H29a1 1 0 1 1 0 2"/>
+  </IconBase>
+);
+
+export default IcFluentOptions_32Regular;

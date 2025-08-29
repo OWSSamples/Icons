@@ -1,0 +1,12 @@
+export { default as IcFluentTableSimpleInclude_16Filled } from './IcFluentTableSimpleInclude_16Filled';
+export { default as IcFluentTableSimpleInclude_16Regular } from './IcFluentTableSimpleInclude_16Regular';
+export { default as IcFluentTableSimpleInclude_20Filled } from './IcFluentTableSimpleInclude_20Filled';
+export { default as IcFluentTableSimpleInclude_20Regular } from './IcFluentTableSimpleInclude_20Regular';
+export { default as IcFluentTableSimpleInclude_24Filled } from './IcFluentTableSimpleInclude_24Filled';
+export { default as IcFluentTableSimpleInclude_24Regular } from './IcFluentTableSimpleInclude_24Regular';
+export { default as IcFluentTableSimpleInclude_28Filled } from './IcFluentTableSimpleInclude_28Filled';
+export { default as IcFluentTableSimpleInclude_28Regular } from './IcFluentTableSimpleInclude_28Regular';
+export { default as IcFluentTableSimpleInclude_32Filled } from './IcFluentTableSimpleInclude_32Filled';
+export { default as IcFluentTableSimpleInclude_32Regular } from './IcFluentTableSimpleInclude_32Regular';
+export { default as IcFluentTableSimpleInclude_48Filled } from './IcFluentTableSimpleInclude_48Filled';
+export { default as IcFluentTableSimpleInclude_48Regular } from './IcFluentTableSimpleInclude_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentLightbulbPerson_16Filled } from './IcFluentLightbulbPerson_16Filled';
+export { default as IcFluentLightbulbPerson_16Regular } from './IcFluentLightbulbPerson_16Regular';
+export { default as IcFluentLightbulbPerson_20Filled } from './IcFluentLightbulbPerson_20Filled';
+export { default as IcFluentLightbulbPerson_20Regular } from './IcFluentLightbulbPerson_20Regular';
+export { default as IcFluentLightbulbPerson_24Filled } from './IcFluentLightbulbPerson_24Filled';
+export { default as IcFluentLightbulbPerson_24Regular } from './IcFluentLightbulbPerson_24Regular';
+export { default as IcFluentLightbulbPerson_28Filled } from './IcFluentLightbulbPerson_28Filled';
+export { default as IcFluentLightbulbPerson_28Regular } from './IcFluentLightbulbPerson_28Regular';
+export { default as IcFluentLightbulbPerson_32Filled } from './IcFluentLightbulbPerson_32Filled';
+export { default as IcFluentLightbulbPerson_32Regular } from './IcFluentLightbulbPerson_32Regular';
+export { default as IcFluentLightbulbPerson_48Filled } from './IcFluentLightbulbPerson_48Filled';
+export { default as IcFluentLightbulbPerson_48Regular } from './IcFluentLightbulbPerson_48Regular';

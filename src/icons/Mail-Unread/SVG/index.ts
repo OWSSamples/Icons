@@ -1,0 +1,15 @@
+export { default as IcFluentMailUnread_12Filled } from './IcFluentMailUnread_12Filled';
+export { default as IcFluentMailUnread_12Regular } from './IcFluentMailUnread_12Regular';
+export { default as IcFluentMailUnread_16Filled } from './IcFluentMailUnread_16Filled';
+export { default as IcFluentMailUnread_16Regular } from './IcFluentMailUnread_16Regular';
+export { default as IcFluentMailUnread_20Filled } from './IcFluentMailUnread_20Filled';
+export { default as IcFluentMailUnread_20Regular } from './IcFluentMailUnread_20Regular';
+export { default as IcFluentMailUnread_24Filled } from './IcFluentMailUnread_24Filled';
+export { default as IcFluentMailUnread_24Regular } from './IcFluentMailUnread_24Regular';
+export { default as IcFluentMailUnread_28Filled } from './IcFluentMailUnread_28Filled';
+export { default as IcFluentMailUnread_28Regular } from './IcFluentMailUnread_28Regular';
+export { default as IcFluentMailUnread_32Filled } from './IcFluentMailUnread_32Filled';
+export { default as IcFluentMailUnread_32Light } from './IcFluentMailUnread_32Light';
+export { default as IcFluentMailUnread_32Regular } from './IcFluentMailUnread_32Regular';
+export { default as IcFluentMailUnread_48Filled } from './IcFluentMailUnread_48Filled';
+export { default as IcFluentMailUnread_48Regular } from './IcFluentMailUnread_48Regular';

@@ -1,0 +1,9 @@
+export { default as IcFluentClassification_16Filled } from './IcFluentClassification_16Filled';
+export { default as IcFluentClassification_16Regular } from './IcFluentClassification_16Regular';
+export { default as IcFluentClassification_20Filled } from './IcFluentClassification_20Filled';
+export { default as IcFluentClassification_20Regular } from './IcFluentClassification_20Regular';
+export { default as IcFluentClassification_24Filled } from './IcFluentClassification_24Filled';
+export { default as IcFluentClassification_24Regular } from './IcFluentClassification_24Regular';
+export { default as IcFluentClassification_32Filled } from './IcFluentClassification_32Filled';
+export { default as IcFluentClassification_32Light } from './IcFluentClassification_32Light';
+export { default as IcFluentClassification_32Regular } from './IcFluentClassification_32Regular';

@@ -1,0 +1,14 @@
+export { default as IcFluentOrganization_12Filled } from './IcFluentOrganization_12Filled';
+export { default as IcFluentOrganization_12Regular } from './IcFluentOrganization_12Regular';
+export { default as IcFluentOrganization_16Filled } from './IcFluentOrganization_16Filled';
+export { default as IcFluentOrganization_16Regular } from './IcFluentOrganization_16Regular';
+export { default as IcFluentOrganization_20Filled } from './IcFluentOrganization_20Filled';
+export { default as IcFluentOrganization_20Regular } from './IcFluentOrganization_20Regular';
+export { default as IcFluentOrganization_24Filled } from './IcFluentOrganization_24Filled';
+export { default as IcFluentOrganization_24Regular } from './IcFluentOrganization_24Regular';
+export { default as IcFluentOrganization_28Filled } from './IcFluentOrganization_28Filled';
+export { default as IcFluentOrganization_28Regular } from './IcFluentOrganization_28Regular';
+export { default as IcFluentOrganization_32Filled } from './IcFluentOrganization_32Filled';
+export { default as IcFluentOrganization_32Regular } from './IcFluentOrganization_32Regular';
+export { default as IcFluentOrganization_48Filled } from './IcFluentOrganization_48Filled';
+export { default as IcFluentOrganization_48Regular } from './IcFluentOrganization_48Regular';

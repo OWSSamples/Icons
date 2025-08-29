@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentSubtractParentheses_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M5.765 5.069a.75.75 0 1 0-.978-1.138A7.98 7.98 0 0 0 2 10a7.98 7.98 0 0 0 2.787 6.069.75.75 0 1 0 .978-1.138A6.48 6.48 0 0 1 3.5 10c0-1.972.877-3.738 2.265-4.931m9.448-1.138a.75.75 0 1 0-.978 1.138A6.48 6.48 0 0 1 16.5 10a6.48 6.48 0 0 1-2.265 4.931.75.75 0 1 0 .978 1.138A7.98 7.98 0 0 0 18 10a7.98 7.98 0 0 0-2.787-6.069M6.75 9.25a.75.75 0 0 0 0 1.5h6.5a.75.75 0 0 0 0-1.5z"/>
+  </IconBase>
+);
+
+export default IcFluentSubtractParentheses_20Filled;

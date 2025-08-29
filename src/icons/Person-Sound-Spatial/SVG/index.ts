@@ -1,0 +1,12 @@
+export { default as IcFluentPersonSoundSpatial_16Filled } from './IcFluentPersonSoundSpatial_16Filled';
+export { default as IcFluentPersonSoundSpatial_16Regular } from './IcFluentPersonSoundSpatial_16Regular';
+export { default as IcFluentPersonSoundSpatial_20Filled } from './IcFluentPersonSoundSpatial_20Filled';
+export { default as IcFluentPersonSoundSpatial_20Regular } from './IcFluentPersonSoundSpatial_20Regular';
+export { default as IcFluentPersonSoundSpatial_24Filled } from './IcFluentPersonSoundSpatial_24Filled';
+export { default as IcFluentPersonSoundSpatial_24Regular } from './IcFluentPersonSoundSpatial_24Regular';
+export { default as IcFluentPersonSoundSpatial_28Filled } from './IcFluentPersonSoundSpatial_28Filled';
+export { default as IcFluentPersonSoundSpatial_28Regular } from './IcFluentPersonSoundSpatial_28Regular';
+export { default as IcFluentPersonSoundSpatial_32Filled } from './IcFluentPersonSoundSpatial_32Filled';
+export { default as IcFluentPersonSoundSpatial_32Regular } from './IcFluentPersonSoundSpatial_32Regular';
+export { default as IcFluentPersonSoundSpatial_48Filled } from './IcFluentPersonSoundSpatial_48Filled';
+export { default as IcFluentPersonSoundSpatial_48Regular } from './IcFluentPersonSoundSpatial_48Regular';

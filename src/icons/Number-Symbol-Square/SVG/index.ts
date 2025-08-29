@@ -1,0 +1,9 @@
+export { default as IcFluentNumberSymbolSquare_20Color } from './IcFluentNumberSymbolSquare_20Color';
+export { default as IcFluentNumberSymbolSquare_20Filled } from './IcFluentNumberSymbolSquare_20Filled';
+export { default as IcFluentNumberSymbolSquare_20Regular } from './IcFluentNumberSymbolSquare_20Regular';
+export { default as IcFluentNumberSymbolSquare_24Color } from './IcFluentNumberSymbolSquare_24Color';
+export { default as IcFluentNumberSymbolSquare_24Filled } from './IcFluentNumberSymbolSquare_24Filled';
+export { default as IcFluentNumberSymbolSquare_24Regular } from './IcFluentNumberSymbolSquare_24Regular';
+export { default as IcFluentNumberSymbolSquare_32Color } from './IcFluentNumberSymbolSquare_32Color';
+export { default as IcFluentNumberSymbolSquare_32Filled } from './IcFluentNumberSymbolSquare_32Filled';
+export { default as IcFluentNumberSymbolSquare_32Regular } from './IcFluentNumberSymbolSquare_32Regular';

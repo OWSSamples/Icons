@@ -1,0 +1,12 @@
+export { default as IcFluentTextPercent_16Filled } from './IcFluentTextPercent_16Filled';
+export { default as IcFluentTextPercent_16Regular } from './IcFluentTextPercent_16Regular';
+export { default as IcFluentTextPercent_20Filled } from './IcFluentTextPercent_20Filled';
+export { default as IcFluentTextPercent_20Regular } from './IcFluentTextPercent_20Regular';
+export { default as IcFluentTextPercent_24Filled } from './IcFluentTextPercent_24Filled';
+export { default as IcFluentTextPercent_24Regular } from './IcFluentTextPercent_24Regular';
+export { default as IcFluentTextPercent_28Filled } from './IcFluentTextPercent_28Filled';
+export { default as IcFluentTextPercent_28Regular } from './IcFluentTextPercent_28Regular';
+export { default as IcFluentTextPercent_32Filled } from './IcFluentTextPercent_32Filled';
+export { default as IcFluentTextPercent_32Regular } from './IcFluentTextPercent_32Regular';
+export { default as IcFluentTextPercent_48Filled } from './IcFluentTextPercent_48Filled';
+export { default as IcFluentTextPercent_48Regular } from './IcFluentTextPercent_48Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentTv_16Filled } from './IcFluentTv_16Filled';
+export { default as IcFluentTv_16Regular } from './IcFluentTv_16Regular';
+export { default as IcFluentTv_20Filled } from './IcFluentTv_20Filled';
+export { default as IcFluentTv_20Regular } from './IcFluentTv_20Regular';
+export { default as IcFluentTv_24Filled } from './IcFluentTv_24Filled';
+export { default as IcFluentTv_24Regular } from './IcFluentTv_24Regular';
+export { default as IcFluentTv_28Filled } from './IcFluentTv_28Filled';
+export { default as IcFluentTv_28Regular } from './IcFluentTv_28Regular';
+export { default as IcFluentTv_48Filled } from './IcFluentTv_48Filled';
+export { default as IcFluentTv_48Regular } from './IcFluentTv_48Regular';

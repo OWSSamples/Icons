@@ -1,0 +1,10 @@
+export { default as IcFluentBoardSplit_16Filled } from './IcFluentBoardSplit_16Filled';
+export { default as IcFluentBoardSplit_16Regular } from './IcFluentBoardSplit_16Regular';
+export { default as IcFluentBoardSplit_20Filled } from './IcFluentBoardSplit_20Filled';
+export { default as IcFluentBoardSplit_20Regular } from './IcFluentBoardSplit_20Regular';
+export { default as IcFluentBoardSplit_24Filled } from './IcFluentBoardSplit_24Filled';
+export { default as IcFluentBoardSplit_24Regular } from './IcFluentBoardSplit_24Regular';
+export { default as IcFluentBoardSplit_28Filled } from './IcFluentBoardSplit_28Filled';
+export { default as IcFluentBoardSplit_28Regular } from './IcFluentBoardSplit_28Regular';
+export { default as IcFluentBoardSplit_48Filled } from './IcFluentBoardSplit_48Filled';
+export { default as IcFluentBoardSplit_48Regular } from './IcFluentBoardSplit_48Regular';

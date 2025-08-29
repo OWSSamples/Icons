@@ -1,0 +1,15 @@
+export { default as IcFluentDatabase_16Color } from './IcFluentDatabase_16Color';
+export { default as IcFluentDatabase_16Filled } from './IcFluentDatabase_16Filled';
+export { default as IcFluentDatabase_16Regular } from './IcFluentDatabase_16Regular';
+export { default as IcFluentDatabase_20Color } from './IcFluentDatabase_20Color';
+export { default as IcFluentDatabase_20Filled } from './IcFluentDatabase_20Filled';
+export { default as IcFluentDatabase_20Regular } from './IcFluentDatabase_20Regular';
+export { default as IcFluentDatabase_24Color } from './IcFluentDatabase_24Color';
+export { default as IcFluentDatabase_24Filled } from './IcFluentDatabase_24Filled';
+export { default as IcFluentDatabase_24Regular } from './IcFluentDatabase_24Regular';
+export { default as IcFluentDatabase_32Color } from './IcFluentDatabase_32Color';
+export { default as IcFluentDatabase_32Filled } from './IcFluentDatabase_32Filled';
+export { default as IcFluentDatabase_32Regular } from './IcFluentDatabase_32Regular';
+export { default as IcFluentDatabase_48Color } from './IcFluentDatabase_48Color';
+export { default as IcFluentDatabase_48Filled } from './IcFluentDatabase_48Filled';
+export { default as IcFluentDatabase_48Regular } from './IcFluentDatabase_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentPersonStar_16Filled } from './IcFluentPersonStar_16Filled';
+export { default as IcFluentPersonStar_16Regular } from './IcFluentPersonStar_16Regular';
+export { default as IcFluentPersonStar_20Filled } from './IcFluentPersonStar_20Filled';
+export { default as IcFluentPersonStar_20Regular } from './IcFluentPersonStar_20Regular';
+export { default as IcFluentPersonStar_24Filled } from './IcFluentPersonStar_24Filled';
+export { default as IcFluentPersonStar_24Regular } from './IcFluentPersonStar_24Regular';
+export { default as IcFluentPersonStar_28Filled } from './IcFluentPersonStar_28Filled';
+export { default as IcFluentPersonStar_28Regular } from './IcFluentPersonStar_28Regular';
+export { default as IcFluentPersonStar_32Filled } from './IcFluentPersonStar_32Filled';
+export { default as IcFluentPersonStar_32Regular } from './IcFluentPersonStar_32Regular';
+export { default as IcFluentPersonStar_48Filled } from './IcFluentPersonStar_48Filled';
+export { default as IcFluentPersonStar_48Regular } from './IcFluentPersonStar_48Regular';

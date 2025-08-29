@@ -1,0 +1,13 @@
+export { default as IcFluentCrop_16Filled } from './IcFluentCrop_16Filled';
+export { default as IcFluentCrop_16Regular } from './IcFluentCrop_16Regular';
+export { default as IcFluentCrop_20Filled } from './IcFluentCrop_20Filled';
+export { default as IcFluentCrop_20Regular } from './IcFluentCrop_20Regular';
+export { default as IcFluentCrop_24Filled } from './IcFluentCrop_24Filled';
+export { default as IcFluentCrop_24Regular } from './IcFluentCrop_24Regular';
+export { default as IcFluentCrop_28Filled } from './IcFluentCrop_28Filled';
+export { default as IcFluentCrop_28Regular } from './IcFluentCrop_28Regular';
+export { default as IcFluentCrop_32Filled } from './IcFluentCrop_32Filled';
+export { default as IcFluentCrop_32Light } from './IcFluentCrop_32Light';
+export { default as IcFluentCrop_32Regular } from './IcFluentCrop_32Regular';
+export { default as IcFluentCrop_48Filled } from './IcFluentCrop_48Filled';
+export { default as IcFluentCrop_48Regular } from './IcFluentCrop_48Regular';

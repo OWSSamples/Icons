@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentTextPercent_16Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M11.962 2.123a.75.75 0 0 1 .203 1.042L5.079 13.669a.75.75 0 0 1-1.243-.838L10.92 2.326a.75.75 0 0 1 1.041-.203M4.5 3.5a1.25 1.25 0 1 0 0 2.5 1.25 1.25 0 0 0 0-2.5M1.75 4.75a2.75 2.75 0 1 1 5.5 0 2.75 2.75 0 0 1-5.5 0m8.5 6.5a1.25 1.25 0 1 1 2.5 0 1.25 1.25 0 0 1-2.5 0M11.5 8.5a2.75 2.75 0 1 0 0 5.5 2.75 2.75 0 0 0 0-5.5"/>
+  </IconBase>
+);
+
+export default IcFluentTextPercent_16Filled;

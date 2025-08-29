@@ -1,0 +1,10 @@
+export { default as IcFluentTextQuoteOpening_16Filled } from './IcFluentTextQuoteOpening_16Filled';
+export { default as IcFluentTextQuoteOpening_16Regular } from './IcFluentTextQuoteOpening_16Regular';
+export { default as IcFluentTextQuoteOpening_20Filled } from './IcFluentTextQuoteOpening_20Filled';
+export { default as IcFluentTextQuoteOpening_20Regular } from './IcFluentTextQuoteOpening_20Regular';
+export { default as IcFluentTextQuoteOpening_24Filled } from './IcFluentTextQuoteOpening_24Filled';
+export { default as IcFluentTextQuoteOpening_24Regular } from './IcFluentTextQuoteOpening_24Regular';
+export { default as IcFluentTextQuoteOpening_28Filled } from './IcFluentTextQuoteOpening_28Filled';
+export { default as IcFluentTextQuoteOpening_28Regular } from './IcFluentTextQuoteOpening_28Regular';
+export { default as IcFluentTextQuoteOpening_32Filled } from './IcFluentTextQuoteOpening_32Filled';
+export { default as IcFluentTextQuoteOpening_32Regular } from './IcFluentTextQuoteOpening_32Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentBookOpenMicrophone_20Filled } from './IcFluentBookOpenMicrophone_20Filled';
+export { default as IcFluentBookOpenMicrophone_20Regular } from './IcFluentBookOpenMicrophone_20Regular';
+export { default as IcFluentBookOpenMicrophone_24Filled } from './IcFluentBookOpenMicrophone_24Filled';
+export { default as IcFluentBookOpenMicrophone_24Regular } from './IcFluentBookOpenMicrophone_24Regular';
+export { default as IcFluentBookOpenMicrophone_28Filled } from './IcFluentBookOpenMicrophone_28Filled';
+export { default as IcFluentBookOpenMicrophone_28Regular } from './IcFluentBookOpenMicrophone_28Regular';
+export { default as IcFluentBookOpenMicrophone_32Filled } from './IcFluentBookOpenMicrophone_32Filled';
+export { default as IcFluentBookOpenMicrophone_32Regular } from './IcFluentBookOpenMicrophone_32Regular';
+export { default as IcFluentBookOpenMicrophone_48Filled } from './IcFluentBookOpenMicrophone_48Filled';
+export { default as IcFluentBookOpenMicrophone_48Regular } from './IcFluentBookOpenMicrophone_48Regular';

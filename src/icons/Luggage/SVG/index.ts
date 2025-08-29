@@ -1,0 +1,12 @@
+export { default as IcFluentLuggage_16Filled } from './IcFluentLuggage_16Filled';
+export { default as IcFluentLuggage_16Regular } from './IcFluentLuggage_16Regular';
+export { default as IcFluentLuggage_20Filled } from './IcFluentLuggage_20Filled';
+export { default as IcFluentLuggage_20Regular } from './IcFluentLuggage_20Regular';
+export { default as IcFluentLuggage_24Filled } from './IcFluentLuggage_24Filled';
+export { default as IcFluentLuggage_24Regular } from './IcFluentLuggage_24Regular';
+export { default as IcFluentLuggage_28Filled } from './IcFluentLuggage_28Filled';
+export { default as IcFluentLuggage_28Regular } from './IcFluentLuggage_28Regular';
+export { default as IcFluentLuggage_32Filled } from './IcFluentLuggage_32Filled';
+export { default as IcFluentLuggage_32Regular } from './IcFluentLuggage_32Regular';
+export { default as IcFluentLuggage_48Filled } from './IcFluentLuggage_48Filled';
+export { default as IcFluentLuggage_48Regular } from './IcFluentLuggage_48Regular';

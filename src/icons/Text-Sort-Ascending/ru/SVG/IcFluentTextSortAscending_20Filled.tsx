@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../../IconBase';
+import { IconProps } from '../../../../types';
+
+const IcFluentTextSortAscending_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M6.709 2.505a.75.75 0 0 0-1.418 0l-2.25 6.5a.75.75 0 0 0 1.418.49l.344-.995h2.394l.344.995a.75.75 0 0 0 1.418-.49zM6 5.043 6.678 7H5.323zm-2.245 9.889a3.1 3.1 0 0 0-.451.79 4.4 4.4 0 0 0-.299 1.378l-.004.102v.031l-.001.01v.007a.75.75 0 0 0 1.5.003v-.011l.003-.057a3 3 0 0 1 .193-.906c.096-.239.222-.432.378-.562.143-.12.347-.217.677-.217H7.5v1.75a.75.75 0 0 0 1.5 0v-5.5a.75.75 0 0 0-.75-.75h-3a2.25 2.25 0 0 0-1.495 3.932M5.25 14a.75.75 0 0 1 0-1.5H7.5V14zm9-12a.75.75 0 0 1 .75.75v12.572l1.447-1.579a.75.75 0 0 1 1.106 1.014l-2.75 3a.75.75 0 0 1-1.106 0l-2.75-3a.75.75 0 0 1 1.106-1.014l1.447 1.579V2.75a.75.75 0 0 1 .75-.75"/>
+  </IconBase>
+);
+
+export default IcFluentTextSortAscending_20Filled;

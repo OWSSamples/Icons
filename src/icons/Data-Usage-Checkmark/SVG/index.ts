@@ -1,0 +1,12 @@
+export { default as IcFluentDataUsageCheckmark_16Filled } from './IcFluentDataUsageCheckmark_16Filled';
+export { default as IcFluentDataUsageCheckmark_16Regular } from './IcFluentDataUsageCheckmark_16Regular';
+export { default as IcFluentDataUsageCheckmark_20Filled } from './IcFluentDataUsageCheckmark_20Filled';
+export { default as IcFluentDataUsageCheckmark_20Regular } from './IcFluentDataUsageCheckmark_20Regular';
+export { default as IcFluentDataUsageCheckmark_24Filled } from './IcFluentDataUsageCheckmark_24Filled';
+export { default as IcFluentDataUsageCheckmark_24Regular } from './IcFluentDataUsageCheckmark_24Regular';
+export { default as IcFluentDataUsageCheckmark_28Filled } from './IcFluentDataUsageCheckmark_28Filled';
+export { default as IcFluentDataUsageCheckmark_28Regular } from './IcFluentDataUsageCheckmark_28Regular';
+export { default as IcFluentDataUsageCheckmark_32Filled } from './IcFluentDataUsageCheckmark_32Filled';
+export { default as IcFluentDataUsageCheckmark_32Regular } from './IcFluentDataUsageCheckmark_32Regular';
+export { default as IcFluentDataUsageCheckmark_48Filled } from './IcFluentDataUsageCheckmark_48Filled';
+export { default as IcFluentDataUsageCheckmark_48Regular } from './IcFluentDataUsageCheckmark_48Regular';

@@ -5,15 +5,15 @@ const { optimize } = require('svgo');
 const { pascalCase } = require('change-case');
 const fg = require('fast-glob');
 
-const svgDir = path.resolve(__dirname, '../assets/svg');
+// Fuente de SVGs (actualizado a assets/icons)
+const svgDir = path.resolve(__dirname, '../assets/icons');
 const outDir = path.resolve(__dirname, '../src/icons');
 
 if (!fs.existsSync(svgDir)) fs.mkdirSync(svgDir, { recursive: true });
-// Limpieza completa para evitar residuos con nombres inválidos de runs previos
-if (fs.existsSync(outDir)) {
-  fs.rmSync(outDir, { recursive: true, force: true });
+// Evitar borrar completamente para no perder trabajo manual
+if (!fs.existsSync(outDir)) {
+  fs.mkdirSync(outDir, { recursive: true });
 }
-fs.mkdirSync(outDir, { recursive: true });
 
 function extractViewBox(svg) {
   const m = svg.match(/viewBox=\"([^\"]+)\"/);
@@ -37,20 +37,30 @@ function toCurrentColor(svgInner) {
 
 function sanitizeIdentifier(input, prefix = 'Icon') {
   // Quitar extensión y normalizar caracteres
-  const withoutExt = input.replace(/\.[^/.]+$/, '');
+  const withoutExt = input.replace(/\.[^\/.]+$/, '');
   const normalized = pascalCase(withoutExt.replace(/[^a-zA-Z0-9]+/g, ' '));
   if (!normalized) return prefix;
   return /^[0-9]/.test(normalized) ? prefix + normalized : normalized;
 }
 
+// Kebab-case seguro para carpetas (reemplaza espacios y & por '-')
+function sanitizeFolderName(name) {
+  return name
+    .trim()
+    .replace(/&/g, 'and')
+    .replace(/[^a-zA-Z0-9]+/g, '-')
+    .replace(/-{2,}/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
 function buildComponent(importBase, importTypes, name, viewBox, inner) {
-  return `import React from 'react';\nimport IconBase from '${importBase}';\nimport { IconProps } from '${importTypes}';\n\nconst ${name} = (props: IconProps) => (\n  <IconBase {...props} viewBox=\"${viewBox}\">\n    ${inner}\n  </IconBase>\n);\n\nexport default ${name};\n`;
+  return `import React from 'react';\nimport IconBase from '${importBase}';\nimport { IconProps } from '${importTypes}';\n\nconst ${name} = (props: IconProps) => (\n  <IconBase {...props} viewBox="${viewBox}">\n    ${inner}\n  </IconBase>\n);\n\nexport default ${name};\n`;
 }
 
 function run() {
   const files = fg.sync('**/*.svg', { cwd: svgDir, absolute: true });
   if (files.length === 0) {
-    console.log('No se encontraron SVG en assets/svg.');
+    console.log('No se encontraron SVG en assets/icons.');
     return;
   }
   files.forEach((filePath) => {
@@ -68,19 +78,27 @@ function run() {
     const viewBox = extractViewBox(data);
     const inner = toCurrentColor(extractInner(data));
     const relSvgPath = path.relative(svgDir, filePath); // e.g. 'Arrows/chevron-left.svg'
-    const dirSvg = path.dirname(relSvgPath); // 'Arrows'
+    const dirSvg = path.dirname(relSvgPath); // e.g. 'Arrows'
     const rawBase = path.basename(filePath, '.svg');
     const name = sanitizeIdentifier(rawBase, 'Icon');
-    const outDirForFile = path.join(outDir, dirSvg);
+
+    // Normalizar cada segmento de carpeta a kebab-case seguro
+    const sanitizedDir = dirSvg
+      .split(path.sep)
+      .filter(Boolean)
+      .map(sanitizeFolderName)
+      .join(path.sep);
+
+    const outDirForFile = path.join(outDir, sanitizedDir);
     if (!fs.existsSync(outDirForFile)) fs.mkdirSync(outDirForFile, { recursive: true });
-    const depth = dirSvg === '.' ? 1 : dirSvg.split(path.sep).length + 1; // relative import depth to src
+    const depth = sanitizedDir === '' ? 1 : sanitizedDir.split(path.sep).length + 1; // relative import depth to src
     // compute relative imports to IconBase and types from nested folder
     const up = Array(depth).fill('..').join('/');
     const importBase = `${up}/IconBase`;
     const importTypes = `${up}/types`;
     const outFile = path.join(outDirForFile, `${name}.tsx`);
     fs.writeFileSync(outFile, buildComponent(importBase, importTypes, name, viewBox, inner));
-    console.log(`✓ Generado ${path.basename(outFile)}`);
+    console.log(`✓ Generado ${path.basename(outFile)} → ${sanitizedDir || '.'}`);
   });
   // Regenerar índices recursivamente
   function writeIndexRecursively(dir) {

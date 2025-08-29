@@ -1,0 +1,12 @@
+export { default as IcFluentCertificate_16Color } from './IcFluentCertificate_16Color';
+export { default as IcFluentCertificate_16Filled } from './IcFluentCertificate_16Filled';
+export { default as IcFluentCertificate_16Regular } from './IcFluentCertificate_16Regular';
+export { default as IcFluentCertificate_20Color } from './IcFluentCertificate_20Color';
+export { default as IcFluentCertificate_20Filled } from './IcFluentCertificate_20Filled';
+export { default as IcFluentCertificate_20Regular } from './IcFluentCertificate_20Regular';
+export { default as IcFluentCertificate_24Color } from './IcFluentCertificate_24Color';
+export { default as IcFluentCertificate_24Filled } from './IcFluentCertificate_24Filled';
+export { default as IcFluentCertificate_24Regular } from './IcFluentCertificate_24Regular';
+export { default as IcFluentCertificate_32Color } from './IcFluentCertificate_32Color';
+export { default as IcFluentCertificate_32Filled } from './IcFluentCertificate_32Filled';
+export { default as IcFluentCertificate_32Regular } from './IcFluentCertificate_32Regular';

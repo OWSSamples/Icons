@@ -1,0 +1,12 @@
+export { default as IcFluentShapes_16Filled } from './IcFluentShapes_16Filled';
+export { default as IcFluentShapes_16Regular } from './IcFluentShapes_16Regular';
+export { default as IcFluentShapes_20Filled } from './IcFluentShapes_20Filled';
+export { default as IcFluentShapes_20Regular } from './IcFluentShapes_20Regular';
+export { default as IcFluentShapes_24Filled } from './IcFluentShapes_24Filled';
+export { default as IcFluentShapes_24Regular } from './IcFluentShapes_24Regular';
+export { default as IcFluentShapes_28Filled } from './IcFluentShapes_28Filled';
+export { default as IcFluentShapes_28Regular } from './IcFluentShapes_28Regular';
+export { default as IcFluentShapes_32Filled } from './IcFluentShapes_32Filled';
+export { default as IcFluentShapes_32Regular } from './IcFluentShapes_32Regular';
+export { default as IcFluentShapes_48Filled } from './IcFluentShapes_48Filled';
+export { default as IcFluentShapes_48Regular } from './IcFluentShapes_48Regular';

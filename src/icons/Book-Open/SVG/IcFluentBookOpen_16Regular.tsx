@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentBookOpen_16Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M2.5 2A1.5 1.5 0 0 0 1 3.5v9A1.5 1.5 0 0 0 2.5 14H6c.818 0 1.544-.393 2-1 .456.607 1.182 1 2 1h3.5a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 13.5 2H10c-.818 0-1.544.393-2 1a2.5 2.5 0 0 0-2-1zm5 2.5v7A1.5 1.5 0 0 1 6 13H2.5a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5H6a1.5 1.5 0 0 1 1.5 1.5m1 7v-7A1.5 1.5 0 0 1 10 3h3.5a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5H10a1.5 1.5 0 0 1-1.5-1.5"/>
+  </IconBase>
+);
+
+export default IcFluentBookOpen_16Regular;

@@ -1,0 +1,10 @@
+export { default as IcFluentPersonTag_20Filled } from './IcFluentPersonTag_20Filled';
+export { default as IcFluentPersonTag_20Regular } from './IcFluentPersonTag_20Regular';
+export { default as IcFluentPersonTag_24Filled } from './IcFluentPersonTag_24Filled';
+export { default as IcFluentPersonTag_24Regular } from './IcFluentPersonTag_24Regular';
+export { default as IcFluentPersonTag_28Filled } from './IcFluentPersonTag_28Filled';
+export { default as IcFluentPersonTag_28Regular } from './IcFluentPersonTag_28Regular';
+export { default as IcFluentPersonTag_32Filled } from './IcFluentPersonTag_32Filled';
+export { default as IcFluentPersonTag_32Regular } from './IcFluentPersonTag_32Regular';
+export { default as IcFluentPersonTag_48Filled } from './IcFluentPersonTag_48Filled';
+export { default as IcFluentPersonTag_48Regular } from './IcFluentPersonTag_48Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentStar_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M12.701 3.908c.532-1.078 2.069-1.078 2.6 0l2.692 5.452 6.017.875c1.19.173 1.664 1.634.804 2.473l-4.355 4.244 1.028 5.993c.204 1.185-1.04 2.088-2.103 1.529l-5.382-2.83-5.382 2.83c-1.064.559-2.307-.344-2.104-1.529l1.028-5.993-4.355-4.244c-.86-.839-.385-2.3.804-2.473l6.017-.875z"/>
+  </IconBase>
+);
+
+export default IcFluentStar_28Filled;

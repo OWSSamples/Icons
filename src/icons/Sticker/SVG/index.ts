@@ -1,0 +1,13 @@
+export { default as IcFluentSticker_12Filled } from './IcFluentSticker_12Filled';
+export { default as IcFluentSticker_12Regular } from './IcFluentSticker_12Regular';
+export { default as IcFluentSticker_16Filled } from './IcFluentSticker_16Filled';
+export { default as IcFluentSticker_16Regular } from './IcFluentSticker_16Regular';
+export { default as IcFluentSticker_20Filled } from './IcFluentSticker_20Filled';
+export { default as IcFluentSticker_20Regular } from './IcFluentSticker_20Regular';
+export { default as IcFluentSticker_24Filled } from './IcFluentSticker_24Filled';
+export { default as IcFluentSticker_24Regular } from './IcFluentSticker_24Regular';
+export { default as IcFluentSticker_28Filled } from './IcFluentSticker_28Filled';
+export { default as IcFluentSticker_28Regular } from './IcFluentSticker_28Regular';
+export { default as IcFluentSticker_32Filled } from './IcFluentSticker_32Filled';
+export { default as IcFluentSticker_32Light } from './IcFluentSticker_32Light';
+export { default as IcFluentSticker_32Regular } from './IcFluentSticker_32Regular';

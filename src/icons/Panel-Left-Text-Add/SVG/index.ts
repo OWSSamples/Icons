@@ -1,0 +1,12 @@
+export { default as IcFluentPanelLeftTextAdd_16Filled } from './IcFluentPanelLeftTextAdd_16Filled';
+export { default as IcFluentPanelLeftTextAdd_16Regular } from './IcFluentPanelLeftTextAdd_16Regular';
+export { default as IcFluentPanelLeftTextAdd_20Filled } from './IcFluentPanelLeftTextAdd_20Filled';
+export { default as IcFluentPanelLeftTextAdd_20Regular } from './IcFluentPanelLeftTextAdd_20Regular';
+export { default as IcFluentPanelLeftTextAdd_24Filled } from './IcFluentPanelLeftTextAdd_24Filled';
+export { default as IcFluentPanelLeftTextAdd_24Regular } from './IcFluentPanelLeftTextAdd_24Regular';
+export { default as IcFluentPanelLeftTextAdd_28Filled } from './IcFluentPanelLeftTextAdd_28Filled';
+export { default as IcFluentPanelLeftTextAdd_28Regular } from './IcFluentPanelLeftTextAdd_28Regular';
+export { default as IcFluentPanelLeftTextAdd_32Filled } from './IcFluentPanelLeftTextAdd_32Filled';
+export { default as IcFluentPanelLeftTextAdd_32Regular } from './IcFluentPanelLeftTextAdd_32Regular';
+export { default as IcFluentPanelLeftTextAdd_48Filled } from './IcFluentPanelLeftTextAdd_48Filled';
+export { default as IcFluentPanelLeftTextAdd_48Regular } from './IcFluentPanelLeftTextAdd_48Regular';

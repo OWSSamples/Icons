@@ -1,0 +1,12 @@
+export { default as IcFluentVideoChat_16Filled } from './IcFluentVideoChat_16Filled';
+export { default as IcFluentVideoChat_16Regular } from './IcFluentVideoChat_16Regular';
+export { default as IcFluentVideoChat_20Filled } from './IcFluentVideoChat_20Filled';
+export { default as IcFluentVideoChat_20Regular } from './IcFluentVideoChat_20Regular';
+export { default as IcFluentVideoChat_24Filled } from './IcFluentVideoChat_24Filled';
+export { default as IcFluentVideoChat_24Regular } from './IcFluentVideoChat_24Regular';
+export { default as IcFluentVideoChat_28Filled } from './IcFluentVideoChat_28Filled';
+export { default as IcFluentVideoChat_28Regular } from './IcFluentVideoChat_28Regular';
+export { default as IcFluentVideoChat_32Filled } from './IcFluentVideoChat_32Filled';
+export { default as IcFluentVideoChat_32Regular } from './IcFluentVideoChat_32Regular';
+export { default as IcFluentVideoChat_48Filled } from './IcFluentVideoChat_48Filled';
+export { default as IcFluentVideoChat_48Regular } from './IcFluentVideoChat_48Regular';

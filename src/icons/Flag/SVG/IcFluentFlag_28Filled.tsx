@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentFlag_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M5.5 18h17.75c.59 0 .95-.65.635-1.15l-3.999-6.35 3.999-6.35A.75.75 0 0 0 23.25 3H4.75a.75.75 0 0 0-.75.75v20.5a.75.75 0 0 0 1.5 0z"/>
+  </IconBase>
+);
+
+export default IcFluentFlag_28Filled;

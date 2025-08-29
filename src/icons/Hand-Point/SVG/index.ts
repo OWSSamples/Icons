@@ -1,0 +1,12 @@
+export { default as IcFluentHandPoint_16Filled } from './IcFluentHandPoint_16Filled';
+export { default as IcFluentHandPoint_16Regular } from './IcFluentHandPoint_16Regular';
+export { default as IcFluentHandPoint_20Filled } from './IcFluentHandPoint_20Filled';
+export { default as IcFluentHandPoint_20Regular } from './IcFluentHandPoint_20Regular';
+export { default as IcFluentHandPoint_24Filled } from './IcFluentHandPoint_24Filled';
+export { default as IcFluentHandPoint_24Regular } from './IcFluentHandPoint_24Regular';
+export { default as IcFluentHandPoint_28Filled } from './IcFluentHandPoint_28Filled';
+export { default as IcFluentHandPoint_28Regular } from './IcFluentHandPoint_28Regular';
+export { default as IcFluentHandPoint_32Filled } from './IcFluentHandPoint_32Filled';
+export { default as IcFluentHandPoint_32Regular } from './IcFluentHandPoint_32Regular';
+export { default as IcFluentHandPoint_48Filled } from './IcFluentHandPoint_48Filled';
+export { default as IcFluentHandPoint_48Regular } from './IcFluentHandPoint_48Regular';

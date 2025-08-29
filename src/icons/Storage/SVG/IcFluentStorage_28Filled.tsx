@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentStorage_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M5.754 8a3.75 3.75 0 0 0-3.75 3.75v4.5A3.75 3.75 0 0 0 5.754 20H22.25A3.75 3.75 0 0 0 26 16.25v-4.5A3.75 3.75 0 0 0 22.25 8zm12.996 4.5a1.25 1.25 0 1 1-2.5 0 1.25 1.25 0 0 1 2.5 0m2.75 1.25a1.25 1.25 0 1 1 0-2.5 1.25 1.25 0 0 1 0 2.5"/>
+  </IconBase>
+);
+
+export default IcFluentStorage_28Filled;

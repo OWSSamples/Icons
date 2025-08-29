@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentArrowSync_24Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M16.25 5.18a.75.75 0 0 0 .142 1.051 7.251 7.251 0 0 1-3.599 12.976l.677-.677a.75.75 0 0 0-.977-1.133l-.084.073-2 2a.75.75 0 0 0-.073.976l.073.084 2 2a.75.75 0 0 0 1.133-.976l-.072-.084-.75-.75a8.75 8.75 0 0 0 4.581-15.68.75.75 0 0 0-1.051.141m-5.72-3.71a.75.75 0 0 0 0 1.06l.75.75a8.75 8.75 0 0 0-4.85 15.47.75.75 0 1 0 .956-1.157 7.251 7.251 0 0 1 3.82-12.8l-.676.677a.75.75 0 1 0 1.061 1.06l2-2a.75.75 0 0 0 0-1.06l-2-2a.75.75 0 0 0-1.06 0"/>
+  </IconBase>
+);
+
+export default IcFluentArrowSync_24Regular;

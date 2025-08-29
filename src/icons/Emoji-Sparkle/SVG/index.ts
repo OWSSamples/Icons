@@ -1,0 +1,12 @@
+export { default as IcFluentEmojiSparkle_16Filled } from './IcFluentEmojiSparkle_16Filled';
+export { default as IcFluentEmojiSparkle_16Regular } from './IcFluentEmojiSparkle_16Regular';
+export { default as IcFluentEmojiSparkle_20Filled } from './IcFluentEmojiSparkle_20Filled';
+export { default as IcFluentEmojiSparkle_20Regular } from './IcFluentEmojiSparkle_20Regular';
+export { default as IcFluentEmojiSparkle_24Filled } from './IcFluentEmojiSparkle_24Filled';
+export { default as IcFluentEmojiSparkle_24Regular } from './IcFluentEmojiSparkle_24Regular';
+export { default as IcFluentEmojiSparkle_28Filled } from './IcFluentEmojiSparkle_28Filled';
+export { default as IcFluentEmojiSparkle_28Regular } from './IcFluentEmojiSparkle_28Regular';
+export { default as IcFluentEmojiSparkle_32Filled } from './IcFluentEmojiSparkle_32Filled';
+export { default as IcFluentEmojiSparkle_32Regular } from './IcFluentEmojiSparkle_32Regular';
+export { default as IcFluentEmojiSparkle_48Filled } from './IcFluentEmojiSparkle_48Filled';
+export { default as IcFluentEmojiSparkle_48Regular } from './IcFluentEmojiSparkle_48Regular';

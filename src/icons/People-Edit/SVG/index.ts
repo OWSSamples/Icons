@@ -1,0 +1,9 @@
+export { default as IcFluentPeopleEdit_16Filled } from './IcFluentPeopleEdit_16Filled';
+export { default as IcFluentPeopleEdit_16Regular } from './IcFluentPeopleEdit_16Regular';
+export { default as IcFluentPeopleEdit_20Filled } from './IcFluentPeopleEdit_20Filled';
+export { default as IcFluentPeopleEdit_20Regular } from './IcFluentPeopleEdit_20Regular';
+export { default as IcFluentPeopleEdit_24Filled } from './IcFluentPeopleEdit_24Filled';
+export { default as IcFluentPeopleEdit_24Regular } from './IcFluentPeopleEdit_24Regular';
+export { default as IcFluentPeopleEdit_32Filled } from './IcFluentPeopleEdit_32Filled';
+export { default as IcFluentPeopleEdit_32Light } from './IcFluentPeopleEdit_32Light';
+export { default as IcFluentPeopleEdit_32Regular } from './IcFluentPeopleEdit_32Regular';

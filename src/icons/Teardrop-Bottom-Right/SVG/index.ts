@@ -1,0 +1,12 @@
+export { default as IcFluentTeardropBottomRight_16Filled } from './IcFluentTeardropBottomRight_16Filled';
+export { default as IcFluentTeardropBottomRight_16Regular } from './IcFluentTeardropBottomRight_16Regular';
+export { default as IcFluentTeardropBottomRight_20Filled } from './IcFluentTeardropBottomRight_20Filled';
+export { default as IcFluentTeardropBottomRight_20Regular } from './IcFluentTeardropBottomRight_20Regular';
+export { default as IcFluentTeardropBottomRight_24Filled } from './IcFluentTeardropBottomRight_24Filled';
+export { default as IcFluentTeardropBottomRight_24Regular } from './IcFluentTeardropBottomRight_24Regular';
+export { default as IcFluentTeardropBottomRight_28Filled } from './IcFluentTeardropBottomRight_28Filled';
+export { default as IcFluentTeardropBottomRight_28Regular } from './IcFluentTeardropBottomRight_28Regular';
+export { default as IcFluentTeardropBottomRight_32Filled } from './IcFluentTeardropBottomRight_32Filled';
+export { default as IcFluentTeardropBottomRight_32Regular } from './IcFluentTeardropBottomRight_32Regular';
+export { default as IcFluentTeardropBottomRight_48Filled } from './IcFluentTeardropBottomRight_48Filled';
+export { default as IcFluentTeardropBottomRight_48Regular } from './IcFluentTeardropBottomRight_48Regular';

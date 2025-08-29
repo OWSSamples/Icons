@@ -1,0 +1,12 @@
+export { default as IcFluentPlanet_16Color } from './IcFluentPlanet_16Color';
+export { default as IcFluentPlanet_16Filled } from './IcFluentPlanet_16Filled';
+export { default as IcFluentPlanet_16Regular } from './IcFluentPlanet_16Regular';
+export { default as IcFluentPlanet_20Color } from './IcFluentPlanet_20Color';
+export { default as IcFluentPlanet_20Filled } from './IcFluentPlanet_20Filled';
+export { default as IcFluentPlanet_20Regular } from './IcFluentPlanet_20Regular';
+export { default as IcFluentPlanet_24Color } from './IcFluentPlanet_24Color';
+export { default as IcFluentPlanet_24Filled } from './IcFluentPlanet_24Filled';
+export { default as IcFluentPlanet_24Regular } from './IcFluentPlanet_24Regular';
+export { default as IcFluentPlanet_32Color } from './IcFluentPlanet_32Color';
+export { default as IcFluentPlanet_32Filled } from './IcFluentPlanet_32Filled';
+export { default as IcFluentPlanet_32Regular } from './IcFluentPlanet_32Regular';

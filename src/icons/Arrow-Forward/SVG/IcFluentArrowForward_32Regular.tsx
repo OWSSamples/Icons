@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentArrowForward_32Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M20.293 6.293a1 1 0 0 0 0 1.414L25.586 13H15C8.373 13 3 18.373 3 25a1 1 0 1 0 2 0c0-5.523 4.477-10 10-10h10.586l-5.293 5.293a1 1 0 0 0 1.414 1.414l7-7a1 1 0 0 0 0-1.414l-7-7a1 1 0 0 0-1.414 0"/>
+  </IconBase>
+);
+
+export default IcFluentArrowForward_32Regular;

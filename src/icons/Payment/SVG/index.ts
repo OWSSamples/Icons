@@ -1,0 +1,12 @@
+export { default as IcFluentPayment_16Filled } from './IcFluentPayment_16Filled';
+export { default as IcFluentPayment_16Regular } from './IcFluentPayment_16Regular';
+export { default as IcFluentPayment_20Filled } from './IcFluentPayment_20Filled';
+export { default as IcFluentPayment_20Regular } from './IcFluentPayment_20Regular';
+export { default as IcFluentPayment_24Filled } from './IcFluentPayment_24Filled';
+export { default as IcFluentPayment_24Regular } from './IcFluentPayment_24Regular';
+export { default as IcFluentPayment_28Filled } from './IcFluentPayment_28Filled';
+export { default as IcFluentPayment_28Regular } from './IcFluentPayment_28Regular';
+export { default as IcFluentPayment_32Filled } from './IcFluentPayment_32Filled';
+export { default as IcFluentPayment_32Regular } from './IcFluentPayment_32Regular';
+export { default as IcFluentPayment_48Filled } from './IcFluentPayment_48Filled';
+export { default as IcFluentPayment_48Regular } from './IcFluentPayment_48Regular';

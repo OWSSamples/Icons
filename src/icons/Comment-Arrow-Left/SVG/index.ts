@@ -1,0 +1,12 @@
+export { default as IcFluentCommentArrowLeft_12Filled } from './IcFluentCommentArrowLeft_12Filled';
+export { default as IcFluentCommentArrowLeft_12Regular } from './IcFluentCommentArrowLeft_12Regular';
+export { default as IcFluentCommentArrowLeft_16Filled } from './IcFluentCommentArrowLeft_16Filled';
+export { default as IcFluentCommentArrowLeft_16Regular } from './IcFluentCommentArrowLeft_16Regular';
+export { default as IcFluentCommentArrowLeft_20Filled } from './IcFluentCommentArrowLeft_20Filled';
+export { default as IcFluentCommentArrowLeft_20Regular } from './IcFluentCommentArrowLeft_20Regular';
+export { default as IcFluentCommentArrowLeft_24Filled } from './IcFluentCommentArrowLeft_24Filled';
+export { default as IcFluentCommentArrowLeft_24Regular } from './IcFluentCommentArrowLeft_24Regular';
+export { default as IcFluentCommentArrowLeft_28Filled } from './IcFluentCommentArrowLeft_28Filled';
+export { default as IcFluentCommentArrowLeft_28Regular } from './IcFluentCommentArrowLeft_28Regular';
+export { default as IcFluentCommentArrowLeft_48Filled } from './IcFluentCommentArrowLeft_48Filled';
+export { default as IcFluentCommentArrowLeft_48Regular } from './IcFluentCommentArrowLeft_48Regular';

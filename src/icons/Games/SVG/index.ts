@@ -1,0 +1,12 @@
+export { default as IcFluentGames_16Filled } from './IcFluentGames_16Filled';
+export { default as IcFluentGames_16Regular } from './IcFluentGames_16Regular';
+export { default as IcFluentGames_20Filled } from './IcFluentGames_20Filled';
+export { default as IcFluentGames_20Regular } from './IcFluentGames_20Regular';
+export { default as IcFluentGames_24Filled } from './IcFluentGames_24Filled';
+export { default as IcFluentGames_24Regular } from './IcFluentGames_24Regular';
+export { default as IcFluentGames_28Filled } from './IcFluentGames_28Filled';
+export { default as IcFluentGames_28Regular } from './IcFluentGames_28Regular';
+export { default as IcFluentGames_32Filled } from './IcFluentGames_32Filled';
+export { default as IcFluentGames_32Regular } from './IcFluentGames_32Regular';
+export { default as IcFluentGames_48Filled } from './IcFluentGames_48Filled';
+export { default as IcFluentGames_48Regular } from './IcFluentGames_48Regular';

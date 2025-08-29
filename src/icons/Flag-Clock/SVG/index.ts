@@ -1,0 +1,12 @@
+export { default as IcFluentFlagClock_16Filled } from './IcFluentFlagClock_16Filled';
+export { default as IcFluentFlagClock_16Regular } from './IcFluentFlagClock_16Regular';
+export { default as IcFluentFlagClock_20Filled } from './IcFluentFlagClock_20Filled';
+export { default as IcFluentFlagClock_20Regular } from './IcFluentFlagClock_20Regular';
+export { default as IcFluentFlagClock_24Filled } from './IcFluentFlagClock_24Filled';
+export { default as IcFluentFlagClock_24Regular } from './IcFluentFlagClock_24Regular';
+export { default as IcFluentFlagClock_28Filled } from './IcFluentFlagClock_28Filled';
+export { default as IcFluentFlagClock_28Regular } from './IcFluentFlagClock_28Regular';
+export { default as IcFluentFlagClock_32Filled } from './IcFluentFlagClock_32Filled';
+export { default as IcFluentFlagClock_32Regular } from './IcFluentFlagClock_32Regular';
+export { default as IcFluentFlagClock_48Filled } from './IcFluentFlagClock_48Filled';
+export { default as IcFluentFlagClock_48Regular } from './IcFluentFlagClock_48Regular';

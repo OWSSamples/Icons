@@ -1,0 +1,9 @@
+export { default as IcFluentClipboardPaste_16Filled } from './IcFluentClipboardPaste_16Filled';
+export { default as IcFluentClipboardPaste_16Regular } from './IcFluentClipboardPaste_16Regular';
+export { default as IcFluentClipboardPaste_20Filled } from './IcFluentClipboardPaste_20Filled';
+export { default as IcFluentClipboardPaste_20Regular } from './IcFluentClipboardPaste_20Regular';
+export { default as IcFluentClipboardPaste_24Filled } from './IcFluentClipboardPaste_24Filled';
+export { default as IcFluentClipboardPaste_24Regular } from './IcFluentClipboardPaste_24Regular';
+export { default as IcFluentClipboardPaste_32Filled } from './IcFluentClipboardPaste_32Filled';
+export { default as IcFluentClipboardPaste_32Light } from './IcFluentClipboardPaste_32Light';
+export { default as IcFluentClipboardPaste_32Regular } from './IcFluentClipboardPaste_32Regular';

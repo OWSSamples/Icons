@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentGavel_24Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M10.729 2.712a2.25 2.25 0 0 1 3.41.267l.32.44-6.473 6.474-.38-.253a2.25 2.25 0 0 1-.342-3.463zm-1.47 8.03 2.562 1.707q.131.088.216.222l1.234 1.938 6.011-6.012-2.15-1.563a.8.8 0 0 1-.165-.166l-1.614-2.22zm5.105 5.584-.268-.42L20.51 9.49l.51.372a2.25 2.25 0 0 1 .268 3.41l-3.436 3.437a2.25 2.25 0 0 1-3.49-.383M9.34 12.299l-6.073 5.958a1.76 1.76 0 1 0 2.476 2.5l6.085-6.085-.79-1.241zM14.75 19a.75.75 0 1 0 0 1.5h-2a.75.75 0 1 0 0 1.5h8.5a.75.75 0 0 0 0-1.5h-2a.75.75 0 0 0 0-1.5z"/>
+  </IconBase>
+);
+
+export default IcFluentGavel_24Filled;

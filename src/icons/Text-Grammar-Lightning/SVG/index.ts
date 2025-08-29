@@ -1,0 +1,10 @@
+export { default as IcFluentTextGrammarLightning_16Filled } from './IcFluentTextGrammarLightning_16Filled';
+export { default as IcFluentTextGrammarLightning_16Regular } from './IcFluentTextGrammarLightning_16Regular';
+export { default as IcFluentTextGrammarLightning_20Filled } from './IcFluentTextGrammarLightning_20Filled';
+export { default as IcFluentTextGrammarLightning_20Regular } from './IcFluentTextGrammarLightning_20Regular';
+export { default as IcFluentTextGrammarLightning_24Filled } from './IcFluentTextGrammarLightning_24Filled';
+export { default as IcFluentTextGrammarLightning_24Regular } from './IcFluentTextGrammarLightning_24Regular';
+export { default as IcFluentTextGrammarLightning_28Filled } from './IcFluentTextGrammarLightning_28Filled';
+export { default as IcFluentTextGrammarLightning_28Regular } from './IcFluentTextGrammarLightning_28Regular';
+export { default as IcFluentTextGrammarLightning_32Filled } from './IcFluentTextGrammarLightning_32Filled';
+export { default as IcFluentTextGrammarLightning_32Regular } from './IcFluentTextGrammarLightning_32Regular';

@@ -1,0 +1,14 @@
+export { default as IcFluentNotepad_12Filled } from './IcFluentNotepad_12Filled';
+export { default as IcFluentNotepad_12Regular } from './IcFluentNotepad_12Regular';
+export { default as IcFluentNotepad_16Filled } from './IcFluentNotepad_16Filled';
+export { default as IcFluentNotepad_16Regular } from './IcFluentNotepad_16Regular';
+export { default as IcFluentNotepad_20Filled } from './IcFluentNotepad_20Filled';
+export { default as IcFluentNotepad_20Regular } from './IcFluentNotepad_20Regular';
+export { default as IcFluentNotepad_24Filled } from './IcFluentNotepad_24Filled';
+export { default as IcFluentNotepad_24Regular } from './IcFluentNotepad_24Regular';
+export { default as IcFluentNotepad_28Filled } from './IcFluentNotepad_28Filled';
+export { default as IcFluentNotepad_28Regular } from './IcFluentNotepad_28Regular';
+export { default as IcFluentNotepad_32Filled } from './IcFluentNotepad_32Filled';
+export { default as IcFluentNotepad_32Regular } from './IcFluentNotepad_32Regular';
+export { default as IcFluentNotepad_48Filled } from './IcFluentNotepad_48Filled';
+export { default as IcFluentNotepad_48Regular } from './IcFluentNotepad_48Regular';

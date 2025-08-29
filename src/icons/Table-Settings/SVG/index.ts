@@ -1,0 +1,9 @@
+export { default as IcFluentTableSettings_16Filled } from './IcFluentTableSettings_16Filled';
+export { default as IcFluentTableSettings_16Regular } from './IcFluentTableSettings_16Regular';
+export { default as IcFluentTableSettings_20Filled } from './IcFluentTableSettings_20Filled';
+export { default as IcFluentTableSettings_20Regular } from './IcFluentTableSettings_20Regular';
+export { default as IcFluentTableSettings_24Filled } from './IcFluentTableSettings_24Filled';
+export { default as IcFluentTableSettings_24Regular } from './IcFluentTableSettings_24Regular';
+export { default as IcFluentTableSettings_28Filled } from './IcFluentTableSettings_28Filled';
+export { default as IcFluentTableSettings_28Regular } from './IcFluentTableSettings_28Regular';
+export { default as IcFluentTableSettings_32Light } from './IcFluentTableSettings_32Light';

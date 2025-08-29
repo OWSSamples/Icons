@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentPeopleCommunity_20Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M13.062 9.49a1.5 1.5 0 0 0-1.837 1.06l-.647 2.415a4 4 0 0 0 7.727 2.07l.647-2.414a1.5 1.5 0 0 0-1.06-1.837z"/><path fill="currentColor" d="M6.942 9.49a1.5 1.5 0 0 1 1.837 1.06l.647 2.415a4 4 0 1 1-7.727 2.07l-.648-2.414a1.5 1.5 0 0 1 1.061-1.837z"/><path fill="currentColor" d="M10 2a3 3 0 1 0 0 6 3 3 0 0 0 0-6"/><path fill="currentColor" d="M16.5 4a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5"/><path fill="currentColor" d="M3.5 4a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5"/><path fill="currentColor" d="M7.5 9A1.5 1.5 0 0 0 6 10.5V14a4 4 0 0 0 8 0v-3.5A1.5 1.5 0 0 0 12.5 9z"/><defs><radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="rotate(78.837 -.528 14.039)scale(6.28119)" gradientUnits="userSpaceOnUse"><stop stop-color="#0078D4"/><stop offset="1" stop-color="#004695"/></radialGradient><radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="rotate(61.056 -6.793 7.547)scale(9.32732 6.71383)" gradientUnits="userSpaceOnUse"><stop stop-color="#008CE2"/><stop offset="1" stop-color="#0068C6"/></radialGradient><radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="rotate(59.931 1.15 10.225)scale(3.74767)" gradientUnits="userSpaceOnUse"><stop offset=".339" stop-color="#3DCBFF"/><stop offset="1" stop-color="#14B1FF"/></radialGradient><radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="rotate(78.837 4.563 12.25)scale(3.66754)" gradientUnits="userSpaceOnUse"><stop stop-color="#0078D4"/><stop offset="1" stop-color="#004695"/></radialGradient><radialGradient id="e" cx="0" cy="0" r="1" gradientTransform="rotate(47.573 -5.033 5.534)scale(4.09974)" gradientUnits="userSpaceOnUse"><stop stop-color="#008CE2"/><stop offset="1" stop-color="#0068C6"/></radialGradient><radialGradient id="f" cx="0" cy="0" r="1" gradientTransform="matrix(2.50362 4.865 -4.56496 2.34921 9.23 12.16)" gradientUnits="userSpaceOnUse"><stop offset=".339" stop-color="#3DCBFF"/><stop offset="1" stop-color="#14B1FF"/></radialGradient></defs>
+  </IconBase>
+);
+
+export default IcFluentPeopleCommunity_20Color;

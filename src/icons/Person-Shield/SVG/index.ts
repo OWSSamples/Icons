@@ -1,0 +1,12 @@
+export { default as IcFluentPersonShield_16Filled } from './IcFluentPersonShield_16Filled';
+export { default as IcFluentPersonShield_16Regular } from './IcFluentPersonShield_16Regular';
+export { default as IcFluentPersonShield_20Filled } from './IcFluentPersonShield_20Filled';
+export { default as IcFluentPersonShield_20Regular } from './IcFluentPersonShield_20Regular';
+export { default as IcFluentPersonShield_24Filled } from './IcFluentPersonShield_24Filled';
+export { default as IcFluentPersonShield_24Regular } from './IcFluentPersonShield_24Regular';
+export { default as IcFluentPersonShield_28Filled } from './IcFluentPersonShield_28Filled';
+export { default as IcFluentPersonShield_28Regular } from './IcFluentPersonShield_28Regular';
+export { default as IcFluentPersonShield_32Filled } from './IcFluentPersonShield_32Filled';
+export { default as IcFluentPersonShield_32Regular } from './IcFluentPersonShield_32Regular';
+export { default as IcFluentPersonShield_48Filled } from './IcFluentPersonShield_48Filled';
+export { default as IcFluentPersonShield_48Regular } from './IcFluentPersonShield_48Regular';

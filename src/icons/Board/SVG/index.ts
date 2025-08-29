@@ -1,0 +1,12 @@
+export { default as IcFluentBoard_16Color } from './IcFluentBoard_16Color';
+export { default as IcFluentBoard_16Filled } from './IcFluentBoard_16Filled';
+export { default as IcFluentBoard_16Regular } from './IcFluentBoard_16Regular';
+export { default as IcFluentBoard_20Color } from './IcFluentBoard_20Color';
+export { default as IcFluentBoard_20Filled } from './IcFluentBoard_20Filled';
+export { default as IcFluentBoard_20Regular } from './IcFluentBoard_20Regular';
+export { default as IcFluentBoard_24Color } from './IcFluentBoard_24Color';
+export { default as IcFluentBoard_24Filled } from './IcFluentBoard_24Filled';
+export { default as IcFluentBoard_24Regular } from './IcFluentBoard_24Regular';
+export { default as IcFluentBoard_28Color } from './IcFluentBoard_28Color';
+export { default as IcFluentBoard_28Filled } from './IcFluentBoard_28Filled';
+export { default as IcFluentBoard_28Regular } from './IcFluentBoard_28Regular';

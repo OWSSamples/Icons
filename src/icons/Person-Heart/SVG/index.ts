@@ -1,0 +1,15 @@
+export { default as IcFluentPersonHeart_20Color } from './IcFluentPersonHeart_20Color';
+export { default as IcFluentPersonHeart_20Filled } from './IcFluentPersonHeart_20Filled';
+export { default as IcFluentPersonHeart_20Regular } from './IcFluentPersonHeart_20Regular';
+export { default as IcFluentPersonHeart_24Color } from './IcFluentPersonHeart_24Color';
+export { default as IcFluentPersonHeart_24Filled } from './IcFluentPersonHeart_24Filled';
+export { default as IcFluentPersonHeart_24Regular } from './IcFluentPersonHeart_24Regular';
+export { default as IcFluentPersonHeart_28Color } from './IcFluentPersonHeart_28Color';
+export { default as IcFluentPersonHeart_28Filled } from './IcFluentPersonHeart_28Filled';
+export { default as IcFluentPersonHeart_28Regular } from './IcFluentPersonHeart_28Regular';
+export { default as IcFluentPersonHeart_32Color } from './IcFluentPersonHeart_32Color';
+export { default as IcFluentPersonHeart_32Filled } from './IcFluentPersonHeart_32Filled';
+export { default as IcFluentPersonHeart_32Regular } from './IcFluentPersonHeart_32Regular';
+export { default as IcFluentPersonHeart_48Color } from './IcFluentPersonHeart_48Color';
+export { default as IcFluentPersonHeart_48Filled } from './IcFluentPersonHeart_48Filled';
+export { default as IcFluentPersonHeart_48Regular } from './IcFluentPersonHeart_48Regular';

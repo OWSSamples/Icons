@@ -1,0 +1,15 @@
+export { default as IcFluentCommentAdd_12Filled } from './IcFluentCommentAdd_12Filled';
+export { default as IcFluentCommentAdd_12Regular } from './IcFluentCommentAdd_12Regular';
+export { default as IcFluentCommentAdd_16Filled } from './IcFluentCommentAdd_16Filled';
+export { default as IcFluentCommentAdd_16Regular } from './IcFluentCommentAdd_16Regular';
+export { default as IcFluentCommentAdd_20Filled } from './IcFluentCommentAdd_20Filled';
+export { default as IcFluentCommentAdd_20Regular } from './IcFluentCommentAdd_20Regular';
+export { default as IcFluentCommentAdd_24Filled } from './IcFluentCommentAdd_24Filled';
+export { default as IcFluentCommentAdd_24Regular } from './IcFluentCommentAdd_24Regular';
+export { default as IcFluentCommentAdd_28Filled } from './IcFluentCommentAdd_28Filled';
+export { default as IcFluentCommentAdd_28Regular } from './IcFluentCommentAdd_28Regular';
+export { default as IcFluentCommentAdd_32Filled } from './IcFluentCommentAdd_32Filled';
+export { default as IcFluentCommentAdd_32Light } from './IcFluentCommentAdd_32Light';
+export { default as IcFluentCommentAdd_32Regular } from './IcFluentCommentAdd_32Regular';
+export { default as IcFluentCommentAdd_48Filled } from './IcFluentCommentAdd_48Filled';
+export { default as IcFluentCommentAdd_48Regular } from './IcFluentCommentAdd_48Regular';

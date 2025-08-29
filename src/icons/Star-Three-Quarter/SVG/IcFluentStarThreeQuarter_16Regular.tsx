@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentStarThreeQuarter_16Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M8.808 2.101a.9.9 0 0 0-1.614 0L5.673 5.183l-3.401.495a.9.9 0 0 0-.5 1.535l2.462 2.399-.581 3.387a.9.9 0 0 0 1.306.949L8 12.348l3.042 1.6a.9.9 0 0 0 1.306-.949l-.581-3.387 2.461-2.4a.9.9 0 0 0-.499-1.534l-3.4-.495zM10 12.27V6.136a1 1 0 0 0 .133.03l3.253.472-2.354 2.294a.9.9 0 0 0-.258.797l.555 3.24z"/>
+  </IconBase>
+);
+
+export default IcFluentStarThreeQuarter_16Regular;

@@ -1,0 +1,11 @@
+export { default as IcFluentClipboardTextEdit_20Color } from './IcFluentClipboardTextEdit_20Color';
+export { default as IcFluentClipboardTextEdit_20Filled } from './IcFluentClipboardTextEdit_20Filled';
+export { default as IcFluentClipboardTextEdit_20Regular } from './IcFluentClipboardTextEdit_20Regular';
+export { default as IcFluentClipboardTextEdit_24Color } from './IcFluentClipboardTextEdit_24Color';
+export { default as IcFluentClipboardTextEdit_24Filled } from './IcFluentClipboardTextEdit_24Filled';
+export { default as IcFluentClipboardTextEdit_24Regular } from './IcFluentClipboardTextEdit_24Regular';
+export { default as IcFluentClipboardTextEdit_32Color } from './IcFluentClipboardTextEdit_32Color';
+export { default as IcFluentClipboardTextEdit_32Filled } from './IcFluentClipboardTextEdit_32Filled';
+export { default as IcFluentClipboardTextEdit_32Regular } from './IcFluentClipboardTextEdit_32Regular';
+export { default as IcFluentClipboardTextEdit_48Filled } from './IcFluentClipboardTextEdit_48Filled';
+export { default as IcFluentClipboardTextEdit_48Regular } from './IcFluentClipboardTextEdit_48Regular';

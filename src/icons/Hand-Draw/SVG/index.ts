@@ -1,0 +1,9 @@
+export { default as IcFluentHandDraw_16Filled } from './IcFluentHandDraw_16Filled';
+export { default as IcFluentHandDraw_16Regular } from './IcFluentHandDraw_16Regular';
+export { default as IcFluentHandDraw_20Filled } from './IcFluentHandDraw_20Filled';
+export { default as IcFluentHandDraw_20Regular } from './IcFluentHandDraw_20Regular';
+export { default as IcFluentHandDraw_24Filled } from './IcFluentHandDraw_24Filled';
+export { default as IcFluentHandDraw_24Regular } from './IcFluentHandDraw_24Regular';
+export { default as IcFluentHandDraw_28Filled } from './IcFluentHandDraw_28Filled';
+export { default as IcFluentHandDraw_28Regular } from './IcFluentHandDraw_28Regular';
+export { default as IcFluentHandDraw_32Light } from './IcFluentHandDraw_32Light';

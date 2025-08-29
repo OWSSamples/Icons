@@ -1,0 +1,12 @@
+export { default as IcFluentTableSimpleCheckmark_16Filled } from './IcFluentTableSimpleCheckmark_16Filled';
+export { default as IcFluentTableSimpleCheckmark_16Regular } from './IcFluentTableSimpleCheckmark_16Regular';
+export { default as IcFluentTableSimpleCheckmark_20Filled } from './IcFluentTableSimpleCheckmark_20Filled';
+export { default as IcFluentTableSimpleCheckmark_20Regular } from './IcFluentTableSimpleCheckmark_20Regular';
+export { default as IcFluentTableSimpleCheckmark_24Filled } from './IcFluentTableSimpleCheckmark_24Filled';
+export { default as IcFluentTableSimpleCheckmark_24Regular } from './IcFluentTableSimpleCheckmark_24Regular';
+export { default as IcFluentTableSimpleCheckmark_28Filled } from './IcFluentTableSimpleCheckmark_28Filled';
+export { default as IcFluentTableSimpleCheckmark_28Regular } from './IcFluentTableSimpleCheckmark_28Regular';
+export { default as IcFluentTableSimpleCheckmark_32Filled } from './IcFluentTableSimpleCheckmark_32Filled';
+export { default as IcFluentTableSimpleCheckmark_32Regular } from './IcFluentTableSimpleCheckmark_32Regular';
+export { default as IcFluentTableSimpleCheckmark_48Filled } from './IcFluentTableSimpleCheckmark_48Filled';
+export { default as IcFluentTableSimpleCheckmark_48Regular } from './IcFluentTableSimpleCheckmark_48Regular';

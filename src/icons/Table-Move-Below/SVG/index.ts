@@ -1,0 +1,9 @@
+export { default as IcFluentTableMoveBelow_16Filled } from './IcFluentTableMoveBelow_16Filled';
+export { default as IcFluentTableMoveBelow_16Regular } from './IcFluentTableMoveBelow_16Regular';
+export { default as IcFluentTableMoveBelow_20Filled } from './IcFluentTableMoveBelow_20Filled';
+export { default as IcFluentTableMoveBelow_20Regular } from './IcFluentTableMoveBelow_20Regular';
+export { default as IcFluentTableMoveBelow_24Filled } from './IcFluentTableMoveBelow_24Filled';
+export { default as IcFluentTableMoveBelow_24Regular } from './IcFluentTableMoveBelow_24Regular';
+export { default as IcFluentTableMoveBelow_28Filled } from './IcFluentTableMoveBelow_28Filled';
+export { default as IcFluentTableMoveBelow_28Regular } from './IcFluentTableMoveBelow_28Regular';
+export { default as IcFluentTableMoveBelow_32Light } from './IcFluentTableMoveBelow_32Light';

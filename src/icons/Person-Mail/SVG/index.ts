@@ -1,0 +1,13 @@
+export { default as IcFluentPersonMail_16Filled } from './IcFluentPersonMail_16Filled';
+export { default as IcFluentPersonMail_16Regular } from './IcFluentPersonMail_16Regular';
+export { default as IcFluentPersonMail_20Filled } from './IcFluentPersonMail_20Filled';
+export { default as IcFluentPersonMail_20Regular } from './IcFluentPersonMail_20Regular';
+export { default as IcFluentPersonMail_24Filled } from './IcFluentPersonMail_24Filled';
+export { default as IcFluentPersonMail_24Regular } from './IcFluentPersonMail_24Regular';
+export { default as IcFluentPersonMail_28Filled } from './IcFluentPersonMail_28Filled';
+export { default as IcFluentPersonMail_28Regular } from './IcFluentPersonMail_28Regular';
+export { default as IcFluentPersonMail_32Filled } from './IcFluentPersonMail_32Filled';
+export { default as IcFluentPersonMail_32Light } from './IcFluentPersonMail_32Light';
+export { default as IcFluentPersonMail_32Regular } from './IcFluentPersonMail_32Regular';
+export { default as IcFluentPersonMail_48Filled } from './IcFluentPersonMail_48Filled';
+export { default as IcFluentPersonMail_48Regular } from './IcFluentPersonMail_48Regular';

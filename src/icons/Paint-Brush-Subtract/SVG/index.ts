@@ -1,0 +1,10 @@
+export { default as IcFluentPaintBrushSubtract_16Filled } from './IcFluentPaintBrushSubtract_16Filled';
+export { default as IcFluentPaintBrushSubtract_16Regular } from './IcFluentPaintBrushSubtract_16Regular';
+export { default as IcFluentPaintBrushSubtract_20Filled } from './IcFluentPaintBrushSubtract_20Filled';
+export { default as IcFluentPaintBrushSubtract_20Regular } from './IcFluentPaintBrushSubtract_20Regular';
+export { default as IcFluentPaintBrushSubtract_24Filled } from './IcFluentPaintBrushSubtract_24Filled';
+export { default as IcFluentPaintBrushSubtract_24Regular } from './IcFluentPaintBrushSubtract_24Regular';
+export { default as IcFluentPaintBrushSubtract_28Filled } from './IcFluentPaintBrushSubtract_28Filled';
+export { default as IcFluentPaintBrushSubtract_28Regular } from './IcFluentPaintBrushSubtract_28Regular';
+export { default as IcFluentPaintBrushSubtract_32Filled } from './IcFluentPaintBrushSubtract_32Filled';
+export { default as IcFluentPaintBrushSubtract_32Regular } from './IcFluentPaintBrushSubtract_32Regular';

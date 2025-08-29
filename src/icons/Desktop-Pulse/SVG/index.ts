@@ -1,0 +1,12 @@
+export { default as IcFluentDesktopPulse_16Filled } from './IcFluentDesktopPulse_16Filled';
+export { default as IcFluentDesktopPulse_16Regular } from './IcFluentDesktopPulse_16Regular';
+export { default as IcFluentDesktopPulse_20Filled } from './IcFluentDesktopPulse_20Filled';
+export { default as IcFluentDesktopPulse_20Regular } from './IcFluentDesktopPulse_20Regular';
+export { default as IcFluentDesktopPulse_24Filled } from './IcFluentDesktopPulse_24Filled';
+export { default as IcFluentDesktopPulse_24Regular } from './IcFluentDesktopPulse_24Regular';
+export { default as IcFluentDesktopPulse_28Filled } from './IcFluentDesktopPulse_28Filled';
+export { default as IcFluentDesktopPulse_28Regular } from './IcFluentDesktopPulse_28Regular';
+export { default as IcFluentDesktopPulse_32Filled } from './IcFluentDesktopPulse_32Filled';
+export { default as IcFluentDesktopPulse_32Regular } from './IcFluentDesktopPulse_32Regular';
+export { default as IcFluentDesktopPulse_48Filled } from './IcFluentDesktopPulse_48Filled';
+export { default as IcFluentDesktopPulse_48Regular } from './IcFluentDesktopPulse_48Regular';

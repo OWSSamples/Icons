@@ -1,0 +1,12 @@
+export { default as IcFluentShieldTask_16Filled } from './IcFluentShieldTask_16Filled';
+export { default as IcFluentShieldTask_16Regular } from './IcFluentShieldTask_16Regular';
+export { default as IcFluentShieldTask_20Filled } from './IcFluentShieldTask_20Filled';
+export { default as IcFluentShieldTask_20Regular } from './IcFluentShieldTask_20Regular';
+export { default as IcFluentShieldTask_24Filled } from './IcFluentShieldTask_24Filled';
+export { default as IcFluentShieldTask_24Regular } from './IcFluentShieldTask_24Regular';
+export { default as IcFluentShieldTask_28Filled } from './IcFluentShieldTask_28Filled';
+export { default as IcFluentShieldTask_28Regular } from './IcFluentShieldTask_28Regular';
+export { default as IcFluentShieldTask_32Filled } from './IcFluentShieldTask_32Filled';
+export { default as IcFluentShieldTask_32Regular } from './IcFluentShieldTask_32Regular';
+export { default as IcFluentShieldTask_48Filled } from './IcFluentShieldTask_48Filled';
+export { default as IcFluentShieldTask_48Regular } from './IcFluentShieldTask_48Regular';

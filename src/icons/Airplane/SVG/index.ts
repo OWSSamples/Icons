@@ -1,0 +1,12 @@
+export { default as IcFluentAirplane_16Filled } from './IcFluentAirplane_16Filled';
+export { default as IcFluentAirplane_16Regular } from './IcFluentAirplane_16Regular';
+export { default as IcFluentAirplane_20Filled } from './IcFluentAirplane_20Filled';
+export { default as IcFluentAirplane_20Regular } from './IcFluentAirplane_20Regular';
+export { default as IcFluentAirplane_24Filled } from './IcFluentAirplane_24Filled';
+export { default as IcFluentAirplane_24Regular } from './IcFluentAirplane_24Regular';
+export { default as IcFluentAirplane_28Filled } from './IcFluentAirplane_28Filled';
+export { default as IcFluentAirplane_28Regular } from './IcFluentAirplane_28Regular';
+export { default as IcFluentAirplane_32Filled } from './IcFluentAirplane_32Filled';
+export { default as IcFluentAirplane_32Regular } from './IcFluentAirplane_32Regular';
+export { default as IcFluentAirplane_48Filled } from './IcFluentAirplane_48Filled';
+export { default as IcFluentAirplane_48Regular } from './IcFluentAirplane_48Regular';

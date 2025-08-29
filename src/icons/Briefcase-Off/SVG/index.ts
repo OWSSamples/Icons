@@ -1,0 +1,12 @@
+export { default as IcFluentBriefcaseOff_16Filled } from './IcFluentBriefcaseOff_16Filled';
+export { default as IcFluentBriefcaseOff_16Regular } from './IcFluentBriefcaseOff_16Regular';
+export { default as IcFluentBriefcaseOff_20Filled } from './IcFluentBriefcaseOff_20Filled';
+export { default as IcFluentBriefcaseOff_20Regular } from './IcFluentBriefcaseOff_20Regular';
+export { default as IcFluentBriefcaseOff_24Filled } from './IcFluentBriefcaseOff_24Filled';
+export { default as IcFluentBriefcaseOff_24Regular } from './IcFluentBriefcaseOff_24Regular';
+export { default as IcFluentBriefcaseOff_28Filled } from './IcFluentBriefcaseOff_28Filled';
+export { default as IcFluentBriefcaseOff_28Regular } from './IcFluentBriefcaseOff_28Regular';
+export { default as IcFluentBriefcaseOff_32Filled } from './IcFluentBriefcaseOff_32Filled';
+export { default as IcFluentBriefcaseOff_32Regular } from './IcFluentBriefcaseOff_32Regular';
+export { default as IcFluentBriefcaseOff_48Filled } from './IcFluentBriefcaseOff_48Filled';
+export { default as IcFluentBriefcaseOff_48Regular } from './IcFluentBriefcaseOff_48Regular';

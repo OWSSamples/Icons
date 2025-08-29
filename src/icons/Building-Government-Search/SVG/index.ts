@@ -1,0 +1,12 @@
+export { default as IcFluentBuildingGovernmentSearch_16Color } from './IcFluentBuildingGovernmentSearch_16Color';
+export { default as IcFluentBuildingGovernmentSearch_16Filled } from './IcFluentBuildingGovernmentSearch_16Filled';
+export { default as IcFluentBuildingGovernmentSearch_16Regular } from './IcFluentBuildingGovernmentSearch_16Regular';
+export { default as IcFluentBuildingGovernmentSearch_20Color } from './IcFluentBuildingGovernmentSearch_20Color';
+export { default as IcFluentBuildingGovernmentSearch_20Filled } from './IcFluentBuildingGovernmentSearch_20Filled';
+export { default as IcFluentBuildingGovernmentSearch_20Regular } from './IcFluentBuildingGovernmentSearch_20Regular';
+export { default as IcFluentBuildingGovernmentSearch_24Color } from './IcFluentBuildingGovernmentSearch_24Color';
+export { default as IcFluentBuildingGovernmentSearch_24Filled } from './IcFluentBuildingGovernmentSearch_24Filled';
+export { default as IcFluentBuildingGovernmentSearch_24Regular } from './IcFluentBuildingGovernmentSearch_24Regular';
+export { default as IcFluentBuildingGovernmentSearch_32Color } from './IcFluentBuildingGovernmentSearch_32Color';
+export { default as IcFluentBuildingGovernmentSearch_32Filled } from './IcFluentBuildingGovernmentSearch_32Filled';
+export { default as IcFluentBuildingGovernmentSearch_32Regular } from './IcFluentBuildingGovernmentSearch_32Regular';

@@ -1,0 +1,15 @@
+export { default as IcFluentBookmark_16Color } from './IcFluentBookmark_16Color';
+export { default as IcFluentBookmark_16Filled } from './IcFluentBookmark_16Filled';
+export { default as IcFluentBookmark_16Regular } from './IcFluentBookmark_16Regular';
+export { default as IcFluentBookmark_20Color } from './IcFluentBookmark_20Color';
+export { default as IcFluentBookmark_20Filled } from './IcFluentBookmark_20Filled';
+export { default as IcFluentBookmark_20Regular } from './IcFluentBookmark_20Regular';
+export { default as IcFluentBookmark_24Color } from './IcFluentBookmark_24Color';
+export { default as IcFluentBookmark_24Filled } from './IcFluentBookmark_24Filled';
+export { default as IcFluentBookmark_24Regular } from './IcFluentBookmark_24Regular';
+export { default as IcFluentBookmark_28Color } from './IcFluentBookmark_28Color';
+export { default as IcFluentBookmark_28Filled } from './IcFluentBookmark_28Filled';
+export { default as IcFluentBookmark_28Regular } from './IcFluentBookmark_28Regular';
+export { default as IcFluentBookmark_32Color } from './IcFluentBookmark_32Color';
+export { default as IcFluentBookmark_32Filled } from './IcFluentBookmark_32Filled';
+export { default as IcFluentBookmark_32Regular } from './IcFluentBookmark_32Regular';

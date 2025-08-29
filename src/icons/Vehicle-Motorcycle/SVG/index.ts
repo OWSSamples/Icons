@@ -1,0 +1,12 @@
+export { default as IcFluentVehicleMotorcycle_16Filled } from './IcFluentVehicleMotorcycle_16Filled';
+export { default as IcFluentVehicleMotorcycle_16Regular } from './IcFluentVehicleMotorcycle_16Regular';
+export { default as IcFluentVehicleMotorcycle_20Filled } from './IcFluentVehicleMotorcycle_20Filled';
+export { default as IcFluentVehicleMotorcycle_20Regular } from './IcFluentVehicleMotorcycle_20Regular';
+export { default as IcFluentVehicleMotorcycle_24Filled } from './IcFluentVehicleMotorcycle_24Filled';
+export { default as IcFluentVehicleMotorcycle_24Regular } from './IcFluentVehicleMotorcycle_24Regular';
+export { default as IcFluentVehicleMotorcycle_28Filled } from './IcFluentVehicleMotorcycle_28Filled';
+export { default as IcFluentVehicleMotorcycle_28Regular } from './IcFluentVehicleMotorcycle_28Regular';
+export { default as IcFluentVehicleMotorcycle_32Filled } from './IcFluentVehicleMotorcycle_32Filled';
+export { default as IcFluentVehicleMotorcycle_32Regular } from './IcFluentVehicleMotorcycle_32Regular';
+export { default as IcFluentVehicleMotorcycle_48Filled } from './IcFluentVehicleMotorcycle_48Filled';
+export { default as IcFluentVehicleMotorcycle_48Regular } from './IcFluentVehicleMotorcycle_48Regular';

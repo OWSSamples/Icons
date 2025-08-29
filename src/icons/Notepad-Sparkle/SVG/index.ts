@@ -1,0 +1,10 @@
+export { default as IcFluentNotepadSparkle_16Filled } from './IcFluentNotepadSparkle_16Filled';
+export { default as IcFluentNotepadSparkle_16Regular } from './IcFluentNotepadSparkle_16Regular';
+export { default as IcFluentNotepadSparkle_20Filled } from './IcFluentNotepadSparkle_20Filled';
+export { default as IcFluentNotepadSparkle_20Regular } from './IcFluentNotepadSparkle_20Regular';
+export { default as IcFluentNotepadSparkle_24Filled } from './IcFluentNotepadSparkle_24Filled';
+export { default as IcFluentNotepadSparkle_24Regular } from './IcFluentNotepadSparkle_24Regular';
+export { default as IcFluentNotepadSparkle_28Filled } from './IcFluentNotepadSparkle_28Filled';
+export { default as IcFluentNotepadSparkle_28Regular } from './IcFluentNotepadSparkle_28Regular';
+export { default as IcFluentNotepadSparkle_32Filled } from './IcFluentNotepadSparkle_32Filled';
+export { default as IcFluentNotepadSparkle_32Regular } from './IcFluentNotepadSparkle_32Regular';

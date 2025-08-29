@@ -1,0 +1,11 @@
+export { default as IcFluentArrowHookUpRight_16Filled } from './IcFluentArrowHookUpRight_16Filled';
+export { default as IcFluentArrowHookUpRight_16Regular } from './IcFluentArrowHookUpRight_16Regular';
+export { default as IcFluentArrowHookUpRight_20Filled } from './IcFluentArrowHookUpRight_20Filled';
+export { default as IcFluentArrowHookUpRight_20Regular } from './IcFluentArrowHookUpRight_20Regular';
+export { default as IcFluentArrowHookUpRight_24Filled } from './IcFluentArrowHookUpRight_24Filled';
+export { default as IcFluentArrowHookUpRight_24Regular } from './IcFluentArrowHookUpRight_24Regular';
+export { default as IcFluentArrowHookUpRight_28Filled } from './IcFluentArrowHookUpRight_28Filled';
+export { default as IcFluentArrowHookUpRight_28Regular } from './IcFluentArrowHookUpRight_28Regular';
+export { default as IcFluentArrowHookUpRight_32Filled } from './IcFluentArrowHookUpRight_32Filled';
+export { default as IcFluentArrowHookUpRight_32Light } from './IcFluentArrowHookUpRight_32Light';
+export { default as IcFluentArrowHookUpRight_32Regular } from './IcFluentArrowHookUpRight_32Regular';

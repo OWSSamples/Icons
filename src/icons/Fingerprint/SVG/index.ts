@@ -1,0 +1,10 @@
+export { default as IcFluentFingerprint_16Filled } from './IcFluentFingerprint_16Filled';
+export { default as IcFluentFingerprint_16Regular } from './IcFluentFingerprint_16Regular';
+export { default as IcFluentFingerprint_20Filled } from './IcFluentFingerprint_20Filled';
+export { default as IcFluentFingerprint_20Regular } from './IcFluentFingerprint_20Regular';
+export { default as IcFluentFingerprint_24Filled } from './IcFluentFingerprint_24Filled';
+export { default as IcFluentFingerprint_24Regular } from './IcFluentFingerprint_24Regular';
+export { default as IcFluentFingerprint_32Filled } from './IcFluentFingerprint_32Filled';
+export { default as IcFluentFingerprint_32Regular } from './IcFluentFingerprint_32Regular';
+export { default as IcFluentFingerprint_48Filled } from './IcFluentFingerprint_48Filled';
+export { default as IcFluentFingerprint_48Regular } from './IcFluentFingerprint_48Regular';

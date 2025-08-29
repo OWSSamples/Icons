@@ -1,0 +1,9 @@
+export { default as IcFluentVault_16Color } from './IcFluentVault_16Color';
+export { default as IcFluentVault_16Filled } from './IcFluentVault_16Filled';
+export { default as IcFluentVault_16Regular } from './IcFluentVault_16Regular';
+export { default as IcFluentVault_20Color } from './IcFluentVault_20Color';
+export { default as IcFluentVault_20Filled } from './IcFluentVault_20Filled';
+export { default as IcFluentVault_20Regular } from './IcFluentVault_20Regular';
+export { default as IcFluentVault_24Color } from './IcFluentVault_24Color';
+export { default as IcFluentVault_24Filled } from './IcFluentVault_24Filled';
+export { default as IcFluentVault_24Regular } from './IcFluentVault_24Regular';

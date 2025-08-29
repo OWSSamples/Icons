@@ -1,0 +1,10 @@
+export { default as IcFluentBrain_20Filled } from './IcFluentBrain_20Filled';
+export { default as IcFluentBrain_20Regular } from './IcFluentBrain_20Regular';
+export { default as IcFluentBrain_24Filled } from './IcFluentBrain_24Filled';
+export { default as IcFluentBrain_24Regular } from './IcFluentBrain_24Regular';
+export { default as IcFluentBrain_28Filled } from './IcFluentBrain_28Filled';
+export { default as IcFluentBrain_28Regular } from './IcFluentBrain_28Regular';
+export { default as IcFluentBrain_32Filled } from './IcFluentBrain_32Filled';
+export { default as IcFluentBrain_32Regular } from './IcFluentBrain_32Regular';
+export { default as IcFluentBrain_48Filled } from './IcFluentBrain_48Filled';
+export { default as IcFluentBrain_48Regular } from './IcFluentBrain_48Regular';

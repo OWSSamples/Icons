@@ -1,0 +1,12 @@
+export { default as IcFluentPenOff_16Filled } from './IcFluentPenOff_16Filled';
+export { default as IcFluentPenOff_16Regular } from './IcFluentPenOff_16Regular';
+export { default as IcFluentPenOff_20Filled } from './IcFluentPenOff_20Filled';
+export { default as IcFluentPenOff_20Regular } from './IcFluentPenOff_20Regular';
+export { default as IcFluentPenOff_24Filled } from './IcFluentPenOff_24Filled';
+export { default as IcFluentPenOff_24Regular } from './IcFluentPenOff_24Regular';
+export { default as IcFluentPenOff_28Filled } from './IcFluentPenOff_28Filled';
+export { default as IcFluentPenOff_28Regular } from './IcFluentPenOff_28Regular';
+export { default as IcFluentPenOff_32Filled } from './IcFluentPenOff_32Filled';
+export { default as IcFluentPenOff_32Regular } from './IcFluentPenOff_32Regular';
+export { default as IcFluentPenOff_48Filled } from './IcFluentPenOff_48Filled';
+export { default as IcFluentPenOff_48Regular } from './IcFluentPenOff_48Regular';

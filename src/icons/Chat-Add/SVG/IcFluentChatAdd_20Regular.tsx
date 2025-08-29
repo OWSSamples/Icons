@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentChatAdd_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M6.5 9.5a.5.5 0 0 0 0 1h3v3a.5.5 0 0 0 1 0v-3h3a.5.5 0 0 0 0-1h-3v-3a.5.5 0 0 0-1 0v3zM18 10a8 8 0 1 0-16 0l.007.346.026.382a8 8 0 0 0 .829 2.887l.063.12-.91 3.644-.014.083v.082a.5.5 0 0 0 .62.441l3.645-.91.12.064A8 8 0 0 0 18 10M3 10a7 7 0 1 1 3.577 6.108l-.087-.039-.091-.021a.5.5 0 0 0-.188.01l-3.024.754.756-3.02.014-.095a.5.5 0 0 0-.063-.272A6.97 6.97 0 0 1 3 10"/>
+  </IconBase>
+);
+
+export default IcFluentChatAdd_20Regular;

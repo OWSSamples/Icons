@@ -1,0 +1,12 @@
+export { default as IcFluentPhoneLaptop_16Color } from './IcFluentPhoneLaptop_16Color';
+export { default as IcFluentPhoneLaptop_16Filled } from './IcFluentPhoneLaptop_16Filled';
+export { default as IcFluentPhoneLaptop_16Regular } from './IcFluentPhoneLaptop_16Regular';
+export { default as IcFluentPhoneLaptop_20Color } from './IcFluentPhoneLaptop_20Color';
+export { default as IcFluentPhoneLaptop_20Filled } from './IcFluentPhoneLaptop_20Filled';
+export { default as IcFluentPhoneLaptop_20Regular } from './IcFluentPhoneLaptop_20Regular';
+export { default as IcFluentPhoneLaptop_24Color } from './IcFluentPhoneLaptop_24Color';
+export { default as IcFluentPhoneLaptop_24Filled } from './IcFluentPhoneLaptop_24Filled';
+export { default as IcFluentPhoneLaptop_24Regular } from './IcFluentPhoneLaptop_24Regular';
+export { default as IcFluentPhoneLaptop_32Color } from './IcFluentPhoneLaptop_32Color';
+export { default as IcFluentPhoneLaptop_32Filled } from './IcFluentPhoneLaptop_32Filled';
+export { default as IcFluentPhoneLaptop_32Regular } from './IcFluentPhoneLaptop_32Regular';

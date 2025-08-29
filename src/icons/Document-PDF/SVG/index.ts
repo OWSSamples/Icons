@@ -1,0 +1,10 @@
+export { default as IcFluentDocumentPdf_16Filled } from './IcFluentDocumentPdf_16Filled';
+export { default as IcFluentDocumentPdf_16Regular } from './IcFluentDocumentPdf_16Regular';
+export { default as IcFluentDocumentPdf_20Filled } from './IcFluentDocumentPdf_20Filled';
+export { default as IcFluentDocumentPdf_20Regular } from './IcFluentDocumentPdf_20Regular';
+export { default as IcFluentDocumentPdf_24Filled } from './IcFluentDocumentPdf_24Filled';
+export { default as IcFluentDocumentPdf_24Regular } from './IcFluentDocumentPdf_24Regular';
+export { default as IcFluentDocumentPdf_28Filled } from './IcFluentDocumentPdf_28Filled';
+export { default as IcFluentDocumentPdf_28Regular } from './IcFluentDocumentPdf_28Regular';
+export { default as IcFluentDocumentPdf_32Filled } from './IcFluentDocumentPdf_32Filled';
+export { default as IcFluentDocumentPdf_32Regular } from './IcFluentDocumentPdf_32Regular';

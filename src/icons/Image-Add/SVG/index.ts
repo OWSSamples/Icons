@@ -1,0 +1,11 @@
+export { default as IcFluentImageAdd_20Filled } from './IcFluentImageAdd_20Filled';
+export { default as IcFluentImageAdd_20Regular } from './IcFluentImageAdd_20Regular';
+export { default as IcFluentImageAdd_24Filled } from './IcFluentImageAdd_24Filled';
+export { default as IcFluentImageAdd_24Regular } from './IcFluentImageAdd_24Regular';
+export { default as IcFluentImageAdd_28Filled } from './IcFluentImageAdd_28Filled';
+export { default as IcFluentImageAdd_28Regular } from './IcFluentImageAdd_28Regular';
+export { default as IcFluentImageAdd_32Filled } from './IcFluentImageAdd_32Filled';
+export { default as IcFluentImageAdd_32Light } from './IcFluentImageAdd_32Light';
+export { default as IcFluentImageAdd_32Regular } from './IcFluentImageAdd_32Regular';
+export { default as IcFluentImageAdd_48Filled } from './IcFluentImageAdd_48Filled';
+export { default as IcFluentImageAdd_48Regular } from './IcFluentImageAdd_48Regular';

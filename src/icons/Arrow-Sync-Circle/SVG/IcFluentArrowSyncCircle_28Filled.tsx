@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentArrowSyncCircle_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M2 14C2 7.373 7.373 2 14 2s12 5.373 12 12-5.373 12-12 12S2 20.627 2 14m19-4.25a.75.75 0 0 0-1.5 0v1.848a6.002 6.002 0 0 0-10.609-.746.75.75 0 0 0 1.277.788 4.502 4.502 0 0 1 8.076.86H16.75a.75.75 0 0 0 0 1.5h3.5a.75.75 0 0 0 .75-.75zM7.75 19a.75.75 0 0 0 .75-.75v-1.848a6.001 6.001 0 0 0 10.61.745.75.75 0 1 0-1.277-.788 4.502 4.502 0 0 1-8.077-.86h1.494a.75.75 0 0 0 0-1.499h-3.5a.75.75 0 0 0-.75.75v3.5c0 .414.336.75.75.75"/>
+  </IconBase>
+);
+
+export default IcFluentArrowSyncCircle_28Filled;

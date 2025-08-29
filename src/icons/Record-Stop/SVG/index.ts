@@ -1,0 +1,14 @@
+export { default as IcFluentRecordStop_12Filled } from './IcFluentRecordStop_12Filled';
+export { default as IcFluentRecordStop_12Regular } from './IcFluentRecordStop_12Regular';
+export { default as IcFluentRecordStop_16Filled } from './IcFluentRecordStop_16Filled';
+export { default as IcFluentRecordStop_16Regular } from './IcFluentRecordStop_16Regular';
+export { default as IcFluentRecordStop_20Filled } from './IcFluentRecordStop_20Filled';
+export { default as IcFluentRecordStop_20Regular } from './IcFluentRecordStop_20Regular';
+export { default as IcFluentRecordStop_24Filled } from './IcFluentRecordStop_24Filled';
+export { default as IcFluentRecordStop_24Regular } from './IcFluentRecordStop_24Regular';
+export { default as IcFluentRecordStop_28Filled } from './IcFluentRecordStop_28Filled';
+export { default as IcFluentRecordStop_28Regular } from './IcFluentRecordStop_28Regular';
+export { default as IcFluentRecordStop_32Filled } from './IcFluentRecordStop_32Filled';
+export { default as IcFluentRecordStop_32Regular } from './IcFluentRecordStop_32Regular';
+export { default as IcFluentRecordStop_48Filled } from './IcFluentRecordStop_48Filled';
+export { default as IcFluentRecordStop_48Regular } from './IcFluentRecordStop_48Regular';

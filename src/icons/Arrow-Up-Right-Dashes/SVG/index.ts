@@ -1,0 +1,14 @@
+export { default as IcFluentArrowUpRightDashes_12Filled } from './IcFluentArrowUpRightDashes_12Filled';
+export { default as IcFluentArrowUpRightDashes_12Regular } from './IcFluentArrowUpRightDashes_12Regular';
+export { default as IcFluentArrowUpRightDashes_16Filled } from './IcFluentArrowUpRightDashes_16Filled';
+export { default as IcFluentArrowUpRightDashes_16Regular } from './IcFluentArrowUpRightDashes_16Regular';
+export { default as IcFluentArrowUpRightDashes_20Filled } from './IcFluentArrowUpRightDashes_20Filled';
+export { default as IcFluentArrowUpRightDashes_20Regular } from './IcFluentArrowUpRightDashes_20Regular';
+export { default as IcFluentArrowUpRightDashes_24Filled } from './IcFluentArrowUpRightDashes_24Filled';
+export { default as IcFluentArrowUpRightDashes_24Regular } from './IcFluentArrowUpRightDashes_24Regular';
+export { default as IcFluentArrowUpRightDashes_28Filled } from './IcFluentArrowUpRightDashes_28Filled';
+export { default as IcFluentArrowUpRightDashes_28Regular } from './IcFluentArrowUpRightDashes_28Regular';
+export { default as IcFluentArrowUpRightDashes_32Filled } from './IcFluentArrowUpRightDashes_32Filled';
+export { default as IcFluentArrowUpRightDashes_32Regular } from './IcFluentArrowUpRightDashes_32Regular';
+export { default as IcFluentArrowUpRightDashes_48Filled } from './IcFluentArrowUpRightDashes_48Filled';
+export { default as IcFluentArrowUpRightDashes_48Regular } from './IcFluentArrowUpRightDashes_48Regular';

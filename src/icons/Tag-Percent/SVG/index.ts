@@ -1,0 +1,12 @@
+export { default as IcFluentTagPercent_16Filled } from './IcFluentTagPercent_16Filled';
+export { default as IcFluentTagPercent_16Regular } from './IcFluentTagPercent_16Regular';
+export { default as IcFluentTagPercent_20Filled } from './IcFluentTagPercent_20Filled';
+export { default as IcFluentTagPercent_20Regular } from './IcFluentTagPercent_20Regular';
+export { default as IcFluentTagPercent_24Filled } from './IcFluentTagPercent_24Filled';
+export { default as IcFluentTagPercent_24Regular } from './IcFluentTagPercent_24Regular';
+export { default as IcFluentTagPercent_28Filled } from './IcFluentTagPercent_28Filled';
+export { default as IcFluentTagPercent_28Regular } from './IcFluentTagPercent_28Regular';
+export { default as IcFluentTagPercent_32Filled } from './IcFluentTagPercent_32Filled';
+export { default as IcFluentTagPercent_32Regular } from './IcFluentTagPercent_32Regular';
+export { default as IcFluentTagPercent_48Filled } from './IcFluentTagPercent_48Filled';
+export { default as IcFluentTagPercent_48Regular } from './IcFluentTagPercent_48Regular';

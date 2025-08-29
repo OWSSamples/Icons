@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentCalendarEdit_32Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M7.5 3A4.5 4.5 0 0 0 3 7.5V9h26V7.5A4.5 4.5 0 0 0 24.5 3zM29 11H3v13.5A4.5 4.5 0 0 0 7.5 29h7.178l.694-2.68a4.16 4.16 0 0 1 1.073-1.887l8.567-8.64A4.37 4.37 0 0 1 29 14.586zm-17 5.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M10.5 23a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3m7-1.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0M16 18a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3m7-1.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m-1.465 12.967 8.61-8.543a2.88 2.88 0 0 0 .071-4.017 2.88 2.88 0 0 0-4.144-.057l-8.567 8.64c-.331.334-.568.75-.686 1.205l-.79 3.052a1 1 0 0 0 1.217 1.219l3.02-.778a2.8 2.8 0 0 0 1.269-.721"/>
+  </IconBase>
+);
+
+export default IcFluentCalendarEdit_32Filled;

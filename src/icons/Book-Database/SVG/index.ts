@@ -1,0 +1,12 @@
+export { default as IcFluentBookDatabase_16Color } from './IcFluentBookDatabase_16Color';
+export { default as IcFluentBookDatabase_16Filled } from './IcFluentBookDatabase_16Filled';
+export { default as IcFluentBookDatabase_16Regular } from './IcFluentBookDatabase_16Regular';
+export { default as IcFluentBookDatabase_20Color } from './IcFluentBookDatabase_20Color';
+export { default as IcFluentBookDatabase_20Filled } from './IcFluentBookDatabase_20Filled';
+export { default as IcFluentBookDatabase_20Regular } from './IcFluentBookDatabase_20Regular';
+export { default as IcFluentBookDatabase_24Color } from './IcFluentBookDatabase_24Color';
+export { default as IcFluentBookDatabase_24Filled } from './IcFluentBookDatabase_24Filled';
+export { default as IcFluentBookDatabase_24Regular } from './IcFluentBookDatabase_24Regular';
+export { default as IcFluentBookDatabase_32Color } from './IcFluentBookDatabase_32Color';
+export { default as IcFluentBookDatabase_32Filled } from './IcFluentBookDatabase_32Filled';
+export { default as IcFluentBookDatabase_32Regular } from './IcFluentBookDatabase_32Regular';

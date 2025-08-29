@@ -1,0 +1,59 @@
+name: Release (Self-Hosted)
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    runs-on: self-hosted # ¡GRATIS!
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Type check
+        run: npm run type-check
+
+      - name: Publish to NPM
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+      - name: Create GitHub Release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          body: |
+            ## 🎉 New Release
+
+            ### 📦 Version: ${{ github.ref_name }}
+
+            ### 📊 Statistics
+            - Total Icons: $(find src/icons -name "*.tsx" | wc -l)
+            - Build Date: $(date)
+
+            ### 📝 Changes
+            See CHANGELOG.md for detailed changes.
+
+            ### 🚀 Installation
+            ```bash
+            npm install @opendex-origon/icons@${{ github.ref_name }}
+            ```
+          draft: false
+          prerelease: false

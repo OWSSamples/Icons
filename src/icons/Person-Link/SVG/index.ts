@@ -1,0 +1,12 @@
+export { default as IcFluentPersonLink_16Filled } from './IcFluentPersonLink_16Filled';
+export { default as IcFluentPersonLink_16Regular } from './IcFluentPersonLink_16Regular';
+export { default as IcFluentPersonLink_20Filled } from './IcFluentPersonLink_20Filled';
+export { default as IcFluentPersonLink_20Regular } from './IcFluentPersonLink_20Regular';
+export { default as IcFluentPersonLink_24Filled } from './IcFluentPersonLink_24Filled';
+export { default as IcFluentPersonLink_24Regular } from './IcFluentPersonLink_24Regular';
+export { default as IcFluentPersonLink_28Filled } from './IcFluentPersonLink_28Filled';
+export { default as IcFluentPersonLink_28Regular } from './IcFluentPersonLink_28Regular';
+export { default as IcFluentPersonLink_32Filled } from './IcFluentPersonLink_32Filled';
+export { default as IcFluentPersonLink_32Regular } from './IcFluentPersonLink_32Regular';
+export { default as IcFluentPersonLink_48Filled } from './IcFluentPersonLink_48Filled';
+export { default as IcFluentPersonLink_48Regular } from './IcFluentPersonLink_48Regular';

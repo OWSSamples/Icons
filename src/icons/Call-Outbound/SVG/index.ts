@@ -1,0 +1,10 @@
+export { default as IcFluentCallOutbound_16Filled } from './IcFluentCallOutbound_16Filled';
+export { default as IcFluentCallOutbound_16Regular } from './IcFluentCallOutbound_16Regular';
+export { default as IcFluentCallOutbound_20Filled } from './IcFluentCallOutbound_20Filled';
+export { default as IcFluentCallOutbound_20Regular } from './IcFluentCallOutbound_20Regular';
+export { default as IcFluentCallOutbound_24Filled } from './IcFluentCallOutbound_24Filled';
+export { default as IcFluentCallOutbound_24Regular } from './IcFluentCallOutbound_24Regular';
+export { default as IcFluentCallOutbound_28Filled } from './IcFluentCallOutbound_28Filled';
+export { default as IcFluentCallOutbound_28Regular } from './IcFluentCallOutbound_28Regular';
+export { default as IcFluentCallOutbound_48Filled } from './IcFluentCallOutbound_48Filled';
+export { default as IcFluentCallOutbound_48Regular } from './IcFluentCallOutbound_48Regular';

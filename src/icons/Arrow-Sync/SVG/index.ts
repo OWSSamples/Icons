@@ -1,0 +1,11 @@
+export { default as IcFluentArrowSync_12Filled } from './IcFluentArrowSync_12Filled';
+export { default as IcFluentArrowSync_12Regular } from './IcFluentArrowSync_12Regular';
+export { default as IcFluentArrowSync_16Color } from './IcFluentArrowSync_16Color';
+export { default as IcFluentArrowSync_16Filled } from './IcFluentArrowSync_16Filled';
+export { default as IcFluentArrowSync_16Regular } from './IcFluentArrowSync_16Regular';
+export { default as IcFluentArrowSync_20Color } from './IcFluentArrowSync_20Color';
+export { default as IcFluentArrowSync_20Filled } from './IcFluentArrowSync_20Filled';
+export { default as IcFluentArrowSync_20Regular } from './IcFluentArrowSync_20Regular';
+export { default as IcFluentArrowSync_24Color } from './IcFluentArrowSync_24Color';
+export { default as IcFluentArrowSync_24Filled } from './IcFluentArrowSync_24Filled';
+export { default as IcFluentArrowSync_24Regular } from './IcFluentArrowSync_24Regular';

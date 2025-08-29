@@ -1,0 +1,10 @@
+export { default as IcFluentCouch_12Filled } from './IcFluentCouch_12Filled';
+export { default as IcFluentCouch_12Regular } from './IcFluentCouch_12Regular';
+export { default as IcFluentCouch_20Filled } from './IcFluentCouch_20Filled';
+export { default as IcFluentCouch_20Regular } from './IcFluentCouch_20Regular';
+export { default as IcFluentCouch_24Filled } from './IcFluentCouch_24Filled';
+export { default as IcFluentCouch_24Regular } from './IcFluentCouch_24Regular';
+export { default as IcFluentCouch_32Filled } from './IcFluentCouch_32Filled';
+export { default as IcFluentCouch_32Regular } from './IcFluentCouch_32Regular';
+export { default as IcFluentCouch_48Filled } from './IcFluentCouch_48Filled';
+export { default as IcFluentCouch_48Regular } from './IcFluentCouch_48Regular';

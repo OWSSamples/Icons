@@ -1,0 +1,12 @@
+export { default as IcFluentPanelLeftText_16Filled } from './IcFluentPanelLeftText_16Filled';
+export { default as IcFluentPanelLeftText_16Regular } from './IcFluentPanelLeftText_16Regular';
+export { default as IcFluentPanelLeftText_20Filled } from './IcFluentPanelLeftText_20Filled';
+export { default as IcFluentPanelLeftText_20Regular } from './IcFluentPanelLeftText_20Regular';
+export { default as IcFluentPanelLeftText_24Filled } from './IcFluentPanelLeftText_24Filled';
+export { default as IcFluentPanelLeftText_24Regular } from './IcFluentPanelLeftText_24Regular';
+export { default as IcFluentPanelLeftText_28Filled } from './IcFluentPanelLeftText_28Filled';
+export { default as IcFluentPanelLeftText_28Regular } from './IcFluentPanelLeftText_28Regular';
+export { default as IcFluentPanelLeftText_32Filled } from './IcFluentPanelLeftText_32Filled';
+export { default as IcFluentPanelLeftText_32Regular } from './IcFluentPanelLeftText_32Regular';
+export { default as IcFluentPanelLeftText_48Filled } from './IcFluentPanelLeftText_48Filled';
+export { default as IcFluentPanelLeftText_48Regular } from './IcFluentPanelLeftText_48Regular';

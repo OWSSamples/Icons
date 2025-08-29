@@ -1,0 +1,12 @@
+export { default as IcFluentMicSync_16Filled } from './IcFluentMicSync_16Filled';
+export { default as IcFluentMicSync_16Regular } from './IcFluentMicSync_16Regular';
+export { default as IcFluentMicSync_20Filled } from './IcFluentMicSync_20Filled';
+export { default as IcFluentMicSync_20Regular } from './IcFluentMicSync_20Regular';
+export { default as IcFluentMicSync_24Filled } from './IcFluentMicSync_24Filled';
+export { default as IcFluentMicSync_24Regular } from './IcFluentMicSync_24Regular';
+export { default as IcFluentMicSync_28Filled } from './IcFluentMicSync_28Filled';
+export { default as IcFluentMicSync_28Regular } from './IcFluentMicSync_28Regular';
+export { default as IcFluentMicSync_32Filled } from './IcFluentMicSync_32Filled';
+export { default as IcFluentMicSync_32Regular } from './IcFluentMicSync_32Regular';
+export { default as IcFluentMicSync_48Filled } from './IcFluentMicSync_48Filled';
+export { default as IcFluentMicSync_48Regular } from './IcFluentMicSync_48Regular';

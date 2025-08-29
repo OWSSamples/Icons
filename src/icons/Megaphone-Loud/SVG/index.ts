@@ -1,0 +1,17 @@
+export { default as IcFluentMegaphoneLoud_16Color } from './IcFluentMegaphoneLoud_16Color';
+export { default as IcFluentMegaphoneLoud_16Filled } from './IcFluentMegaphoneLoud_16Filled';
+export { default as IcFluentMegaphoneLoud_16Regular } from './IcFluentMegaphoneLoud_16Regular';
+export { default as IcFluentMegaphoneLoud_20Color } from './IcFluentMegaphoneLoud_20Color';
+export { default as IcFluentMegaphoneLoud_20Filled } from './IcFluentMegaphoneLoud_20Filled';
+export { default as IcFluentMegaphoneLoud_20Regular } from './IcFluentMegaphoneLoud_20Regular';
+export { default as IcFluentMegaphoneLoud_24Color } from './IcFluentMegaphoneLoud_24Color';
+export { default as IcFluentMegaphoneLoud_24Filled } from './IcFluentMegaphoneLoud_24Filled';
+export { default as IcFluentMegaphoneLoud_24Regular } from './IcFluentMegaphoneLoud_24Regular';
+export { default as IcFluentMegaphoneLoud_28Color } from './IcFluentMegaphoneLoud_28Color';
+export { default as IcFluentMegaphoneLoud_28Filled } from './IcFluentMegaphoneLoud_28Filled';
+export { default as IcFluentMegaphoneLoud_28Regular } from './IcFluentMegaphoneLoud_28Regular';
+export { default as IcFluentMegaphoneLoud_32Color } from './IcFluentMegaphoneLoud_32Color';
+export { default as IcFluentMegaphoneLoud_32Filled } from './IcFluentMegaphoneLoud_32Filled';
+export { default as IcFluentMegaphoneLoud_32Regular } from './IcFluentMegaphoneLoud_32Regular';
+export { default as IcFluentMegaphoneLoud_48Filled } from './IcFluentMegaphoneLoud_48Filled';
+export { default as IcFluentMegaphoneLoud_48Regular } from './IcFluentMegaphoneLoud_48Regular';

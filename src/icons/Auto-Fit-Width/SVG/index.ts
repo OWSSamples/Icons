@@ -1,0 +1,9 @@
+export { default as IcFluentAutoFitWidth_20Filled } from './IcFluentAutoFitWidth_20Filled';
+export { default as IcFluentAutoFitWidth_20Regular } from './IcFluentAutoFitWidth_20Regular';
+export { default as IcFluentAutoFitWidth_24Filled } from './IcFluentAutoFitWidth_24Filled';
+export { default as IcFluentAutoFitWidth_24Regular } from './IcFluentAutoFitWidth_24Regular';
+export { default as IcFluentAutoFitWidth_28Filled } from './IcFluentAutoFitWidth_28Filled';
+export { default as IcFluentAutoFitWidth_28Regular } from './IcFluentAutoFitWidth_28Regular';
+export { default as IcFluentAutoFitWidth_32Filled } from './IcFluentAutoFitWidth_32Filled';
+export { default as IcFluentAutoFitWidth_32Light } from './IcFluentAutoFitWidth_32Light';
+export { default as IcFluentAutoFitWidth_32Regular } from './IcFluentAutoFitWidth_32Regular';

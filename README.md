@@ -67,6 +67,22 @@ function App() {
 }
 ```
 
+## 📖 Documentación
+
+Para obtener información detallada sobre el uso de la biblioteca, consulta la documentación completa:
+
+### 🚀 **Guías Principales**
+- [📋 Lista Completa de Iconos](ICON_LIST.md) - Todos los 4,806 iconos disponibles
+- [📊 Resumen de Iconos](ICON_SUMMARY.md) - Estadísticas y categorías
+- [🔍 Índice de Búsqueda Rápida](INDICE_BUSQUEDA_RAPIDA.md) - Encuentra iconos por función, estilo y caso de uso
+- [🚀 Guía de Exportaciones](GUIA_EXPORTACIONES.md) - Cómo importar y usar iconos fácilmente
+
+### 💡 **Recursos Prácticos**
+- [🚀 Guía de Búsqueda Rápida](GUIA_BUSQUEDA_RAPIDA.md) - Métodos de búsqueda avanzados
+- [💡 Ejemplos Prácticos](EJEMPLOS_PRACTICOS.md) - Casos de uso detallados
+- [🔧 Guía de Desarrollo](GUIA_DESARROLLO.md) - Contribuir al proyecto
+- [📚 Documentación Completa](DOCUMENTACION_COMPLETA.md) - Guía completa de uso
+
 ## 🎨 Categorías de Iconos
 
 ### UI Basics

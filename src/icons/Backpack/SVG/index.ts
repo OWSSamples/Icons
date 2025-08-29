@@ -1,0 +1,14 @@
+export { default as IcFluentBackpack_12Filled } from './IcFluentBackpack_12Filled';
+export { default as IcFluentBackpack_12Regular } from './IcFluentBackpack_12Regular';
+export { default as IcFluentBackpack_16Filled } from './IcFluentBackpack_16Filled';
+export { default as IcFluentBackpack_16Regular } from './IcFluentBackpack_16Regular';
+export { default as IcFluentBackpack_20Filled } from './IcFluentBackpack_20Filled';
+export { default as IcFluentBackpack_20Regular } from './IcFluentBackpack_20Regular';
+export { default as IcFluentBackpack_24Filled } from './IcFluentBackpack_24Filled';
+export { default as IcFluentBackpack_24Regular } from './IcFluentBackpack_24Regular';
+export { default as IcFluentBackpack_28Filled } from './IcFluentBackpack_28Filled';
+export { default as IcFluentBackpack_28Regular } from './IcFluentBackpack_28Regular';
+export { default as IcFluentBackpack_32Filled } from './IcFluentBackpack_32Filled';
+export { default as IcFluentBackpack_32Regular } from './IcFluentBackpack_32Regular';
+export { default as IcFluentBackpack_48Filled } from './IcFluentBackpack_48Filled';
+export { default as IcFluentBackpack_48Regular } from './IcFluentBackpack_48Regular';

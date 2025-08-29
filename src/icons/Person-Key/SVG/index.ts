@@ -1,0 +1,9 @@
+export { default as IcFluentPersonKey_20Color } from './IcFluentPersonKey_20Color';
+export { default as IcFluentPersonKey_20Filled } from './IcFluentPersonKey_20Filled';
+export { default as IcFluentPersonKey_20Regular } from './IcFluentPersonKey_20Regular';
+export { default as IcFluentPersonKey_24Color } from './IcFluentPersonKey_24Color';
+export { default as IcFluentPersonKey_24Filled } from './IcFluentPersonKey_24Filled';
+export { default as IcFluentPersonKey_24Regular } from './IcFluentPersonKey_24Regular';
+export { default as IcFluentPersonKey_32Color } from './IcFluentPersonKey_32Color';
+export { default as IcFluentPersonKey_32Filled } from './IcFluentPersonKey_32Filled';
+export { default as IcFluentPersonKey_32Regular } from './IcFluentPersonKey_32Regular';

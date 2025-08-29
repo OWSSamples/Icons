@@ -1,0 +1,17 @@
+export { default as IcFluentApprovalsApp_16Color } from './IcFluentApprovalsApp_16Color';
+export { default as IcFluentApprovalsApp_16Filled } from './IcFluentApprovalsApp_16Filled';
+export { default as IcFluentApprovalsApp_16Regular } from './IcFluentApprovalsApp_16Regular';
+export { default as IcFluentApprovalsApp_20Color } from './IcFluentApprovalsApp_20Color';
+export { default as IcFluentApprovalsApp_20Filled } from './IcFluentApprovalsApp_20Filled';
+export { default as IcFluentApprovalsApp_20Regular } from './IcFluentApprovalsApp_20Regular';
+export { default as IcFluentApprovalsApp_24Color } from './IcFluentApprovalsApp_24Color';
+export { default as IcFluentApprovalsApp_24Filled } from './IcFluentApprovalsApp_24Filled';
+export { default as IcFluentApprovalsApp_24Regular } from './IcFluentApprovalsApp_24Regular';
+export { default as IcFluentApprovalsApp_28Color } from './IcFluentApprovalsApp_28Color';
+export { default as IcFluentApprovalsApp_28Filled } from './IcFluentApprovalsApp_28Filled';
+export { default as IcFluentApprovalsApp_28Regular } from './IcFluentApprovalsApp_28Regular';
+export { default as IcFluentApprovalsApp_32Color } from './IcFluentApprovalsApp_32Color';
+export { default as IcFluentApprovalsApp_32Filled } from './IcFluentApprovalsApp_32Filled';
+export { default as IcFluentApprovalsApp_32Regular } from './IcFluentApprovalsApp_32Regular';
+export { default as IcFluentApprovalsApp_48Filled } from './IcFluentApprovalsApp_48Filled';
+export { default as IcFluentApprovalsApp_48Regular } from './IcFluentApprovalsApp_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentDoctor_12Filled } from './IcFluentDoctor_12Filled';
+export { default as IcFluentDoctor_12Regular } from './IcFluentDoctor_12Regular';
+export { default as IcFluentDoctor_16Filled } from './IcFluentDoctor_16Filled';
+export { default as IcFluentDoctor_16Regular } from './IcFluentDoctor_16Regular';
+export { default as IcFluentDoctor_20Filled } from './IcFluentDoctor_20Filled';
+export { default as IcFluentDoctor_20Regular } from './IcFluentDoctor_20Regular';
+export { default as IcFluentDoctor_24Filled } from './IcFluentDoctor_24Filled';
+export { default as IcFluentDoctor_24Regular } from './IcFluentDoctor_24Regular';
+export { default as IcFluentDoctor_28Filled } from './IcFluentDoctor_28Filled';
+export { default as IcFluentDoctor_28Regular } from './IcFluentDoctor_28Regular';
+export { default as IcFluentDoctor_48Filled } from './IcFluentDoctor_48Filled';
+export { default as IcFluentDoctor_48Regular } from './IcFluentDoctor_48Regular';

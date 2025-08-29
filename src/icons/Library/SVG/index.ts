@@ -1,0 +1,15 @@
+export { default as IcFluentLibrary_16Color } from './IcFluentLibrary_16Color';
+export { default as IcFluentLibrary_16Filled } from './IcFluentLibrary_16Filled';
+export { default as IcFluentLibrary_16Regular } from './IcFluentLibrary_16Regular';
+export { default as IcFluentLibrary_20Color } from './IcFluentLibrary_20Color';
+export { default as IcFluentLibrary_20Filled } from './IcFluentLibrary_20Filled';
+export { default as IcFluentLibrary_20Regular } from './IcFluentLibrary_20Regular';
+export { default as IcFluentLibrary_24Color } from './IcFluentLibrary_24Color';
+export { default as IcFluentLibrary_24Filled } from './IcFluentLibrary_24Filled';
+export { default as IcFluentLibrary_24Regular } from './IcFluentLibrary_24Regular';
+export { default as IcFluentLibrary_28Color } from './IcFluentLibrary_28Color';
+export { default as IcFluentLibrary_28Filled } from './IcFluentLibrary_28Filled';
+export { default as IcFluentLibrary_28Regular } from './IcFluentLibrary_28Regular';
+export { default as IcFluentLibrary_32Color } from './IcFluentLibrary_32Color';
+export { default as IcFluentLibrary_32Filled } from './IcFluentLibrary_32Filled';
+export { default as IcFluentLibrary_32Regular } from './IcFluentLibrary_32Regular';

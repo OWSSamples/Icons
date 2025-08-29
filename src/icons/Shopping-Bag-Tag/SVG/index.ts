@@ -1,0 +1,12 @@
+export { default as IcFluentShoppingBagTag_16Filled } from './IcFluentShoppingBagTag_16Filled';
+export { default as IcFluentShoppingBagTag_16Regular } from './IcFluentShoppingBagTag_16Regular';
+export { default as IcFluentShoppingBagTag_20Filled } from './IcFluentShoppingBagTag_20Filled';
+export { default as IcFluentShoppingBagTag_20Regular } from './IcFluentShoppingBagTag_20Regular';
+export { default as IcFluentShoppingBagTag_24Filled } from './IcFluentShoppingBagTag_24Filled';
+export { default as IcFluentShoppingBagTag_24Regular } from './IcFluentShoppingBagTag_24Regular';
+export { default as IcFluentShoppingBagTag_28Filled } from './IcFluentShoppingBagTag_28Filled';
+export { default as IcFluentShoppingBagTag_28Regular } from './IcFluentShoppingBagTag_28Regular';
+export { default as IcFluentShoppingBagTag_32Filled } from './IcFluentShoppingBagTag_32Filled';
+export { default as IcFluentShoppingBagTag_32Regular } from './IcFluentShoppingBagTag_32Regular';
+export { default as IcFluentShoppingBagTag_48Filled } from './IcFluentShoppingBagTag_48Filled';
+export { default as IcFluentShoppingBagTag_48Regular } from './IcFluentShoppingBagTag_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentVehicleCarCollision_16Filled } from './IcFluentVehicleCarCollision_16Filled';
+export { default as IcFluentVehicleCarCollision_16Regular } from './IcFluentVehicleCarCollision_16Regular';
+export { default as IcFluentVehicleCarCollision_20Filled } from './IcFluentVehicleCarCollision_20Filled';
+export { default as IcFluentVehicleCarCollision_20Regular } from './IcFluentVehicleCarCollision_20Regular';
+export { default as IcFluentVehicleCarCollision_24Filled } from './IcFluentVehicleCarCollision_24Filled';
+export { default as IcFluentVehicleCarCollision_24Regular } from './IcFluentVehicleCarCollision_24Regular';
+export { default as IcFluentVehicleCarCollision_28Filled } from './IcFluentVehicleCarCollision_28Filled';
+export { default as IcFluentVehicleCarCollision_28Regular } from './IcFluentVehicleCarCollision_28Regular';
+export { default as IcFluentVehicleCarCollision_32Filled } from './IcFluentVehicleCarCollision_32Filled';
+export { default as IcFluentVehicleCarCollision_32Regular } from './IcFluentVehicleCarCollision_32Regular';
+export { default as IcFluentVehicleCarCollision_48Filled } from './IcFluentVehicleCarCollision_48Filled';
+export { default as IcFluentVehicleCarCollision_48Regular } from './IcFluentVehicleCarCollision_48Regular';

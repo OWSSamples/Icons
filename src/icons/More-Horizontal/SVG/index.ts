@@ -1,0 +1,12 @@
+export { default as IcFluentMoreHorizontal_16Filled } from './IcFluentMoreHorizontal_16Filled';
+export { default as IcFluentMoreHorizontal_16Regular } from './IcFluentMoreHorizontal_16Regular';
+export { default as IcFluentMoreHorizontal_20Filled } from './IcFluentMoreHorizontal_20Filled';
+export { default as IcFluentMoreHorizontal_20Regular } from './IcFluentMoreHorizontal_20Regular';
+export { default as IcFluentMoreHorizontal_24Filled } from './IcFluentMoreHorizontal_24Filled';
+export { default as IcFluentMoreHorizontal_24Regular } from './IcFluentMoreHorizontal_24Regular';
+export { default as IcFluentMoreHorizontal_28Filled } from './IcFluentMoreHorizontal_28Filled';
+export { default as IcFluentMoreHorizontal_28Regular } from './IcFluentMoreHorizontal_28Regular';
+export { default as IcFluentMoreHorizontal_32Filled } from './IcFluentMoreHorizontal_32Filled';
+export { default as IcFluentMoreHorizontal_32Regular } from './IcFluentMoreHorizontal_32Regular';
+export { default as IcFluentMoreHorizontal_48Filled } from './IcFluentMoreHorizontal_48Filled';
+export { default as IcFluentMoreHorizontal_48Regular } from './IcFluentMoreHorizontal_48Regular';

@@ -1,0 +1,11 @@
+export { default as IcFluentFolderMail_16Filled } from './IcFluentFolderMail_16Filled';
+export { default as IcFluentFolderMail_16Regular } from './IcFluentFolderMail_16Regular';
+export { default as IcFluentFolderMail_20Filled } from './IcFluentFolderMail_20Filled';
+export { default as IcFluentFolderMail_20Regular } from './IcFluentFolderMail_20Regular';
+export { default as IcFluentFolderMail_24Filled } from './IcFluentFolderMail_24Filled';
+export { default as IcFluentFolderMail_24Regular } from './IcFluentFolderMail_24Regular';
+export { default as IcFluentFolderMail_28Filled } from './IcFluentFolderMail_28Filled';
+export { default as IcFluentFolderMail_28Regular } from './IcFluentFolderMail_28Regular';
+export { default as IcFluentFolderMail_32Filled } from './IcFluentFolderMail_32Filled';
+export { default as IcFluentFolderMail_32Light } from './IcFluentFolderMail_32Light';
+export { default as IcFluentFolderMail_32Regular } from './IcFluentFolderMail_32Regular';

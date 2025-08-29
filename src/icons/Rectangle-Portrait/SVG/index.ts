@@ -1,0 +1,14 @@
+export { default as IcFluentRectanglePortrait_12Filled } from './IcFluentRectanglePortrait_12Filled';
+export { default as IcFluentRectanglePortrait_12Regular } from './IcFluentRectanglePortrait_12Regular';
+export { default as IcFluentRectanglePortrait_16Filled } from './IcFluentRectanglePortrait_16Filled';
+export { default as IcFluentRectanglePortrait_16Regular } from './IcFluentRectanglePortrait_16Regular';
+export { default as IcFluentRectanglePortrait_20Filled } from './IcFluentRectanglePortrait_20Filled';
+export { default as IcFluentRectanglePortrait_20Regular } from './IcFluentRectanglePortrait_20Regular';
+export { default as IcFluentRectanglePortrait_24Filled } from './IcFluentRectanglePortrait_24Filled';
+export { default as IcFluentRectanglePortrait_24Regular } from './IcFluentRectanglePortrait_24Regular';
+export { default as IcFluentRectanglePortrait_28Filled } from './IcFluentRectanglePortrait_28Filled';
+export { default as IcFluentRectanglePortrait_28Regular } from './IcFluentRectanglePortrait_28Regular';
+export { default as IcFluentRectanglePortrait_32Filled } from './IcFluentRectanglePortrait_32Filled';
+export { default as IcFluentRectanglePortrait_32Regular } from './IcFluentRectanglePortrait_32Regular';
+export { default as IcFluentRectanglePortrait_48Filled } from './IcFluentRectanglePortrait_48Filled';
+export { default as IcFluentRectanglePortrait_48Regular } from './IcFluentRectanglePortrait_48Regular';

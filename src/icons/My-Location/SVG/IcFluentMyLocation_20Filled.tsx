@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentMyLocation_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M10 13a3 3 0 1 0 0-6 3 3 0 0 0 0 6m.75-10.25a.75.75 0 0 0-1.5 0v1.296A6 6 0 0 0 4.046 9.25H2.75a.75.75 0 0 0 0 1.5h1.296a6 6 0 0 0 5.204 5.204v1.296a.75.75 0 0 0 1.5 0v-1.296a6 6 0 0 0 5.204-5.204h1.296a.75.75 0 0 0 0-1.5h-1.296a6 6 0 0 0-5.204-5.204zM10 14.5a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9"/>
+  </IconBase>
+);
+
+export default IcFluentMyLocation_20Filled;

@@ -1,0 +1,9 @@
+export { default as IcFluentDataArea_20Color } from './IcFluentDataArea_20Color';
+export { default as IcFluentDataArea_20Filled } from './IcFluentDataArea_20Filled';
+export { default as IcFluentDataArea_20Regular } from './IcFluentDataArea_20Regular';
+export { default as IcFluentDataArea_24Color } from './IcFluentDataArea_24Color';
+export { default as IcFluentDataArea_24Filled } from './IcFluentDataArea_24Filled';
+export { default as IcFluentDataArea_24Regular } from './IcFluentDataArea_24Regular';
+export { default as IcFluentDataArea_32Color } from './IcFluentDataArea_32Color';
+export { default as IcFluentDataArea_32Filled } from './IcFluentDataArea_32Filled';
+export { default as IcFluentDataArea_32Regular } from './IcFluentDataArea_32Regular';

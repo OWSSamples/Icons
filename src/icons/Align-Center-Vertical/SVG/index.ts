@@ -1,0 +1,12 @@
+export { default as IcFluentAlignCenterVertical_16Filled } from './IcFluentAlignCenterVertical_16Filled';
+export { default as IcFluentAlignCenterVertical_16Regular } from './IcFluentAlignCenterVertical_16Regular';
+export { default as IcFluentAlignCenterVertical_20Filled } from './IcFluentAlignCenterVertical_20Filled';
+export { default as IcFluentAlignCenterVertical_20Regular } from './IcFluentAlignCenterVertical_20Regular';
+export { default as IcFluentAlignCenterVertical_24Filled } from './IcFluentAlignCenterVertical_24Filled';
+export { default as IcFluentAlignCenterVertical_24Regular } from './IcFluentAlignCenterVertical_24Regular';
+export { default as IcFluentAlignCenterVertical_28Filled } from './IcFluentAlignCenterVertical_28Filled';
+export { default as IcFluentAlignCenterVertical_28Regular } from './IcFluentAlignCenterVertical_28Regular';
+export { default as IcFluentAlignCenterVertical_32Filled } from './IcFluentAlignCenterVertical_32Filled';
+export { default as IcFluentAlignCenterVertical_32Regular } from './IcFluentAlignCenterVertical_32Regular';
+export { default as IcFluentAlignCenterVertical_48Filled } from './IcFluentAlignCenterVertical_48Filled';
+export { default as IcFluentAlignCenterVertical_48Regular } from './IcFluentAlignCenterVertical_48Regular';

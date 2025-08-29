@@ -1,0 +1,10 @@
+export { default as IcFluentBuildingBankLink_16Filled } from './IcFluentBuildingBankLink_16Filled';
+export { default as IcFluentBuildingBankLink_16Regular } from './IcFluentBuildingBankLink_16Regular';
+export { default as IcFluentBuildingBankLink_20Filled } from './IcFluentBuildingBankLink_20Filled';
+export { default as IcFluentBuildingBankLink_20Regular } from './IcFluentBuildingBankLink_20Regular';
+export { default as IcFluentBuildingBankLink_24Filled } from './IcFluentBuildingBankLink_24Filled';
+export { default as IcFluentBuildingBankLink_24Regular } from './IcFluentBuildingBankLink_24Regular';
+export { default as IcFluentBuildingBankLink_28Filled } from './IcFluentBuildingBankLink_28Filled';
+export { default as IcFluentBuildingBankLink_28Regular } from './IcFluentBuildingBankLink_28Regular';
+export { default as IcFluentBuildingBankLink_48Filled } from './IcFluentBuildingBankLink_48Filled';
+export { default as IcFluentBuildingBankLink_48Regular } from './IcFluentBuildingBankLink_48Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentArrowUndo_48Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M6.998 5.5a1.5 1.5 0 1 1 3 0v11.485l7.901-8.062c5.572-6.3 14.95-6.161 19.93-.67 5 5.514 3.376 13.309.028 17.222l-.008.01-2.259 2.544-2.537 2.537-4.247 4.16-8.242 8.33-.005.005-.497.496a1.5 1.5 0 1 1-2.12-2.122l.49-.49.006-.006 8.252-8.34 4.253-4.165 2.463-2.463 2.18-2.456c2.635-3.09 3.742-9.144.02-13.247-3.738-4.123-11.05-4.37-15.482.667l-.026.03L12.224 19h11.274a1.5 1.5 0 1 1 0 3h-15a1.5 1.5 0 0 1-1.5-1.5z"/>
+  </IconBase>
+);
+
+export default IcFluentArrowUndo_48Filled;

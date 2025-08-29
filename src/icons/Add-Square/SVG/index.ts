@@ -1,0 +1,12 @@
+export { default as IcFluentAddSquare_16Filled } from './IcFluentAddSquare_16Filled';
+export { default as IcFluentAddSquare_16Regular } from './IcFluentAddSquare_16Regular';
+export { default as IcFluentAddSquare_20Filled } from './IcFluentAddSquare_20Filled';
+export { default as IcFluentAddSquare_20Regular } from './IcFluentAddSquare_20Regular';
+export { default as IcFluentAddSquare_24Filled } from './IcFluentAddSquare_24Filled';
+export { default as IcFluentAddSquare_24Regular } from './IcFluentAddSquare_24Regular';
+export { default as IcFluentAddSquare_28Filled } from './IcFluentAddSquare_28Filled';
+export { default as IcFluentAddSquare_28Regular } from './IcFluentAddSquare_28Regular';
+export { default as IcFluentAddSquare_32Filled } from './IcFluentAddSquare_32Filled';
+export { default as IcFluentAddSquare_32Regular } from './IcFluentAddSquare_32Regular';
+export { default as IcFluentAddSquare_48Filled } from './IcFluentAddSquare_48Filled';
+export { default as IcFluentAddSquare_48Regular } from './IcFluentAddSquare_48Regular';

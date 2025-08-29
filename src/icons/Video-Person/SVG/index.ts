@@ -1,0 +1,14 @@
+export { default as IcFluentVideoPerson_12Filled } from './IcFluentVideoPerson_12Filled';
+export { default as IcFluentVideoPerson_12Regular } from './IcFluentVideoPerson_12Regular';
+export { default as IcFluentVideoPerson_16Filled } from './IcFluentVideoPerson_16Filled';
+export { default as IcFluentVideoPerson_16Regular } from './IcFluentVideoPerson_16Regular';
+export { default as IcFluentVideoPerson_20Filled } from './IcFluentVideoPerson_20Filled';
+export { default as IcFluentVideoPerson_20Regular } from './IcFluentVideoPerson_20Regular';
+export { default as IcFluentVideoPerson_24Filled } from './IcFluentVideoPerson_24Filled';
+export { default as IcFluentVideoPerson_24Regular } from './IcFluentVideoPerson_24Regular';
+export { default as IcFluentVideoPerson_28Filled } from './IcFluentVideoPerson_28Filled';
+export { default as IcFluentVideoPerson_28Regular } from './IcFluentVideoPerson_28Regular';
+export { default as IcFluentVideoPerson_32Filled } from './IcFluentVideoPerson_32Filled';
+export { default as IcFluentVideoPerson_32Regular } from './IcFluentVideoPerson_32Regular';
+export { default as IcFluentVideoPerson_48Filled } from './IcFluentVideoPerson_48Filled';
+export { default as IcFluentVideoPerson_48Regular } from './IcFluentVideoPerson_48Regular';

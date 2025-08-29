@@ -1,0 +1,11 @@
+export { default as IcFluentPersonSuport_32Light } from './IcFluentPersonSuport_32Light';
+export { default as IcFluentPersonSupport_16Filled } from './IcFluentPersonSupport_16Filled';
+export { default as IcFluentPersonSupport_16Regular } from './IcFluentPersonSupport_16Regular';
+export { default as IcFluentPersonSupport_20Filled } from './IcFluentPersonSupport_20Filled';
+export { default as IcFluentPersonSupport_20Regular } from './IcFluentPersonSupport_20Regular';
+export { default as IcFluentPersonSupport_24Filled } from './IcFluentPersonSupport_24Filled';
+export { default as IcFluentPersonSupport_24Regular } from './IcFluentPersonSupport_24Regular';
+export { default as IcFluentPersonSupport_28Filled } from './IcFluentPersonSupport_28Filled';
+export { default as IcFluentPersonSupport_28Regular } from './IcFluentPersonSupport_28Regular';
+export { default as IcFluentPersonSupport_32Filled } from './IcFluentPersonSupport_32Filled';
+export { default as IcFluentPersonSupport_32Regular } from './IcFluentPersonSupport_32Regular';

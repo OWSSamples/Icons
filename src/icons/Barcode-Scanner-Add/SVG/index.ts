@@ -1,0 +1,12 @@
+export { default as IcFluentBarcodeScannerAdd_16Filled } from './IcFluentBarcodeScannerAdd_16Filled';
+export { default as IcFluentBarcodeScannerAdd_16Regular } from './IcFluentBarcodeScannerAdd_16Regular';
+export { default as IcFluentBarcodeScannerAdd_20Filled } from './IcFluentBarcodeScannerAdd_20Filled';
+export { default as IcFluentBarcodeScannerAdd_20Regular } from './IcFluentBarcodeScannerAdd_20Regular';
+export { default as IcFluentBarcodeScannerAdd_24Filled } from './IcFluentBarcodeScannerAdd_24Filled';
+export { default as IcFluentBarcodeScannerAdd_24Regular } from './IcFluentBarcodeScannerAdd_24Regular';
+export { default as IcFluentBarcodeScannerAdd_28Filled } from './IcFluentBarcodeScannerAdd_28Filled';
+export { default as IcFluentBarcodeScannerAdd_28Regular } from './IcFluentBarcodeScannerAdd_28Regular';
+export { default as IcFluentBarcodeScannerAdd_32Filled } from './IcFluentBarcodeScannerAdd_32Filled';
+export { default as IcFluentBarcodeScannerAdd_32Regular } from './IcFluentBarcodeScannerAdd_32Regular';
+export { default as IcFluentBarcodeScannerAdd_48Filled } from './IcFluentBarcodeScannerAdd_48Filled';
+export { default as IcFluentBarcodeScannerAdd_48Regular } from './IcFluentBarcodeScannerAdd_48Regular';

@@ -1,0 +1,15 @@
+export { default as IcFluentScanPerson_16Color } from './IcFluentScanPerson_16Color';
+export { default as IcFluentScanPerson_16Filled } from './IcFluentScanPerson_16Filled';
+export { default as IcFluentScanPerson_16Regular } from './IcFluentScanPerson_16Regular';
+export { default as IcFluentScanPerson_20Color } from './IcFluentScanPerson_20Color';
+export { default as IcFluentScanPerson_20Filled } from './IcFluentScanPerson_20Filled';
+export { default as IcFluentScanPerson_20Regular } from './IcFluentScanPerson_20Regular';
+export { default as IcFluentScanPerson_24Color } from './IcFluentScanPerson_24Color';
+export { default as IcFluentScanPerson_24Filled } from './IcFluentScanPerson_24Filled';
+export { default as IcFluentScanPerson_24Regular } from './IcFluentScanPerson_24Regular';
+export { default as IcFluentScanPerson_28Color } from './IcFluentScanPerson_28Color';
+export { default as IcFluentScanPerson_28Filled } from './IcFluentScanPerson_28Filled';
+export { default as IcFluentScanPerson_28Regular } from './IcFluentScanPerson_28Regular';
+export { default as IcFluentScanPerson_48Color } from './IcFluentScanPerson_48Color';
+export { default as IcFluentScanPerson_48Filled } from './IcFluentScanPerson_48Filled';
+export { default as IcFluentScanPerson_48Regular } from './IcFluentScanPerson_48Regular';

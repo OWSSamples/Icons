@@ -1,0 +1,16 @@
+export { default as IcFluentMailMultiple_16Color } from './IcFluentMailMultiple_16Color';
+export { default as IcFluentMailMultiple_16Filled } from './IcFluentMailMultiple_16Filled';
+export { default as IcFluentMailMultiple_16Regular } from './IcFluentMailMultiple_16Regular';
+export { default as IcFluentMailMultiple_20Color } from './IcFluentMailMultiple_20Color';
+export { default as IcFluentMailMultiple_20Filled } from './IcFluentMailMultiple_20Filled';
+export { default as IcFluentMailMultiple_20Regular } from './IcFluentMailMultiple_20Regular';
+export { default as IcFluentMailMultiple_24Color } from './IcFluentMailMultiple_24Color';
+export { default as IcFluentMailMultiple_24Filled } from './IcFluentMailMultiple_24Filled';
+export { default as IcFluentMailMultiple_24Regular } from './IcFluentMailMultiple_24Regular';
+export { default as IcFluentMailMultiple_28Color } from './IcFluentMailMultiple_28Color';
+export { default as IcFluentMailMultiple_28Filled } from './IcFluentMailMultiple_28Filled';
+export { default as IcFluentMailMultiple_28Regular } from './IcFluentMailMultiple_28Regular';
+export { default as IcFluentMailMultiple_32Color } from './IcFluentMailMultiple_32Color';
+export { default as IcFluentMailMultiple_32Filled } from './IcFluentMailMultiple_32Filled';
+export { default as IcFluentMailMultiple_32Light } from './IcFluentMailMultiple_32Light';
+export { default as IcFluentMailMultiple_32Regular } from './IcFluentMailMultiple_32Regular';

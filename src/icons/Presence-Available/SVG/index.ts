@@ -1,0 +1,10 @@
+export { default as IcFluentPresenceAvailable_10Filled } from './IcFluentPresenceAvailable_10Filled';
+export { default as IcFluentPresenceAvailable_10Regular } from './IcFluentPresenceAvailable_10Regular';
+export { default as IcFluentPresenceAvailable_12Filled } from './IcFluentPresenceAvailable_12Filled';
+export { default as IcFluentPresenceAvailable_12Regular } from './IcFluentPresenceAvailable_12Regular';
+export { default as IcFluentPresenceAvailable_16Filled } from './IcFluentPresenceAvailable_16Filled';
+export { default as IcFluentPresenceAvailable_16Regular } from './IcFluentPresenceAvailable_16Regular';
+export { default as IcFluentPresenceAvailable_20Filled } from './IcFluentPresenceAvailable_20Filled';
+export { default as IcFluentPresenceAvailable_20Regular } from './IcFluentPresenceAvailable_20Regular';
+export { default as IcFluentPresenceAvailable_24Filled } from './IcFluentPresenceAvailable_24Filled';
+export { default as IcFluentPresenceAvailable_24Regular } from './IcFluentPresenceAvailable_24Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentDirections_16Filled } from './IcFluentDirections_16Filled';
+export { default as IcFluentDirections_16Regular } from './IcFluentDirections_16Regular';
+export { default as IcFluentDirections_20Filled } from './IcFluentDirections_20Filled';
+export { default as IcFluentDirections_20Regular } from './IcFluentDirections_20Regular';
+export { default as IcFluentDirections_24Filled } from './IcFluentDirections_24Filled';
+export { default as IcFluentDirections_24Regular } from './IcFluentDirections_24Regular';
+export { default as IcFluentDirections_28Filled } from './IcFluentDirections_28Filled';
+export { default as IcFluentDirections_28Regular } from './IcFluentDirections_28Regular';
+export { default as IcFluentDirections_32Filled } from './IcFluentDirections_32Filled';
+export { default as IcFluentDirections_32Regular } from './IcFluentDirections_32Regular';
+export { default as IcFluentDirections_48Filled } from './IcFluentDirections_48Filled';
+export { default as IcFluentDirections_48Regular } from './IcFluentDirections_48Regular';

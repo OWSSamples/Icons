@@ -1,0 +1,10 @@
+export { default as IcFluentMultiplier_5x_20Filled } from './IcFluentMultiplier_5x_20Filled';
+export { default as IcFluentMultiplier_5x_20Regular } from './IcFluentMultiplier_5x_20Regular';
+export { default as IcFluentMultiplier_5x_24Filled } from './IcFluentMultiplier_5x_24Filled';
+export { default as IcFluentMultiplier_5x_24Regular } from './IcFluentMultiplier_5x_24Regular';
+export { default as IcFluentMultiplier_5x_28Filled } from './IcFluentMultiplier_5x_28Filled';
+export { default as IcFluentMultiplier_5x_28Regular } from './IcFluentMultiplier_5x_28Regular';
+export { default as IcFluentMultiplier_5x_32Filled } from './IcFluentMultiplier_5x_32Filled';
+export { default as IcFluentMultiplier_5x_32Regular } from './IcFluentMultiplier_5x_32Regular';
+export { default as IcFluentMultiplier_5x_48Filled } from './IcFluentMultiplier_5x_48Filled';
+export { default as IcFluentMultiplier_5x_48Regular } from './IcFluentMultiplier_5x_48Regular';

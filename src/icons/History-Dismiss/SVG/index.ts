@@ -1,0 +1,10 @@
+export { default as IcFluentHistoryDismiss_20Filled } from './IcFluentHistoryDismiss_20Filled';
+export { default as IcFluentHistoryDismiss_20Regular } from './IcFluentHistoryDismiss_20Regular';
+export { default as IcFluentHistoryDismiss_24Filled } from './IcFluentHistoryDismiss_24Filled';
+export { default as IcFluentHistoryDismiss_24Regular } from './IcFluentHistoryDismiss_24Regular';
+export { default as IcFluentHistoryDismiss_28Filled } from './IcFluentHistoryDismiss_28Filled';
+export { default as IcFluentHistoryDismiss_28Regular } from './IcFluentHistoryDismiss_28Regular';
+export { default as IcFluentHistoryDismiss_32Filled } from './IcFluentHistoryDismiss_32Filled';
+export { default as IcFluentHistoryDismiss_32Regular } from './IcFluentHistoryDismiss_32Regular';
+export { default as IcFluentHistoryDismiss_48Filled } from './IcFluentHistoryDismiss_48Filled';
+export { default as IcFluentHistoryDismiss_48Regular } from './IcFluentHistoryDismiss_48Regular';

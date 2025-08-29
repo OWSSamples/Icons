@@ -1,0 +1,12 @@
+export { default as IcFluentPhoneDesktop_16Filled } from './IcFluentPhoneDesktop_16Filled';
+export { default as IcFluentPhoneDesktop_16Regular } from './IcFluentPhoneDesktop_16Regular';
+export { default as IcFluentPhoneDesktop_20Filled } from './IcFluentPhoneDesktop_20Filled';
+export { default as IcFluentPhoneDesktop_20Regular } from './IcFluentPhoneDesktop_20Regular';
+export { default as IcFluentPhoneDesktop_24Filled } from './IcFluentPhoneDesktop_24Filled';
+export { default as IcFluentPhoneDesktop_24Regular } from './IcFluentPhoneDesktop_24Regular';
+export { default as IcFluentPhoneDesktop_28Filled } from './IcFluentPhoneDesktop_28Filled';
+export { default as IcFluentPhoneDesktop_28Regular } from './IcFluentPhoneDesktop_28Regular';
+export { default as IcFluentPhoneDesktop_32Filled } from './IcFluentPhoneDesktop_32Filled';
+export { default as IcFluentPhoneDesktop_32Regular } from './IcFluentPhoneDesktop_32Regular';
+export { default as IcFluentPhoneDesktop_48Filled } from './IcFluentPhoneDesktop_48Filled';
+export { default as IcFluentPhoneDesktop_48Regular } from './IcFluentPhoneDesktop_48Regular';

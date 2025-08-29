@@ -1,0 +1,12 @@
+export { default as IcFluentTextbox_16Filled } from './IcFluentTextbox_16Filled';
+export { default as IcFluentTextbox_16Regular } from './IcFluentTextbox_16Regular';
+export { default as IcFluentTextbox_20Filled } from './IcFluentTextbox_20Filled';
+export { default as IcFluentTextbox_20Regular } from './IcFluentTextbox_20Regular';
+export { default as IcFluentTextbox_24Filled } from './IcFluentTextbox_24Filled';
+export { default as IcFluentTextbox_24Regular } from './IcFluentTextbox_24Regular';
+export { default as IcFluentTextbox_28Filled } from './IcFluentTextbox_28Filled';
+export { default as IcFluentTextbox_28Regular } from './IcFluentTextbox_28Regular';
+export { default as IcFluentTextbox_32Filled } from './IcFluentTextbox_32Filled';
+export { default as IcFluentTextbox_32Regular } from './IcFluentTextbox_32Regular';
+export { default as IcFluentTextbox_48Filled } from './IcFluentTextbox_48Filled';
+export { default as IcFluentTextbox_48Regular } from './IcFluentTextbox_48Regular';

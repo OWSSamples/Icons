@@ -1,0 +1,12 @@
+export { default as IcFluentTetrisApp_16Filled } from './IcFluentTetrisApp_16Filled';
+export { default as IcFluentTetrisApp_16Regular } from './IcFluentTetrisApp_16Regular';
+export { default as IcFluentTetrisApp_20Filled } from './IcFluentTetrisApp_20Filled';
+export { default as IcFluentTetrisApp_20Regular } from './IcFluentTetrisApp_20Regular';
+export { default as IcFluentTetrisApp_24Filled } from './IcFluentTetrisApp_24Filled';
+export { default as IcFluentTetrisApp_24Regular } from './IcFluentTetrisApp_24Regular';
+export { default as IcFluentTetrisApp_28Filled } from './IcFluentTetrisApp_28Filled';
+export { default as IcFluentTetrisApp_28Regular } from './IcFluentTetrisApp_28Regular';
+export { default as IcFluentTetrisApp_32Filled } from './IcFluentTetrisApp_32Filled';
+export { default as IcFluentTetrisApp_32Regular } from './IcFluentTetrisApp_32Regular';
+export { default as IcFluentTetrisApp_48Filled } from './IcFluentTetrisApp_48Filled';
+export { default as IcFluentTetrisApp_48Regular } from './IcFluentTetrisApp_48Regular';

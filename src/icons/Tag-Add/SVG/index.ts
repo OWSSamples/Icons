@@ -1,0 +1,12 @@
+export { default as IcFluentTagAdd_16Filled } from './IcFluentTagAdd_16Filled';
+export { default as IcFluentTagAdd_16Regular } from './IcFluentTagAdd_16Regular';
+export { default as IcFluentTagAdd_20Filled } from './IcFluentTagAdd_20Filled';
+export { default as IcFluentTagAdd_20Regular } from './IcFluentTagAdd_20Regular';
+export { default as IcFluentTagAdd_24Filled } from './IcFluentTagAdd_24Filled';
+export { default as IcFluentTagAdd_24Regular } from './IcFluentTagAdd_24Regular';
+export { default as IcFluentTagAdd_28Filled } from './IcFluentTagAdd_28Filled';
+export { default as IcFluentTagAdd_28Regular } from './IcFluentTagAdd_28Regular';
+export { default as IcFluentTagAdd_32Filled } from './IcFluentTagAdd_32Filled';
+export { default as IcFluentTagAdd_32Regular } from './IcFluentTagAdd_32Regular';
+export { default as IcFluentTagAdd_48Filled } from './IcFluentTagAdd_48Filled';
+export { default as IcFluentTagAdd_48Regular } from './IcFluentTagAdd_48Regular';

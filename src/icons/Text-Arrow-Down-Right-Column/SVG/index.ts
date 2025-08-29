@@ -1,0 +1,12 @@
+export { default as IcFluentTextArrowDownRightColumn_16Filled } from './IcFluentTextArrowDownRightColumn_16Filled';
+export { default as IcFluentTextArrowDownRightColumn_16Regular } from './IcFluentTextArrowDownRightColumn_16Regular';
+export { default as IcFluentTextArrowDownRightColumn_20Filled } from './IcFluentTextArrowDownRightColumn_20Filled';
+export { default as IcFluentTextArrowDownRightColumn_20Regular } from './IcFluentTextArrowDownRightColumn_20Regular';
+export { default as IcFluentTextArrowDownRightColumn_24Filled } from './IcFluentTextArrowDownRightColumn_24Filled';
+export { default as IcFluentTextArrowDownRightColumn_24Regular } from './IcFluentTextArrowDownRightColumn_24Regular';
+export { default as IcFluentTextArrowDownRightColumn_28Filled } from './IcFluentTextArrowDownRightColumn_28Filled';
+export { default as IcFluentTextArrowDownRightColumn_28Regular } from './IcFluentTextArrowDownRightColumn_28Regular';
+export { default as IcFluentTextArrowDownRightColumn_32Filled } from './IcFluentTextArrowDownRightColumn_32Filled';
+export { default as IcFluentTextArrowDownRightColumn_32Regular } from './IcFluentTextArrowDownRightColumn_32Regular';
+export { default as IcFluentTextArrowDownRightColumn_48Filled } from './IcFluentTextArrowDownRightColumn_48Filled';
+export { default as IcFluentTextArrowDownRightColumn_48Regular } from './IcFluentTextArrowDownRightColumn_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentTeaching_16Filled } from './IcFluentTeaching_16Filled';
+export { default as IcFluentTeaching_16Regular } from './IcFluentTeaching_16Regular';
+export { default as IcFluentTeaching_20Filled } from './IcFluentTeaching_20Filled';
+export { default as IcFluentTeaching_20Regular } from './IcFluentTeaching_20Regular';
+export { default as IcFluentTeaching_24Filled } from './IcFluentTeaching_24Filled';
+export { default as IcFluentTeaching_24Regular } from './IcFluentTeaching_24Regular';
+export { default as IcFluentTeaching_28Filled } from './IcFluentTeaching_28Filled';
+export { default as IcFluentTeaching_28Regular } from './IcFluentTeaching_28Regular';
+export { default as IcFluentTeaching_32Filled } from './IcFluentTeaching_32Filled';
+export { default as IcFluentTeaching_32Regular } from './IcFluentTeaching_32Regular';
+export { default as IcFluentTeaching_48Filled } from './IcFluentTeaching_48Filled';
+export { default as IcFluentTeaching_48Regular } from './IcFluentTeaching_48Regular';

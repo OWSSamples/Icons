@@ -1,0 +1,13 @@
+export { default as IcFluentEmoji_16Filled } from './IcFluentEmoji_16Filled';
+export { default as IcFluentEmoji_16Regular } from './IcFluentEmoji_16Regular';
+export { default as IcFluentEmoji_20Filled } from './IcFluentEmoji_20Filled';
+export { default as IcFluentEmoji_20Regular } from './IcFluentEmoji_20Regular';
+export { default as IcFluentEmoji_24Filled } from './IcFluentEmoji_24Filled';
+export { default as IcFluentEmoji_24Regular } from './IcFluentEmoji_24Regular';
+export { default as IcFluentEmoji_28Filled } from './IcFluentEmoji_28Filled';
+export { default as IcFluentEmoji_28Regular } from './IcFluentEmoji_28Regular';
+export { default as IcFluentEmoji_32Filled } from './IcFluentEmoji_32Filled';
+export { default as IcFluentEmoji_32Light } from './IcFluentEmoji_32Light';
+export { default as IcFluentEmoji_32Regular } from './IcFluentEmoji_32Regular';
+export { default as IcFluentEmoji_48Filled } from './IcFluentEmoji_48Filled';
+export { default as IcFluentEmoji_48Regular } from './IcFluentEmoji_48Regular';

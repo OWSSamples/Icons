@@ -1,0 +1,16 @@
+export { default as IcFluentPeopleSync_16Color } from './IcFluentPeopleSync_16Color';
+export { default as IcFluentPeopleSync_16Filled } from './IcFluentPeopleSync_16Filled';
+export { default as IcFluentPeopleSync_16Regular } from './IcFluentPeopleSync_16Regular';
+export { default as IcFluentPeopleSync_20Color } from './IcFluentPeopleSync_20Color';
+export { default as IcFluentPeopleSync_20Filled } from './IcFluentPeopleSync_20Filled';
+export { default as IcFluentPeopleSync_20Regular } from './IcFluentPeopleSync_20Regular';
+export { default as IcFluentPeopleSync_24Color } from './IcFluentPeopleSync_24Color';
+export { default as IcFluentPeopleSync_24Filled } from './IcFluentPeopleSync_24Filled';
+export { default as IcFluentPeopleSync_24Regular } from './IcFluentPeopleSync_24Regular';
+export { default as IcFluentPeopleSync_28Color } from './IcFluentPeopleSync_28Color';
+export { default as IcFluentPeopleSync_28Filled } from './IcFluentPeopleSync_28Filled';
+export { default as IcFluentPeopleSync_28Regular } from './IcFluentPeopleSync_28Regular';
+export { default as IcFluentPeopleSync_32Color } from './IcFluentPeopleSync_32Color';
+export { default as IcFluentPeopleSync_32Filled } from './IcFluentPeopleSync_32Filled';
+export { default as IcFluentPeopleSync_32Light } from './IcFluentPeopleSync_32Light';
+export { default as IcFluentPeopleSync_32Regular } from './IcFluentPeopleSync_32Regular';

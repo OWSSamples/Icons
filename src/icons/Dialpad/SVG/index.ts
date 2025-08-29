@@ -1,0 +1,10 @@
+export { default as IcFluentDialpad_20Filled } from './IcFluentDialpad_20Filled';
+export { default as IcFluentDialpad_20Regular } from './IcFluentDialpad_20Regular';
+export { default as IcFluentDialpad_24Filled } from './IcFluentDialpad_24Filled';
+export { default as IcFluentDialpad_24Regular } from './IcFluentDialpad_24Regular';
+export { default as IcFluentDialpad_28Filled } from './IcFluentDialpad_28Filled';
+export { default as IcFluentDialpad_28Regular } from './IcFluentDialpad_28Regular';
+export { default as IcFluentDialpad_32Filled } from './IcFluentDialpad_32Filled';
+export { default as IcFluentDialpad_32Regular } from './IcFluentDialpad_32Regular';
+export { default as IcFluentDialpad_48Filled } from './IcFluentDialpad_48Filled';
+export { default as IcFluentDialpad_48Regular } from './IcFluentDialpad_48Regular';

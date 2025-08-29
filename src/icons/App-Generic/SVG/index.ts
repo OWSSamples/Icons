@@ -1,0 +1,9 @@
+export { default as IcFluentAppGeneric_20Filled } from './IcFluentAppGeneric_20Filled';
+export { default as IcFluentAppGeneric_20Regular } from './IcFluentAppGeneric_20Regular';
+export { default as IcFluentAppGeneric_24Filled } from './IcFluentAppGeneric_24Filled';
+export { default as IcFluentAppGeneric_24Regular } from './IcFluentAppGeneric_24Regular';
+export { default as IcFluentAppGeneric_32Filled } from './IcFluentAppGeneric_32Filled';
+export { default as IcFluentAppGeneric_32Light } from './IcFluentAppGeneric_32Light';
+export { default as IcFluentAppGeneric_32Regular } from './IcFluentAppGeneric_32Regular';
+export { default as IcFluentAppGeneric_48Filled } from './IcFluentAppGeneric_48Filled';
+export { default as IcFluentAppGeneric_48Regular } from './IcFluentAppGeneric_48Regular';

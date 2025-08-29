@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentTagOff_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M5.785 6.492 2.146 2.854a.5.5 0 1 1 .708-.708l15 15a.5.5 0 0 1-.708.708l-3.587-3.588-2.762 2.761a2 2 0 0 1-2.828 0L3.02 12.08a2 2 0 0 1 .002-2.83zm7.067 7.067-6.36-6.36-2.764 2.758a1 1 0 0 0 0 1.415l4.948 4.948a1 1 0 0 0 1.414 0zm3.869-3.87-2.455 2.456.707.707 2.455-2.456a2 2 0 0 0 .586-1.417l-.008-4.95a2 2 0 0 0-1.986-1.997L11.13 2a2 2 0 0 0-1.426.584L7.2 5.08l.707.707 2.502-2.495A1 1 0 0 1 11.123 3l4.89.032a1 1 0 0 1 .993.999l.008 4.95a1 1 0 0 1-.293.708M14 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
+  </IconBase>
+);
+
+export default IcFluentTagOff_20Regular;

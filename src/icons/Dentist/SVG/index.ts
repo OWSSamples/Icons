@@ -1,0 +1,12 @@
+export { default as IcFluentDentist_12Filled } from './IcFluentDentist_12Filled';
+export { default as IcFluentDentist_12Regular } from './IcFluentDentist_12Regular';
+export { default as IcFluentDentist_16Filled } from './IcFluentDentist_16Filled';
+export { default as IcFluentDentist_16Regular } from './IcFluentDentist_16Regular';
+export { default as IcFluentDentist_20Filled } from './IcFluentDentist_20Filled';
+export { default as IcFluentDentist_20Regular } from './IcFluentDentist_20Regular';
+export { default as IcFluentDentist_24Filled } from './IcFluentDentist_24Filled';
+export { default as IcFluentDentist_24Regular } from './IcFluentDentist_24Regular';
+export { default as IcFluentDentist_28Filled } from './IcFluentDentist_28Filled';
+export { default as IcFluentDentist_28Regular } from './IcFluentDentist_28Regular';
+export { default as IcFluentDentist_48Filled } from './IcFluentDentist_48Filled';
+export { default as IcFluentDentist_48Regular } from './IcFluentDentist_48Regular';

@@ -1,0 +1,9 @@
+export { default as IcFluentPeopleCheckmark_16Filled } from './IcFluentPeopleCheckmark_16Filled';
+export { default as IcFluentPeopleCheckmark_16Regular } from './IcFluentPeopleCheckmark_16Regular';
+export { default as IcFluentPeopleCheckmark_20Filled } from './IcFluentPeopleCheckmark_20Filled';
+export { default as IcFluentPeopleCheckmark_20Regular } from './IcFluentPeopleCheckmark_20Regular';
+export { default as IcFluentPeopleCheckmark_24Filled } from './IcFluentPeopleCheckmark_24Filled';
+export { default as IcFluentPeopleCheckmark_24Regular } from './IcFluentPeopleCheckmark_24Regular';
+export { default as IcFluentPeopleCheckmark_32Filled } from './IcFluentPeopleCheckmark_32Filled';
+export { default as IcFluentPeopleCheckmark_32Light } from './IcFluentPeopleCheckmark_32Light';
+export { default as IcFluentPeopleCheckmark_32Regular } from './IcFluentPeopleCheckmark_32Regular';

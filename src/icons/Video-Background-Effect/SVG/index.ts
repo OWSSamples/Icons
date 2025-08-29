@@ -1,0 +1,12 @@
+export { default as IcFluentVideoBackgroundEffect_16Filled } from './IcFluentVideoBackgroundEffect_16Filled';
+export { default as IcFluentVideoBackgroundEffect_16Regular } from './IcFluentVideoBackgroundEffect_16Regular';
+export { default as IcFluentVideoBackgroundEffect_20Filled } from './IcFluentVideoBackgroundEffect_20Filled';
+export { default as IcFluentVideoBackgroundEffect_20Regular } from './IcFluentVideoBackgroundEffect_20Regular';
+export { default as IcFluentVideoBackgroundEffect_24Filled } from './IcFluentVideoBackgroundEffect_24Filled';
+export { default as IcFluentVideoBackgroundEffect_24Regular } from './IcFluentVideoBackgroundEffect_24Regular';
+export { default as IcFluentVideoBackgroundEffect_28Filled } from './IcFluentVideoBackgroundEffect_28Filled';
+export { default as IcFluentVideoBackgroundEffect_28Regular } from './IcFluentVideoBackgroundEffect_28Regular';
+export { default as IcFluentVideoBackgroundEffect_32Filled } from './IcFluentVideoBackgroundEffect_32Filled';
+export { default as IcFluentVideoBackgroundEffect_32Regular } from './IcFluentVideoBackgroundEffect_32Regular';
+export { default as IcFluentVideoBackgroundEffect_48Filled } from './IcFluentVideoBackgroundEffect_48Filled';
+export { default as IcFluentVideoBackgroundEffect_48Regular } from './IcFluentVideoBackgroundEffect_48Regular';

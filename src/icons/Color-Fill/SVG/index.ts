@@ -1,0 +1,9 @@
+export { default as IcFluentColorFill_16Filled } from './IcFluentColorFill_16Filled';
+export { default as IcFluentColorFill_16Regular } from './IcFluentColorFill_16Regular';
+export { default as IcFluentColorFill_20Filled } from './IcFluentColorFill_20Filled';
+export { default as IcFluentColorFill_20Regular } from './IcFluentColorFill_20Regular';
+export { default as IcFluentColorFill_24Filled } from './IcFluentColorFill_24Filled';
+export { default as IcFluentColorFill_24Regular } from './IcFluentColorFill_24Regular';
+export { default as IcFluentColorFill_28Filled } from './IcFluentColorFill_28Filled';
+export { default as IcFluentColorFill_28Regular } from './IcFluentColorFill_28Regular';
+export { default as IcFluentColorFill_32Light } from './IcFluentColorFill_32Light';

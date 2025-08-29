@@ -1,0 +1,10 @@
+export { default as IcFluentScanThumbUpOff_16Filled } from './IcFluentScanThumbUpOff_16Filled';
+export { default as IcFluentScanThumbUpOff_16Regular } from './IcFluentScanThumbUpOff_16Regular';
+export { default as IcFluentScanThumbUpOff_20Filled } from './IcFluentScanThumbUpOff_20Filled';
+export { default as IcFluentScanThumbUpOff_20Regular } from './IcFluentScanThumbUpOff_20Regular';
+export { default as IcFluentScanThumbUpOff_24Filled } from './IcFluentScanThumbUpOff_24Filled';
+export { default as IcFluentScanThumbUpOff_24Regular } from './IcFluentScanThumbUpOff_24Regular';
+export { default as IcFluentScanThumbUpOff_28Filled } from './IcFluentScanThumbUpOff_28Filled';
+export { default as IcFluentScanThumbUpOff_28Regular } from './IcFluentScanThumbUpOff_28Regular';
+export { default as IcFluentScanThumbUpOff_48Filled } from './IcFluentScanThumbUpOff_48Filled';
+export { default as IcFluentScanThumbUpOff_48Regular } from './IcFluentScanThumbUpOff_48Regular';

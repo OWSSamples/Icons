@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentSearchSparkle_16Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M11 6.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0"/><path fill="currentColor" d="M9.823 10.883a5.5 5.5 0 1 1 1.06-1.06l2.897 2.897a.75.75 0 1 1-1.06 1.06zM10.5 6.5a4 4 0 1 0-8 0 4 4 0 0 0 8 0"/><path fill="currentColor" d="m15.783 8.213-.765-.248a1.58 1.58 0 0 1-1-.999l-.248-.764a.302.302 0 0 0-.57 0l-.25.764a1.58 1.58 0 0 1-.983.999l-.765.248a.303.303 0 0 0 0 .57l.765.249a1.58 1.58 0 0 1 1 1.002l.248.764a.302.302 0 0 0 .57 0l.249-.764a1.58 1.58 0 0 1 .999-.999l.765-.248a.303.303 0 0 0 0-.57z"/><path fill="currentColor" d="m10.878.282.348 1.071a2.2 2.2 0 0 0 1.398 1.397l1.072.348.021.006a.423.423 0 0 1 0 .798l-1.071.348a2.2 2.2 0 0 0-1.399 1.397l-.348 1.07a.423.423 0 0 1-.798 0l-.348-1.07a2.2 2.2 0 0 0-1.399-1.403l-1.072-.348a.423.423 0 0 1 0-.798l1.072-.348a2.2 2.2 0 0 0 1.377-1.397l.348-1.07a.423.423 0 0 1 .799 0"/><defs><radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(12.82142 25.58036 -19.91881 9.98373 2.375 -12.813)" gradientUnits="userSpaceOnUse"><stop offset=".718" stop-color="#FFCD0F"/><stop offset=".991" stop-color="#E67505"/></radialGradient><radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="rotate(61.2 14.057 -10.24)scale(30.098 23.4366)" gradientUnits="userSpaceOnUse"><stop offset=".698" stop-color="#FFCD0F"/><stop offset=".991" stop-color="#E67505"/></radialGradient><linearGradient id="a" x1="8.75" x2="2" y1="3.5" y2="11" gradientUnits="userSpaceOnUse"><stop stop-color="#FDFDFD"/><stop offset="1" stop-color="#B3E0FF"/></linearGradient><linearGradient id="b" x1="1.684" x2="12.632" y1="12.632" y2="3.737" gradientUnits="userSpaceOnUse"><stop stop-color="#0094F0"/><stop offset="1" stop-color="#29C3FF"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcFluentSearchSparkle_16Color;

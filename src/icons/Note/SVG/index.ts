@@ -1,0 +1,11 @@
+export { default as IcFluentNote_16Filled } from './IcFluentNote_16Filled';
+export { default as IcFluentNote_16Regular } from './IcFluentNote_16Regular';
+export { default as IcFluentNote_20Filled } from './IcFluentNote_20Filled';
+export { default as IcFluentNote_20Regular } from './IcFluentNote_20Regular';
+export { default as IcFluentNote_24Filled } from './IcFluentNote_24Filled';
+export { default as IcFluentNote_24Regular } from './IcFluentNote_24Regular';
+export { default as IcFluentNote_28Filled } from './IcFluentNote_28Filled';
+export { default as IcFluentNote_28Regular } from './IcFluentNote_28Regular';
+export { default as IcFluentNote_32Light } from './IcFluentNote_32Light';
+export { default as IcFluentNote_48Filled } from './IcFluentNote_48Filled';
+export { default as IcFluentNote_48Regular } from './IcFluentNote_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentDocumentRibbon_16Filled } from './IcFluentDocumentRibbon_16Filled';
+export { default as IcFluentDocumentRibbon_16Regular } from './IcFluentDocumentRibbon_16Regular';
+export { default as IcFluentDocumentRibbon_20Filled } from './IcFluentDocumentRibbon_20Filled';
+export { default as IcFluentDocumentRibbon_20Regular } from './IcFluentDocumentRibbon_20Regular';
+export { default as IcFluentDocumentRibbon_24Filled } from './IcFluentDocumentRibbon_24Filled';
+export { default as IcFluentDocumentRibbon_24Regular } from './IcFluentDocumentRibbon_24Regular';
+export { default as IcFluentDocumentRibbon_28Filled } from './IcFluentDocumentRibbon_28Filled';
+export { default as IcFluentDocumentRibbon_28Regular } from './IcFluentDocumentRibbon_28Regular';
+export { default as IcFluentDocumentRibbon_32Filled } from './IcFluentDocumentRibbon_32Filled';
+export { default as IcFluentDocumentRibbon_32Regular } from './IcFluentDocumentRibbon_32Regular';
+export { default as IcFluentDocumentRibbon_48Filled } from './IcFluentDocumentRibbon_48Filled';
+export { default as IcFluentDocumentRibbon_48Regular } from './IcFluentDocumentRibbon_48Regular';

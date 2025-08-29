@@ -1,0 +1,12 @@
+export { default as IcFluentSpeaker_1_16Filled } from './IcFluentSpeaker_1_16Filled';
+export { default as IcFluentSpeaker_1_16Regular } from './IcFluentSpeaker_1_16Regular';
+export { default as IcFluentSpeaker_1_20Filled } from './IcFluentSpeaker_1_20Filled';
+export { default as IcFluentSpeaker_1_20Regular } from './IcFluentSpeaker_1_20Regular';
+export { default as IcFluentSpeaker_1_24Filled } from './IcFluentSpeaker_1_24Filled';
+export { default as IcFluentSpeaker_1_24Regular } from './IcFluentSpeaker_1_24Regular';
+export { default as IcFluentSpeaker_1_28Filled } from './IcFluentSpeaker_1_28Filled';
+export { default as IcFluentSpeaker_1_28Regular } from './IcFluentSpeaker_1_28Regular';
+export { default as IcFluentSpeaker_1_32Filled } from './IcFluentSpeaker_1_32Filled';
+export { default as IcFluentSpeaker_1_32Regular } from './IcFluentSpeaker_1_32Regular';
+export { default as IcFluentSpeaker_1_48Filled } from './IcFluentSpeaker_1_48Filled';
+export { default as IcFluentSpeaker_1_48Regular } from './IcFluentSpeaker_1_48Regular';

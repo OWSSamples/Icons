@@ -1,0 +1,15 @@
+export { default as IcFluentCompose_12Filled } from './IcFluentCompose_12Filled';
+export { default as IcFluentCompose_12Regular } from './IcFluentCompose_12Regular';
+export { default as IcFluentCompose_16Filled } from './IcFluentCompose_16Filled';
+export { default as IcFluentCompose_16Regular } from './IcFluentCompose_16Regular';
+export { default as IcFluentCompose_20Filled } from './IcFluentCompose_20Filled';
+export { default as IcFluentCompose_20Regular } from './IcFluentCompose_20Regular';
+export { default as IcFluentCompose_24Filled } from './IcFluentCompose_24Filled';
+export { default as IcFluentCompose_24Regular } from './IcFluentCompose_24Regular';
+export { default as IcFluentCompose_28Filled } from './IcFluentCompose_28Filled';
+export { default as IcFluentCompose_28Regular } from './IcFluentCompose_28Regular';
+export { default as IcFluentCompose_32Filled } from './IcFluentCompose_32Filled';
+export { default as IcFluentCompose_32Light } from './IcFluentCompose_32Light';
+export { default as IcFluentCompose_32Regular } from './IcFluentCompose_32Regular';
+export { default as IcFluentCompose_48Filled } from './IcFluentCompose_48Filled';
+export { default as IcFluentCompose_48Regular } from './IcFluentCompose_48Regular';

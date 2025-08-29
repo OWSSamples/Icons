@@ -1,0 +1,9 @@
+export { default as IcFluentCode_16Color } from './IcFluentCode_16Color';
+export { default as IcFluentCode_16Filled } from './IcFluentCode_16Filled';
+export { default as IcFluentCode_16Regular } from './IcFluentCode_16Regular';
+export { default as IcFluentCode_20Color } from './IcFluentCode_20Color';
+export { default as IcFluentCode_20Filled } from './IcFluentCode_20Filled';
+export { default as IcFluentCode_20Regular } from './IcFluentCode_20Regular';
+export { default as IcFluentCode_24Color } from './IcFluentCode_24Color';
+export { default as IcFluentCode_24Filled } from './IcFluentCode_24Filled';
+export { default as IcFluentCode_24Regular } from './IcFluentCode_24Regular';

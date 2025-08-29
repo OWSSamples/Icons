@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentPinOff_32Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="m20.187 21.601-1.226 3.68a2 2 0 0 1-3.312.782L11.5 21.914 5.415 28H4v-1.414l6.086-6.086-4.149-4.149a2 2 0 0 1 .782-3.311l3.68-1.227-8.106-8.106a1 1 0 0 1 1.414-1.414l26 26a1 1 0 0 1-1.414 1.414zm-1.58-1.581-6.627-6.626-4.628 1.543 9.711 9.712zm8.223-5.553-5.885 2.943 1.49 1.49 5.29-2.644c2.442-1.221 2.97-4.476 1.04-6.406L22.15 3.236c-1.931-1.93-5.186-1.403-6.407 1.04L13.1 9.564l1.49 1.49 2.943-5.885a2 2 0 0 1 3.203-.52l6.614 6.614a2 2 0 0 1-.52 3.203"/>
+  </IconBase>
+);
+
+export default IcFluentPinOff_32Regular;

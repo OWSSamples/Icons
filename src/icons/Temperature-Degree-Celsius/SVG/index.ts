@@ -1,0 +1,12 @@
+export { default as IcFluentTemperatureDegreeCelsius_16Filled } from './IcFluentTemperatureDegreeCelsius_16Filled';
+export { default as IcFluentTemperatureDegreeCelsius_16Regular } from './IcFluentTemperatureDegreeCelsius_16Regular';
+export { default as IcFluentTemperatureDegreeCelsius_20Filled } from './IcFluentTemperatureDegreeCelsius_20Filled';
+export { default as IcFluentTemperatureDegreeCelsius_20Regular } from './IcFluentTemperatureDegreeCelsius_20Regular';
+export { default as IcFluentTemperatureDegreeCelsius_24Filled } from './IcFluentTemperatureDegreeCelsius_24Filled';
+export { default as IcFluentTemperatureDegreeCelsius_24Regular } from './IcFluentTemperatureDegreeCelsius_24Regular';
+export { default as IcFluentTemperatureDegreeCelsius_28Filled } from './IcFluentTemperatureDegreeCelsius_28Filled';
+export { default as IcFluentTemperatureDegreeCelsius_28Regular } from './IcFluentTemperatureDegreeCelsius_28Regular';
+export { default as IcFluentTemperatureDegreeCelsius_32Filled } from './IcFluentTemperatureDegreeCelsius_32Filled';
+export { default as IcFluentTemperatureDegreeCelsius_32Regular } from './IcFluentTemperatureDegreeCelsius_32Regular';
+export { default as IcFluentTemperatureDegreeCelsius_48Filled } from './IcFluentTemperatureDegreeCelsius_48Filled';
+export { default as IcFluentTemperatureDegreeCelsius_48Regular } from './IcFluentTemperatureDegreeCelsius_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentShapeOrganic_16Filled } from './IcFluentShapeOrganic_16Filled';
+export { default as IcFluentShapeOrganic_16Regular } from './IcFluentShapeOrganic_16Regular';
+export { default as IcFluentShapeOrganic_20Filled } from './IcFluentShapeOrganic_20Filled';
+export { default as IcFluentShapeOrganic_20Regular } from './IcFluentShapeOrganic_20Regular';
+export { default as IcFluentShapeOrganic_24Filled } from './IcFluentShapeOrganic_24Filled';
+export { default as IcFluentShapeOrganic_24Regular } from './IcFluentShapeOrganic_24Regular';
+export { default as IcFluentShapeOrganic_28Filled } from './IcFluentShapeOrganic_28Filled';
+export { default as IcFluentShapeOrganic_28Regular } from './IcFluentShapeOrganic_28Regular';
+export { default as IcFluentShapeOrganic_32Filled } from './IcFluentShapeOrganic_32Filled';
+export { default as IcFluentShapeOrganic_32Regular } from './IcFluentShapeOrganic_32Regular';
+export { default as IcFluentShapeOrganic_48Filled } from './IcFluentShapeOrganic_48Filled';
+export { default as IcFluentShapeOrganic_48Regular } from './IcFluentShapeOrganic_48Regular';

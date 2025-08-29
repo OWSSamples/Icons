@@ -1,0 +1,16 @@
+export { default as IcFluentGlobe_12Filled } from './IcFluentGlobe_12Filled';
+export { default as IcFluentGlobe_12Regular } from './IcFluentGlobe_12Regular';
+export { default as IcFluentGlobe_16Filled } from './IcFluentGlobe_16Filled';
+export { default as IcFluentGlobe_16Regular } from './IcFluentGlobe_16Regular';
+export { default as IcFluentGlobe_20Color } from './IcFluentGlobe_20Color';
+export { default as IcFluentGlobe_20Filled } from './IcFluentGlobe_20Filled';
+export { default as IcFluentGlobe_20Regular } from './IcFluentGlobe_20Regular';
+export { default as IcFluentGlobe_24Color } from './IcFluentGlobe_24Color';
+export { default as IcFluentGlobe_24Filled } from './IcFluentGlobe_24Filled';
+export { default as IcFluentGlobe_24Regular } from './IcFluentGlobe_24Regular';
+export { default as IcFluentGlobe_28Filled } from './IcFluentGlobe_28Filled';
+export { default as IcFluentGlobe_28Regular } from './IcFluentGlobe_28Regular';
+export { default as IcFluentGlobe_32Filled } from './IcFluentGlobe_32Filled';
+export { default as IcFluentGlobe_32Regular } from './IcFluentGlobe_32Regular';
+export { default as IcFluentGlobe_48Filled } from './IcFluentGlobe_48Filled';
+export { default as IcFluentGlobe_48Regular } from './IcFluentGlobe_48Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentCalendarCancel_24Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M21 7.5v10.25A3.25 3.25 0 0 1 17.75 21H6.25A3.25 3.25 0 0 1 3 17.75V7.5l9-1z"/><path fill="currentColor" d="M21 7.5v10.25A3.25 3.25 0 0 1 17.75 21H6.25A3.25 3.25 0 0 1 3 17.75V7.5l9-1z"/><path fill="currentColor" fill-opacity=".3" d="M21 7.5v10.25A3.25 3.25 0 0 1 17.75 21H6.25A3.25 3.25 0 0 1 3 17.75V7.5l9-1z"/><path fill="currentColor" d="M17.75 3A3.25 3.25 0 0 1 21 6.25V8H3V6.25A3.25 3.25 0 0 1 6.25 3z"/><path fill="currentColor" d="M17.5 12a5.5 5.5 0 1 1 0 11 5.5 5.5 0 0 1 0-11"/><path fill="currentColor" d="M15.024 15.024a.5.5 0 0 0 0 .708l1.77 1.77-1.767 1.766a.5.5 0 1 0 .707.707l1.766-1.767 1.77 1.77a.5.5 0 0 0 .707-.708l-1.769-1.769 1.771-1.77a.5.5 0 0 0-.707-.707l-1.77 1.77-1.771-1.77a.5.5 0 0 0-.707 0"/><defs><linearGradient id="a" x1="9.429" x2="14.137" y1="6.5" y2="20.932" gradientUnits="userSpaceOnUse"><stop stop-color="#B3E0FF"/><stop offset="1" stop-color="#8CD0FF"/></linearGradient><linearGradient id="b" x1="13.929" x2="16.625" y1="12.432" y2="24.267" gradientUnits="userSpaceOnUse"><stop stop-color="#DCF8FF" stop-opacity="0"/><stop offset="1" stop-color="#FF6CE8" stop-opacity=".7"/></linearGradient><linearGradient id="d" x1="3.723" x2="5.356" y1="3" y2="11.537" gradientUnits="userSpaceOnUse"><stop stop-color="#0094F0"/><stop offset="1" stop-color="#2764E7"/></linearGradient><linearGradient id="e" x1="13.719" x2="20.938" y1="12.688" y2="23.344" gradientUnits="userSpaceOnUse"><stop stop-color="#F83F54"/><stop offset="1" stop-color="#CA2134"/></linearGradient><linearGradient id="f" x1="15.503" x2="17.857" y1="17.701" y2="20.149" gradientUnits="userSpaceOnUse"><stop stop-color="#FDFDFD"/><stop offset="1" stop-color="#FECBE6"/></linearGradient><radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(0 8.56818 -8.35714 0 17.786 19.023)" gradientUnits="userSpaceOnUse"><stop offset=".535" stop-color="#4A43CB"/><stop offset="1" stop-color="#4A43CB" stop-opacity="0"/></radialGradient></defs>
+  </IconBase>
+);
+
+export default IcFluentCalendarCancel_24Color;

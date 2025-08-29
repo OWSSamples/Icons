@@ -1,0 +1,10 @@
+export { default as IcFluentPresenceAway_10Filled } from './IcFluentPresenceAway_10Filled';
+export { default as IcFluentPresenceAway_10Regular } from './IcFluentPresenceAway_10Regular';
+export { default as IcFluentPresenceAway_12Filled } from './IcFluentPresenceAway_12Filled';
+export { default as IcFluentPresenceAway_12Regular } from './IcFluentPresenceAway_12Regular';
+export { default as IcFluentPresenceAway_16Filled } from './IcFluentPresenceAway_16Filled';
+export { default as IcFluentPresenceAway_16Regular } from './IcFluentPresenceAway_16Regular';
+export { default as IcFluentPresenceAway_20Filled } from './IcFluentPresenceAway_20Filled';
+export { default as IcFluentPresenceAway_20Regular } from './IcFluentPresenceAway_20Regular';
+export { default as IcFluentPresenceAway_24Filled } from './IcFluentPresenceAway_24Filled';
+export { default as IcFluentPresenceAway_24Regular } from './IcFluentPresenceAway_24Regular';

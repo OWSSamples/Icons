@@ -1,0 +1,17 @@
+export { default as IcFluentReceipt_16Color } from './IcFluentReceipt_16Color';
+export { default as IcFluentReceipt_16Filled } from './IcFluentReceipt_16Filled';
+export { default as IcFluentReceipt_16Regular } from './IcFluentReceipt_16Regular';
+export { default as IcFluentReceipt_20Color } from './IcFluentReceipt_20Color';
+export { default as IcFluentReceipt_20Filled } from './IcFluentReceipt_20Filled';
+export { default as IcFluentReceipt_20Regular } from './IcFluentReceipt_20Regular';
+export { default as IcFluentReceipt_24Color } from './IcFluentReceipt_24Color';
+export { default as IcFluentReceipt_24Filled } from './IcFluentReceipt_24Filled';
+export { default as IcFluentReceipt_24Regular } from './IcFluentReceipt_24Regular';
+export { default as IcFluentReceipt_28Color } from './IcFluentReceipt_28Color';
+export { default as IcFluentReceipt_28Filled } from './IcFluentReceipt_28Filled';
+export { default as IcFluentReceipt_28Regular } from './IcFluentReceipt_28Regular';
+export { default as IcFluentReceipt_32Color } from './IcFluentReceipt_32Color';
+export { default as IcFluentReceipt_32Filled } from './IcFluentReceipt_32Filled';
+export { default as IcFluentReceipt_32Regular } from './IcFluentReceipt_32Regular';
+export { default as IcFluentReceipt_48Filled } from './IcFluentReceipt_48Filled';
+export { default as IcFluentReceipt_48Regular } from './IcFluentReceipt_48Regular';

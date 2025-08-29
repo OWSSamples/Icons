@@ -1,0 +1,12 @@
+export { default as IcFluentPersonBoard_12Filled } from './IcFluentPersonBoard_12Filled';
+export { default as IcFluentPersonBoard_12Regular } from './IcFluentPersonBoard_12Regular';
+export { default as IcFluentPersonBoard_16Filled } from './IcFluentPersonBoard_16Filled';
+export { default as IcFluentPersonBoard_16Regular } from './IcFluentPersonBoard_16Regular';
+export { default as IcFluentPersonBoard_20Filled } from './IcFluentPersonBoard_20Filled';
+export { default as IcFluentPersonBoard_20Regular } from './IcFluentPersonBoard_20Regular';
+export { default as IcFluentPersonBoard_24Filled } from './IcFluentPersonBoard_24Filled';
+export { default as IcFluentPersonBoard_24Regular } from './IcFluentPersonBoard_24Regular';
+export { default as IcFluentPersonBoard_28Filled } from './IcFluentPersonBoard_28Filled';
+export { default as IcFluentPersonBoard_28Regular } from './IcFluentPersonBoard_28Regular';
+export { default as IcFluentPersonBoard_32Filled } from './IcFluentPersonBoard_32Filled';
+export { default as IcFluentPersonBoard_32Regular } from './IcFluentPersonBoard_32Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentThumbLike_16Filled } from './IcFluentThumbLike_16Filled';
+export { default as IcFluentThumbLike_16Regular } from './IcFluentThumbLike_16Regular';
+export { default as IcFluentThumbLike_20Filled } from './IcFluentThumbLike_20Filled';
+export { default as IcFluentThumbLike_20Regular } from './IcFluentThumbLike_20Regular';
+export { default as IcFluentThumbLike_24Filled } from './IcFluentThumbLike_24Filled';
+export { default as IcFluentThumbLike_24Regular } from './IcFluentThumbLike_24Regular';
+export { default as IcFluentThumbLike_28Filled } from './IcFluentThumbLike_28Filled';
+export { default as IcFluentThumbLike_28Regular } from './IcFluentThumbLike_28Regular';
+export { default as IcFluentThumbLike_48Filled } from './IcFluentThumbLike_48Filled';
+export { default as IcFluentThumbLike_48Regular } from './IcFluentThumbLike_48Regular';

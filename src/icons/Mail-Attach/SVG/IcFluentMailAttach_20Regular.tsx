@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentMailAttach_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="m10.766 10.47-.766.45-7-4.118V6.5A1.5 1.5 0 0 1 4.5 5h7.376l.999-1H4.5A2.5 2.5 0 0 0 2 6.5v8A2.5 2.5 0 0 0 4.5 17h11a2.5 2.5 0 0 0 2.5-2.5V9.123l-1 .996V14.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 3 14.5V7.963l6.746 3.968.082.039a.5.5 0 0 0 .426-.039l.828-.487a2.6 2.6 0 0 1-.316-.975m4.46-5.994a1.625 1.625 0 0 1 2.298 2.298l-.01.01-3.858 3.844-.01.01a.56.56 0 1 1-.78-.804l3.487-3.48a.5.5 0 1 0-.707-.708l-3.5 3.493-.016.017a1.56 1.56 0 0 0 2.21 2.202l.012-.011 3.879-3.865.012-.013a2.625 2.625 0 0 0-3.724-3.7L10.95 7.342a.5.5 0 0 0 .707.707z"/>
+  </IconBase>
+);
+
+export default IcFluentMailAttach_20Regular;

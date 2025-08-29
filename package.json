@@ -1,7 +1,7 @@
 {
   "name": "@opendex-origon/icons",
-  "version": "2.10.2",
-  "description": "Biblioteca de iconos SVG para React con tipado TypeScript - Solo para proyectos que se integren con Opendex. +10,000 iconos organizados en categorías temáticas.",
+  "version": "3.0.0",
+  "description": "Biblioteca de iconos SVG para React con tipado TypeScript - Solo para proyectos que se integren con Opendex. +44,000 iconos organizados en categorías temáticas, incluyendo logo personalizado.",
   "license": "SEE LICENSE IN LICENSE",
   "author": {
     "name": "Opendex Corporation",
@@ -57,7 +57,7 @@
   },
   "scripts": {
     "clean": "rimraf dist",
-    "build": "rimraf dist && node --max-old-space-size=8192 scripts/build.js",
+    "build": "rimraf dist && node --max-old-space-size=8192 scripts/build-optimized.js",
     "dev": "tsc -p tsconfig.build.json --watch",
     "generate": "node scripts/generate-icons.js",
     "prepack": "npm run clean && npm run build",
@@ -66,16 +66,32 @@
     "lint:check": "eslint src --ext .ts,.tsx",
     "format": "prettier --write \"src/**/*.{ts,tsx}\"",
     "format:check": "prettier --check \"src/**/*.{ts,tsx}\"",
-    "type-check": "tsc --noEmit",
+    "type-check": "node --max-old-space-size=8192 ./node_modules/.bin/tsc --noEmit",
     "prepublishOnly": "npm run build",
     "prepare": "npm run build",
     "release": "semantic-release",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "diagnose": "node scripts/diagnose-project.js",
+    "release:patch": "node scripts/update-version.js patch",
+    "release:minor": "node scripts/update-version.js minor",
+    "release:major": "node scripts/update-version.js major",
+    "publish:patch": "npm run release:patch && git push origin main && git push --tags && npm publish",
+    "publish:minor": "npm run release:minor && git push origin main && git push --tags && npm publish",
+    "publish:major": "npm run release:major && git push origin main && git push --tags && npm publish",
+    "publish:manual:patch": "node scripts/publish-manual.js patch",
+    "publish:manual:minor": "node scripts/publish-manual.js minor",
+    "publish:manual:major": "node scripts/publish-manual.js major"
   },
   "peerDependencies": {
     "react": ">=16.8"
   },
   "devDependencies": {
+    "@commitlint/cli": "^18.0.0",
+    "@commitlint/config-conventional": "^18.0.0",
+    "@semantic-release/changelog": "^6.0.0",
+    "@semantic-release/git": "^10.0.0",
+    "@semantic-release/github": "^9.0.0",
+    "@semantic-release/npm": "^10.0.0",
     "@types/node": "^20.12.12",
     "@types/react": "^18.3.5",
     "@typescript-eslint/eslint-plugin": "^7.0.0",
@@ -85,19 +101,13 @@
     "eslint-plugin-react": "^7.34.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "fast-glob": "^3.3.2",
+    "husky": "^8.0.0",
     "prettier": "^3.3.2",
     "rimraf": "^5.0.7",
+    "semantic-release": "^22.0.0",
     "svgo": "^3.3.2",
     "tsup": "^8.1.0",
-    "typescript": "^5.5.4",
-    "@commitlint/cli": "^18.0.0",
-    "husky": "^8.0.0",
-    "@commitlint/config-conventional": "^18.0.0",
-    "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/git": "^10.0.0",
-    "@semantic-release/github": "^9.0.0",
-    "@semantic-release/npm": "^10.0.0",
-    "semantic-release": "^22.0.0"
+    "typescript": "5.9.2"
   },
   "publishConfig": {
     "access": "public"

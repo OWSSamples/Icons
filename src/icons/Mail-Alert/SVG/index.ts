@@ -1,0 +1,16 @@
+export { default as IcFluentMailAlert_16Color } from './IcFluentMailAlert_16Color';
+export { default as IcFluentMailAlert_16Filled } from './IcFluentMailAlert_16Filled';
+export { default as IcFluentMailAlert_16Regular } from './IcFluentMailAlert_16Regular';
+export { default as IcFluentMailAlert_20Color } from './IcFluentMailAlert_20Color';
+export { default as IcFluentMailAlert_20Filled } from './IcFluentMailAlert_20Filled';
+export { default as IcFluentMailAlert_20Regular } from './IcFluentMailAlert_20Regular';
+export { default as IcFluentMailAlert_24Color } from './IcFluentMailAlert_24Color';
+export { default as IcFluentMailAlert_24Filled } from './IcFluentMailAlert_24Filled';
+export { default as IcFluentMailAlert_24Regular } from './IcFluentMailAlert_24Regular';
+export { default as IcFluentMailAlert_28Color } from './IcFluentMailAlert_28Color';
+export { default as IcFluentMailAlert_28Filled } from './IcFluentMailAlert_28Filled';
+export { default as IcFluentMailAlert_28Regular } from './IcFluentMailAlert_28Regular';
+export { default as IcFluentMailAlert_32Color } from './IcFluentMailAlert_32Color';
+export { default as IcFluentMailAlert_32Filled } from './IcFluentMailAlert_32Filled';
+export { default as IcFluentMailAlert_32Light } from './IcFluentMailAlert_32Light';
+export { default as IcFluentMailAlert_32Regular } from './IcFluentMailAlert_32Regular';

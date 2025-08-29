@@ -1,0 +1,12 @@
+export { default as IcFluentPaymentWireless_16Filled } from './IcFluentPaymentWireless_16Filled';
+export { default as IcFluentPaymentWireless_16Regular } from './IcFluentPaymentWireless_16Regular';
+export { default as IcFluentPaymentWireless_20Filled } from './IcFluentPaymentWireless_20Filled';
+export { default as IcFluentPaymentWireless_20Regular } from './IcFluentPaymentWireless_20Regular';
+export { default as IcFluentPaymentWireless_24Filled } from './IcFluentPaymentWireless_24Filled';
+export { default as IcFluentPaymentWireless_24Regular } from './IcFluentPaymentWireless_24Regular';
+export { default as IcFluentPaymentWireless_28Filled } from './IcFluentPaymentWireless_28Filled';
+export { default as IcFluentPaymentWireless_28Regular } from './IcFluentPaymentWireless_28Regular';
+export { default as IcFluentPaymentWireless_32Filled } from './IcFluentPaymentWireless_32Filled';
+export { default as IcFluentPaymentWireless_32Regular } from './IcFluentPaymentWireless_32Regular';
+export { default as IcFluentPaymentWireless_48Filled } from './IcFluentPaymentWireless_48Filled';
+export { default as IcFluentPaymentWireless_48Regular } from './IcFluentPaymentWireless_48Regular';

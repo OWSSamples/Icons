@@ -1,0 +1,12 @@
+export { default as IcFluentFeed_16Filled } from './IcFluentFeed_16Filled';
+export { default as IcFluentFeed_16Regular } from './IcFluentFeed_16Regular';
+export { default as IcFluentFeed_20Filled } from './IcFluentFeed_20Filled';
+export { default as IcFluentFeed_20Regular } from './IcFluentFeed_20Regular';
+export { default as IcFluentFeed_24Filled } from './IcFluentFeed_24Filled';
+export { default as IcFluentFeed_24Regular } from './IcFluentFeed_24Regular';
+export { default as IcFluentFeed_28Filled } from './IcFluentFeed_28Filled';
+export { default as IcFluentFeed_28Regular } from './IcFluentFeed_28Regular';
+export { default as IcFluentFeed_32Filled } from './IcFluentFeed_32Filled';
+export { default as IcFluentFeed_32Regular } from './IcFluentFeed_32Regular';
+export { default as IcFluentFeed_48Filled } from './IcFluentFeed_48Filled';
+export { default as IcFluentFeed_48Regular } from './IcFluentFeed_48Regular';

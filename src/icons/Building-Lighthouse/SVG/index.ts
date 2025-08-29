@@ -1,0 +1,12 @@
+export { default as IcFluentBuildingLighthouse_16Filled } from './IcFluentBuildingLighthouse_16Filled';
+export { default as IcFluentBuildingLighthouse_16Regular } from './IcFluentBuildingLighthouse_16Regular';
+export { default as IcFluentBuildingLighthouse_20Filled } from './IcFluentBuildingLighthouse_20Filled';
+export { default as IcFluentBuildingLighthouse_20Regular } from './IcFluentBuildingLighthouse_20Regular';
+export { default as IcFluentBuildingLighthouse_24Filled } from './IcFluentBuildingLighthouse_24Filled';
+export { default as IcFluentBuildingLighthouse_24Regular } from './IcFluentBuildingLighthouse_24Regular';
+export { default as IcFluentBuildingLighthouse_28Filled } from './IcFluentBuildingLighthouse_28Filled';
+export { default as IcFluentBuildingLighthouse_28Regular } from './IcFluentBuildingLighthouse_28Regular';
+export { default as IcFluentBuildingLighthouse_32Filled } from './IcFluentBuildingLighthouse_32Filled';
+export { default as IcFluentBuildingLighthouse_32Regular } from './IcFluentBuildingLighthouse_32Regular';
+export { default as IcFluentBuildingLighthouse_48Filled } from './IcFluentBuildingLighthouse_48Filled';
+export { default as IcFluentBuildingLighthouse_48Regular } from './IcFluentBuildingLighthouse_48Regular';

@@ -1,0 +1,11 @@
+export { default as IcFluentCamera_16Color } from './IcFluentCamera_16Color';
+export { default as IcFluentCamera_16Filled } from './IcFluentCamera_16Filled';
+export { default as IcFluentCamera_16Regular } from './IcFluentCamera_16Regular';
+export { default as IcFluentCamera_20Color } from './IcFluentCamera_20Color';
+export { default as IcFluentCamera_20Filled } from './IcFluentCamera_20Filled';
+export { default as IcFluentCamera_20Regular } from './IcFluentCamera_20Regular';
+export { default as IcFluentCamera_24Color } from './IcFluentCamera_24Color';
+export { default as IcFluentCamera_24Filled } from './IcFluentCamera_24Filled';
+export { default as IcFluentCamera_24Regular } from './IcFluentCamera_24Regular';
+export { default as IcFluentCamera_28Filled } from './IcFluentCamera_28Filled';
+export { default as IcFluentCamera_28Regular } from './IcFluentCamera_28Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentWindowApps_16Filled } from './IcFluentWindowApps_16Filled';
+export { default as IcFluentWindowApps_16Regular } from './IcFluentWindowApps_16Regular';
+export { default as IcFluentWindowApps_20Filled } from './IcFluentWindowApps_20Filled';
+export { default as IcFluentWindowApps_20Regular } from './IcFluentWindowApps_20Regular';
+export { default as IcFluentWindowApps_24Filled } from './IcFluentWindowApps_24Filled';
+export { default as IcFluentWindowApps_24Regular } from './IcFluentWindowApps_24Regular';
+export { default as IcFluentWindowApps_28Filled } from './IcFluentWindowApps_28Filled';
+export { default as IcFluentWindowApps_28Regular } from './IcFluentWindowApps_28Regular';
+export { default as IcFluentWindowApps_32Filled } from './IcFluentWindowApps_32Filled';
+export { default as IcFluentWindowApps_32Regular } from './IcFluentWindowApps_32Regular';
+export { default as IcFluentWindowApps_48Filled } from './IcFluentWindowApps_48Filled';
+export { default as IcFluentWindowApps_48Regular } from './IcFluentWindowApps_48Regular';

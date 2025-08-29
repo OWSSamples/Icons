@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const HeartExclamationCircleLight = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M1.5 8.474C1.5 5.21 3.704 2.5 6.893 2.5c1.814 0 3.012.978 3.725 1.823a.5.5 0 0 0 .764 0c.713-.845 1.91-1.823 3.725-1.823 3.189 0 5.393 2.71 5.393 5.974a8 8 0 0 1-.064 1.018.5.5 0 1 0 .993.125q.07-.56.071-1.143c0-3.683-2.527-6.974-6.393-6.974-1.908 0-3.249.893-4.107 1.76-.858-.867-2.199-1.76-4.107-1.76C3.027 1.5.5 4.79.5 8.474c0 3.558 2.055 6.462 4.29 8.547 2.24 2.088 4.734 3.425 5.783 3.852a.5.5 0 0 0 .377-.926c-.948-.386-3.335-1.66-5.477-3.657C3.327 14.289 1.5 11.63 1.5 8.474M17.25 19.25a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0m.25-4.75V17a.5.5 0 0 0 1 0v-2.5a.5.5 0 0 0-1 0"/><path fill="currentColor" fill-rule="evenodd" d="M18 11.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11M13.5 17a4.5 4.5 0 1 1 9 0 4.5 4.5 0 0 1-9 0" clip-rule="evenodd"/>
+  </IconBase>
+);
+
+export default HeartExclamationCircleLight;

@@ -1,0 +1,12 @@
+export { default as IcFluentContactCardRibbon_16Filled } from './IcFluentContactCardRibbon_16Filled';
+export { default as IcFluentContactCardRibbon_16Regular } from './IcFluentContactCardRibbon_16Regular';
+export { default as IcFluentContactCardRibbon_20Filled } from './IcFluentContactCardRibbon_20Filled';
+export { default as IcFluentContactCardRibbon_20Regular } from './IcFluentContactCardRibbon_20Regular';
+export { default as IcFluentContactCardRibbon_24Filled } from './IcFluentContactCardRibbon_24Filled';
+export { default as IcFluentContactCardRibbon_24Regular } from './IcFluentContactCardRibbon_24Regular';
+export { default as IcFluentContactCardRibbon_28Filled } from './IcFluentContactCardRibbon_28Filled';
+export { default as IcFluentContactCardRibbon_28Regular } from './IcFluentContactCardRibbon_28Regular';
+export { default as IcFluentContactCardRibbon_32Filled } from './IcFluentContactCardRibbon_32Filled';
+export { default as IcFluentContactCardRibbon_32Regular } from './IcFluentContactCardRibbon_32Regular';
+export { default as IcFluentContactCardRibbon_48Filled } from './IcFluentContactCardRibbon_48Filled';
+export { default as IcFluentContactCardRibbon_48Regular } from './IcFluentContactCardRibbon_48Regular';

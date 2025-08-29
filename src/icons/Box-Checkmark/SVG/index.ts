@@ -1,0 +1,12 @@
+export { default as IcFluentBoxCheckmark_16Filled } from './IcFluentBoxCheckmark_16Filled';
+export { default as IcFluentBoxCheckmark_16Regular } from './IcFluentBoxCheckmark_16Regular';
+export { default as IcFluentBoxCheckmark_20Filled } from './IcFluentBoxCheckmark_20Filled';
+export { default as IcFluentBoxCheckmark_20Regular } from './IcFluentBoxCheckmark_20Regular';
+export { default as IcFluentBoxCheckmark_24Filled } from './IcFluentBoxCheckmark_24Filled';
+export { default as IcFluentBoxCheckmark_24Regular } from './IcFluentBoxCheckmark_24Regular';
+export { default as IcFluentBoxCheckmark_28Filled } from './IcFluentBoxCheckmark_28Filled';
+export { default as IcFluentBoxCheckmark_28Regular } from './IcFluentBoxCheckmark_28Regular';
+export { default as IcFluentBoxCheckmark_32Filled } from './IcFluentBoxCheckmark_32Filled';
+export { default as IcFluentBoxCheckmark_32Regular } from './IcFluentBoxCheckmark_32Regular';
+export { default as IcFluentBoxCheckmark_48Filled } from './IcFluentBoxCheckmark_48Filled';
+export { default as IcFluentBoxCheckmark_48Regular } from './IcFluentBoxCheckmark_48Regular';

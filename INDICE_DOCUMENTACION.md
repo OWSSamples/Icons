@@ -33,7 +33,52 @@
 
 ## 📚 Documentación Disponible
 
-### 1. 📖 [DOCUMENTACION_COMPLETA.md](./DOCUMENTACION_COMPLETA.md)
+### 1. 🚀 [GUIA_EXPORTACIONES.md](./GUIA_EXPORTACIONES.md) ⭐ **NUEVO**
+**Guía completa para exportar e importar iconos fácilmente**
+
+#### 📋 Contenido:
+- 🎯 **Métodos de Importación**: Aliases, búsqueda directa, temática
+- 🎨 **Aliases Rápidos**: Nombres cortos para iconos comunes
+- 📂 **Búsqueda por Categorías**: Organización por función
+- 🎯 **Búsqueda por Casos de Uso**: Dashboard, formularios, navegación
+- 🎨 **Estilos Disponibles**: Regular, Filled, Light, Duotone
+- 💡 **Ejemplos Prácticos**: Casos de uso reales
+- 🔍 **Consejos de Búsqueda**: Mejores prácticas
+
+#### 🎯 **Audiencia**: Todos los usuarios - **RECOMENDADO PARA EMPEZAR**
+
+---
+
+### 2. 🔍 [INDICE_BUSQUEDA_RAPIDA.md](./INDICE_BUSQUEDA_RAPIDA.md) ⭐ **NUEVO**
+**Índice alfabético y búsqueda por función, estilo y plataforma**
+
+#### 📋 Contenido:
+- 📋 **Índice Alfabético Rápido**: Búsqueda A-Z
+- 🎯 **Búsqueda por Función**: Navegación, acciones, estados
+- 🎨 **Búsqueda por Estilo**: Regular, Filled, Light, Duotone
+- 📱 **Búsqueda por Plataforma**: Web, Mobile, IoT
+- 💼 **Búsqueda por Industria**: E-commerce, finanzas, educación
+- 🔧 **Búsqueda por Tecnología**: Desarrollo, diseño, multimedia
+- 🎯 **Consejos de Búsqueda**: Patrones y mejores prácticas
+
+#### 🎯 **Audiencia**: Desarrolladores que necesitan encontrar iconos rápidamente
+
+---
+
+### 3. 🎯 [ALIASES_REFERENCIA.md](./ALIASES_REFERENCIA.md) ⭐ **NUEVO**
+**Referencia completa de todos los aliases disponibles**
+
+#### 📋 Contenido:
+- 📋 **Aliases por Categoría**: Flechas, navegación, acciones, estados
+- 🎯 **Código de Ejemplo**: Importaciones listas para usar
+- 🔍 **Búsqueda Rápida**: Por función, dispositivo, industria
+- 🚀 **Consejos de Uso**: Mejores prácticas para aliases
+
+#### 🎯 **Audiencia**: Desarrolladores que quieren usar aliases
+
+---
+
+### 4. 📖 [DOCUMENTACION_COMPLETA.md](./DOCUMENTACION_COMPLETA.md)
 **Documentación principal y completa del proyecto**
 
 #### 📋 Contenido:
@@ -92,12 +137,19 @@
 ## 🎯 Guía de Navegación
 
 ### 👤 **Para Usuarios Nuevos**
-1. **Comienza con**: [DOCUMENTACION_COMPLETA.md](./DOCUMENTACION_COMPLETA.md)
-   - Sección: "Instalación y Configuración"
-   - Sección: "Guía de Uso"
-   - Sección: "API y Props"
+1. **Comienza con**: [GUIA_EXPORTACIONES.md](./GUIA_EXPORTACIONES.md) ⭐ **RECOMENDADO**
+   - Sección: "Métodos de Importación"
+   - Sección: "Aliases Rápidos"
+   - Sección: "Ejemplos Prácticos"
 
-2. **Luego revisa**: [EJEMPLOS_PRACTICOS.md](./EJEMPLOS_PRACTICOS.md)
+2. **Para encontrar iconos**: [INDICE_BUSQUEDA_RAPIDA.md](./INDICE_BUSQUEDA_RAPIDA.md)
+   - Sección: "Índice Alfabético Rápido"
+   - Sección: "Búsqueda por Función"
+
+3. **Para aliases**: [ALIASES_REFERENCIA.md](./ALIASES_REFERENCIA.md)
+   - Sección: "Aliases por Categoría"
+
+4. **Luego revisa**: [EJEMPLOS_PRACTICOS.md](./EJEMPLOS_PRACTICOS.md)
    - Sección: "Ejemplos Básicos"
    - Sección: "Componentes de UI"
 

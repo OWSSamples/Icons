@@ -1,0 +1,10 @@
+export { default as IcFluentClipboardTaskList_16Filled } from './IcFluentClipboardTaskList_16Filled';
+export { default as IcFluentClipboardTaskList_16Regular } from './IcFluentClipboardTaskList_16Regular';
+export { default as IcFluentClipboardTaskList_20FilledLtr } from './IcFluentClipboardTaskList_20FilledLtr';
+export { default as IcFluentClipboardTaskList_20FilledRtl } from './IcFluentClipboardTaskList_20FilledRtl';
+export { default as IcFluentClipboardTaskList_20RegularLtr } from './IcFluentClipboardTaskList_20RegularLtr';
+export { default as IcFluentClipboardTaskList_20RegularRtl } from './IcFluentClipboardTaskList_20RegularRtl';
+export { default as IcFluentClipboardTaskList_24FilledLtr } from './IcFluentClipboardTaskList_24FilledLtr';
+export { default as IcFluentClipboardTaskList_24FilledRtl } from './IcFluentClipboardTaskList_24FilledRtl';
+export { default as IcFluentClipboardTaskList_24RegularLtr } from './IcFluentClipboardTaskList_24RegularLtr';
+export { default as IcFluentClipboardTaskList_24RegularRtl } from './IcFluentClipboardTaskList_24RegularRtl';

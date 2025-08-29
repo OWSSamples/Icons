@@ -1,0 +1,17 @@
+export { default as IcFluentBot_12Filled } from './IcFluentBot_12Filled';
+export { default as IcFluentBot_12Regular } from './IcFluentBot_12Regular';
+export { default as IcFluentBot_16Color } from './IcFluentBot_16Color';
+export { default as IcFluentBot_16Filled } from './IcFluentBot_16Filled';
+export { default as IcFluentBot_16Regular } from './IcFluentBot_16Regular';
+export { default as IcFluentBot_20Color } from './IcFluentBot_20Color';
+export { default as IcFluentBot_20Filled } from './IcFluentBot_20Filled';
+export { default as IcFluentBot_20Regular } from './IcFluentBot_20Regular';
+export { default as IcFluentBot_24Color } from './IcFluentBot_24Color';
+export { default as IcFluentBot_24Filled } from './IcFluentBot_24Filled';
+export { default as IcFluentBot_24Regular } from './IcFluentBot_24Regular';
+export { default as IcFluentBot_28Filled } from './IcFluentBot_28Filled';
+export { default as IcFluentBot_28Regular } from './IcFluentBot_28Regular';
+export { default as IcFluentBot_32Filled } from './IcFluentBot_32Filled';
+export { default as IcFluentBot_32Regular } from './IcFluentBot_32Regular';
+export { default as IcFluentBot_48Filled } from './IcFluentBot_48Filled';
+export { default as IcFluentBot_48Regular } from './IcFluentBot_48Regular';

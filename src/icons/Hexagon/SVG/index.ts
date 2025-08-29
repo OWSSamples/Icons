@@ -1,0 +1,14 @@
+export { default as IcFluentHexagon_12Filled } from './IcFluentHexagon_12Filled';
+export { default as IcFluentHexagon_12Regular } from './IcFluentHexagon_12Regular';
+export { default as IcFluentHexagon_16Filled } from './IcFluentHexagon_16Filled';
+export { default as IcFluentHexagon_16Regular } from './IcFluentHexagon_16Regular';
+export { default as IcFluentHexagon_20Filled } from './IcFluentHexagon_20Filled';
+export { default as IcFluentHexagon_20Regular } from './IcFluentHexagon_20Regular';
+export { default as IcFluentHexagon_24Filled } from './IcFluentHexagon_24Filled';
+export { default as IcFluentHexagon_24Regular } from './IcFluentHexagon_24Regular';
+export { default as IcFluentHexagon_28Filled } from './IcFluentHexagon_28Filled';
+export { default as IcFluentHexagon_28Regular } from './IcFluentHexagon_28Regular';
+export { default as IcFluentHexagon_32Filled } from './IcFluentHexagon_32Filled';
+export { default as IcFluentHexagon_32Regular } from './IcFluentHexagon_32Regular';
+export { default as IcFluentHexagon_48Filled } from './IcFluentHexagon_48Filled';
+export { default as IcFluentHexagon_48Regular } from './IcFluentHexagon_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentForm_20Color } from './IcFluentForm_20Color';
+export { default as IcFluentForm_20Filled } from './IcFluentForm_20Filled';
+export { default as IcFluentForm_20Regular } from './IcFluentForm_20Regular';
+export { default as IcFluentForm_24Color } from './IcFluentForm_24Color';
+export { default as IcFluentForm_24Filled } from './IcFluentForm_24Filled';
+export { default as IcFluentForm_24Regular } from './IcFluentForm_24Regular';
+export { default as IcFluentForm_28Color } from './IcFluentForm_28Color';
+export { default as IcFluentForm_28Filled } from './IcFluentForm_28Filled';
+export { default as IcFluentForm_28Regular } from './IcFluentForm_28Regular';
+export { default as IcFluentForm_48Color } from './IcFluentForm_48Color';
+export { default as IcFluentForm_48Filled } from './IcFluentForm_48Filled';
+export { default as IcFluentForm_48Regular } from './IcFluentForm_48Regular';

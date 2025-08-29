@@ -1,0 +1,10 @@
+export { default as IcFluentCommentLink_16Filled } from './IcFluentCommentLink_16Filled';
+export { default as IcFluentCommentLink_16Regular } from './IcFluentCommentLink_16Regular';
+export { default as IcFluentCommentLink_20Filled } from './IcFluentCommentLink_20Filled';
+export { default as IcFluentCommentLink_20Regular } from './IcFluentCommentLink_20Regular';
+export { default as IcFluentCommentLink_24Filled } from './IcFluentCommentLink_24Filled';
+export { default as IcFluentCommentLink_24Regular } from './IcFluentCommentLink_24Regular';
+export { default as IcFluentCommentLink_28Filled } from './IcFluentCommentLink_28Filled';
+export { default as IcFluentCommentLink_28Regular } from './IcFluentCommentLink_28Regular';
+export { default as IcFluentCommentLink_48Filled } from './IcFluentCommentLink_48Filled';
+export { default as IcFluentCommentLink_48Regular } from './IcFluentCommentLink_48Regular';

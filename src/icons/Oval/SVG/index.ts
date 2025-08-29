@@ -1,0 +1,12 @@
+export { default as IcFluentOval_16Filled } from './IcFluentOval_16Filled';
+export { default as IcFluentOval_16Regular } from './IcFluentOval_16Regular';
+export { default as IcFluentOval_20Filled } from './IcFluentOval_20Filled';
+export { default as IcFluentOval_20Regular } from './IcFluentOval_20Regular';
+export { default as IcFluentOval_24Filled } from './IcFluentOval_24Filled';
+export { default as IcFluentOval_24Regular } from './IcFluentOval_24Regular';
+export { default as IcFluentOval_28Filled } from './IcFluentOval_28Filled';
+export { default as IcFluentOval_28Regular } from './IcFluentOval_28Regular';
+export { default as IcFluentOval_32Filled } from './IcFluentOval_32Filled';
+export { default as IcFluentOval_32Regular } from './IcFluentOval_32Regular';
+export { default as IcFluentOval_48Filled } from './IcFluentOval_48Filled';
+export { default as IcFluentOval_48Regular } from './IcFluentOval_48Regular';

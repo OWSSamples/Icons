@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentGridDots_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M14 20a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m8.5 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m-17 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m8.5-8.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m8.5 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m-17 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5M14 3a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m8.5 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5m-17 0a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5"/>
+  </IconBase>
+);
+
+export default IcFluentGridDots_28Filled;

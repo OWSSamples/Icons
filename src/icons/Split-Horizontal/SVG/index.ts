@@ -1,0 +1,14 @@
+export { default as IcFluentSplitHorizontal_12Filled } from './IcFluentSplitHorizontal_12Filled';
+export { default as IcFluentSplitHorizontal_12Regular } from './IcFluentSplitHorizontal_12Regular';
+export { default as IcFluentSplitHorizontal_16Filled } from './IcFluentSplitHorizontal_16Filled';
+export { default as IcFluentSplitHorizontal_16Regular } from './IcFluentSplitHorizontal_16Regular';
+export { default as IcFluentSplitHorizontal_20Filled } from './IcFluentSplitHorizontal_20Filled';
+export { default as IcFluentSplitHorizontal_20Regular } from './IcFluentSplitHorizontal_20Regular';
+export { default as IcFluentSplitHorizontal_24Filled } from './IcFluentSplitHorizontal_24Filled';
+export { default as IcFluentSplitHorizontal_24Regular } from './IcFluentSplitHorizontal_24Regular';
+export { default as IcFluentSplitHorizontal_28Filled } from './IcFluentSplitHorizontal_28Filled';
+export { default as IcFluentSplitHorizontal_28Regular } from './IcFluentSplitHorizontal_28Regular';
+export { default as IcFluentSplitHorizontal_32Filled } from './IcFluentSplitHorizontal_32Filled';
+export { default as IcFluentSplitHorizontal_32Regular } from './IcFluentSplitHorizontal_32Regular';
+export { default as IcFluentSplitHorizontal_48Filled } from './IcFluentSplitHorizontal_48Filled';
+export { default as IcFluentSplitHorizontal_48Regular } from './IcFluentSplitHorizontal_48Regular';

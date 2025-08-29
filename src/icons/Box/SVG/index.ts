@@ -1,0 +1,12 @@
+export { default as IcFluentBox_16Filled } from './IcFluentBox_16Filled';
+export { default as IcFluentBox_16Regular } from './IcFluentBox_16Regular';
+export { default as IcFluentBox_20Filled } from './IcFluentBox_20Filled';
+export { default as IcFluentBox_20Regular } from './IcFluentBox_20Regular';
+export { default as IcFluentBox_24Filled } from './IcFluentBox_24Filled';
+export { default as IcFluentBox_24Regular } from './IcFluentBox_24Regular';
+export { default as IcFluentBox_28Filled } from './IcFluentBox_28Filled';
+export { default as IcFluentBox_28Regular } from './IcFluentBox_28Regular';
+export { default as IcFluentBox_32Filled } from './IcFluentBox_32Filled';
+export { default as IcFluentBox_32Regular } from './IcFluentBox_32Regular';
+export { default as IcFluentBox_48Filled } from './IcFluentBox_48Filled';
+export { default as IcFluentBox_48Regular } from './IcFluentBox_48Regular';

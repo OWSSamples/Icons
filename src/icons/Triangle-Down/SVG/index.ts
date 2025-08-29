@@ -1,0 +1,12 @@
+export { default as IcFluentTriangleDown_12Filled } from './IcFluentTriangleDown_12Filled';
+export { default as IcFluentTriangleDown_12Regular } from './IcFluentTriangleDown_12Regular';
+export { default as IcFluentTriangleDown_16Filled } from './IcFluentTriangleDown_16Filled';
+export { default as IcFluentTriangleDown_16Regular } from './IcFluentTriangleDown_16Regular';
+export { default as IcFluentTriangleDown_20Filled } from './IcFluentTriangleDown_20Filled';
+export { default as IcFluentTriangleDown_20Regular } from './IcFluentTriangleDown_20Regular';
+export { default as IcFluentTriangleDown_24Filled } from './IcFluentTriangleDown_24Filled';
+export { default as IcFluentTriangleDown_24Regular } from './IcFluentTriangleDown_24Regular';
+export { default as IcFluentTriangleDown_32Filled } from './IcFluentTriangleDown_32Filled';
+export { default as IcFluentTriangleDown_32Regular } from './IcFluentTriangleDown_32Regular';
+export { default as IcFluentTriangleDown_48Filled } from './IcFluentTriangleDown_48Filled';
+export { default as IcFluentTriangleDown_48Regular } from './IcFluentTriangleDown_48Regular';

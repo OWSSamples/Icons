@@ -1,0 +1,12 @@
+export { default as IcFluentStorage_16Filled } from './IcFluentStorage_16Filled';
+export { default as IcFluentStorage_16Regular } from './IcFluentStorage_16Regular';
+export { default as IcFluentStorage_20Filled } from './IcFluentStorage_20Filled';
+export { default as IcFluentStorage_20Regular } from './IcFluentStorage_20Regular';
+export { default as IcFluentStorage_24Filled } from './IcFluentStorage_24Filled';
+export { default as IcFluentStorage_24Regular } from './IcFluentStorage_24Regular';
+export { default as IcFluentStorage_28Filled } from './IcFluentStorage_28Filled';
+export { default as IcFluentStorage_28Regular } from './IcFluentStorage_28Regular';
+export { default as IcFluentStorage_32Filled } from './IcFluentStorage_32Filled';
+export { default as IcFluentStorage_32Regular } from './IcFluentStorage_32Regular';
+export { default as IcFluentStorage_48Filled } from './IcFluentStorage_48Filled';
+export { default as IcFluentStorage_48Regular } from './IcFluentStorage_48Regular';

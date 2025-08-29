@@ -1,0 +1,9 @@
+export { default as IcFluentRibbonStar_20Color } from './IcFluentRibbonStar_20Color';
+export { default as IcFluentRibbonStar_20Filled } from './IcFluentRibbonStar_20Filled';
+export { default as IcFluentRibbonStar_20Regular } from './IcFluentRibbonStar_20Regular';
+export { default as IcFluentRibbonStar_24Color } from './IcFluentRibbonStar_24Color';
+export { default as IcFluentRibbonStar_24Filled } from './IcFluentRibbonStar_24Filled';
+export { default as IcFluentRibbonStar_24Regular } from './IcFluentRibbonStar_24Regular';
+export { default as IcFluentRibbonStar_32Color } from './IcFluentRibbonStar_32Color';
+export { default as IcFluentRibbonStar_32Filled } from './IcFluentRibbonStar_32Filled';
+export { default as IcFluentRibbonStar_32Regular } from './IcFluentRibbonStar_32Regular';

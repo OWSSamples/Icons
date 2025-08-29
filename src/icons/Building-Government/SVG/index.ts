@@ -1,0 +1,12 @@
+export { default as IcFluentBuildingGovernment_16Color } from './IcFluentBuildingGovernment_16Color';
+export { default as IcFluentBuildingGovernment_16Filled } from './IcFluentBuildingGovernment_16Filled';
+export { default as IcFluentBuildingGovernment_16Regular } from './IcFluentBuildingGovernment_16Regular';
+export { default as IcFluentBuildingGovernment_20Color } from './IcFluentBuildingGovernment_20Color';
+export { default as IcFluentBuildingGovernment_20Filled } from './IcFluentBuildingGovernment_20Filled';
+export { default as IcFluentBuildingGovernment_20Regular } from './IcFluentBuildingGovernment_20Regular';
+export { default as IcFluentBuildingGovernment_24Color } from './IcFluentBuildingGovernment_24Color';
+export { default as IcFluentBuildingGovernment_24Filled } from './IcFluentBuildingGovernment_24Filled';
+export { default as IcFluentBuildingGovernment_24Regular } from './IcFluentBuildingGovernment_24Regular';
+export { default as IcFluentBuildingGovernment_32Color } from './IcFluentBuildingGovernment_32Color';
+export { default as IcFluentBuildingGovernment_32Filled } from './IcFluentBuildingGovernment_32Filled';
+export { default as IcFluentBuildingGovernment_32Regular } from './IcFluentBuildingGovernment_32Regular';

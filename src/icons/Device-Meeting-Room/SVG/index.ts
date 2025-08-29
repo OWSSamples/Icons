@@ -1,0 +1,12 @@
+export { default as IcFluentDeviceMeetingRoom_16Filled } from './IcFluentDeviceMeetingRoom_16Filled';
+export { default as IcFluentDeviceMeetingRoom_16Regular } from './IcFluentDeviceMeetingRoom_16Regular';
+export { default as IcFluentDeviceMeetingRoom_20Filled } from './IcFluentDeviceMeetingRoom_20Filled';
+export { default as IcFluentDeviceMeetingRoom_20Regular } from './IcFluentDeviceMeetingRoom_20Regular';
+export { default as IcFluentDeviceMeetingRoom_24Filled } from './IcFluentDeviceMeetingRoom_24Filled';
+export { default as IcFluentDeviceMeetingRoom_24Regular } from './IcFluentDeviceMeetingRoom_24Regular';
+export { default as IcFluentDeviceMeetingRoom_28Filled } from './IcFluentDeviceMeetingRoom_28Filled';
+export { default as IcFluentDeviceMeetingRoom_28Regular } from './IcFluentDeviceMeetingRoom_28Regular';
+export { default as IcFluentDeviceMeetingRoom_32Filled } from './IcFluentDeviceMeetingRoom_32Filled';
+export { default as IcFluentDeviceMeetingRoom_32Regular } from './IcFluentDeviceMeetingRoom_32Regular';
+export { default as IcFluentDeviceMeetingRoom_48Filled } from './IcFluentDeviceMeetingRoom_48Filled';
+export { default as IcFluentDeviceMeetingRoom_48Regular } from './IcFluentDeviceMeetingRoom_48Regular';

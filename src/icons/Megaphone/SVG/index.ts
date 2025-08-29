@@ -1,0 +1,10 @@
+export { default as IcFluentMegaphone_12Filled } from './IcFluentMegaphone_12Filled';
+export { default as IcFluentMegaphone_12Regular } from './IcFluentMegaphone_12Regular';
+export { default as IcFluentMegaphone_16Filled } from './IcFluentMegaphone_16Filled';
+export { default as IcFluentMegaphone_16Regular } from './IcFluentMegaphone_16Regular';
+export { default as IcFluentMegaphone_20Filled } from './IcFluentMegaphone_20Filled';
+export { default as IcFluentMegaphone_20Regular } from './IcFluentMegaphone_20Regular';
+export { default as IcFluentMegaphone_24Filled } from './IcFluentMegaphone_24Filled';
+export { default as IcFluentMegaphone_24Regular } from './IcFluentMegaphone_24Regular';
+export { default as IcFluentMegaphone_28Filled } from './IcFluentMegaphone_28Filled';
+export { default as IcFluentMegaphone_28Regular } from './IcFluentMegaphone_28Regular';

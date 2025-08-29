@@ -1,0 +1,13 @@
+export { default as IcFluentCalendarSparkle_16Filled } from './IcFluentCalendarSparkle_16Filled';
+export { default as IcFluentCalendarSparkle_16Regular } from './IcFluentCalendarSparkle_16Regular';
+export { default as IcFluentCalendarSparkle_20Filled } from './IcFluentCalendarSparkle_20Filled';
+export { default as IcFluentCalendarSparkle_20Regular } from './IcFluentCalendarSparkle_20Regular';
+export { default as IcFluentCalendarSparkle_24Filled } from './IcFluentCalendarSparkle_24Filled';
+export { default as IcFluentCalendarSparkle_24Regular } from './IcFluentCalendarSparkle_24Regular';
+export { default as IcFluentCalendarSparkle_28Filled } from './IcFluentCalendarSparkle_28Filled';
+export { default as IcFluentCalendarSparkle_28Regular } from './IcFluentCalendarSparkle_28Regular';
+export { default as IcFluentCalendarSparkle_32Filled } from './IcFluentCalendarSparkle_32Filled';
+export { default as IcFluentCalendarSparkle_32Light } from './IcFluentCalendarSparkle_32Light';
+export { default as IcFluentCalendarSparkle_32Regular } from './IcFluentCalendarSparkle_32Regular';
+export { default as IcFluentCalendarSparkle_48Filled } from './IcFluentCalendarSparkle_48Filled';
+export { default as IcFluentCalendarSparkle_48Regular } from './IcFluentCalendarSparkle_48Regular';

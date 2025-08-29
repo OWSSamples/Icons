@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentTimer_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M10.75 3a.75.75 0 0 0 0 1.5h6.5a.75.75 0 0 0 0-1.5zM4 16C4 10.477 8.477 6 14 6s10 4.477 10 10-4.477 10-10 10S4 21.523 4 16m10.75-5.75a.75.75 0 0 0-1.5 0v6a.75.75 0 0 0 1.5 0zm6.47-4.03a.75.75 0 0 1 1.06 0l1.5 1.5a.75.75 0 0 1-1.06 1.06l-1.5-1.5a.75.75 0 0 1 0-1.06"/>
+  </IconBase>
+);
+
+export default IcFluentTimer_28Filled;

@@ -1,0 +1,12 @@
+export { default as IcFluentWallet_16Filled } from './IcFluentWallet_16Filled';
+export { default as IcFluentWallet_16Regular } from './IcFluentWallet_16Regular';
+export { default as IcFluentWallet_20Filled } from './IcFluentWallet_20Filled';
+export { default as IcFluentWallet_20Regular } from './IcFluentWallet_20Regular';
+export { default as IcFluentWallet_24Filled } from './IcFluentWallet_24Filled';
+export { default as IcFluentWallet_24Regular } from './IcFluentWallet_24Regular';
+export { default as IcFluentWallet_28Filled } from './IcFluentWallet_28Filled';
+export { default as IcFluentWallet_28Regular } from './IcFluentWallet_28Regular';
+export { default as IcFluentWallet_32Filled } from './IcFluentWallet_32Filled';
+export { default as IcFluentWallet_32Regular } from './IcFluentWallet_32Regular';
+export { default as IcFluentWallet_48Filled } from './IcFluentWallet_48Filled';
+export { default as IcFluentWallet_48Regular } from './IcFluentWallet_48Regular';

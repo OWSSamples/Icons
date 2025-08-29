@@ -1,0 +1,10 @@
+export { default as IcFluentMaximize_16Filled } from './IcFluentMaximize_16Filled';
+export { default as IcFluentMaximize_16Regular } from './IcFluentMaximize_16Regular';
+export { default as IcFluentMaximize_20Filled } from './IcFluentMaximize_20Filled';
+export { default as IcFluentMaximize_20Regular } from './IcFluentMaximize_20Regular';
+export { default as IcFluentMaximize_24Filled } from './IcFluentMaximize_24Filled';
+export { default as IcFluentMaximize_24Regular } from './IcFluentMaximize_24Regular';
+export { default as IcFluentMaximize_28Filled } from './IcFluentMaximize_28Filled';
+export { default as IcFluentMaximize_28Regular } from './IcFluentMaximize_28Regular';
+export { default as IcFluentMaximize_48Filled } from './IcFluentMaximize_48Filled';
+export { default as IcFluentMaximize_48Regular } from './IcFluentMaximize_48Regular';

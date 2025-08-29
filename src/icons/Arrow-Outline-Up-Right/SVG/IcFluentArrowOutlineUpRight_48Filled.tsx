@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentArrowOutlineUpRight_48Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M43.969 9.851c.383-3.36-2.464-6.2-5.823-5.81L14.76 6.763c-3.528.41-5.026 4.712-2.515 7.226l2.749 2.751-9.452 9.452a5.25 5.25 0 0 0-.004 7.421l8.833 8.85a5.25 5.25 0 0 0 7.428.003l9.464-9.46 2.843 2.787c2.526 2.478 6.797.962 7.198-2.553z"/>
+  </IconBase>
+);
+
+export default IcFluentArrowOutlineUpRight_48Filled;

@@ -1,0 +1,10 @@
+export { default as IcFluentWater_16Filled } from './IcFluentWater_16Filled';
+export { default as IcFluentWater_16Regular } from './IcFluentWater_16Regular';
+export { default as IcFluentWater_20Filled } from './IcFluentWater_20Filled';
+export { default as IcFluentWater_20Regular } from './IcFluentWater_20Regular';
+export { default as IcFluentWater_24Filled } from './IcFluentWater_24Filled';
+export { default as IcFluentWater_24Regular } from './IcFluentWater_24Regular';
+export { default as IcFluentWater_32Filled } from './IcFluentWater_32Filled';
+export { default as IcFluentWater_32Regular } from './IcFluentWater_32Regular';
+export { default as IcFluentWater_48Filled } from './IcFluentWater_48Filled';
+export { default as IcFluentWater_48Regular } from './IcFluentWater_48Regular';

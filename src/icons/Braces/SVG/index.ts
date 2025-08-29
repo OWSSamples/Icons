@@ -1,0 +1,12 @@
+export { default as IcFluentBraces_16Filled } from './IcFluentBraces_16Filled';
+export { default as IcFluentBraces_16Regular } from './IcFluentBraces_16Regular';
+export { default as IcFluentBraces_20Filled } from './IcFluentBraces_20Filled';
+export { default as IcFluentBraces_20Regular } from './IcFluentBraces_20Regular';
+export { default as IcFluentBraces_24Filled } from './IcFluentBraces_24Filled';
+export { default as IcFluentBraces_24Regular } from './IcFluentBraces_24Regular';
+export { default as IcFluentBraces_28Filled } from './IcFluentBraces_28Filled';
+export { default as IcFluentBraces_28Regular } from './IcFluentBraces_28Regular';
+export { default as IcFluentBraces_32Filled } from './IcFluentBraces_32Filled';
+export { default as IcFluentBraces_32Regular } from './IcFluentBraces_32Regular';
+export { default as IcFluentBraces_48Filled } from './IcFluentBraces_48Filled';
+export { default as IcFluentBraces_48Regular } from './IcFluentBraces_48Regular';

@@ -1,0 +1,9 @@
+export { default as IcFluentAppsList_20Color } from './IcFluentAppsList_20Color';
+export { default as IcFluentAppsList_20Filled } from './IcFluentAppsList_20Filled';
+export { default as IcFluentAppsList_20Regular } from './IcFluentAppsList_20Regular';
+export { default as IcFluentAppsList_24Color } from './IcFluentAppsList_24Color';
+export { default as IcFluentAppsList_24Filled } from './IcFluentAppsList_24Filled';
+export { default as IcFluentAppsList_24Regular } from './IcFluentAppsList_24Regular';
+export { default as IcFluentAppsList_32Color } from './IcFluentAppsList_32Color';
+export { default as IcFluentAppsList_32Filled } from './IcFluentAppsList_32Filled';
+export { default as IcFluentAppsList_32Regular } from './IcFluentAppsList_32Regular';

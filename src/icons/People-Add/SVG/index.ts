@@ -1,0 +1,15 @@
+export { default as IcFluentPeopleAdd_16Filled } from './IcFluentPeopleAdd_16Filled';
+export { default as IcFluentPeopleAdd_16Regular } from './IcFluentPeopleAdd_16Regular';
+export { default as IcFluentPeopleAdd_20Color } from './IcFluentPeopleAdd_20Color';
+export { default as IcFluentPeopleAdd_20Filled } from './IcFluentPeopleAdd_20Filled';
+export { default as IcFluentPeopleAdd_20Regular } from './IcFluentPeopleAdd_20Regular';
+export { default as IcFluentPeopleAdd_24Color } from './IcFluentPeopleAdd_24Color';
+export { default as IcFluentPeopleAdd_24Filled } from './IcFluentPeopleAdd_24Filled';
+export { default as IcFluentPeopleAdd_24Regular } from './IcFluentPeopleAdd_24Regular';
+export { default as IcFluentPeopleAdd_28Color } from './IcFluentPeopleAdd_28Color';
+export { default as IcFluentPeopleAdd_28Filled } from './IcFluentPeopleAdd_28Filled';
+export { default as IcFluentPeopleAdd_28Regular } from './IcFluentPeopleAdd_28Regular';
+export { default as IcFluentPeopleAdd_32Color } from './IcFluentPeopleAdd_32Color';
+export { default as IcFluentPeopleAdd_32Filled } from './IcFluentPeopleAdd_32Filled';
+export { default as IcFluentPeopleAdd_32Light } from './IcFluentPeopleAdd_32Light';
+export { default as IcFluentPeopleAdd_32Regular } from './IcFluentPeopleAdd_32Regular';

@@ -1,0 +1,14 @@
+export { default as IcFluentArrowRight_12Filled } from './IcFluentArrowRight_12Filled';
+export { default as IcFluentArrowRight_12Regular } from './IcFluentArrowRight_12Regular';
+export { default as IcFluentArrowRight_16Filled } from './IcFluentArrowRight_16Filled';
+export { default as IcFluentArrowRight_16Regular } from './IcFluentArrowRight_16Regular';
+export { default as IcFluentArrowRight_20Filled } from './IcFluentArrowRight_20Filled';
+export { default as IcFluentArrowRight_20Regular } from './IcFluentArrowRight_20Regular';
+export { default as IcFluentArrowRight_24Filled } from './IcFluentArrowRight_24Filled';
+export { default as IcFluentArrowRight_24Regular } from './IcFluentArrowRight_24Regular';
+export { default as IcFluentArrowRight_28Filled } from './IcFluentArrowRight_28Filled';
+export { default as IcFluentArrowRight_28Regular } from './IcFluentArrowRight_28Regular';
+export { default as IcFluentArrowRight_32Filled } from './IcFluentArrowRight_32Filled';
+export { default as IcFluentArrowRight_32Regular } from './IcFluentArrowRight_32Regular';
+export { default as IcFluentArrowRight_48Filled } from './IcFluentArrowRight_48Filled';
+export { default as IcFluentArrowRight_48Regular } from './IcFluentArrowRight_48Regular';

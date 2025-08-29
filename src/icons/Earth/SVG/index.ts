@@ -1,0 +1,10 @@
+export { default as IcFluentEarth_16Filled } from './IcFluentEarth_16Filled';
+export { default as IcFluentEarth_16Regular } from './IcFluentEarth_16Regular';
+export { default as IcFluentEarth_20Filled } from './IcFluentEarth_20Filled';
+export { default as IcFluentEarth_20Regular } from './IcFluentEarth_20Regular';
+export { default as IcFluentEarth_24Filled } from './IcFluentEarth_24Filled';
+export { default as IcFluentEarth_24Regular } from './IcFluentEarth_24Regular';
+export { default as IcFluentEarth_32Filled } from './IcFluentEarth_32Filled';
+export { default as IcFluentEarth_32Regular } from './IcFluentEarth_32Regular';
+export { default as IcFluentEarth_48Filled } from './IcFluentEarth_48Filled';
+export { default as IcFluentEarth_48Regular } from './IcFluentEarth_48Regular';

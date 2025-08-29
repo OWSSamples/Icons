@@ -1,0 +1,9 @@
+export { default as IcFluentReadAloud_16Filled } from './IcFluentReadAloud_16Filled';
+export { default as IcFluentReadAloud_16Regular } from './IcFluentReadAloud_16Regular';
+export { default as IcFluentReadAloud_20Filled } from './IcFluentReadAloud_20Filled';
+export { default as IcFluentReadAloud_20Regular } from './IcFluentReadAloud_20Regular';
+export { default as IcFluentReadAloud_24Filled } from './IcFluentReadAloud_24Filled';
+export { default as IcFluentReadAloud_24Regular } from './IcFluentReadAloud_24Regular';
+export { default as IcFluentReadAloud_28Filled } from './IcFluentReadAloud_28Filled';
+export { default as IcFluentReadAloud_28Regular } from './IcFluentReadAloud_28Regular';
+export { default as IcFluentReadAloud_32Light } from './IcFluentReadAloud_32Light';

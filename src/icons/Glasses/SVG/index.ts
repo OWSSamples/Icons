@@ -1,0 +1,12 @@
+export { default as IcFluentGlasses_16Filled } from './IcFluentGlasses_16Filled';
+export { default as IcFluentGlasses_16Regular } from './IcFluentGlasses_16Regular';
+export { default as IcFluentGlasses_20Filled } from './IcFluentGlasses_20Filled';
+export { default as IcFluentGlasses_20Regular } from './IcFluentGlasses_20Regular';
+export { default as IcFluentGlasses_24Filled } from './IcFluentGlasses_24Filled';
+export { default as IcFluentGlasses_24Regular } from './IcFluentGlasses_24Regular';
+export { default as IcFluentGlasses_28Filled } from './IcFluentGlasses_28Filled';
+export { default as IcFluentGlasses_28Regular } from './IcFluentGlasses_28Regular';
+export { default as IcFluentGlasses_32Filled } from './IcFluentGlasses_32Filled';
+export { default as IcFluentGlasses_32Regular } from './IcFluentGlasses_32Regular';
+export { default as IcFluentGlasses_48Filled } from './IcFluentGlasses_48Filled';
+export { default as IcFluentGlasses_48Regular } from './IcFluentGlasses_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentTextNumberList_16FilledLtr } from './IcFluentTextNumberList_16FilledLtr';
+export { default as IcFluentTextNumberList_16FilledRtl } from './IcFluentTextNumberList_16FilledRtl';
+export { default as IcFluentTextNumberList_16RegularLtr } from './IcFluentTextNumberList_16RegularLtr';
+export { default as IcFluentTextNumberList_16RegularRtl } from './IcFluentTextNumberList_16RegularRtl';
+export { default as IcFluentTextNumberList_20FilledLtr } from './IcFluentTextNumberList_20FilledLtr';
+export { default as IcFluentTextNumberList_20FilledRtl } from './IcFluentTextNumberList_20FilledRtl';
+export { default as IcFluentTextNumberList_20RegularLtr } from './IcFluentTextNumberList_20RegularLtr';
+export { default as IcFluentTextNumberList_20RegularRtl } from './IcFluentTextNumberList_20RegularRtl';
+export { default as IcFluentTextNumberList_24FilledLtr } from './IcFluentTextNumberList_24FilledLtr';
+export { default as IcFluentTextNumberList_24FilledRtl } from './IcFluentTextNumberList_24FilledRtl';
+export { default as IcFluentTextNumberList_24RegularLtr } from './IcFluentTextNumberList_24RegularLtr';
+export { default as IcFluentTextNumberList_24RegularRtl } from './IcFluentTextNumberList_24RegularRtl';

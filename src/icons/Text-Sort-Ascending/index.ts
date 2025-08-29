@@ -1,0 +1,12 @@
+export * as Svg from './SVG';
+export * as Bg from './bg';
+export * as Da from './da';
+export * as En from './en';
+export * as Fi from './fi';
+export * as Gr from './gr';
+export * as Kk from './kk';
+export * as Ko from './ko';
+export * as Ru from './ru';
+export * as Se from './se';
+export * as Sl from './sl';
+export * as Sr from './sr';

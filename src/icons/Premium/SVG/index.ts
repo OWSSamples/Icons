@@ -1,0 +1,17 @@
+export { default as IcFluentPremium_12Filled } from './IcFluentPremium_12Filled';
+export { default as IcFluentPremium_12Regular } from './IcFluentPremium_12Regular';
+export { default as IcFluentPremium_16Color } from './IcFluentPremium_16Color';
+export { default as IcFluentPremium_16Filled } from './IcFluentPremium_16Filled';
+export { default as IcFluentPremium_16Regular } from './IcFluentPremium_16Regular';
+export { default as IcFluentPremium_20Color } from './IcFluentPremium_20Color';
+export { default as IcFluentPremium_20Filled } from './IcFluentPremium_20Filled';
+export { default as IcFluentPremium_20Regular } from './IcFluentPremium_20Regular';
+export { default as IcFluentPremium_24Color } from './IcFluentPremium_24Color';
+export { default as IcFluentPremium_24Filled } from './IcFluentPremium_24Filled';
+export { default as IcFluentPremium_24Regular } from './IcFluentPremium_24Regular';
+export { default as IcFluentPremium_28Color } from './IcFluentPremium_28Color';
+export { default as IcFluentPremium_28Filled } from './IcFluentPremium_28Filled';
+export { default as IcFluentPremium_28Regular } from './IcFluentPremium_28Regular';
+export { default as IcFluentPremium_32Color } from './IcFluentPremium_32Color';
+export { default as IcFluentPremium_32Filled } from './IcFluentPremium_32Filled';
+export { default as IcFluentPremium_32Regular } from './IcFluentPremium_32Regular';

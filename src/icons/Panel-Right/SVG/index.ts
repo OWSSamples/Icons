@@ -1,0 +1,14 @@
+export { default as IcFluentPanelRight_12Filled } from './IcFluentPanelRight_12Filled';
+export { default as IcFluentPanelRight_12Regular } from './IcFluentPanelRight_12Regular';
+export { default as IcFluentPanelRight_16Filled } from './IcFluentPanelRight_16Filled';
+export { default as IcFluentPanelRight_16Regular } from './IcFluentPanelRight_16Regular';
+export { default as IcFluentPanelRight_20Filled } from './IcFluentPanelRight_20Filled';
+export { default as IcFluentPanelRight_20Regular } from './IcFluentPanelRight_20Regular';
+export { default as IcFluentPanelRight_24Filled } from './IcFluentPanelRight_24Filled';
+export { default as IcFluentPanelRight_24Regular } from './IcFluentPanelRight_24Regular';
+export { default as IcFluentPanelRight_28Filled } from './IcFluentPanelRight_28Filled';
+export { default as IcFluentPanelRight_28Regular } from './IcFluentPanelRight_28Regular';
+export { default as IcFluentPanelRight_32Filled } from './IcFluentPanelRight_32Filled';
+export { default as IcFluentPanelRight_32Regular } from './IcFluentPanelRight_32Regular';
+export { default as IcFluentPanelRight_48Filled } from './IcFluentPanelRight_48Filled';
+export { default as IcFluentPanelRight_48Regular } from './IcFluentPanelRight_48Regular';

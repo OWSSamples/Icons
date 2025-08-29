@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentBrightnessLow_28Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M14 4a.75.75 0 0 1 .75.75v1.496a.75.75 0 0 1-1.5 0V4.75A.75.75 0 0 1 14 4m0 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12m0-1.5a4.5 4.5 0 1 1-.001-9 4.5 4.5 0 0 1 0 9m9.25-3.75a.75.75 0 0 0 0-1.5h-1.497a.75.75 0 0 0 0 1.5zM14 21.004a.75.75 0 0 1 .75.75v1.496a.75.75 0 0 1-1.5 0v-1.496a.75.75 0 0 1 .75-.75M6.25 14.75a.75.75 0 0 0 0-1.5h-1.5a.75.75 0 0 0 0 1.5zm.469-8.03a.75.75 0 0 1 1.06 0l1 1a.75.75 0 0 1-1.06 1.06l-1-1a.75.75 0 0 1 0-1.06m1.06 14.56a.75.75 0 0 1-1.06-1.06l1-1a.75.75 0 0 1 1.06 1.06zm13.5-14.56a.75.75 0 0 0-1.06 0l-1 1a.75.75 0 0 0 1.06 1.06l1-1a.75.75 0 0 0 0-1.06m-1.06 14.56a.75.75 0 1 0 1.06-1.06l-.988-.989a.75.75 0 1 0-1.06 1.06z"/>
+  </IconBase>
+);
+
+export default IcFluentBrightnessLow_28Regular;

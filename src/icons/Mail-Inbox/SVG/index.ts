@@ -1,0 +1,12 @@
+export { default as IcFluentMailInbox_16Filled } from './IcFluentMailInbox_16Filled';
+export { default as IcFluentMailInbox_16Regular } from './IcFluentMailInbox_16Regular';
+export { default as IcFluentMailInbox_20Filled } from './IcFluentMailInbox_20Filled';
+export { default as IcFluentMailInbox_20Regular } from './IcFluentMailInbox_20Regular';
+export { default as IcFluentMailInbox_24Filled } from './IcFluentMailInbox_24Filled';
+export { default as IcFluentMailInbox_24Regular } from './IcFluentMailInbox_24Regular';
+export { default as IcFluentMailInbox_28Filled } from './IcFluentMailInbox_28Filled';
+export { default as IcFluentMailInbox_28Regular } from './IcFluentMailInbox_28Regular';
+export { default as IcFluentMailInbox_32Filled } from './IcFluentMailInbox_32Filled';
+export { default as IcFluentMailInbox_32Regular } from './IcFluentMailInbox_32Regular';
+export { default as IcFluentMailInbox_48Filled } from './IcFluentMailInbox_48Filled';
+export { default as IcFluentMailInbox_48Regular } from './IcFluentMailInbox_48Regular';

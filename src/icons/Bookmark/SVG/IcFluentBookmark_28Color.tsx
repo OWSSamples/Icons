@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentBookmark_28Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M9.25 3.5A3.25 3.25 0 0 0 6 6.75v18a.75.75 0 0 0 1.203.598L14 20.19l6.797 5.157A.75.75 0 0 0 22 24.75v-18a3.25 3.25 0 0 0-3.25-3.25z"/><defs><linearGradient id="a" x1="6" x2="17.978" y1="5.366" y2="20.129" gradientUnits="userSpaceOnUse"><stop stop-color="#F97DBD"/><stop offset="1" stop-color="#D7257D"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcFluentBookmark_28Color;

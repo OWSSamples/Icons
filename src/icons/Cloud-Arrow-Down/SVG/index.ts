@@ -1,0 +1,12 @@
+export { default as IcFluentCloudArrowDown_16Filled } from './IcFluentCloudArrowDown_16Filled';
+export { default as IcFluentCloudArrowDown_16Regular } from './IcFluentCloudArrowDown_16Regular';
+export { default as IcFluentCloudArrowDown_20Filled } from './IcFluentCloudArrowDown_20Filled';
+export { default as IcFluentCloudArrowDown_20Regular } from './IcFluentCloudArrowDown_20Regular';
+export { default as IcFluentCloudArrowDown_24Filled } from './IcFluentCloudArrowDown_24Filled';
+export { default as IcFluentCloudArrowDown_24Regular } from './IcFluentCloudArrowDown_24Regular';
+export { default as IcFluentCloudArrowDown_28Filled } from './IcFluentCloudArrowDown_28Filled';
+export { default as IcFluentCloudArrowDown_28Regular } from './IcFluentCloudArrowDown_28Regular';
+export { default as IcFluentCloudArrowDown_32Filled } from './IcFluentCloudArrowDown_32Filled';
+export { default as IcFluentCloudArrowDown_32Regular } from './IcFluentCloudArrowDown_32Regular';
+export { default as IcFluentCloudArrowDown_48Filled } from './IcFluentCloudArrowDown_48Filled';
+export { default as IcFluentCloudArrowDown_48Regular } from './IcFluentCloudArrowDown_48Regular';

@@ -1,0 +1,10 @@
+export { default as IcFluentClipboardMathFormula_16Filled } from './IcFluentClipboardMathFormula_16Filled';
+export { default as IcFluentClipboardMathFormula_16Regular } from './IcFluentClipboardMathFormula_16Regular';
+export { default as IcFluentClipboardMathFormula_20Filled } from './IcFluentClipboardMathFormula_20Filled';
+export { default as IcFluentClipboardMathFormula_20Regular } from './IcFluentClipboardMathFormula_20Regular';
+export { default as IcFluentClipboardMathFormula_24Filled } from './IcFluentClipboardMathFormula_24Filled';
+export { default as IcFluentClipboardMathFormula_24Regular } from './IcFluentClipboardMathFormula_24Regular';
+export { default as IcFluentClipboardMathFormula_28Filled } from './IcFluentClipboardMathFormula_28Filled';
+export { default as IcFluentClipboardMathFormula_28Regular } from './IcFluentClipboardMathFormula_28Regular';
+export { default as IcFluentClipboardMathFormula_32Filled } from './IcFluentClipboardMathFormula_32Filled';
+export { default as IcFluentClipboardMathFormula_32Regular } from './IcFluentClipboardMathFormula_32Regular';

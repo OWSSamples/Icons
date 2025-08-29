@@ -1,0 +1,14 @@
+export { default as IcFluentLocationArrow_12Filled } from './IcFluentLocationArrow_12Filled';
+export { default as IcFluentLocationArrow_12Regular } from './IcFluentLocationArrow_12Regular';
+export { default as IcFluentLocationArrow_16Filled } from './IcFluentLocationArrow_16Filled';
+export { default as IcFluentLocationArrow_16Regular } from './IcFluentLocationArrow_16Regular';
+export { default as IcFluentLocationArrow_20Filled } from './IcFluentLocationArrow_20Filled';
+export { default as IcFluentLocationArrow_20Regular } from './IcFluentLocationArrow_20Regular';
+export { default as IcFluentLocationArrow_24Filled } from './IcFluentLocationArrow_24Filled';
+export { default as IcFluentLocationArrow_24Regular } from './IcFluentLocationArrow_24Regular';
+export { default as IcFluentLocationArrow_28Filled } from './IcFluentLocationArrow_28Filled';
+export { default as IcFluentLocationArrow_28Regular } from './IcFluentLocationArrow_28Regular';
+export { default as IcFluentLocationArrow_32Filled } from './IcFluentLocationArrow_32Filled';
+export { default as IcFluentLocationArrow_32Regular } from './IcFluentLocationArrow_32Regular';
+export { default as IcFluentLocationArrow_48Filled } from './IcFluentLocationArrow_48Filled';
+export { default as IcFluentLocationArrow_48Regular } from './IcFluentLocationArrow_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentAlignCenterHorizontal_16Filled } from './IcFluentAlignCenterHorizontal_16Filled';
+export { default as IcFluentAlignCenterHorizontal_16Regular } from './IcFluentAlignCenterHorizontal_16Regular';
+export { default as IcFluentAlignCenterHorizontal_20Filled } from './IcFluentAlignCenterHorizontal_20Filled';
+export { default as IcFluentAlignCenterHorizontal_20Regular } from './IcFluentAlignCenterHorizontal_20Regular';
+export { default as IcFluentAlignCenterHorizontal_24Filled } from './IcFluentAlignCenterHorizontal_24Filled';
+export { default as IcFluentAlignCenterHorizontal_24Regular } from './IcFluentAlignCenterHorizontal_24Regular';
+export { default as IcFluentAlignCenterHorizontal_28Filled } from './IcFluentAlignCenterHorizontal_28Filled';
+export { default as IcFluentAlignCenterHorizontal_28Regular } from './IcFluentAlignCenterHorizontal_28Regular';
+export { default as IcFluentAlignCenterHorizontal_32Filled } from './IcFluentAlignCenterHorizontal_32Filled';
+export { default as IcFluentAlignCenterHorizontal_32Regular } from './IcFluentAlignCenterHorizontal_32Regular';
+export { default as IcFluentAlignCenterHorizontal_48Filled } from './IcFluentAlignCenterHorizontal_48Filled';
+export { default as IcFluentAlignCenterHorizontal_48Regular } from './IcFluentAlignCenterHorizontal_48Regular';

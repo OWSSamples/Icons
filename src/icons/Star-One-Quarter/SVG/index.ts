@@ -1,0 +1,10 @@
+export { default as IcFluentStarOneQuarter_12Filled } from './IcFluentStarOneQuarter_12Filled';
+export { default as IcFluentStarOneQuarter_12Regular } from './IcFluentStarOneQuarter_12Regular';
+export { default as IcFluentStarOneQuarter_16Filled } from './IcFluentStarOneQuarter_16Filled';
+export { default as IcFluentStarOneQuarter_16Regular } from './IcFluentStarOneQuarter_16Regular';
+export { default as IcFluentStarOneQuarter_20Filled } from './IcFluentStarOneQuarter_20Filled';
+export { default as IcFluentStarOneQuarter_20Regular } from './IcFluentStarOneQuarter_20Regular';
+export { default as IcFluentStarOneQuarter_24Filled } from './IcFluentStarOneQuarter_24Filled';
+export { default as IcFluentStarOneQuarter_24Regular } from './IcFluentStarOneQuarter_24Regular';
+export { default as IcFluentStarOneQuarter_28Filled } from './IcFluentStarOneQuarter_28Filled';
+export { default as IcFluentStarOneQuarter_28Regular } from './IcFluentStarOneQuarter_28Regular';

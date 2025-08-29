@@ -1,0 +1,12 @@
+export { default as IcFluentCloudSync_16Filled } from './IcFluentCloudSync_16Filled';
+export { default as IcFluentCloudSync_16Regular } from './IcFluentCloudSync_16Regular';
+export { default as IcFluentCloudSync_20Filled } from './IcFluentCloudSync_20Filled';
+export { default as IcFluentCloudSync_20Regular } from './IcFluentCloudSync_20Regular';
+export { default as IcFluentCloudSync_24Filled } from './IcFluentCloudSync_24Filled';
+export { default as IcFluentCloudSync_24Regular } from './IcFluentCloudSync_24Regular';
+export { default as IcFluentCloudSync_28Filled } from './IcFluentCloudSync_28Filled';
+export { default as IcFluentCloudSync_28Regular } from './IcFluentCloudSync_28Regular';
+export { default as IcFluentCloudSync_32Filled } from './IcFluentCloudSync_32Filled';
+export { default as IcFluentCloudSync_32Regular } from './IcFluentCloudSync_32Regular';
+export { default as IcFluentCloudSync_48Filled } from './IcFluentCloudSync_48Filled';
+export { default as IcFluentCloudSync_48Regular } from './IcFluentCloudSync_48Regular';

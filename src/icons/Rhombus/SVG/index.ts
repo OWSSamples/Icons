@@ -1,0 +1,12 @@
+export { default as IcFluentRhombus_16Filled } from './IcFluentRhombus_16Filled';
+export { default as IcFluentRhombus_16Regular } from './IcFluentRhombus_16Regular';
+export { default as IcFluentRhombus_20Filled } from './IcFluentRhombus_20Filled';
+export { default as IcFluentRhombus_20Regular } from './IcFluentRhombus_20Regular';
+export { default as IcFluentRhombus_24Filled } from './IcFluentRhombus_24Filled';
+export { default as IcFluentRhombus_24Regular } from './IcFluentRhombus_24Regular';
+export { default as IcFluentRhombus_28Filled } from './IcFluentRhombus_28Filled';
+export { default as IcFluentRhombus_28Regular } from './IcFluentRhombus_28Regular';
+export { default as IcFluentRhombus_32Filled } from './IcFluentRhombus_32Filled';
+export { default as IcFluentRhombus_32Regular } from './IcFluentRhombus_32Regular';
+export { default as IcFluentRhombus_48Filled } from './IcFluentRhombus_48Filled';
+export { default as IcFluentRhombus_48Regular } from './IcFluentRhombus_48Regular';

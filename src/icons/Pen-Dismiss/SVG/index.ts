@@ -1,0 +1,12 @@
+export { default as IcFluentPenDismiss_16Filled } from './IcFluentPenDismiss_16Filled';
+export { default as IcFluentPenDismiss_16Regular } from './IcFluentPenDismiss_16Regular';
+export { default as IcFluentPenDismiss_20Filled } from './IcFluentPenDismiss_20Filled';
+export { default as IcFluentPenDismiss_20Regular } from './IcFluentPenDismiss_20Regular';
+export { default as IcFluentPenDismiss_24Filled } from './IcFluentPenDismiss_24Filled';
+export { default as IcFluentPenDismiss_24Regular } from './IcFluentPenDismiss_24Regular';
+export { default as IcFluentPenDismiss_28Filled } from './IcFluentPenDismiss_28Filled';
+export { default as IcFluentPenDismiss_28Regular } from './IcFluentPenDismiss_28Regular';
+export { default as IcFluentPenDismiss_32Filled } from './IcFluentPenDismiss_32Filled';
+export { default as IcFluentPenDismiss_32Regular } from './IcFluentPenDismiss_32Regular';
+export { default as IcFluentPenDismiss_48Filled } from './IcFluentPenDismiss_48Filled';
+export { default as IcFluentPenDismiss_48Regular } from './IcFluentPenDismiss_48Regular';

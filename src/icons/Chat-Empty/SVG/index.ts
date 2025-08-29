@@ -1,0 +1,14 @@
+export { default as IcFluentChatEmpty_12Filled } from './IcFluentChatEmpty_12Filled';
+export { default as IcFluentChatEmpty_12Regular } from './IcFluentChatEmpty_12Regular';
+export { default as IcFluentChatEmpty_16Filled } from './IcFluentChatEmpty_16Filled';
+export { default as IcFluentChatEmpty_16Regular } from './IcFluentChatEmpty_16Regular';
+export { default as IcFluentChatEmpty_20Filled } from './IcFluentChatEmpty_20Filled';
+export { default as IcFluentChatEmpty_20Regular } from './IcFluentChatEmpty_20Regular';
+export { default as IcFluentChatEmpty_24Filled } from './IcFluentChatEmpty_24Filled';
+export { default as IcFluentChatEmpty_24Regular } from './IcFluentChatEmpty_24Regular';
+export { default as IcFluentChatEmpty_28Filled } from './IcFluentChatEmpty_28Filled';
+export { default as IcFluentChatEmpty_28Regular } from './IcFluentChatEmpty_28Regular';
+export { default as IcFluentChatEmpty_32Filled } from './IcFluentChatEmpty_32Filled';
+export { default as IcFluentChatEmpty_32Regular } from './IcFluentChatEmpty_32Regular';
+export { default as IcFluentChatEmpty_48Filled } from './IcFluentChatEmpty_48Filled';
+export { default as IcFluentChatEmpty_48Regular } from './IcFluentChatEmpty_48Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentChatEmpty_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M18 10a8 8 0 1 0-16 0l.007.346.026.382a8 8 0 0 0 .829 2.887l.063.12-.91 3.644-.014.083v.082a.5.5 0 0 0 .62.441l3.645-.91.12.064A8 8 0 0 0 18 10"/>
+  </IconBase>
+);
+
+export default IcFluentChatEmpty_20Filled;

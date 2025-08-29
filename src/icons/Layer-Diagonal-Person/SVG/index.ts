@@ -1,0 +1,9 @@
+export { default as IcFluentLayerDiagonalPerson_16Color } from './IcFluentLayerDiagonalPerson_16Color';
+export { default as IcFluentLayerDiagonalPerson_16Filled } from './IcFluentLayerDiagonalPerson_16Filled';
+export { default as IcFluentLayerDiagonalPerson_16Regular } from './IcFluentLayerDiagonalPerson_16Regular';
+export { default as IcFluentLayerDiagonalPerson_20Color } from './IcFluentLayerDiagonalPerson_20Color';
+export { default as IcFluentLayerDiagonalPerson_20Filled } from './IcFluentLayerDiagonalPerson_20Filled';
+export { default as IcFluentLayerDiagonalPerson_20Regular } from './IcFluentLayerDiagonalPerson_20Regular';
+export { default as IcFluentLayerDiagonalPerson_24Color } from './IcFluentLayerDiagonalPerson_24Color';
+export { default as IcFluentLayerDiagonalPerson_24Filled } from './IcFluentLayerDiagonalPerson_24Filled';
+export { default as IcFluentLayerDiagonalPerson_24Regular } from './IcFluentLayerDiagonalPerson_24Regular';

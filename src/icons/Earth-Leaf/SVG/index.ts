@@ -1,0 +1,10 @@
+export { default as IcFluentEarthLeaf_16Filled } from './IcFluentEarthLeaf_16Filled';
+export { default as IcFluentEarthLeaf_16Regular } from './IcFluentEarthLeaf_16Regular';
+export { default as IcFluentEarthLeaf_20Filled } from './IcFluentEarthLeaf_20Filled';
+export { default as IcFluentEarthLeaf_20Regular } from './IcFluentEarthLeaf_20Regular';
+export { default as IcFluentEarthLeaf_24Filled } from './IcFluentEarthLeaf_24Filled';
+export { default as IcFluentEarthLeaf_24Regular } from './IcFluentEarthLeaf_24Regular';
+export { default as IcFluentEarthLeaf_32Filled } from './IcFluentEarthLeaf_32Filled';
+export { default as IcFluentEarthLeaf_32Regular } from './IcFluentEarthLeaf_32Regular';
+export { default as IcFluentEarthLeaf_48Filled } from './IcFluentEarthLeaf_48Filled';
+export { default as IcFluentEarthLeaf_48Regular } from './IcFluentEarthLeaf_48Regular';

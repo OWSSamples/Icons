@@ -1,0 +1,12 @@
+export { default as IcFluentFlipVertical_16Filled } from './IcFluentFlipVertical_16Filled';
+export { default as IcFluentFlipVertical_16Regular } from './IcFluentFlipVertical_16Regular';
+export { default as IcFluentFlipVertical_20Filled } from './IcFluentFlipVertical_20Filled';
+export { default as IcFluentFlipVertical_20Regular } from './IcFluentFlipVertical_20Regular';
+export { default as IcFluentFlipVertical_24Filled } from './IcFluentFlipVertical_24Filled';
+export { default as IcFluentFlipVertical_24Regular } from './IcFluentFlipVertical_24Regular';
+export { default as IcFluentFlipVertical_28Filled } from './IcFluentFlipVertical_28Filled';
+export { default as IcFluentFlipVertical_28Regular } from './IcFluentFlipVertical_28Regular';
+export { default as IcFluentFlipVertical_32Filled } from './IcFluentFlipVertical_32Filled';
+export { default as IcFluentFlipVertical_32Regular } from './IcFluentFlipVertical_32Regular';
+export { default as IcFluentFlipVertical_48Filled } from './IcFluentFlipVertical_48Filled';
+export { default as IcFluentFlipVertical_48Regular } from './IcFluentFlipVertical_48Regular';

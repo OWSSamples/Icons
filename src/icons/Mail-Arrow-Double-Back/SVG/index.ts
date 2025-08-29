@@ -1,0 +1,9 @@
+export { default as IcFluentMailArrowDoubleBack_16Filled } from './IcFluentMailArrowDoubleBack_16Filled';
+export { default as IcFluentMailArrowDoubleBack_16Regular } from './IcFluentMailArrowDoubleBack_16Regular';
+export { default as IcFluentMailArrowDoubleBack_20Filled } from './IcFluentMailArrowDoubleBack_20Filled';
+export { default as IcFluentMailArrowDoubleBack_20Regular } from './IcFluentMailArrowDoubleBack_20Regular';
+export { default as IcFluentMailArrowDoubleBack_24Filled } from './IcFluentMailArrowDoubleBack_24Filled';
+export { default as IcFluentMailArrowDoubleBack_24Regular } from './IcFluentMailArrowDoubleBack_24Regular';
+export { default as IcFluentMailArrowDoubleBack_32Filled } from './IcFluentMailArrowDoubleBack_32Filled';
+export { default as IcFluentMailArrowDoubleBack_32Light } from './IcFluentMailArrowDoubleBack_32Light';
+export { default as IcFluentMailArrowDoubleBack_32Regular } from './IcFluentMailArrowDoubleBack_32Regular';

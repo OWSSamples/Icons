@@ -1,0 +1,12 @@
+export { default as IcFluentBuildingHome_16Color } from './IcFluentBuildingHome_16Color';
+export { default as IcFluentBuildingHome_16Filled } from './IcFluentBuildingHome_16Filled';
+export { default as IcFluentBuildingHome_16Regular } from './IcFluentBuildingHome_16Regular';
+export { default as IcFluentBuildingHome_20Color } from './IcFluentBuildingHome_20Color';
+export { default as IcFluentBuildingHome_20Filled } from './IcFluentBuildingHome_20Filled';
+export { default as IcFluentBuildingHome_20Regular } from './IcFluentBuildingHome_20Regular';
+export { default as IcFluentBuildingHome_24Color } from './IcFluentBuildingHome_24Color';
+export { default as IcFluentBuildingHome_24Filled } from './IcFluentBuildingHome_24Filled';
+export { default as IcFluentBuildingHome_24Regular } from './IcFluentBuildingHome_24Regular';
+export { default as IcFluentBuildingHome_32Color } from './IcFluentBuildingHome_32Color';
+export { default as IcFluentBuildingHome_32Filled } from './IcFluentBuildingHome_32Filled';
+export { default as IcFluentBuildingHome_32Regular } from './IcFluentBuildingHome_32Regular';

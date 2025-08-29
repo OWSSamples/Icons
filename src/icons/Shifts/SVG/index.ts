@@ -1,0 +1,15 @@
+export { default as IcFluentShifts_16Color } from './IcFluentShifts_16Color';
+export { default as IcFluentShifts_16Filled } from './IcFluentShifts_16Filled';
+export { default as IcFluentShifts_16Regular } from './IcFluentShifts_16Regular';
+export { default as IcFluentShifts_20Color } from './IcFluentShifts_20Color';
+export { default as IcFluentShifts_20Filled } from './IcFluentShifts_20Filled';
+export { default as IcFluentShifts_20Regular } from './IcFluentShifts_20Regular';
+export { default as IcFluentShifts_24Color } from './IcFluentShifts_24Color';
+export { default as IcFluentShifts_24Filled } from './IcFluentShifts_24Filled';
+export { default as IcFluentShifts_24Regular } from './IcFluentShifts_24Regular';
+export { default as IcFluentShifts_28Color } from './IcFluentShifts_28Color';
+export { default as IcFluentShifts_28Filled } from './IcFluentShifts_28Filled';
+export { default as IcFluentShifts_28Regular } from './IcFluentShifts_28Regular';
+export { default as IcFluentShifts_32Color } from './IcFluentShifts_32Color';
+export { default as IcFluentShifts_32Filled } from './IcFluentShifts_32Filled';
+export { default as IcFluentShifts_32Regular } from './IcFluentShifts_32Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentCalendarArrowCounterclockwise_16Filled } from './IcFluentCalendarArrowCounterclockwise_16Filled';
+export { default as IcFluentCalendarArrowCounterclockwise_16Regular } from './IcFluentCalendarArrowCounterclockwise_16Regular';
+export { default as IcFluentCalendarArrowCounterclockwise_20Filled } from './IcFluentCalendarArrowCounterclockwise_20Filled';
+export { default as IcFluentCalendarArrowCounterclockwise_20Regular } from './IcFluentCalendarArrowCounterclockwise_20Regular';
+export { default as IcFluentCalendarArrowCounterclockwise_24Filled } from './IcFluentCalendarArrowCounterclockwise_24Filled';
+export { default as IcFluentCalendarArrowCounterclockwise_24Regular } from './IcFluentCalendarArrowCounterclockwise_24Regular';
+export { default as IcFluentCalendarArrowCounterclockwise_28Filled } from './IcFluentCalendarArrowCounterclockwise_28Filled';
+export { default as IcFluentCalendarArrowCounterclockwise_28Regular } from './IcFluentCalendarArrowCounterclockwise_28Regular';
+export { default as IcFluentCalendarArrowCounterclockwise_32Filled } from './IcFluentCalendarArrowCounterclockwise_32Filled';
+export { default as IcFluentCalendarArrowCounterclockwise_32Regular } from './IcFluentCalendarArrowCounterclockwise_32Regular';
+export { default as IcFluentCalendarArrowCounterclockwise_48Filled } from './IcFluentCalendarArrowCounterclockwise_48Filled';
+export { default as IcFluentCalendarArrowCounterclockwise_48Regular } from './IcFluentCalendarArrowCounterclockwise_48Regular';

@@ -1,0 +1,12 @@
+export { default as IcFluentChannelShare_12Filled } from './IcFluentChannelShare_12Filled';
+export { default as IcFluentChannelShare_12Regular } from './IcFluentChannelShare_12Regular';
+export { default as IcFluentChannelShare_16Filled } from './IcFluentChannelShare_16Filled';
+export { default as IcFluentChannelShare_16Regular } from './IcFluentChannelShare_16Regular';
+export { default as IcFluentChannelShare_20Filled } from './IcFluentChannelShare_20Filled';
+export { default as IcFluentChannelShare_20Regular } from './IcFluentChannelShare_20Regular';
+export { default as IcFluentChannelShare_24Filled } from './IcFluentChannelShare_24Filled';
+export { default as IcFluentChannelShare_24Regular } from './IcFluentChannelShare_24Regular';
+export { default as IcFluentChannelShare_28Filled } from './IcFluentChannelShare_28Filled';
+export { default as IcFluentChannelShare_28Regular } from './IcFluentChannelShare_28Regular';
+export { default as IcFluentChannelShare_48Filled } from './IcFluentChannelShare_48Filled';
+export { default as IcFluentChannelShare_48Regular } from './IcFluentChannelShare_48Regular';

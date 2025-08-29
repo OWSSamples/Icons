@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentArrowDownloadOff_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M9.253 9.96 2.146 2.854a.5.5 0 1 1 .708-.708l15 15a.5.5 0 0 1-.708.708l-4.591-4.592-2.017 2.02-.07.063-.092.058-.036.021-.091.039-.12.03-.07.008-.06.001a.7.7 0 0 1-.151-.016l-.08-.023a.7.7 0 0 1-.258-.146l-4.29-4.284a.75.75 0 0 1 .976-1.134l.084.072 2.973 2.967zm2.24 2.24-.74-.74v1.483zm2.474-.354-1.06-1.06.812-.814a.75.75 0 0 1 .976-.074l.085.073a.75.75 0 0 1 .073.976l-.072.085zM9.253 7.132l1.5 1.5V2.75l-.007-.102a.75.75 0 0 0-1.493.102zm5.991 9.366a.75.75 0 0 1 .102 1.493l-.102.007H4.75a.75.75 0 0 1-.102-1.493l.102-.007z"/>
+  </IconBase>
+);
+
+export default IcFluentArrowDownloadOff_20Filled;

@@ -1,0 +1,12 @@
+export { default as IcFluentAppsAddIn_16Filled } from './IcFluentAppsAddIn_16Filled';
+export { default as IcFluentAppsAddIn_16Regular } from './IcFluentAppsAddIn_16Regular';
+export { default as IcFluentAppsAddIn_20Filled } from './IcFluentAppsAddIn_20Filled';
+export { default as IcFluentAppsAddIn_20Regular } from './IcFluentAppsAddIn_20Regular';
+export { default as IcFluentAppsAddIn_24Filled } from './IcFluentAppsAddIn_24Filled';
+export { default as IcFluentAppsAddIn_24Regular } from './IcFluentAppsAddIn_24Regular';
+export { default as IcFluentAppsAddIn_28Filled } from './IcFluentAppsAddIn_28Filled';
+export { default as IcFluentAppsAddIn_28Regular } from './IcFluentAppsAddIn_28Regular';
+export { default as IcFluentAppsAddIn_32Filled } from './IcFluentAppsAddIn_32Filled';
+export { default as IcFluentAppsAddIn_32Regular } from './IcFluentAppsAddIn_32Regular';
+export { default as IcFluentAppsAddIn_48Filled } from './IcFluentAppsAddIn_48Filled';
+export { default as IcFluentAppsAddIn_48Regular } from './IcFluentAppsAddIn_48Regular';

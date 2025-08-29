@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentWeatherSnowflake_32Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M16.25 2.5c.69 0 1.25.56 1.25 1.25v4.194l2.674-2.674a1.25 1.25 0 0 1 1.768 1.768L17.5 11.479V15h3.52l4.442-4.442a1.25 1.25 0 0 1 1.768 1.768L24.556 15h4.194a1.25 1.25 0 1 1 0 2.5h-4.194l2.674 2.674a1.25 1.25 0 1 1-1.768 1.768L21.021 17.5H17.5v3.52l4.442 4.442a1.25 1.25 0 0 1-1.768 1.768L17.5 24.556v4.194a1.25 1.25 0 1 1-2.5 0v-4.194l-2.674 2.674a1.25 1.25 0 1 1-1.768-1.768L15 21.021V17.5h-3.52l-4.442 4.442a1.25 1.25 0 0 1-1.768-1.768L7.944 17.5H3.75a1.25 1.25 0 1 1 0-2.5h4.194L5.27 12.326a1.25 1.25 0 0 1 1.768-1.768L11.479 15H15v-3.52l-4.442-4.442a1.25 1.25 0 0 1 1.768-1.768L15 7.944V3.75c0-.69.56-1.25 1.25-1.25"/><path fill="currentColor" d="M16.25 2.5c.69 0 1.25.56 1.25 1.25v4.194l2.674-2.674a1.25 1.25 0 0 1 1.768 1.768L17.5 11.479V15h3.52l4.442-4.442a1.25 1.25 0 0 1 1.768 1.768L24.556 15h4.194a1.25 1.25 0 1 1 0 2.5h-4.194l2.674 2.674a1.25 1.25 0 1 1-1.768 1.768L21.021 17.5H17.5v3.52l4.442 4.442a1.25 1.25 0 0 1-1.768 1.768L17.5 24.556v4.194a1.25 1.25 0 1 1-2.5 0v-4.194l-2.674 2.674a1.25 1.25 0 1 1-1.768-1.768L15 21.021V17.5h-3.52l-4.442 4.442a1.25 1.25 0 0 1-1.768-1.768L7.944 17.5H3.75a1.25 1.25 0 1 1 0-2.5h4.194L5.27 12.326a1.25 1.25 0 0 1 1.768-1.768L11.479 15H15v-3.52l-4.442-4.442a1.25 1.25 0 0 1 1.768-1.768L15 7.944V3.75c0-.69.56-1.25 1.25-1.25"/><defs><linearGradient id="a" x1="23.125" x2="10.234" y1="24.844" y2="5.078" gradientUnits="userSpaceOnUse"><stop stop-color="#4894FE"/><stop offset=".495" stop-color="#0FAFFF"/><stop offset="1" stop-color="#29C3FF"/></linearGradient><linearGradient id="b" x1="9.153" x2="30.157" y1="3.609" y2="30.939" gradientUnits="userSpaceOnUse"><stop offset=".379" stop-color="#FF6CE8" stop-opacity="0"/><stop offset="1" stop-color="#FF6CE8" stop-opacity=".7"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcFluentWeatherSnowflake_32Color;

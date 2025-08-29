@@ -1,0 +1,10 @@
+export { default as IcFluentFps_60_16Filled } from './IcFluentFps_60_16Filled';
+export { default as IcFluentFps_60_16Regular } from './IcFluentFps_60_16Regular';
+export { default as IcFluentFps_60_20Filled } from './IcFluentFps_60_20Filled';
+export { default as IcFluentFps_60_20Regular } from './IcFluentFps_60_20Regular';
+export { default as IcFluentFps_60_24Filled } from './IcFluentFps_60_24Filled';
+export { default as IcFluentFps_60_24Regular } from './IcFluentFps_60_24Regular';
+export { default as IcFluentFps_60_28Filled } from './IcFluentFps_60_28Filled';
+export { default as IcFluentFps_60_28Regular } from './IcFluentFps_60_28Regular';
+export { default as IcFluentFps_60_48Filled } from './IcFluentFps_60_48Filled';
+export { default as IcFluentFps_60_48Regular } from './IcFluentFps_60_48Regular';

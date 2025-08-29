@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentMailArrowClockwise_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M18 1a.5.5 0 0 0-1 0v.758A4.5 4.5 0 1 0 19 5.5a.5.5 0 0 0-1 0 3.5 3.5 0 1 1-1.696-3H15.5a.5.5 0 0 0 0 1h2A.5.5 0 0 0 18 3zM9 5.5c0 1.906.97 3.585 2.442 4.572L10 10.92 2.015 6.223A2.5 2.5 0 0 1 4.5 4h4.707A5.5 5.5 0 0 0 9 5.5m9 9V9.743A5.48 5.48 0 0 1 14.5 11a5.5 5.5 0 0 1-2.016-.381l-2.23 1.312a.5.5 0 0 1-.507 0L2 7.373V14.5A2.5 2.5 0 0 0 4.5 17h11a2.5 2.5 0 0 0 2.5-2.5"/>
+  </IconBase>
+);
+
+export default IcFluentMailArrowClockwise_20Filled;

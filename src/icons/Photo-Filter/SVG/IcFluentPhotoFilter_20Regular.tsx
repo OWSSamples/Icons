@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentPhotoFilter_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M2 8a6 6 0 0 0 4.257 5.743 6 6 0 1 0 7.486-7.486A6 6 0 0 0 2 8m6-5a5 5 0 0 1 4.597 3.03 6 6 0 0 0-6.567 6.567A5.001 5.001 0 0 1 8 3m9 9a5 5 0 0 1-9.597 1.97Q7.698 14 8 14a6 6 0 0 0 5.97-6.597A5 5 0 0 1 17 12"/>
+  </IconBase>
+);
+
+export default IcFluentPhotoFilter_20Regular;

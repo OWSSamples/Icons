@@ -1,0 +1,12 @@
+export { default as IcFluentChatSparkle_16Filled } from './IcFluentChatSparkle_16Filled';
+export { default as IcFluentChatSparkle_16Regular } from './IcFluentChatSparkle_16Regular';
+export { default as IcFluentChatSparkle_20Filled } from './IcFluentChatSparkle_20Filled';
+export { default as IcFluentChatSparkle_20Regular } from './IcFluentChatSparkle_20Regular';
+export { default as IcFluentChatSparkle_24Filled } from './IcFluentChatSparkle_24Filled';
+export { default as IcFluentChatSparkle_24Regular } from './IcFluentChatSparkle_24Regular';
+export { default as IcFluentChatSparkle_28Filled } from './IcFluentChatSparkle_28Filled';
+export { default as IcFluentChatSparkle_28Regular } from './IcFluentChatSparkle_28Regular';
+export { default as IcFluentChatSparkle_32Filled } from './IcFluentChatSparkle_32Filled';
+export { default as IcFluentChatSparkle_32Regular } from './IcFluentChatSparkle_32Regular';
+export { default as IcFluentChatSparkle_48Filled } from './IcFluentChatSparkle_48Filled';
+export { default as IcFluentChatSparkle_48Regular } from './IcFluentChatSparkle_48Regular';

@@ -1,0 +1,14 @@
+export { default as IcFluentInfo_12Filled } from './IcFluentInfo_12Filled';
+export { default as IcFluentInfo_12Regular } from './IcFluentInfo_12Regular';
+export { default as IcFluentInfo_16Filled } from './IcFluentInfo_16Filled';
+export { default as IcFluentInfo_16Regular } from './IcFluentInfo_16Regular';
+export { default as IcFluentInfo_20Filled } from './IcFluentInfo_20Filled';
+export { default as IcFluentInfo_20Regular } from './IcFluentInfo_20Regular';
+export { default as IcFluentInfo_24Filled } from './IcFluentInfo_24Filled';
+export { default as IcFluentInfo_24Regular } from './IcFluentInfo_24Regular';
+export { default as IcFluentInfo_28Filled } from './IcFluentInfo_28Filled';
+export { default as IcFluentInfo_28Regular } from './IcFluentInfo_28Regular';
+export { default as IcFluentInfo_32Filled } from './IcFluentInfo_32Filled';
+export { default as IcFluentInfo_32Regular } from './IcFluentInfo_32Regular';
+export { default as IcFluentInfo_48Filled } from './IcFluentInfo_48Filled';
+export { default as IcFluentInfo_48Regular } from './IcFluentInfo_48Regular';

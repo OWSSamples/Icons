@@ -1,0 +1,12 @@
+export { default as IcFluentVideoPersonClock_16Filled } from './IcFluentVideoPersonClock_16Filled';
+export { default as IcFluentVideoPersonClock_16Regular } from './IcFluentVideoPersonClock_16Regular';
+export { default as IcFluentVideoPersonClock_20Filled } from './IcFluentVideoPersonClock_20Filled';
+export { default as IcFluentVideoPersonClock_20Regular } from './IcFluentVideoPersonClock_20Regular';
+export { default as IcFluentVideoPersonClock_24Filled } from './IcFluentVideoPersonClock_24Filled';
+export { default as IcFluentVideoPersonClock_24Regular } from './IcFluentVideoPersonClock_24Regular';
+export { default as IcFluentVideoPersonClock_28Filled } from './IcFluentVideoPersonClock_28Filled';
+export { default as IcFluentVideoPersonClock_28Regular } from './IcFluentVideoPersonClock_28Regular';
+export { default as IcFluentVideoPersonClock_32Filled } from './IcFluentVideoPersonClock_32Filled';
+export { default as IcFluentVideoPersonClock_32Regular } from './IcFluentVideoPersonClock_32Regular';
+export { default as IcFluentVideoPersonClock_48Filled } from './IcFluentVideoPersonClock_48Filled';
+export { default as IcFluentVideoPersonClock_48Regular } from './IcFluentVideoPersonClock_48Regular';

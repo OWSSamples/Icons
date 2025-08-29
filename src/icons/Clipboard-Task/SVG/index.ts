@@ -1,0 +1,9 @@
+export { default as IcFluentClipboardTask_16Color } from './IcFluentClipboardTask_16Color';
+export { default as IcFluentClipboardTask_16Filled } from './IcFluentClipboardTask_16Filled';
+export { default as IcFluentClipboardTask_16Regular } from './IcFluentClipboardTask_16Regular';
+export { default as IcFluentClipboardTask_20Color } from './IcFluentClipboardTask_20Color';
+export { default as IcFluentClipboardTask_20Filled } from './IcFluentClipboardTask_20Filled';
+export { default as IcFluentClipboardTask_20Regular } from './IcFluentClipboardTask_20Regular';
+export { default as IcFluentClipboardTask_24Color } from './IcFluentClipboardTask_24Color';
+export { default as IcFluentClipboardTask_24Filled } from './IcFluentClipboardTask_24Filled';
+export { default as IcFluentClipboardTask_24Regular } from './IcFluentClipboardTask_24Regular';

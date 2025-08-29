@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentChatMultipleMinus_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M2.038 8.5a6.5 6.5 0 1 1 3.721 5.877l-2.487.697a1 1 0 0 1-1.204-1.32l.796-2.082A6.5 6.5 0 0 1 2.038 8.5M5.5 8a.5.5 0 0 0 0 1h6a.5.5 0 0 0 0-1zm6 10a6.49 6.49 0 0 1-4.926-2.26 7.5 7.5 0 0 0 1.76.257A5.5 5.5 0 0 0 11.5 17c.902 0 1.752-.217 2.502-.6l.174-.09 2.86.801-.969-2.536.128-.21c.51-.834.805-1.814.805-2.865a5.47 5.47 0 0 0-.964-3.11 7.5 7.5 0 0 0-.235-1.763A6.48 6.48 0 0 1 18 11.5c0 1.151-.3 2.233-.825 3.172l.795 2.082a1 1 0 0 1-1.204 1.32l-2.487-.697c-.843.4-1.786.623-2.78.623"/>
+  </IconBase>
+);
+
+export default IcFluentChatMultipleMinus_20Filled;

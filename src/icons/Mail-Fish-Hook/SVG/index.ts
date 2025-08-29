@@ -1,0 +1,12 @@
+export { default as IcFluentMailFishHook_16Filled } from './IcFluentMailFishHook_16Filled';
+export { default as IcFluentMailFishHook_16Regular } from './IcFluentMailFishHook_16Regular';
+export { default as IcFluentMailFishHook_20Filled } from './IcFluentMailFishHook_20Filled';
+export { default as IcFluentMailFishHook_20Regular } from './IcFluentMailFishHook_20Regular';
+export { default as IcFluentMailFishHook_24Filled } from './IcFluentMailFishHook_24Filled';
+export { default as IcFluentMailFishHook_24Regular } from './IcFluentMailFishHook_24Regular';
+export { default as IcFluentMailFishHook_28Filled } from './IcFluentMailFishHook_28Filled';
+export { default as IcFluentMailFishHook_28Regular } from './IcFluentMailFishHook_28Regular';
+export { default as IcFluentMailFishHook_32Filled } from './IcFluentMailFishHook_32Filled';
+export { default as IcFluentMailFishHook_32Regular } from './IcFluentMailFishHook_32Regular';
+export { default as IcFluentMailFishHook_48Filled } from './IcFluentMailFishHook_48Filled';
+export { default as IcFluentMailFishHook_48Regular } from './IcFluentMailFishHook_48Regular';

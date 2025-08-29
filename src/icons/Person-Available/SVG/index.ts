@@ -1,0 +1,10 @@
+export { default as IcFluentPersonAvailable_16Color } from './IcFluentPersonAvailable_16Color';
+export { default as IcFluentPersonAvailable_16Filled } from './IcFluentPersonAvailable_16Filled';
+export { default as IcFluentPersonAvailable_16Regular } from './IcFluentPersonAvailable_16Regular';
+export { default as IcFluentPersonAvailable_20Color } from './IcFluentPersonAvailable_20Color';
+export { default as IcFluentPersonAvailable_20Filled } from './IcFluentPersonAvailable_20Filled';
+export { default as IcFluentPersonAvailable_20Regular } from './IcFluentPersonAvailable_20Regular';
+export { default as IcFluentPersonAvailable_24Color } from './IcFluentPersonAvailable_24Color';
+export { default as IcFluentPersonAvailable_24Filled } from './IcFluentPersonAvailable_24Filled';
+export { default as IcFluentPersonAvailable_24Regular } from './IcFluentPersonAvailable_24Regular';
+export { default as IcFluentPersonAvailable_32Light } from './IcFluentPersonAvailable_32Light';

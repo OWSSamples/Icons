@@ -1,0 +1,9 @@
+export { default as IcFluentArrowSquareDown_20Color } from './IcFluentArrowSquareDown_20Color';
+export { default as IcFluentArrowSquareDown_20Filled } from './IcFluentArrowSquareDown_20Filled';
+export { default as IcFluentArrowSquareDown_20Regular } from './IcFluentArrowSquareDown_20Regular';
+export { default as IcFluentArrowSquareDown_24Color } from './IcFluentArrowSquareDown_24Color';
+export { default as IcFluentArrowSquareDown_24Filled } from './IcFluentArrowSquareDown_24Filled';
+export { default as IcFluentArrowSquareDown_24Regular } from './IcFluentArrowSquareDown_24Regular';
+export { default as IcFluentArrowSquareDown_32Color } from './IcFluentArrowSquareDown_32Color';
+export { default as IcFluentArrowSquareDown_32Filled } from './IcFluentArrowSquareDown_32Filled';
+export { default as IcFluentArrowSquareDown_32Regular } from './IcFluentArrowSquareDown_32Regular';

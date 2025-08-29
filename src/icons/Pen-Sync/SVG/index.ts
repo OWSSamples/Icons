@@ -1,0 +1,12 @@
+export { default as IcFluentPenSync_16Filled } from './IcFluentPenSync_16Filled';
+export { default as IcFluentPenSync_16Regular } from './IcFluentPenSync_16Regular';
+export { default as IcFluentPenSync_20Filled } from './IcFluentPenSync_20Filled';
+export { default as IcFluentPenSync_20Regular } from './IcFluentPenSync_20Regular';
+export { default as IcFluentPenSync_24Filled } from './IcFluentPenSync_24Filled';
+export { default as IcFluentPenSync_24Regular } from './IcFluentPenSync_24Regular';
+export { default as IcFluentPenSync_28Filled } from './IcFluentPenSync_28Filled';
+export { default as IcFluentPenSync_28Regular } from './IcFluentPenSync_28Regular';
+export { default as IcFluentPenSync_32Filled } from './IcFluentPenSync_32Filled';
+export { default as IcFluentPenSync_32Regular } from './IcFluentPenSync_32Regular';
+export { default as IcFluentPenSync_48Filled } from './IcFluentPenSync_48Filled';
+export { default as IcFluentPenSync_48Regular } from './IcFluentPenSync_48Regular';

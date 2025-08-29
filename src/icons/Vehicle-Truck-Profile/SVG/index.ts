@@ -1,0 +1,12 @@
+export { default as IcFluentVehicleTruckProfile_16Filled } from './IcFluentVehicleTruckProfile_16Filled';
+export { default as IcFluentVehicleTruckProfile_16Regular } from './IcFluentVehicleTruckProfile_16Regular';
+export { default as IcFluentVehicleTruckProfile_20Filled } from './IcFluentVehicleTruckProfile_20Filled';
+export { default as IcFluentVehicleTruckProfile_20Regular } from './IcFluentVehicleTruckProfile_20Regular';
+export { default as IcFluentVehicleTruckProfile_24Filled } from './IcFluentVehicleTruckProfile_24Filled';
+export { default as IcFluentVehicleTruckProfile_24Regular } from './IcFluentVehicleTruckProfile_24Regular';
+export { default as IcFluentVehicleTruckProfile_28Filled } from './IcFluentVehicleTruckProfile_28Filled';
+export { default as IcFluentVehicleTruckProfile_28Regular } from './IcFluentVehicleTruckProfile_28Regular';
+export { default as IcFluentVehicleTruckProfile_32Filled } from './IcFluentVehicleTruckProfile_32Filled';
+export { default as IcFluentVehicleTruckProfile_32Regular } from './IcFluentVehicleTruckProfile_32Regular';
+export { default as IcFluentVehicleTruckProfile_48Filled } from './IcFluentVehicleTruckProfile_48Filled';
+export { default as IcFluentVehicleTruckProfile_48Regular } from './IcFluentVehicleTruckProfile_48Regular';

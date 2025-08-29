@@ -1,0 +1,17 @@
+export { default as IcFluentPeopleChat_16Filled } from './IcFluentPeopleChat_16Filled';
+export { default as IcFluentPeopleChat_16Regular } from './IcFluentPeopleChat_16Regular';
+export { default as IcFluentPeopleChat_20Color } from './IcFluentPeopleChat_20Color';
+export { default as IcFluentPeopleChat_20Filled } from './IcFluentPeopleChat_20Filled';
+export { default as IcFluentPeopleChat_20Regular } from './IcFluentPeopleChat_20Regular';
+export { default as IcFluentPeopleChat_24Color } from './IcFluentPeopleChat_24Color';
+export { default as IcFluentPeopleChat_24Filled } from './IcFluentPeopleChat_24Filled';
+export { default as IcFluentPeopleChat_24Regular } from './IcFluentPeopleChat_24Regular';
+export { default as IcFluentPeopleChat_28Color } from './IcFluentPeopleChat_28Color';
+export { default as IcFluentPeopleChat_28Filled } from './IcFluentPeopleChat_28Filled';
+export { default as IcFluentPeopleChat_28Regular } from './IcFluentPeopleChat_28Regular';
+export { default as IcFluentPeopleChat_32Color } from './IcFluentPeopleChat_32Color';
+export { default as IcFluentPeopleChat_32Filled } from './IcFluentPeopleChat_32Filled';
+export { default as IcFluentPeopleChat_32Regular } from './IcFluentPeopleChat_32Regular';
+export { default as IcFluentPeopleChat_48Color } from './IcFluentPeopleChat_48Color';
+export { default as IcFluentPeopleChat_48Filled } from './IcFluentPeopleChat_48Filled';
+export { default as IcFluentPeopleChat_48Regular } from './IcFluentPeopleChat_48Regular';

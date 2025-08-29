@@ -1,0 +1,14 @@
+export { default as IcFluentChevronLeft_12Filled } from './IcFluentChevronLeft_12Filled';
+export { default as IcFluentChevronLeft_12Regular } from './IcFluentChevronLeft_12Regular';
+export { default as IcFluentChevronLeft_16Filled } from './IcFluentChevronLeft_16Filled';
+export { default as IcFluentChevronLeft_16Regular } from './IcFluentChevronLeft_16Regular';
+export { default as IcFluentChevronLeft_20Filled } from './IcFluentChevronLeft_20Filled';
+export { default as IcFluentChevronLeft_20Regular } from './IcFluentChevronLeft_20Regular';
+export { default as IcFluentChevronLeft_24Filled } from './IcFluentChevronLeft_24Filled';
+export { default as IcFluentChevronLeft_24Regular } from './IcFluentChevronLeft_24Regular';
+export { default as IcFluentChevronLeft_28Filled } from './IcFluentChevronLeft_28Filled';
+export { default as IcFluentChevronLeft_28Regular } from './IcFluentChevronLeft_28Regular';
+export { default as IcFluentChevronLeft_32Filled } from './IcFluentChevronLeft_32Filled';
+export { default as IcFluentChevronLeft_32Regular } from './IcFluentChevronLeft_32Regular';
+export { default as IcFluentChevronLeft_48Filled } from './IcFluentChevronLeft_48Filled';
+export { default as IcFluentChevronLeft_48Regular } from './IcFluentChevronLeft_48Regular';

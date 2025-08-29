@@ -1,0 +1,12 @@
+export { default as IcFluentPersonArrowBack_16Filled } from './IcFluentPersonArrowBack_16Filled';
+export { default as IcFluentPersonArrowBack_16Regular } from './IcFluentPersonArrowBack_16Regular';
+export { default as IcFluentPersonArrowBack_20Filled } from './IcFluentPersonArrowBack_20Filled';
+export { default as IcFluentPersonArrowBack_20Regular } from './IcFluentPersonArrowBack_20Regular';
+export { default as IcFluentPersonArrowBack_24Filled } from './IcFluentPersonArrowBack_24Filled';
+export { default as IcFluentPersonArrowBack_24Regular } from './IcFluentPersonArrowBack_24Regular';
+export { default as IcFluentPersonArrowBack_28Filled } from './IcFluentPersonArrowBack_28Filled';
+export { default as IcFluentPersonArrowBack_28Regular } from './IcFluentPersonArrowBack_28Regular';
+export { default as IcFluentPersonArrowBack_32Filled } from './IcFluentPersonArrowBack_32Filled';
+export { default as IcFluentPersonArrowBack_32Regular } from './IcFluentPersonArrowBack_32Regular';
+export { default as IcFluentPersonArrowBack_48Filled } from './IcFluentPersonArrowBack_48Filled';
+export { default as IcFluentPersonArrowBack_48Regular } from './IcFluentPersonArrowBack_48Regular';

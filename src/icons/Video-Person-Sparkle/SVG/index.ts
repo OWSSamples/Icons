@@ -1,0 +1,10 @@
+export { default as IcFluentVideoPersonSparkle_16Filled } from './IcFluentVideoPersonSparkle_16Filled';
+export { default as IcFluentVideoPersonSparkle_16Regular } from './IcFluentVideoPersonSparkle_16Regular';
+export { default as IcFluentVideoPersonSparkle_20Filled } from './IcFluentVideoPersonSparkle_20Filled';
+export { default as IcFluentVideoPersonSparkle_20Regular } from './IcFluentVideoPersonSparkle_20Regular';
+export { default as IcFluentVideoPersonSparkle_24Filled } from './IcFluentVideoPersonSparkle_24Filled';
+export { default as IcFluentVideoPersonSparkle_24Regular } from './IcFluentVideoPersonSparkle_24Regular';
+export { default as IcFluentVideoPersonSparkle_28Filled } from './IcFluentVideoPersonSparkle_28Filled';
+export { default as IcFluentVideoPersonSparkle_28Regular } from './IcFluentVideoPersonSparkle_28Regular';
+export { default as IcFluentVideoPersonSparkle_48Filled } from './IcFluentVideoPersonSparkle_48Filled';
+export { default as IcFluentVideoPersonSparkle_48Regular } from './IcFluentVideoPersonSparkle_48Regular';

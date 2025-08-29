@@ -1,0 +1,13 @@
+export { default as IcFluentDocumentSignature_16Filled } from './IcFluentDocumentSignature_16Filled';
+export { default as IcFluentDocumentSignature_16Regular } from './IcFluentDocumentSignature_16Regular';
+export { default as IcFluentDocumentSignature_20Filled } from './IcFluentDocumentSignature_20Filled';
+export { default as IcFluentDocumentSignature_20Regular } from './IcFluentDocumentSignature_20Regular';
+export { default as IcFluentDocumentSignature_24Filled } from './IcFluentDocumentSignature_24Filled';
+export { default as IcFluentDocumentSignature_24Regular } from './IcFluentDocumentSignature_24Regular';
+export { default as IcFluentDocumentSignature_28Filled } from './IcFluentDocumentSignature_28Filled';
+export { default as IcFluentDocumentSignature_28Regular } from './IcFluentDocumentSignature_28Regular';
+export { default as IcFluentDocumentSignature_32Filled } from './IcFluentDocumentSignature_32Filled';
+export { default as IcFluentDocumentSignature_32Light } from './IcFluentDocumentSignature_32Light';
+export { default as IcFluentDocumentSignature_32Regular } from './IcFluentDocumentSignature_32Regular';
+export { default as IcFluentDocumentSignature_48Filled } from './IcFluentDocumentSignature_48Filled';
+export { default as IcFluentDocumentSignature_48Regular } from './IcFluentDocumentSignature_48Regular';

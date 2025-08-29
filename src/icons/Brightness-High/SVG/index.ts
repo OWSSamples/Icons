@@ -1,0 +1,12 @@
+export { default as IcFluentBrightnessHigh_16Filled } from './IcFluentBrightnessHigh_16Filled';
+export { default as IcFluentBrightnessHigh_16Regular } from './IcFluentBrightnessHigh_16Regular';
+export { default as IcFluentBrightnessHigh_20Filled } from './IcFluentBrightnessHigh_20Filled';
+export { default as IcFluentBrightnessHigh_20Regular } from './IcFluentBrightnessHigh_20Regular';
+export { default as IcFluentBrightnessHigh_24Filled } from './IcFluentBrightnessHigh_24Filled';
+export { default as IcFluentBrightnessHigh_24Regular } from './IcFluentBrightnessHigh_24Regular';
+export { default as IcFluentBrightnessHigh_28Filled } from './IcFluentBrightnessHigh_28Filled';
+export { default as IcFluentBrightnessHigh_28Regular } from './IcFluentBrightnessHigh_28Regular';
+export { default as IcFluentBrightnessHigh_32Filled } from './IcFluentBrightnessHigh_32Filled';
+export { default as IcFluentBrightnessHigh_32Regular } from './IcFluentBrightnessHigh_32Regular';
+export { default as IcFluentBrightnessHigh_48Filled } from './IcFluentBrightnessHigh_48Filled';
+export { default as IcFluentBrightnessHigh_48Regular } from './IcFluentBrightnessHigh_48Regular';

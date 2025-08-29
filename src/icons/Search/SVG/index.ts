@@ -1,0 +1,14 @@
+export { default as IcFluentSearch_12Filled } from './IcFluentSearch_12Filled';
+export { default as IcFluentSearch_12Regular } from './IcFluentSearch_12Regular';
+export { default as IcFluentSearch_16Filled } from './IcFluentSearch_16Filled';
+export { default as IcFluentSearch_16Regular } from './IcFluentSearch_16Regular';
+export { default as IcFluentSearch_20Filled } from './IcFluentSearch_20Filled';
+export { default as IcFluentSearch_20Regular } from './IcFluentSearch_20Regular';
+export { default as IcFluentSearch_24Filled } from './IcFluentSearch_24Filled';
+export { default as IcFluentSearch_24Regular } from './IcFluentSearch_24Regular';
+export { default as IcFluentSearch_28Filled } from './IcFluentSearch_28Filled';
+export { default as IcFluentSearch_28Regular } from './IcFluentSearch_28Regular';
+export { default as IcFluentSearch_32Filled } from './IcFluentSearch_32Filled';
+export { default as IcFluentSearch_32Regular } from './IcFluentSearch_32Regular';
+export { default as IcFluentSearch_48Filled } from './IcFluentSearch_48Filled';
+export { default as IcFluentSearch_48Regular } from './IcFluentSearch_48Regular';

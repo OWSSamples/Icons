@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentDatabase_16Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M3 12.5v-9c1.057.926 2.864 1.513 5 1.513s3.943-.587 5-1.513v9c0 1.425-2.149 2.5-5 2.5s-5-1.075-5-2.5"/><path fill="currentColor" fill-opacity=".7" d="M3 12.5v-9c1.057.926 2.864 1.513 5 1.513s3.943-.587 5-1.513v9c0 1.425-2.149 2.5-5 2.5s-5-1.075-5-2.5"/><path fill="currentColor" d="M13 3.5C13 4.88 10.761 6 8 6S3 4.88 3 3.5 5.239 1 8 1s5 1.12 5 2.5"/><defs><linearGradient id="a" x1="5.361" x2="12.114" y1=".909" y2="13.242" gradientUnits="userSpaceOnUse"><stop stop-color="#29C3FF"/><stop offset="1" stop-color="#367AF2"/></linearGradient><linearGradient id="b" x1="9.548" x2="12.136" y1="4.912" y2="16.096" gradientUnits="userSpaceOnUse"><stop offset=".533" stop-color="#FF6CE8" stop-opacity="0"/><stop offset="1" stop-color="#FF6CE8"/></linearGradient><linearGradient id="c" x1="16.75" x2="10.972" y1="8.5" y2="-2.018" gradientUnits="userSpaceOnUse"><stop stop-color="#58AAFE"/><stop offset="1" stop-color="#6CE0FF"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcFluentDatabase_16Color;

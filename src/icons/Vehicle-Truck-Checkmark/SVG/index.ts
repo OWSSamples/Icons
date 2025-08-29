@@ -1,0 +1,12 @@
+export { default as IcFluentVehicleTruckCheckmark_16Filled } from './IcFluentVehicleTruckCheckmark_16Filled';
+export { default as IcFluentVehicleTruckCheckmark_16Regular } from './IcFluentVehicleTruckCheckmark_16Regular';
+export { default as IcFluentVehicleTruckCheckmark_20Filled } from './IcFluentVehicleTruckCheckmark_20Filled';
+export { default as IcFluentVehicleTruckCheckmark_20Regular } from './IcFluentVehicleTruckCheckmark_20Regular';
+export { default as IcFluentVehicleTruckCheckmark_24Filled } from './IcFluentVehicleTruckCheckmark_24Filled';
+export { default as IcFluentVehicleTruckCheckmark_24Regular } from './IcFluentVehicleTruckCheckmark_24Regular';
+export { default as IcFluentVehicleTruckCheckmark_28Filled } from './IcFluentVehicleTruckCheckmark_28Filled';
+export { default as IcFluentVehicleTruckCheckmark_28Regular } from './IcFluentVehicleTruckCheckmark_28Regular';
+export { default as IcFluentVehicleTruckCheckmark_32Filled } from './IcFluentVehicleTruckCheckmark_32Filled';
+export { default as IcFluentVehicleTruckCheckmark_32Regular } from './IcFluentVehicleTruckCheckmark_32Regular';
+export { default as IcFluentVehicleTruckCheckmark_48Filled } from './IcFluentVehicleTruckCheckmark_48Filled';
+export { default as IcFluentVehicleTruckCheckmark_48Regular } from './IcFluentVehicleTruckCheckmark_48Regular';

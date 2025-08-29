@@ -1,0 +1,10 @@
+export { default as IcFluentFullScreenMinimize_16Filled } from './IcFluentFullScreenMinimize_16Filled';
+export { default as IcFluentFullScreenMinimize_16Regular } from './IcFluentFullScreenMinimize_16Regular';
+export { default as IcFluentFullScreenMinimize_20Filled } from './IcFluentFullScreenMinimize_20Filled';
+export { default as IcFluentFullScreenMinimize_20Regular } from './IcFluentFullScreenMinimize_20Regular';
+export { default as IcFluentFullScreenMinimize_24Filled } from './IcFluentFullScreenMinimize_24Filled';
+export { default as IcFluentFullScreenMinimize_24Regular } from './IcFluentFullScreenMinimize_24Regular';
+export { default as IcFluentFullScreenMinimize_28Filled } from './IcFluentFullScreenMinimize_28Filled';
+export { default as IcFluentFullScreenMinimize_28Regular } from './IcFluentFullScreenMinimize_28Regular';
+export { default as IcFluentFullScreenMinimize_32Filled } from './IcFluentFullScreenMinimize_32Filled';
+export { default as IcFluentFullScreenMinimize_32Regular } from './IcFluentFullScreenMinimize_32Regular';

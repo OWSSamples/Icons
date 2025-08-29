@@ -1,0 +1,10 @@
+export { default as IcFluentPersonCircle_12Filled } from './IcFluentPersonCircle_12Filled';
+export { default as IcFluentPersonCircle_12Regular } from './IcFluentPersonCircle_12Regular';
+export { default as IcFluentPersonCircle_20Filled } from './IcFluentPersonCircle_20Filled';
+export { default as IcFluentPersonCircle_20Regular } from './IcFluentPersonCircle_20Regular';
+export { default as IcFluentPersonCircle_24Filled } from './IcFluentPersonCircle_24Filled';
+export { default as IcFluentPersonCircle_24Regular } from './IcFluentPersonCircle_24Regular';
+export { default as IcFluentPersonCircle_28Filled } from './IcFluentPersonCircle_28Filled';
+export { default as IcFluentPersonCircle_28Regular } from './IcFluentPersonCircle_28Regular';
+export { default as IcFluentPersonCircle_32Filled } from './IcFluentPersonCircle_32Filled';
+export { default as IcFluentPersonCircle_32Regular } from './IcFluentPersonCircle_32Regular';

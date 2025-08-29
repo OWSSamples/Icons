@@ -1,0 +1,12 @@
+export { default as IcFluentSquareMultiple_16Filled } from './IcFluentSquareMultiple_16Filled';
+export { default as IcFluentSquareMultiple_16Regular } from './IcFluentSquareMultiple_16Regular';
+export { default as IcFluentSquareMultiple_20Filled } from './IcFluentSquareMultiple_20Filled';
+export { default as IcFluentSquareMultiple_20Regular } from './IcFluentSquareMultiple_20Regular';
+export { default as IcFluentSquareMultiple_24Filled } from './IcFluentSquareMultiple_24Filled';
+export { default as IcFluentSquareMultiple_24Regular } from './IcFluentSquareMultiple_24Regular';
+export { default as IcFluentSquareMultiple_28Filled } from './IcFluentSquareMultiple_28Filled';
+export { default as IcFluentSquareMultiple_28Regular } from './IcFluentSquareMultiple_28Regular';
+export { default as IcFluentSquareMultiple_32Filled } from './IcFluentSquareMultiple_32Filled';
+export { default as IcFluentSquareMultiple_32Regular } from './IcFluentSquareMultiple_32Regular';
+export { default as IcFluentSquareMultiple_48Filled } from './IcFluentSquareMultiple_48Filled';
+export { default as IcFluentSquareMultiple_48Regular } from './IcFluentSquareMultiple_48Regular';

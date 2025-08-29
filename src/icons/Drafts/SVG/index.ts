@@ -1,0 +1,9 @@
+export { default as IcFluentDrafts_16Color } from './IcFluentDrafts_16Color';
+export { default as IcFluentDrafts_16Filled } from './IcFluentDrafts_16Filled';
+export { default as IcFluentDrafts_16Regular } from './IcFluentDrafts_16Regular';
+export { default as IcFluentDrafts_20Color } from './IcFluentDrafts_20Color';
+export { default as IcFluentDrafts_20Filled } from './IcFluentDrafts_20Filled';
+export { default as IcFluentDrafts_20Regular } from './IcFluentDrafts_20Regular';
+export { default as IcFluentDrafts_24Color } from './IcFluentDrafts_24Color';
+export { default as IcFluentDrafts_24Filled } from './IcFluentDrafts_24Filled';
+export { default as IcFluentDrafts_24Regular } from './IcFluentDrafts_24Regular';

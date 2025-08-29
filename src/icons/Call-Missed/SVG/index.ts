@@ -1,0 +1,12 @@
+export { default as IcFluentCallMissed_12Filled } from './IcFluentCallMissed_12Filled';
+export { default as IcFluentCallMissed_12Regular } from './IcFluentCallMissed_12Regular';
+export { default as IcFluentCallMissed_16Filled } from './IcFluentCallMissed_16Filled';
+export { default as IcFluentCallMissed_16Regular } from './IcFluentCallMissed_16Regular';
+export { default as IcFluentCallMissed_20Filled } from './IcFluentCallMissed_20Filled';
+export { default as IcFluentCallMissed_20Regular } from './IcFluentCallMissed_20Regular';
+export { default as IcFluentCallMissed_24Filled } from './IcFluentCallMissed_24Filled';
+export { default as IcFluentCallMissed_24Regular } from './IcFluentCallMissed_24Regular';
+export { default as IcFluentCallMissed_28Filled } from './IcFluentCallMissed_28Filled';
+export { default as IcFluentCallMissed_28Regular } from './IcFluentCallMissed_28Regular';
+export { default as IcFluentCallMissed_48Filled } from './IcFluentCallMissed_48Filled';
+export { default as IcFluentCallMissed_48Regular } from './IcFluentCallMissed_48Regular';

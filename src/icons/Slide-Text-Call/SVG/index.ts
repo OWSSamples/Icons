@@ -1,0 +1,10 @@
+export { default as IcFluentSlideTextCall_16Filled } from './IcFluentSlideTextCall_16Filled';
+export { default as IcFluentSlideTextCall_16Regular } from './IcFluentSlideTextCall_16Regular';
+export { default as IcFluentSlideTextCall_20Filled } from './IcFluentSlideTextCall_20Filled';
+export { default as IcFluentSlideTextCall_20Regular } from './IcFluentSlideTextCall_20Regular';
+export { default as IcFluentSlideTextCall_24Filled } from './IcFluentSlideTextCall_24Filled';
+export { default as IcFluentSlideTextCall_24Regular } from './IcFluentSlideTextCall_24Regular';
+export { default as IcFluentSlideTextCall_28Filled } from './IcFluentSlideTextCall_28Filled';
+export { default as IcFluentSlideTextCall_28Regular } from './IcFluentSlideTextCall_28Regular';
+export { default as IcFluentSlideTextCall_48Filled } from './IcFluentSlideTextCall_48Filled';
+export { default as IcFluentSlideTextCall_48Regular } from './IcFluentSlideTextCall_48Regular';

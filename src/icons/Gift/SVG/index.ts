@@ -1,0 +1,9 @@
+export { default as IcFluentGift_16Color } from './IcFluentGift_16Color';
+export { default as IcFluentGift_16Filled } from './IcFluentGift_16Filled';
+export { default as IcFluentGift_16Regular } from './IcFluentGift_16Regular';
+export { default as IcFluentGift_20Color } from './IcFluentGift_20Color';
+export { default as IcFluentGift_20Filled } from './IcFluentGift_20Filled';
+export { default as IcFluentGift_20Regular } from './IcFluentGift_20Regular';
+export { default as IcFluentGift_24Color } from './IcFluentGift_24Color';
+export { default as IcFluentGift_24Filled } from './IcFluentGift_24Filled';
+export { default as IcFluentGift_24Regular } from './IcFluentGift_24Regular';

@@ -1,0 +1,15 @@
+export { default as IcFluentCommentMultiple_16Color } from './IcFluentCommentMultiple_16Color';
+export { default as IcFluentCommentMultiple_16Filled } from './IcFluentCommentMultiple_16Filled';
+export { default as IcFluentCommentMultiple_16Regular } from './IcFluentCommentMultiple_16Regular';
+export { default as IcFluentCommentMultiple_20Color } from './IcFluentCommentMultiple_20Color';
+export { default as IcFluentCommentMultiple_20Filled } from './IcFluentCommentMultiple_20Filled';
+export { default as IcFluentCommentMultiple_20Regular } from './IcFluentCommentMultiple_20Regular';
+export { default as IcFluentCommentMultiple_24Color } from './IcFluentCommentMultiple_24Color';
+export { default as IcFluentCommentMultiple_24Filled } from './IcFluentCommentMultiple_24Filled';
+export { default as IcFluentCommentMultiple_24Regular } from './IcFluentCommentMultiple_24Regular';
+export { default as IcFluentCommentMultiple_28Color } from './IcFluentCommentMultiple_28Color';
+export { default as IcFluentCommentMultiple_28Filled } from './IcFluentCommentMultiple_28Filled';
+export { default as IcFluentCommentMultiple_28Regular } from './IcFluentCommentMultiple_28Regular';
+export { default as IcFluentCommentMultiple_32Color } from './IcFluentCommentMultiple_32Color';
+export { default as IcFluentCommentMultiple_32Filled } from './IcFluentCommentMultiple_32Filled';
+export { default as IcFluentCommentMultiple_32Regular } from './IcFluentCommentMultiple_32Regular';

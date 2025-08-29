@@ -1,0 +1,9 @@
+export { default as IcFluentDocumentEdit_16Color } from './IcFluentDocumentEdit_16Color';
+export { default as IcFluentDocumentEdit_16Filled } from './IcFluentDocumentEdit_16Filled';
+export { default as IcFluentDocumentEdit_16Regular } from './IcFluentDocumentEdit_16Regular';
+export { default as IcFluentDocumentEdit_20Color } from './IcFluentDocumentEdit_20Color';
+export { default as IcFluentDocumentEdit_20Filled } from './IcFluentDocumentEdit_20Filled';
+export { default as IcFluentDocumentEdit_20Regular } from './IcFluentDocumentEdit_20Regular';
+export { default as IcFluentDocumentEdit_24Color } from './IcFluentDocumentEdit_24Color';
+export { default as IcFluentDocumentEdit_24Filled } from './IcFluentDocumentEdit_24Filled';
+export { default as IcFluentDocumentEdit_24Regular } from './IcFluentDocumentEdit_24Regular';

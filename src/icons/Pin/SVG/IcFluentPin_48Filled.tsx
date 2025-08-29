@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentPin_48Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M31.818 5.55 42.45 16.183c2.293 2.292 1.665 6.157-1.234 7.607L30.67 29.062a1.25 1.25 0 0 0-.622.71l-2.684 7.77c-.664 1.92-3.108 2.483-4.544 1.047L17 32.769 7.768 42H6v-1.767L15.232 31l-5.82-5.82c-1.437-1.436-.874-3.88 1.046-4.544l7.77-2.684a1.25 1.25 0 0 0 .71-.623L24.21 6.785c1.45-2.9 5.315-3.527 7.608-1.235"/>
+  </IconBase>
+);
+
+export default IcFluentPin_48Filled;

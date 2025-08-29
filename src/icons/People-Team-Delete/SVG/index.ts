@@ -1,0 +1,10 @@
+export { default as IcFluentPeopleTeamDelete_16Filled } from './IcFluentPeopleTeamDelete_16Filled';
+export { default as IcFluentPeopleTeamDelete_16Regular } from './IcFluentPeopleTeamDelete_16Regular';
+export { default as IcFluentPeopleTeamDelete_20Filled } from './IcFluentPeopleTeamDelete_20Filled';
+export { default as IcFluentPeopleTeamDelete_20Regular } from './IcFluentPeopleTeamDelete_20Regular';
+export { default as IcFluentPeopleTeamDelete_24Filled } from './IcFluentPeopleTeamDelete_24Filled';
+export { default as IcFluentPeopleTeamDelete_24Regular } from './IcFluentPeopleTeamDelete_24Regular';
+export { default as IcFluentPeopleTeamDelete_28Filled } from './IcFluentPeopleTeamDelete_28Filled';
+export { default as IcFluentPeopleTeamDelete_28Regular } from './IcFluentPeopleTeamDelete_28Regular';
+export { default as IcFluentPeopleTeamDelete_32Filled } from './IcFluentPeopleTeamDelete_32Filled';
+export { default as IcFluentPeopleTeamDelete_32Regular } from './IcFluentPeopleTeamDelete_32Regular';

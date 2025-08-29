@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentTargetEdit_16Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M7.999 8.999a1 1 0 1 0 0-2 1 1 0 0 0 0 2m-3.5-1a3.5 3.5 0 0 1 6.86-.982L9.954 8.422q.045-.205.045-.423a2 2 0 1 0-1.576 1.955l-1.081 1.08a4 4 0 0 0-.296.333A3.5 3.5 0 0 1 4.5 7.999m3.5-4.5a4.5 4.5 0 0 1 4.18 2.83 2.56 2.56 0 0 1 1.48-.322A6.001 6.001 0 0 0 2 7.999a6 6 0 0 0 4.12 5.699l.228-.909q.07-.277.178-.538A4.501 4.501 0 0 1 8 3.5m3.486 4.806-3.18 3.18-.256.257a2.8 2.8 0 0 0-.73 1.29l-.225.898-.079.312a.61.61 0 0 0 .74.74l1.21-.303a2.8 2.8 0 0 0 1.29-.73l4.288-4.288a1.56 1.56 0 0 0-2.091-2.312q-.06.05-.116.105z"/>
+  </IconBase>
+);
+
+export default IcFluentTargetEdit_16Filled;

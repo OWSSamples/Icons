@@ -1,0 +1,11 @@
+export { default as IcFluentCalendarWorkWeek_16Filled } from './IcFluentCalendarWorkWeek_16Filled';
+export { default as IcFluentCalendarWorkWeek_16Regular } from './IcFluentCalendarWorkWeek_16Regular';
+export { default as IcFluentCalendarWorkWeek_20Filled } from './IcFluentCalendarWorkWeek_20Filled';
+export { default as IcFluentCalendarWorkWeek_20Regular } from './IcFluentCalendarWorkWeek_20Regular';
+export { default as IcFluentCalendarWorkWeek_24Filled } from './IcFluentCalendarWorkWeek_24Filled';
+export { default as IcFluentCalendarWorkWeek_24Regular } from './IcFluentCalendarWorkWeek_24Regular';
+export { default as IcFluentCalendarWorkWeek_28Filled } from './IcFluentCalendarWorkWeek_28Filled';
+export { default as IcFluentCalendarWorkWeek_28Regular } from './IcFluentCalendarWorkWeek_28Regular';
+export { default as IcFluentCalendarWorkWeek_32Filled } from './IcFluentCalendarWorkWeek_32Filled';
+export { default as IcFluentCalendarWorkWeek_32Light } from './IcFluentCalendarWorkWeek_32Light';
+export { default as IcFluentCalendarWorkWeek_32Regular } from './IcFluentCalendarWorkWeek_32Regular';

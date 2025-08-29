@@ -1,0 +1,10 @@
+export { default as IcFluentCallProhibited_16Filled } from './IcFluentCallProhibited_16Filled';
+export { default as IcFluentCallProhibited_16Regular } from './IcFluentCallProhibited_16Regular';
+export { default as IcFluentCallProhibited_20Filled } from './IcFluentCallProhibited_20Filled';
+export { default as IcFluentCallProhibited_20Regular } from './IcFluentCallProhibited_20Regular';
+export { default as IcFluentCallProhibited_24Filled } from './IcFluentCallProhibited_24Filled';
+export { default as IcFluentCallProhibited_24Regular } from './IcFluentCallProhibited_24Regular';
+export { default as IcFluentCallProhibited_28Filled } from './IcFluentCallProhibited_28Filled';
+export { default as IcFluentCallProhibited_28Regular } from './IcFluentCallProhibited_28Regular';
+export { default as IcFluentCallProhibited_48Filled } from './IcFluentCallProhibited_48Filled';
+export { default as IcFluentCallProhibited_48Regular } from './IcFluentCallProhibited_48Regular';

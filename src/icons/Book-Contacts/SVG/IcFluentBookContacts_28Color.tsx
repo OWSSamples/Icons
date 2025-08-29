@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentBookContacts_28Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M6 21.5h16.758s-.258.813-.258 2 .258 2 .258 2H8.75A2.75 2.75 0 0 1 6 22.75z"/><path fill="currentColor" d="M8.75 2A3.75 3.75 0 0 0 5 5.75v16.5A3.75 3.75 0 0 0 8.75 26h13.5a.75.75 0 0 0 0-1.5H8.75a2.25 2.25 0 0 1-2.236-2H21.5A1.5 1.5 0 0 0 23 21V5.75A3.75 3.75 0 0 0 19.25 2z"/><path fill="currentColor" fill-opacity=".3" d="M8.75 2A3.75 3.75 0 0 0 5 5.75v16.5A3.75 3.75 0 0 0 8.75 26h13.5a.75.75 0 0 0 0-1.5H8.75a2.25 2.25 0 0 1-2.236-2H21.5A1.5 1.5 0 0 0 23 21V5.75A3.75 3.75 0 0 0 19.25 2z"/><path fill="currentColor" fill-opacity=".3" d="M8.75 2A3.75 3.75 0 0 0 5 5.75v16.5A3.75 3.75 0 0 0 8.75 26h13.5a.75.75 0 0 0 0-1.5H8.75a2.25 2.25 0 0 1-2.236-2H21.5A1.5 1.5 0 0 0 23 21V5.75A3.75 3.75 0 0 0 19.25 2z"/><path fill="currentColor" fill-opacity=".9" d="M16.5 9.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0m2 5.375C18.5 16.431 17.214 18 14 18s-4.5-1.563-4.5-3.125v-.103c0-.98.794-1.772 1.773-1.772h5.454c.98 0 1.773.793 1.773 1.772z"/><defs><linearGradient id="a" x1="13.652" x2="13.652" y1="24.4" y2="22" gradientUnits="userSpaceOnUse"><stop stop-color="#9DEAFF"/><stop offset=".716" stop-color="#58AAFE"/></linearGradient><linearGradient id="b" x1="11.405" x2="15.219" y1="6.49" y2="32.302" gradientUnits="userSpaceOnUse"><stop stop-color="#20AC9D"/><stop offset="1" stop-color="#2052CB"/></linearGradient><linearGradient id="e" x1="20.754" x2="1.602" y1="27.429" y2="-1.308" gradientUnits="userSpaceOnUse"><stop stop-color="#9DEAFF"/><stop offset="1" stop-color="#fff"/></linearGradient><radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="matrix(5.5 0 0 3.30769 14.5 15.5)" gradientUnits="userSpaceOnUse"><stop stop-color="#171155"/><stop offset="1" stop-color="#4A43CB" stop-opacity="0"/></radialGradient><radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="matrix(3 0 0 3.26174 15 9.2)" gradientUnits="userSpaceOnUse"><stop stop-color="#171155"/><stop offset="1" stop-color="#4A43CB" stop-opacity="0"/></radialGradient></defs>
+  </IconBase>
+);
+
+export default IcFluentBookContacts_28Color;

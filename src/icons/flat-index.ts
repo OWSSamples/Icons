@@ -1,123 +1,38 @@
-// ÍNDICE PLANO - Búsqueda directa de iconos
-// Permite importar cualquier icono sin navegar por carpetas
-// SOLO ICONOS QUE REALMENTE EXISTEN
+// Flat index - Exportaciones directas de iconos
+// Este archivo permite importar iconos directamente sin categorías
 
-// ARROWS - REGULAR
-export { default as AngleDownCircleRegular } from './Arrows/Regular/AngleDownCircleRegular';
-export { default as AngleDownRegular } from './Arrows/Regular/AngleDownRegular';
-export { default as AngleDownSmallRegular } from './Arrows/Regular/AngleDownSmallRegular';
-export { default as AngleDownSquareRegular } from './Arrows/Regular/AngleDownSquareRegular';
-export { default as AngleLeftCircleRegular } from './Arrows/Regular/AngleLeftCircleRegular';
-export { default as AngleLeftRegular } from './Arrows/Regular/AngleLeftRegular';
-export { default as AngleLeftSmallRegular } from './Arrows/Regular/AngleLeftSmallRegular';
-export { default as AngleLeftSquareRegular } from './Arrows/Regular/AngleLeftSquareRegular';
-export { default as AngleRightCircleRegular } from './Arrows/Regular/AngleRightCircleRegular';
-export { default as AngleRightRegular } from './Arrows/Regular/AngleRightRegular';
-export { default as AngleRightSmallRegular } from './Arrows/Regular/AngleRightSmallRegular';
-export { default as AngleRightSquareRegular } from './Arrows/Regular/AngleRightSquareRegular';
-export { default as AngleUpCircleRegular } from './Arrows/Regular/AngleUpCircleRegular';
-export { default as AngleUpRegular } from './Arrows/Regular/AngleUpRegular';
-export { default as AngleUpSmallRegular } from './Arrows/Regular/AngleUpSmallRegular';
-export { default as AngleUpSquareRegular } from './Arrows/Regular/AngleUpSquareRegular';
-export { default as AnglesDownRegular } from './Arrows/Regular/AnglesDownRegular';
-export { default as AnglesDownSmallRegular } from './Arrows/Regular/AnglesDownSmallRegular';
-export { default as AnglesDownUpRegular } from './Arrows/Regular/AnglesDownUpRegular';
-export { default as AnglesLeftRegular } from './Arrows/Regular/AnglesLeftRegular';
-export { default as AnglesLeftSmallRegular } from './Arrows/Regular/AnglesLeftSmallRegular';
-export { default as AnglesRightRegular } from './Arrows/Regular/AnglesRightRegular';
-export { default as AnglesRightSmallRegular } from './Arrows/Regular/AnglesRightSmallRegular';
-export { default as AnglesUpDownRegular } from './Arrows/Regular/AnglesUpDownRegular';
-export { default as AnglesUpRegular } from './Arrows/Regular/AnglesUpRegular';
-export { default as AnglesUpSmallRegular } from './Arrows/Regular/AnglesUpSmallRegular';
-export { default as ArrowDownCircleRegular } from './Arrows/Regular/ArrowDownCircleRegular';
-export { default as ArrowDownFromLineCircleRegular } from './Arrows/Regular/ArrowDownFromLineCircleRegular';
-export { default as ArrowDownFromLineRegular } from './Arrows/Regular/ArrowDownFromLineRegular';
-export { default as ArrowDownFromLineSquareRegular } from './Arrows/Regular/ArrowDownFromLineSquareRegular';
-export { default as ArrowDownLeftCircleRegular } from './Arrows/Regular/ArrowDownLeftCircleRegular';
-export { default as ArrowDownLeftFromSquareRegular } from './Arrows/Regular/ArrowDownLeftFromSquareRegular';
-export { default as ArrowDownLeftRegular } from './Arrows/Regular/ArrowDownLeftRegular';
-export { default as ArrowDownLeftSmallRegular } from './Arrows/Regular/ArrowDownLeftSmallRegular';
-export { default as ArrowDownLeftSquareRegular } from './Arrows/Regular/ArrowDownLeftSquareRegular';
-export { default as ArrowDownLineCircleRegular } from './Arrows/Regular/ArrowDownLineCircleRegular';
-export { default as ArrowDownLineRegular } from './Arrows/Regular/ArrowDownLineRegular';
-export { default as ArrowDownLineSquareRegular } from './Arrows/Regular/ArrowDownLineSquareRegular';
-export { default as ArrowDownRegular } from './Arrows/Regular/ArrowDownRegular';
-export { default as ArrowDownRightCircleRegular } from './Arrows/Regular/ArrowDownRightCircleRegular';
-export { default as ArrowDownRightRegular } from './Arrows/Regular/ArrowDownRightRegular';
-export { default as ArrowDownRightSmallRegular } from './Arrows/Regular/ArrowDownRightSmallRegular';
-export { default as ArrowDownRightSquareRegular } from './Arrows/Regular/ArrowDownRightSquareRegular';
-export { default as ArrowDownSmallRegular } from './Arrows/Regular/ArrowDownSmallRegular';
-export { default as ArrowDownSquareRegular } from './Arrows/Regular/ArrowDownSquareRegular';
-export { default as ArrowLeftCircleRegular } from './Arrows/Regular/ArrowLeftCircleRegular';
-export { default as ArrowLeftFromLineCircleRegular } from './Arrows/Regular/ArrowLeftFromLineCircleRegular';
-export { default as ArrowLeftFromLineRegular } from './Arrows/Regular/ArrowLeftFromLineRegular';
-export { default as ArrowLeftFromLineSquareRegular } from './Arrows/Regular/ArrowLeftFromLineSquareRegular';
-export { default as ArrowLeftLineCircleRegular } from './Arrows/Regular/ArrowLeftLineCircleRegular';
-export { default as ArrowLeftLineRegular } from './Arrows/Regular/ArrowLeftLineRegular';
-export { default as ArrowLeftLineSquareRegular } from './Arrows/Regular/ArrowLeftLineSquareRegular';
-export { default as ArrowLeftRegular } from './Arrows/Regular/ArrowLeftRegular';
-export { default as ArrowLeftSmallRegular } from './Arrows/Regular/ArrowLeftSmallRegular';
-export { default as ArrowLeftSquareRegular } from './Arrows/Regular/ArrowLeftSquareRegular';
-export { default as ArrowRedoRegular } from './Arrows/Regular/ArrowRedoRegular';
-export { default as ArrowRightCircleRegular } from './Arrows/Regular/ArrowRightCircleRegular';
-export { default as ArrowRightFromLineCircleRegular } from './Arrows/Regular/ArrowRightFromLineCircleRegular';
-export { default as ArrowRightFromLineRegular } from './Arrows/Regular/ArrowRightFromLineRegular';
-export { default as ArrowRightFromLineSquareRegular } from './Arrows/Regular/ArrowRightFromLineSquareRegular';
-export { default as ArrowRightLeftRegular } from './Arrows/Regular/ArrowRightLeftRegular';
-export { default as ArrowRightLeftSimpleRegular } from './Arrows/Regular/ArrowRightLeftSimpleRegular';
-export { default as ArrowRightLineCircleRegular } from './Arrows/Regular/ArrowRightLineCircleRegular';
-export { default as ArrowRightLineRegular } from './Arrows/Regular/ArrowRightLineRegular';
-export { default as ArrowRightLineSquareRegular } from './Arrows/Regular/ArrowRightLineSquareRegular';
-export { default as ArrowRightRegular } from './Arrows/Regular/ArrowRightRegular';
-export { default as ArrowRightSmallRegular } from './Arrows/Regular/ArrowRightSmallRegular';
-export { default as ArrowRightSquareRegular } from './Arrows/Regular/ArrowRightSquareRegular';
-export { default as ArrowRotateLeftRegular } from './Arrows/Regular/ArrowRotateLeftRegular';
-export { default as ArrowRotateRightRegular } from './Arrows/Regular/ArrowRotateRightRegular';
-export { default as ArrowTurnDownLeftRegular } from './Arrows/Regular/ArrowTurnDownLeftRegular';
-export { default as ArrowTurnDownRegular } from './Arrows/Regular/ArrowTurnDownRegular';
-export { default as ArrowTurnDownRightRegular } from './Arrows/Regular/ArrowTurnDownRightRegular';
-export { default as ArrowTurnLeftDownRegular } from './Arrows/Regular/ArrowTurnLeftDownRegular';
-export { default as ArrowTurnLeftRegular } from './Arrows/Regular/ArrowTurnLeftRegular';
-export { default as ArrowTurnLeftUpRegular } from './Arrows/Regular/ArrowTurnLeftUpRegular';
-export { default as ArrowTurnRightRegular } from './Arrows/Regular/ArrowTurnRightRegular';
-export { default as ArrowTurnUpRegular } from './Arrows/Regular/ArrowTurnUpRegular';
-export { default as ArrowUndoRegular } from './Arrows/Regular/ArrowUndoRegular';
-export { default as ArrowUpCircleRegular } from './Arrows/Regular/ArrowUpCircleRegular';
-export { default as ArrowUpDownRegular } from './Arrows/Regular/ArrowUpDownRegular';
-export { default as ArrowUpDownSimpleRegular } from './Arrows/Regular/ArrowUpDownSimpleRegular';
-export { default as ArrowUpFromLineCircleRegular } from './Arrows/Regular/ArrowUpFromLineCircleRegular';
-export { default as ArrowUpFromLineRegular } from './Arrows/Regular/ArrowUpFromLineRegular';
-export { default as ArrowUpFromLineSquareRegular } from './Arrows/Regular/ArrowUpFromLineSquareRegular';
-export { default as ArrowUpLeftCircleRegular } from './Arrows/Regular/ArrowUpLeftCircleRegular';
-export { default as ArrowUpLeftRegular } from './Arrows/Regular/ArrowUpLeftRegular';
-export { default as ArrowUpLeftSmallRegular } from './Arrows/Regular/ArrowUpLeftSmallRegular';
-export { default as ArrowUpLeftSquareRegular } from './Arrows/Regular/ArrowUpLeftSquareRegular';
-export { default as ArrowUpLineCircleRegular } from './Arrows/Regular/ArrowUpLineCircleRegular';
-export { default as ArrowUpLineRegular } from './Arrows/Regular/ArrowUpLineRegular';
-export { default as ArrowUpLineSquareRegular } from './Arrows/Regular/ArrowUpLineSquareRegular';
-export { default as ArrowUpRegular } from './Arrows/Regular/ArrowUpRegular';
-export { default as ArrowUpRightCircleRegular } from './Arrows/Regular/ArrowUpRightCircleRegular';
-export { default as ArrowUpRightFromSquareRegular } from './Arrows/Regular/ArrowUpRightFromSquareRegular';
-export { default as ArrowUpRightRegular } from './Arrows/Regular/ArrowUpRightRegular';
-export { default as ArrowUpRightSmallRegular } from './Arrows/Regular/ArrowUpRightSmallRegular';
-export { default as ArrowUpRightSquareRegular } from './Arrows/Regular/ArrowUpRightSquareRegular';
-export { default as ArrowUpSmallRegular } from './Arrows/Regular/ArrowUpSmallRegular';
-export { default as ArrowUpSquareRegular } from './Arrows/Regular/ArrowUpSquareRegular';
+// Ejemplos de exportaciones directas
+export { default as AddDuotone } from './Add/Duotone/AddDuotone';
+export { default as AddFilled } from './Add/Filled/AddFilled';
+export { default as AddLight } from './Add/Light/AddLight';
+export { default as Add } from './Add/Regular/AddRegular';
 
-// ARROWS - FILLED (solo los básicos)
-export { default as ArrowUpFilled } from './Arrows/Filled/ArrowUpFilled';
-export { default as ArrowDownFilled } from './Arrows/Filled/ArrowDownFilled';
-export { default as ArrowLeftFilled } from './Arrows/Filled/ArrowLeftFilled';
-export { default as ArrowRightFilled } from './Arrows/Filled/ArrowRightFilled';
+export { default as ArrowDown } from './Arrows/Regular/ArrowDownRegular';
+export { default as ArrowLeft } from './Arrows/Regular/ArrowLeftRegular';
+export { default as ArrowRight } from './Arrows/Regular/ArrowRightRegular';
+export { default as ArrowUp } from './Arrows/Regular/ArrowUpRegular';
 
-// ARROWS - DUOTONE (solo los básicos)
-export { default as ArrowUpDuotone } from './Arrows/Duotone/ArrowUpDuotone';
-export { default as ArrowDownDuotone } from './Arrows/Duotone/ArrowDownDuotone';
-export { default as ArrowLeftDuotone } from './Arrows/Duotone/ArrowLeftDuotone';
-export { default as ArrowRightDuotone } from './Arrows/Duotone/ArrowRightDuotone';
+export { default as SearchFilled } from './UI-Basics/Filled/SearchFilled';
+export { default as SearchLight } from './UI-Basics/Light/SearchLight';
+export { default as Search } from './UI-Basics/Regular/SearchRegular';
 
-// ARROWS - LIGHT (solo los básicos)
-export { default as ArrowUpLight } from './Arrows/Light/ArrowUpLight';
-export { default as ArrowDownLight } from './Arrows/Light/ArrowDownLight';
-export { default as ArrowLeftLight } from './Arrows/Light/ArrowLeftLight';
-export { default as ArrowRightLight } from './Arrows/Light/ArrowRightLight';
+export { default as HomeFilled } from './UI-Basics/Filled/HomeFilled';
+export { default as HomeLight } from './UI-Basics/Light/HomeLight';
+export { default as Home } from './UI-Basics/Regular/HomeRegular';
+
+export { default as UserFilled } from './UI-Basics/Filled/UserFilled';
+export { default as UserLight } from './UI-Basics/Light/UserLight';
+export { default as User } from './UI-Basics/Regular/UserRegular';
+
+export { default as SettingsFilled } from './UI-Basics/Filled/SettingsFilled';
+export { default as SettingsLight } from './UI-Basics/Light/SettingsLight';
+export { default as Settings } from './UI-Basics/Regular/SettingsRegular';
+
+// Branding
+export { default as LogoOpendexDuotone } from './Branding/Duotone/LogoOpendexDuotone';
+export { default as LogoOpendexFilled } from './Branding/Filled/LogoOpendexFilled';
+export { default as LogoOpendexLight } from './Branding/Light/LogoOpendexLight';
+export { default as LogoOpendex } from './Branding/Regular/LogoOpendexRegular';
+
+// Nota: Para una lista completa, ejecuta el script de generación
+// npm run generate

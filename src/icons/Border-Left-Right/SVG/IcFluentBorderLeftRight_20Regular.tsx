@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcFluentBorderLeftRight_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M14.662 3.073a.51.51 0 0 0-.663.38.51.51 0 0 0 .462.6A2 2 0 0 1 16 6v8a2 2 0 0 1-1.54 1.947l-.062.008a.51.51 0 0 0-.4.592.51.51 0 0 0 .664.38A3 3 0 0 0 17 14V6c0-1.43-1-2.625-2.338-2.927m-9.324 0a.51.51 0 0 1 .663.38.51.51 0 0 1-.462.6A2 2 0 0 0 4 6v8a2 2 0 0 0 1.54 1.947.51.51 0 0 1 .462.6.51.51 0 0 1-.664.38A3 3 0 0 1 3 14V6c0-1.43 1-2.625 2.338-2.927M8 16.5a.5.5 0 0 1 .5-.5h3a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5M8.5 3a.5.5 0 0 0 0 1h3a.5.5 0 0 0 0-1z"/>
+  </IconBase>
+);
+
+export default IcFluentBorderLeftRight_20Regular;
