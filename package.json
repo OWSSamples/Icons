@@ -1,6 +1,6 @@
 {
   "name": "@opendex-origon/icons",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Biblioteca de iconos SVG para React con tipado TypeScript - Solo para proyectos que se integren con Opendex. +44,000 iconos organizados en categorías temáticas, incluyendo logo personalizado.",
   "license": "SEE LICENSE IN LICENSE",
   "author": {

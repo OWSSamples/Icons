@@ -1,5 +1,20 @@
 # Changelog
 
+## [3.1.0] - 2025-08-29
+
+### ✨ Features
+
+- Nuevos iconos agregados
+
+### 📦 Build
+- Versión: 3.1.0
+- Iconos totales: 44260
+- Fecha: 2025-08-29
+
+---
+
+
+
 Todos los cambios notables en este proyecto serán documentados en este archivo.
 
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
