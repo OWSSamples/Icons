@@ -20,7 +20,7 @@ _Desarrollado por Opendex Corporation_
 
 ## Características
 
-- **+10,000 iconos** organizados en categorías temáticas
+- **44,260 iconos únicos** organizados en 29 categorías temáticas
 - **Tipado TypeScript** completo con IntelliSense
 - **Build optimizado** (ESM + CJS) para máxima compatibilidad
 - **Tamaños flexibles** (números, strings, unidades CSS)
@@ -73,7 +73,7 @@ Para obtener información detallada sobre el uso de la biblioteca, consulta la d
 
 ### Guías Principales
 
-- [Lista Completa de Iconos](ICON_LIST.md) - Todos los 4,806 iconos disponibles
+- [Lista Completa de Iconos](ICON_LIST.md) - Todos los 44,260 iconos disponibles
 - [Resumen de Iconos](ICON_SUMMARY.md) - Estadísticas y categorías
 - [Índice de Búsqueda Rápida](INDICE_BUSQUEDA_RAPIDA.md) - Encuentra iconos por función, estilo y caso de uso
 - [Guía de Exportaciones](GUIA_EXPORTACIONES.md) - Cómo importar y usar iconos fácilmente
@@ -329,12 +329,12 @@ npm run type-check   # Verificar tipos TypeScript
 
 ## Estadísticas
 
-- **Total de iconos**: +10,000
-- **Categorías**: 25+
+- **Total de iconos**: 44,260
+- **Categorías**: 29
 - **Estilos**: 5 (Light, Regular, Filled, Duotone, Duotone Line)
 - **Tamaño del bundle**: ~5MB (comprimido)
 - **Compatibilidad**: React 16.8+, TypeScript 4.0+
-- **Versión actual**: 2.9.2
+- **Versión actual**: 3.0.0
 
 ## Contribuir
 

@@ -3,9 +3,9 @@ import { defineConfig } from 'tsup';
 export default defineConfig({
   entry: ['src/index.ts'],
   format: ['esm', 'cjs'],
-  dts: false, // Desactivamos DTS temporalmente para reducir memoria
+  dts: true, // ✅ Generación de tipos activada
   splitting: false,
-  sourcemap: false, // Desactivamos sourcemap para reducir memoria
+  sourcemap: true, // ✅ Sourcemap para debugging
   clean: true,
   target: 'es2019',
   treeshake: true,

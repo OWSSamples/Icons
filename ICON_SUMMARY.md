@@ -1,8 +1,8 @@
-# 🎨 Resumen de Iconos - @opendex-origon/icons v2.9.2
+# 🎨 Resumen de Iconos - @opendex-origon/icons v3.0.0
 
 ## 📊 Estadísticas Generales
 
-- **Total de iconos únicos:** 4,806
+- **Total de iconos únicos:** 44,260
 - **Total de categorías:** 29
 - **Estilos disponibles:** 5 (Light, Regular, Filled, Duotone, Duotone Line)
 

@@ -16,11 +16,11 @@
 
 ## 📋 Resumen del Proyecto
 
-**@opendex-origon/icons** es una biblioteca profesional de iconos SVG para React desarrollada por Opendex Corporation. Con más de **10,000 iconos únicos** organizados en 25+ categorías temáticas, esta biblioteca proporciona una solución completa para proyectos que se integren con el ecosistema de Opendex.
+**@opendex-origon/icons** es una biblioteca profesional de iconos SVG para React desarrollada por Opendex Corporation. Con **44,260 iconos únicos** organizados en 29 categorías temáticas, esta biblioteca proporciona una solución completa para proyectos que se integren con el ecosistema de Opendex.
 
 ### 🎯 Características Principales
-- ✅ **+10,000 iconos únicos** en formato SVG
-- ✅ **25+ categorías temáticas** organizadas lógicamente
+- ✅ **44,260 iconos únicos** en formato SVG
+- ✅ **29 categorías temáticas** organizadas lógicamente
 - ✅ **5 estilos diferentes** por icono (Light, Regular, Filled, Duotone, Duotone Line)
 - ✅ **Tipado TypeScript completo** con IntelliSense
 - ✅ **Compatibilidad React 16.8+** con hooks

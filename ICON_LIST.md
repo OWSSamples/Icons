@@ -1,6 +1,6 @@
-# 📋 Lista Completa de Iconos - @opendex-origon/icons v2.9.2
+# 📋 Lista Completa de Iconos - @opendex-origon/icons v3.0.0
 
-**Total de iconos únicos:** 4806
+**Total de iconos únicos:** 44,260
 **Total de categorías:** 29
 
 ## 📊 Resumen por Categorías

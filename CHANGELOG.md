@@ -1,30 +1,21 @@
 # Changelog
 
-## [3.1.1] - 2025-08-29
+## [3.0.0] - 2025-01-10
 
-### Bug Fixes
+### Major Changes
 
-- Correcciones de bugs
-
-### Build
-
-- Versión: 3.1.1
-- Iconos totales: 44260
-- Fecha: 2025-08-29
-
----
-
-## [3.1.0] - 2025-08-29
-
-### Features
-
-- Nuevos iconos agregados
+- 🚀 Migración de repositorio de 0rigon/Icons a Origonlabs/Icons
+- 📝 Actualización completa de documentación y metadatos
+- ⚙️ Reactivación de generación de tipos TypeScript
+- 🔧 Unificación de números de iconos en toda la documentación
+- 📦 Actualización de URLs del repositorio en package.json
 
 ### Build
 
-- Versión: 3.1.0
-- Iconos totales: 44260
-- Fecha: 2025-08-29
+- Versión: 3.0.0
+- Iconos totales: 44,260
+- Categorías: 29
+- Fecha: 2025-01-10
 
 ---
 
