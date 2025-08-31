@@ -2,33 +2,31 @@
 
 ## [3.1.1] - 2025-08-29
 
-### 🐛 Bug Fixes
+### Bug Fixes
 
 - Correcciones de bugs
 
-### 📦 Build
+### Build
+
 - Versión: 3.1.1
 - Iconos totales: 44260
 - Fecha: 2025-08-29
 
 ---
 
-
-
 ## [3.1.0] - 2025-08-29
 
-### ✨ Features
+### Features
 
 - Nuevos iconos agregados
 
-### 📦 Build
+### Build
+
 - Versión: 3.1.0
 - Iconos totales: 44260
 - Fecha: 2025-08-29
 
 ---
-
-
 
 Todos los cambios notables en este proyecto serán documentados en este archivo.
 
@@ -38,31 +36,36 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 ## [Unreleased]
 
 ### Added
+
 - Nuevos iconos en la categoría de Business & Finance
 - Soporte para importaciones por categoría
 - Documentación mejorada con ejemplos avanzados
 
 ### Changed
+
 - Mejorada la configuración de TypeScript
 - Optimizado el proceso de build
 
 ### Fixed
+
 - Corrección en el tipado de props de iconos
 - Mejorada la compatibilidad con React 18
 
 ## [0.1.0] - 2024-01-XX
 
 ### Added
-- 🎉 **Lanzamiento inicial** de @opendex-origon/icons
-- 📦 **+10,000 iconos** organizados en 25+ categorías
-- 🎨 **5 estilos diferentes**: Light, Regular, Filled, Duotone, Duotone Line
-- 📱 **Tipado TypeScript completo** con IntelliSense
-- ⚡ **Build optimizado** (ESM + CJS) para máxima compatibilidad
-- 🎯 **Props flexibles**: size, color, strokeWidth, fill
-- 🔧 **Compatibilidad total** con props nativos de SVG
-- 🚀 **Tree-shaking** automático para bundles optimizados
+
+- **Lanzamiento inicial** de @opendex-origon/icons
+- **+10,000 iconos** organizados en 25+ categorías
+- **5 estilos diferentes**: Light, Regular, Filled, Duotone, Duotone Line
+- **Tipado TypeScript completo** con IntelliSense
+- **Build optimizado** (ESM + CJS) para máxima compatibilidad
+- **Props flexibles**: size, color, strokeWidth, fill
+- **Compatibilidad total** con props nativos de SVG
+- **Tree-shaking** automático para bundles optimizados
 
 ### Categorías Incluidas
+
 - **UI Basics**: Check, X, Plus, Minus, Search, Filter, etc.
 - **Arrows**: ArrowUp, ArrowDown, ChevronLeft, ChevronRight, etc.
 - **Business & Finance**: Dollar, Euro, Bitcoin, Chart, Wallet, etc.
@@ -94,6 +97,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 - **Users & People**: User, Group, Profile, etc.
 
 ### Características Técnicas
+
 - **React**: Compatible con React 16.8+
 - **TypeScript**: Tipado completo con definiciones de tipos
 - **Build**: ESM y CommonJS para máxima compatibilidad

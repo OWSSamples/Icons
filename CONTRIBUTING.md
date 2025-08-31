@@ -1,6 +1,6 @@
 # Guía de Contribución
 
-¡Gracias por tu interés en contribuir a @opendex-origon/icons! 🎉
+¡Gracias por tu interés en contribuir a @opendex-origon/icons!
 
 ## Tabla de Contenidos
 
@@ -16,18 +16,18 @@
 
 ### Tipos de Contribuciones
 
-- 🐛 **Reportar bugs**
-- 💡 **Solicitar nuevas features**
-- 📝 **Mejorar documentación**
-- 🎨 **Agregar nuevos iconos**
-- 🔧 **Mejorar el código**
-- ⚡ **Optimizaciones de performance**
+- **Reportar bugs**
+- **Solicitar nuevas features**
+- **Mejorar documentación**
+- **Agregar nuevos iconos**
+- **Mejorar el código**
+- **Optimizaciones de performance**
 
 ## Configuración del Entorno
 
 ### Prerrequisitos
 
-- Node.js 16+ 
+- Node.js 16+
 - npm 8+
 - Git
 
@@ -141,29 +141,36 @@ src/
 
 ```markdown
 ## Descripción
+
 Descripción clara y concisa del bug.
 
 ## Pasos para reproducir
+
 1. Ir a '...'
 2. Hacer clic en '...'
 3. Ver error
 
 ## Comportamiento esperado
+
 Descripción de lo que debería pasar.
 
 ## Comportamiento actual
+
 Descripción de lo que está pasando.
 
 ## Información del entorno
+
 - OS: [ej: Windows 10]
 - Node.js: [ej: 18.0.0]
 - npm: [ej: 8.0.0]
 - Versión del paquete: [ej: 0.1.0]
 
 ## Capturas de pantalla
+
 Si aplica, agrega capturas de pantalla.
 
 ## Información adicional
+
 Cualquier otra información relevante.
 ```
 
@@ -173,18 +180,23 @@ Cualquier otra información relevante.
 
 ```markdown
 ## Descripción
+
 Descripción clara de la feature solicitada.
 
 ## Problema que resuelve
+
 Explicación del problema que esta feature resolvería.
 
 ## Solución propuesta
+
 Descripción de la solución propuesta.
 
 ## Alternativas consideradas
+
 Otras soluciones que consideraste.
 
 ## Información adicional
+
 Cualquier otra información relevante.
 ```
 
@@ -203,21 +215,25 @@ Cualquier otra información relevante.
 
 ```markdown
 ## Descripción
+
 Descripción de los cambios realizados.
 
 ## Tipo de cambio
+
 - [ ] Bug fix
 - [ ] Nueva feature
 - [ ] Breaking change
 - [ ] Documentación
 
 ## Checklist
+
 - [ ] Mi código sigue los estándares
 - [ ] He ejecutado los tests
 - [ ] He actualizado la documentación
 - [ ] Mis cambios no generan warnings
 
 ## Información adicional
+
 Cualquier información adicional relevante.
 ```
 
@@ -233,6 +249,7 @@ Cualquier información adicional relevante.
 ### Reportar Incidentes
 
 Si experimentas o presencias comportamiento inapropiado, contacta a:
+
 - **Email**: conduct@opendex.com
 - **Equipo**: Equipo de Opendex Corporation
 

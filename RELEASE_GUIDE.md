@@ -1,6 +1,6 @@
-# 🚀 Guía de Releases Profesionales
+# Guía de Releases Profesionales
 
-## 📋 Workflow de Actualizaciones
+## Workflow de Actualizaciones
 
 ### **1. Para Nuevos Iconos (MINOR)**
 
@@ -32,7 +32,7 @@ npm run publish:patch
 npm run publish:major
 ```
 
-## 🔧 Scripts Disponibles
+## Scripts Disponibles
 
 ### **Scripts de Release:**
 
@@ -46,7 +46,7 @@ npm run publish:major
 - `npm run publish:minor` - Release MINOR + Push + Publish
 - `npm run publish:major` - Release MAJOR + Push + Publish
 
-## 📝 Convenciones de Commits
+## Convenciones de Commits
 
 ### **Tipos de Commits:**
 
@@ -66,7 +66,7 @@ git commit -m "fix: resolve import path issues"
 git commit -m "docs: update installation guide"
 ```
 
-## 🏷️ Semantic Versioning
+## Semantic Versioning
 
 ### **MAJOR (X.0.0):**
 
@@ -86,7 +86,7 @@ git commit -m "docs: update installation guide"
 - Mejoras menores
 - Actualizaciones de dependencias
 
-## 🔄 Workflow Automatizado
+## Workflow Automatizado
 
 ### **1. GitHub Actions:**
 

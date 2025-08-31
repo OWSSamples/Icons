@@ -12,24 +12,24 @@
 
 _Desarrollado por Opendex Corporation_
 
-[📖 Documentación](#documentación) • [🚀 Instalación](#instalación) • [💡 Ejemplos](#ejemplos) • [🔧 Desarrollo](#desarrollo)
+[Documentación](#documentación) • [Instalación](#instalación) • [Ejemplos](#ejemplos) • [Desarrollo](#desarrollo)
 
 </div>
 
 ---
 
-## ✨ Características
+## Características
 
-- 🎨 **+10,000 iconos** organizados en categorías temáticas
-- 📦 **Tipado TypeScript** completo con IntelliSense
-- ⚡ **Build optimizado** (ESM + CJS) para máxima compatibilidad
-- 🎯 **Tamaños flexibles** (números, strings, unidades CSS)
-- 🌈 **Colores personalizables** con soporte para CSS variables
-- 🔧 **Props nativos** de SVG (className, aria-label, etc.)
-- 📱 **Responsive** y accesible por defecto
-- 🚀 **Tree-shaking** automático para bundles optimizados
+- **+10,000 iconos** organizados en categorías temáticas
+- **Tipado TypeScript** completo con IntelliSense
+- **Build optimizado** (ESM + CJS) para máxima compatibilidad
+- **Tamaños flexibles** (números, strings, unidades CSS)
+- **Colores personalizables** con soporte para CSS variables
+- **Props nativos** de SVG (className, aria-label, etc.)
+- **Responsive** y accesible por defecto
+- **Tree-shaking** automático para bundles optimizados
 
-## 🚀 Instalación
+## Instalación
 
 ```bash
 npm install @opendex-origon/icons
@@ -43,7 +43,7 @@ yarn add @opendex-origon/icons
 pnpm add @opendex-origon/icons
 ```
 
-## 💡 Uso Básico
+## Uso Básico
 
 ```tsx
 import { User, Check, X, Settings } from '@opendex-origon/icons';
@@ -67,23 +67,25 @@ function App() {
 }
 ```
 
-## 📖 Documentación
+## Documentación
 
 Para obtener información detallada sobre el uso de la biblioteca, consulta la documentación completa:
 
-### 🚀 **Guías Principales**
-- [📋 Lista Completa de Iconos](ICON_LIST.md) - Todos los 4,806 iconos disponibles
-- [📊 Resumen de Iconos](ICON_SUMMARY.md) - Estadísticas y categorías
-- [🔍 Índice de Búsqueda Rápida](INDICE_BUSQUEDA_RAPIDA.md) - Encuentra iconos por función, estilo y caso de uso
-- [🚀 Guía de Exportaciones](GUIA_EXPORTACIONES.md) - Cómo importar y usar iconos fácilmente
+### Guías Principales
 
-### 💡 **Recursos Prácticos**
-- [🚀 Guía de Búsqueda Rápida](GUIA_BUSQUEDA_RAPIDA.md) - Métodos de búsqueda avanzados
-- [💡 Ejemplos Prácticos](EJEMPLOS_PRACTICOS.md) - Casos de uso detallados
-- [🔧 Guía de Desarrollo](GUIA_DESARROLLO.md) - Contribuir al proyecto
-- [📚 Documentación Completa](DOCUMENTACION_COMPLETA.md) - Guía completa de uso
+- [Lista Completa de Iconos](ICON_LIST.md) - Todos los 4,806 iconos disponibles
+- [Resumen de Iconos](ICON_SUMMARY.md) - Estadísticas y categorías
+- [Índice de Búsqueda Rápida](INDICE_BUSQUEDA_RAPIDA.md) - Encuentra iconos por función, estilo y caso de uso
+- [Guía de Exportaciones](GUIA_EXPORTACIONES.md) - Cómo importar y usar iconos fácilmente
 
-## 🎨 Categorías de Iconos
+### Recursos Prácticos
+
+- [Guía de Búsqueda Rápida](GUIA_BUSQUEDA_RAPIDA.md) - Métodos de búsqueda avanzados
+- [Ejemplos Prácticos](EJEMPLOS_PRACTICOS.md) - Casos de uso detallados
+- [Guía de Desarrollo](GUIA_DESARROLLO.md) - Contribuir al proyecto
+- [Documentación Completa](DOCUMENTACION_COMPLETA.md) - Guía completa de uso
+
+## Categorías de Iconos
 
 ### UI Basics
 
@@ -160,7 +162,7 @@ import {
 } from '@opendex-origon/icons';
 ```
 
-## 🔧 Props Disponibles
+## Props Disponibles
 
 | Prop          | Tipo               | Default        | Descripción                          |
 | ------------- | ------------------ | -------------- | ------------------------------------ |
@@ -173,7 +175,7 @@ import {
 | `onClick`     | `function`         | -              | Evento click                         |
 | `...svgProps` | -                  | -              | Todos los props nativos de SVG       |
 
-## 🎯 Ejemplos Avanzados
+## Ejemplos Avanzados
 
 ### Iconos con Estados
 
@@ -241,7 +243,7 @@ function AnimatedIcons() {
 }
 ```
 
-## 📦 Importaciones Optimizadas
+## Importaciones Optimizadas
 
 ### Importación por Categoría
 
@@ -262,7 +264,7 @@ import * as Business from '@opendex-origon/icons/Business';
 import { ArrowUp, Dollar } from '@opendex-origon/icons';
 ```
 
-## 🎨 Personalización con CSS
+## Personalización con CSS
 
 ```css
 /* Estilos globales para iconos */
@@ -298,7 +300,7 @@ import { ArrowUp, Dollar } from '@opendex-origon/icons';
 }
 ```
 
-## 🔧 Desarrollo
+## Desarrollo
 
 ### Clonar el Repositorio
 
@@ -325,7 +327,7 @@ npm run type-check   # Verificar tipos TypeScript
 2. Ejecuta `npm run generate`
 3. Los iconos se generarán automáticamente en `src/icons/`
 
-## 📊 Estadísticas
+## Estadísticas
 
 - **Total de iconos**: +10,000
 - **Categorías**: 25+
@@ -334,7 +336,7 @@ npm run type-check   # Verificar tipos TypeScript
 - **Compatibilidad**: React 16.8+, TypeScript 4.0+
 - **Versión actual**: 2.9.2
 
-## 🤝 Contribuir
+## Contribuir
 
 1. Fork el proyecto
 2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
@@ -342,13 +344,13 @@ npm run type-check   # Verificar tipos TypeScript
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la **Opendex Icons License v1.0** - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-### 🔒 **Restricciones de Uso**
+### Restricciones de Uso
 
-**✅ Uso PERMITIDO:**
+**Uso PERMITIDO:**
 
 - Aplicaciones que se integren con servicios de Opendex
 - Proyectos que utilicen APIs de Opendex Corporation
@@ -356,27 +358,27 @@ Este proyecto está licenciado bajo la **Opendex Icons License v1.0** - ver el a
 - Demostraciones y ejemplos de integración con Opendex
 - Proyectos internos de Opendex Corporation
 
-**❌ Uso RESTRINGIDO:**
+**Uso RESTRINGIDO:**
 
 - Aplicaciones comerciales NO relacionadas con Opendex
 - Productos o servicios que compitan con Opendex
 - Redistribución como biblioteca independiente
 - Uso en proyectos que no se integren con Opendex
 
-### 🚨 **Importante**
+### Importante
 
 Esta biblioteca es **pública** pero con **licencia restrictiva**. Solo puedes usarla si tu proyecto se integra con el ecosistema de Opendex.
 
 Para usos fuera del alcance permitido, contacta a [licensing@opendex.com](mailto:licensing@opendex.com).
 
-## 🆘 Soporte
+## Soporte
 
-- 📧 **Email**: support@opendex.com
-- 💬 **Discord**: [Opendex Community](https://discord.gg/opendex)
-- 📖 **Documentación**: [docs.opendex.com/icons](https://docs.opendex.com/icons)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/opendex-origon/opendex-icons/issues)
+- **Email**: support@opendex.com
+- **Discord**: [Opendex Community](https://discord.gg/opendex)
+- **Documentación**: [docs.opendex.com/icons](https://docs.opendex.com/icons)
+- **Issues**: [GitHub Issues](https://github.com/opendex-origon/opendex-icons/issues)
 
-## 🙏 Agradecimientos
+## Agradecimientos
 
 - Iconos diseñados por el equipo de Opendex Corporation
 - Inspirado en las mejores prácticas de bibliotecas de iconos

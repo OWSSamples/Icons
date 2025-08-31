@@ -8,19 +8,19 @@ En el interés de fomentar un ambiente abierto y acogedor, nosotros como contrib
 
 Ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen:
 
-* Usar lenguaje acogedor e inclusivo
-* Ser respetuoso de diferentes puntos de vista y experiencias
-* Aceptar graciosamente críticas constructivas
-* Enfocarse en lo que es mejor para la comunidad
-* Mostrar empatía hacia otros miembros de la comunidad
+- Usar lenguaje acogedor e inclusivo
+- Ser respetuoso de diferentes puntos de vista y experiencias
+- Aceptar graciosamente críticas constructivas
+- Enfocarse en lo que es mejor para la comunidad
+- Mostrar empatía hacia otros miembros de la comunidad
 
 Ejemplos de comportamiento inaceptable incluyen:
 
-* El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados
-* Trolling, comentarios insultantes/despectivos, y ataques personales o políticos
-* Acoso público o privado
-* Publicar información privada de otros, como direcciones físicas o electrónicas, sin permiso explícito
-* Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional
+- El uso de lenguaje o imágenes sexualizadas y atención o avances sexuales no deseados
+- Trolling, comentarios insultantes/despectivos, y ataques personales o políticos
+- Acoso público o privado
+- Publicar información privada de otros, como direcciones físicas o electrónicas, sin permiso explícito
+- Otra conducta que razonablemente podría considerarse inapropiada en un entorno profesional
 
 ## Nuestras Responsabilidades
 
@@ -52,4 +52,4 @@ Para respuestas a preguntas comunes sobre este código de conducta, ver https://
 
 ---
 
-**Juntos creamos una comunidad más fuerte y acogedora.** 🤝
+**Juntos creamos una comunidad más fuerte y acogedora.**

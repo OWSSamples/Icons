@@ -1,6 +1,6 @@
 {
   "name": "@opendex-origon/icons",
-  "version": "3.1.2",
+  "version": "3.0.0",
   "description": "Biblioteca de iconos SVG para React con tipado TypeScript - Solo para proyectos que se integren con Opendex. +44,000 iconos organizados en categorías temáticas, incluyendo logo personalizado.",
   "license": "SEE LICENSE IN LICENSE",
   "author": {
@@ -8,17 +8,17 @@
     "email": "support@opendex.com",
     "url": "https://origon.opendex.dev"
   },
-  "homepage": "https://github.com/0rigon/Icons#readme",
+  "homepage": "https://github.com/Origonlabs/Icons#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0rigon/Icons.git"
+    "url": "git+https://github.com/Origonlabs/Icons.git"
   },
   "bugs": {
-    "url": "https://github.com/0rigon/Icons/issues"
+    "url": "https://github.com/Origonlabs/Icons/issues"
   },
   "funding": {
     "type": "individual",
-    "url": "https://opendex.dev/support"
+    "url": "https://origon.opendex.dev/support"
   },
   "sideEffects": false,
   "files": [
