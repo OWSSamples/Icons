@@ -41,7 +41,7 @@ jobs:
           ls -la backup/ >> backup/manifest.txt
 
       - name: Upload backup artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: backup-$(date +%Y%m%d)
           path: backup/

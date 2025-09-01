@@ -86,7 +86,7 @@ jobs:
           echo "" >> analytics-report.md
 
       - name: Upload analytics report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: analytics-report-$(date +%Y%m%d)
           path: analytics-report.md

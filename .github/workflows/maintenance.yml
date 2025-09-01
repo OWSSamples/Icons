@@ -75,7 +75,7 @@ jobs:
           echo "- 🚀 Plan next release" >> maintenance-report.md
 
       - name: Upload maintenance report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: maintenance-report-$(date +%Y%m%d)
           path: maintenance-report.md
