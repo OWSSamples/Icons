@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonPresenceAvailable_12Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 12 12">
+    <path fill="currentColor" d="M6 12A6 6 0 1 0 6 0a6 6 0 0 0 0 12m2.53-6.72L5.78 8.03a.75.75 0 0 1-1.06 0l-1-1a.75.75 0 0 1 1.06-1.06l.47.47 2.22-2.22a.75.75 0 0 1 1.06 1.06"/>
+  </IconBase>
+);
+
+export default IcOrigonPresenceAvailable_12Filled;

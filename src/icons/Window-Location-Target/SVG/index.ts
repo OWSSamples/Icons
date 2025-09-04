@@ -1,2 +1,2 @@
-export { default as IcFluentWindowLocationTarget_20Filled } from './IcFluentWindowLocationTarget_20Filled';
-export { default as IcFluentWindowLocationTarget_20Regular } from './IcFluentWindowLocationTarget_20Regular';
+export { default as IcOrigonWindowLocationTarget_20Filled } from './IcOrigonWindowLocationTarget_20Filled';
+export { default as IcOrigonWindowLocationTarget_20Regular } from './IcOrigonWindowLocationTarget_20Regular';

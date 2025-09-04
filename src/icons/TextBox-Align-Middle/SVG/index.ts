@@ -1,6 +1,6 @@
-export { default as IcFluentTextboxAlignMiddle_16Filled } from './IcFluentTextboxAlignMiddle_16Filled';
-export { default as IcFluentTextboxAlignMiddle_16Regular } from './IcFluentTextboxAlignMiddle_16Regular';
-export { default as IcFluentTextboxAlignMiddle_20Filled } from './IcFluentTextboxAlignMiddle_20Filled';
-export { default as IcFluentTextboxAlignMiddle_20Regular } from './IcFluentTextboxAlignMiddle_20Regular';
-export { default as IcFluentTextboxAlignMiddle_24Filled } from './IcFluentTextboxAlignMiddle_24Filled';
-export { default as IcFluentTextboxAlignMiddle_24Regular } from './IcFluentTextboxAlignMiddle_24Regular';
+export { default as IcOrigonTextboxAlignMiddle_16Filled } from './IcOrigonTextboxAlignMiddle_16Filled';
+export { default as IcOrigonTextboxAlignMiddle_16Regular } from './IcOrigonTextboxAlignMiddle_16Regular';
+export { default as IcOrigonTextboxAlignMiddle_20Filled } from './IcOrigonTextboxAlignMiddle_20Filled';
+export { default as IcOrigonTextboxAlignMiddle_20Regular } from './IcOrigonTextboxAlignMiddle_20Regular';
+export { default as IcOrigonTextboxAlignMiddle_24Filled } from './IcOrigonTextboxAlignMiddle_24Filled';
+export { default as IcOrigonTextboxAlignMiddle_24Regular } from './IcOrigonTextboxAlignMiddle_24Regular';

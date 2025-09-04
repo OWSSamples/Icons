@@ -1,4 +1,4 @@
-export { default as IcFluentCommentLightning_20Filled } from './IcFluentCommentLightning_20Filled';
-export { default as IcFluentCommentLightning_20Regular } from './IcFluentCommentLightning_20Regular';
-export { default as IcFluentCommentLightning_24Filled } from './IcFluentCommentLightning_24Filled';
-export { default as IcFluentCommentLightning_24Regular } from './IcFluentCommentLightning_24Regular';
+export { default as IcOrigonCommentLightning_20Filled } from './IcOrigonCommentLightning_20Filled';
+export { default as IcOrigonCommentLightning_20Regular } from './IcOrigonCommentLightning_20Regular';
+export { default as IcOrigonCommentLightning_24Filled } from './IcOrigonCommentLightning_24Filled';
+export { default as IcOrigonCommentLightning_24Regular } from './IcOrigonCommentLightning_24Regular';

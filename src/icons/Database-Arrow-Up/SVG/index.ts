@@ -1,4 +1,4 @@
-export { default as IcFluentDatabaseArrowUp_16Filled } from './IcFluentDatabaseArrowUp_16Filled';
-export { default as IcFluentDatabaseArrowUp_16Regular } from './IcFluentDatabaseArrowUp_16Regular';
-export { default as IcFluentDatabaseArrowUp_20Filled } from './IcFluentDatabaseArrowUp_20Filled';
-export { default as IcFluentDatabaseArrowUp_20Regular } from './IcFluentDatabaseArrowUp_20Regular';
+export { default as IcOrigonDatabaseArrowUp_16Filled } from './IcOrigonDatabaseArrowUp_16Filled';
+export { default as IcOrigonDatabaseArrowUp_16Regular } from './IcOrigonDatabaseArrowUp_16Regular';
+export { default as IcOrigonDatabaseArrowUp_20Filled } from './IcOrigonDatabaseArrowUp_20Filled';
+export { default as IcOrigonDatabaseArrowUp_20Regular } from './IcOrigonDatabaseArrowUp_20Regular';

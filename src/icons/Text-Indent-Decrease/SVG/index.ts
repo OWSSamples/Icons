@@ -1,6 +1,6 @@
-export { default as IcFluentTextIndentDecrease_16Filled } from './IcFluentTextIndentDecrease_16Filled';
-export { default as IcFluentTextIndentDecrease_16Regular } from './IcFluentTextIndentDecrease_16Regular';
-export { default as IcFluentTextIndentDecrease_20Filled } from './IcFluentTextIndentDecrease_20Filled';
-export { default as IcFluentTextIndentDecrease_20Regular } from './IcFluentTextIndentDecrease_20Regular';
-export { default as IcFluentTextIndentDecrease_24Filled } from './IcFluentTextIndentDecrease_24Filled';
-export { default as IcFluentTextIndentDecrease_24Regular } from './IcFluentTextIndentDecrease_24Regular';
+export { default as IcOrigonTextIndentDecrease_16Filled } from './IcOrigonTextIndentDecrease_16Filled';
+export { default as IcOrigonTextIndentDecrease_16Regular } from './IcOrigonTextIndentDecrease_16Regular';
+export { default as IcOrigonTextIndentDecrease_20Filled } from './IcOrigonTextIndentDecrease_20Filled';
+export { default as IcOrigonTextIndentDecrease_20Regular } from './IcOrigonTextIndentDecrease_20Regular';
+export { default as IcOrigonTextIndentDecrease_24Filled } from './IcOrigonTextIndentDecrease_24Filled';
+export { default as IcOrigonTextIndentDecrease_24Regular } from './IcOrigonTextIndentDecrease_24Regular';

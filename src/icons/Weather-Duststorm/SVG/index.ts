@@ -1,6 +1,6 @@
-export { default as IcFluentWeatherDuststorm_20Filled } from './IcFluentWeatherDuststorm_20Filled';
-export { default as IcFluentWeatherDuststorm_20Regular } from './IcFluentWeatherDuststorm_20Regular';
-export { default as IcFluentWeatherDuststorm_24Filled } from './IcFluentWeatherDuststorm_24Filled';
-export { default as IcFluentWeatherDuststorm_24Regular } from './IcFluentWeatherDuststorm_24Regular';
-export { default as IcFluentWeatherDuststorm_48Filled } from './IcFluentWeatherDuststorm_48Filled';
-export { default as IcFluentWeatherDuststorm_48Regular } from './IcFluentWeatherDuststorm_48Regular';
+export { default as IcOrigonWeatherDuststorm_20Filled } from './IcOrigonWeatherDuststorm_20Filled';
+export { default as IcOrigonWeatherDuststorm_20Regular } from './IcOrigonWeatherDuststorm_20Regular';
+export { default as IcOrigonWeatherDuststorm_24Filled } from './IcOrigonWeatherDuststorm_24Filled';
+export { default as IcOrigonWeatherDuststorm_24Regular } from './IcOrigonWeatherDuststorm_24Regular';
+export { default as IcOrigonWeatherDuststorm_48Filled } from './IcOrigonWeatherDuststorm_48Filled';
+export { default as IcOrigonWeatherDuststorm_48Regular } from './IcOrigonWeatherDuststorm_48Regular';

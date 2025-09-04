@@ -1,4 +1,4 @@
-export { default as IcFluentAlbumAdd_20Filled } from './IcFluentAlbumAdd_20Filled';
-export { default as IcFluentAlbumAdd_20Regular } from './IcFluentAlbumAdd_20Regular';
-export { default as IcFluentAlbumAdd_24Filled } from './IcFluentAlbumAdd_24Filled';
-export { default as IcFluentAlbumAdd_24Regular } from './IcFluentAlbumAdd_24Regular';
+export { default as IcOrigonAlbumAdd_20Filled } from './IcOrigonAlbumAdd_20Filled';
+export { default as IcOrigonAlbumAdd_20Regular } from './IcOrigonAlbumAdd_20Regular';
+export { default as IcOrigonAlbumAdd_24Filled } from './IcOrigonAlbumAdd_24Filled';
+export { default as IcOrigonAlbumAdd_24Regular } from './IcOrigonAlbumAdd_24Regular';

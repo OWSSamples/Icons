@@ -1,4 +1,4 @@
-export { default as IcFluentCrownSubtract_20Filled } from './IcFluentCrownSubtract_20Filled';
-export { default as IcFluentCrownSubtract_20Regular } from './IcFluentCrownSubtract_20Regular';
-export { default as IcFluentCrownSubtract_24Filled } from './IcFluentCrownSubtract_24Filled';
-export { default as IcFluentCrownSubtract_24Regular } from './IcFluentCrownSubtract_24Regular';
+export { default as IcOrigonCrownSubtract_20Filled } from './IcOrigonCrownSubtract_20Filled';
+export { default as IcOrigonCrownSubtract_20Regular } from './IcOrigonCrownSubtract_20Regular';
+export { default as IcOrigonCrownSubtract_24Filled } from './IcOrigonCrownSubtract_24Filled';
+export { default as IcOrigonCrownSubtract_24Regular } from './IcOrigonCrownSubtract_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentLaptopPerson_20Filled } from './IcFluentLaptopPerson_20Filled';
-export { default as IcFluentLaptopPerson_20Regular } from './IcFluentLaptopPerson_20Regular';
-export { default as IcFluentLaptopPerson_24Filled } from './IcFluentLaptopPerson_24Filled';
-export { default as IcFluentLaptopPerson_24Regular } from './IcFluentLaptopPerson_24Regular';
-export { default as IcFluentLaptopPerson_48Filled } from './IcFluentLaptopPerson_48Filled';
-export { default as IcFluentLaptopPerson_48Regular } from './IcFluentLaptopPerson_48Regular';
+export { default as IcOrigonLaptopPerson_20Filled } from './IcOrigonLaptopPerson_20Filled';
+export { default as IcOrigonLaptopPerson_20Regular } from './IcOrigonLaptopPerson_20Regular';
+export { default as IcOrigonLaptopPerson_24Filled } from './IcOrigonLaptopPerson_24Filled';
+export { default as IcOrigonLaptopPerson_24Regular } from './IcOrigonLaptopPerson_24Regular';
+export { default as IcOrigonLaptopPerson_48Filled } from './IcOrigonLaptopPerson_48Filled';
+export { default as IcOrigonLaptopPerson_48Regular } from './IcOrigonLaptopPerson_48Regular';

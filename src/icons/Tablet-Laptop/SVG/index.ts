@@ -1,4 +1,4 @@
-export { default as IcFluentTabletLaptop_20Filled } from './IcFluentTabletLaptop_20Filled';
-export { default as IcFluentTabletLaptop_20Regular } from './IcFluentTabletLaptop_20Regular';
-export { default as IcFluentTabletLaptop_24Filled } from './IcFluentTabletLaptop_24Filled';
-export { default as IcFluentTabletLaptop_24Regular } from './IcFluentTabletLaptop_24Regular';
+export { default as IcOrigonTabletLaptop_20Filled } from './IcOrigonTabletLaptop_20Filled';
+export { default as IcOrigonTabletLaptop_20Regular } from './IcOrigonTabletLaptop_20Regular';
+export { default as IcOrigonTabletLaptop_24Filled } from './IcOrigonTabletLaptop_24Filled';
+export { default as IcOrigonTabletLaptop_24Regular } from './IcOrigonTabletLaptop_24Regular';

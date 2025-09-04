@@ -1,6 +1,6 @@
-export { default as IcFluentHourglassOneQuarter_16Filled } from './IcFluentHourglassOneQuarter_16Filled';
-export { default as IcFluentHourglassOneQuarter_16Regular } from './IcFluentHourglassOneQuarter_16Regular';
-export { default as IcFluentHourglassOneQuarter_20Filled } from './IcFluentHourglassOneQuarter_20Filled';
-export { default as IcFluentHourglassOneQuarter_20Regular } from './IcFluentHourglassOneQuarter_20Regular';
-export { default as IcFluentHourglassOneQuarter_24Filled } from './IcFluentHourglassOneQuarter_24Filled';
-export { default as IcFluentHourglassOneQuarter_24Regular } from './IcFluentHourglassOneQuarter_24Regular';
+export { default as IcOrigonHourglassOneQuarter_16Filled } from './IcOrigonHourglassOneQuarter_16Filled';
+export { default as IcOrigonHourglassOneQuarter_16Regular } from './IcOrigonHourglassOneQuarter_16Regular';
+export { default as IcOrigonHourglassOneQuarter_20Filled } from './IcOrigonHourglassOneQuarter_20Filled';
+export { default as IcOrigonHourglassOneQuarter_20Regular } from './IcOrigonHourglassOneQuarter_20Regular';
+export { default as IcOrigonHourglassOneQuarter_24Filled } from './IcOrigonHourglassOneQuarter_24Filled';
+export { default as IcOrigonHourglassOneQuarter_24Regular } from './IcOrigonHourglassOneQuarter_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentNavigationPlay_20Filled } from './IcFluentNavigationPlay_20Filled';
-export { default as IcFluentNavigationPlay_20Regular } from './IcFluentNavigationPlay_20Regular';
+export { default as IcOrigonNavigationPlay_20Filled } from './IcOrigonNavigationPlay_20Filled';
+export { default as IcOrigonNavigationPlay_20Regular } from './IcOrigonNavigationPlay_20Regular';

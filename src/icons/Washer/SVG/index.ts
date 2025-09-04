@@ -1,8 +1,8 @@
-export { default as IcFluentWasher_20Filled } from './IcFluentWasher_20Filled';
-export { default as IcFluentWasher_20Regular } from './IcFluentWasher_20Regular';
-export { default as IcFluentWasher_24Filled } from './IcFluentWasher_24Filled';
-export { default as IcFluentWasher_24Regular } from './IcFluentWasher_24Regular';
-export { default as IcFluentWasher_32Filled } from './IcFluentWasher_32Filled';
-export { default as IcFluentWasher_32Regular } from './IcFluentWasher_32Regular';
-export { default as IcFluentWasher_48Filled } from './IcFluentWasher_48Filled';
-export { default as IcFluentWasher_48Regular } from './IcFluentWasher_48Regular';
+export { default as IcOrigonWasher_20Filled } from './IcOrigonWasher_20Filled';
+export { default as IcOrigonWasher_20Regular } from './IcOrigonWasher_20Regular';
+export { default as IcOrigonWasher_24Filled } from './IcOrigonWasher_24Filled';
+export { default as IcOrigonWasher_24Regular } from './IcOrigonWasher_24Regular';
+export { default as IcOrigonWasher_32Filled } from './IcOrigonWasher_32Filled';
+export { default as IcOrigonWasher_32Regular } from './IcOrigonWasher_32Regular';
+export { default as IcOrigonWasher_48Filled } from './IcOrigonWasher_48Filled';
+export { default as IcOrigonWasher_48Regular } from './IcOrigonWasher_48Regular';

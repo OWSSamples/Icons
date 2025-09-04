@@ -1,8 +1,8 @@
-export { default as IcFluentPulse_20Filled } from './IcFluentPulse_20Filled';
-export { default as IcFluentPulse_20Regular } from './IcFluentPulse_20Regular';
-export { default as IcFluentPulse_24Filled } from './IcFluentPulse_24Filled';
-export { default as IcFluentPulse_24Regular } from './IcFluentPulse_24Regular';
-export { default as IcFluentPulse_28Filled } from './IcFluentPulse_28Filled';
-export { default as IcFluentPulse_28Regular } from './IcFluentPulse_28Regular';
-export { default as IcFluentPulse_32Filled } from './IcFluentPulse_32Filled';
-export { default as IcFluentPulse_32Regular } from './IcFluentPulse_32Regular';
+export { default as IcOrigonPulse_20Filled } from './IcOrigonPulse_20Filled';
+export { default as IcOrigonPulse_20Regular } from './IcOrigonPulse_20Regular';
+export { default as IcOrigonPulse_24Filled } from './IcOrigonPulse_24Filled';
+export { default as IcOrigonPulse_24Regular } from './IcOrigonPulse_24Regular';
+export { default as IcOrigonPulse_28Filled } from './IcOrigonPulse_28Filled';
+export { default as IcOrigonPulse_28Regular } from './IcOrigonPulse_28Regular';
+export { default as IcOrigonPulse_32Filled } from './IcOrigonPulse_32Filled';
+export { default as IcOrigonPulse_32Regular } from './IcOrigonPulse_32Regular';

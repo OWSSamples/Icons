@@ -1,4 +1,4 @@
-export { default as IcFluentBorderTopBottomDouble_20Filled } from './IcFluentBorderTopBottomDouble_20Filled';
-export { default as IcFluentBorderTopBottomDouble_20Regular } from './IcFluentBorderTopBottomDouble_20Regular';
-export { default as IcFluentBorderTopBottomDouble_24Filled } from './IcFluentBorderTopBottomDouble_24Filled';
-export { default as IcFluentBorderTopBottomDouble_24Regular } from './IcFluentBorderTopBottomDouble_24Regular';
+export { default as IcOrigonBorderTopBottomDouble_20Filled } from './IcOrigonBorderTopBottomDouble_20Filled';
+export { default as IcOrigonBorderTopBottomDouble_20Regular } from './IcOrigonBorderTopBottomDouble_20Regular';
+export { default as IcOrigonBorderTopBottomDouble_24Filled } from './IcOrigonBorderTopBottomDouble_24Filled';
+export { default as IcOrigonBorderTopBottomDouble_24Regular } from './IcOrigonBorderTopBottomDouble_24Regular';

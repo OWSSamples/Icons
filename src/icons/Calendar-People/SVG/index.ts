@@ -1,1 +1,1 @@
-export { default as IcFluentCalendarPeople_20Color } from './IcFluentCalendarPeople_20Color';
+export { default as IcOrigonCalendarPeople_20Color } from './IcOrigonCalendarPeople_20Color';

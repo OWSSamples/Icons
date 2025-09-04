@@ -1,8 +1,8 @@
-export { default as IcFluentReadingList_16Filled } from './IcFluentReadingList_16Filled';
-export { default as IcFluentReadingList_16Regular } from './IcFluentReadingList_16Regular';
-export { default as IcFluentReadingList_20Filled } from './IcFluentReadingList_20Filled';
-export { default as IcFluentReadingList_20Regular } from './IcFluentReadingList_20Regular';
-export { default as IcFluentReadingList_24Filled } from './IcFluentReadingList_24Filled';
-export { default as IcFluentReadingList_24Regular } from './IcFluentReadingList_24Regular';
-export { default as IcFluentReadingList_28Filled } from './IcFluentReadingList_28Filled';
-export { default as IcFluentReadingList_28Regular } from './IcFluentReadingList_28Regular';
+export { default as IcOrigonReadingList_16Filled } from './IcOrigonReadingList_16Filled';
+export { default as IcOrigonReadingList_16Regular } from './IcOrigonReadingList_16Regular';
+export { default as IcOrigonReadingList_20Filled } from './IcOrigonReadingList_20Filled';
+export { default as IcOrigonReadingList_20Regular } from './IcOrigonReadingList_20Regular';
+export { default as IcOrigonReadingList_24Filled } from './IcOrigonReadingList_24Filled';
+export { default as IcOrigonReadingList_24Regular } from './IcOrigonReadingList_24Regular';
+export { default as IcOrigonReadingList_28Filled } from './IcOrigonReadingList_28Filled';
+export { default as IcOrigonReadingList_28Regular } from './IcOrigonReadingList_28Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentIncognito_20Filled } from './IcFluentIncognito_20Filled';
-export { default as IcFluentIncognito_20Regular } from './IcFluentIncognito_20Regular';
-export { default as IcFluentIncognito_24Filled } from './IcFluentIncognito_24Filled';
-export { default as IcFluentIncognito_24Regular } from './IcFluentIncognito_24Regular';
-export { default as IcFluentIncognito_32Filled } from './IcFluentIncognito_32Filled';
-export { default as IcFluentIncognito_32Regular } from './IcFluentIncognito_32Regular';
-export { default as IcFluentIncognito_48Filled } from './IcFluentIncognito_48Filled';
-export { default as IcFluentIncognito_48Regular } from './IcFluentIncognito_48Regular';
+export { default as IcOrigonIncognito_20Filled } from './IcOrigonIncognito_20Filled';
+export { default as IcOrigonIncognito_20Regular } from './IcOrigonIncognito_20Regular';
+export { default as IcOrigonIncognito_24Filled } from './IcOrigonIncognito_24Filled';
+export { default as IcOrigonIncognito_24Regular } from './IcOrigonIncognito_24Regular';
+export { default as IcOrigonIncognito_32Filled } from './IcOrigonIncognito_32Filled';
+export { default as IcOrigonIncognito_32Regular } from './IcOrigonIncognito_32Regular';
+export { default as IcOrigonIncognito_48Filled } from './IcOrigonIncognito_48Filled';
+export { default as IcOrigonIncognito_48Regular } from './IcOrigonIncognito_48Regular';

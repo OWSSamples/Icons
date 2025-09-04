@@ -1,2 +1,2 @@
-export { default as IcFluentSquareEraser_20Filled } from './IcFluentSquareEraser_20Filled';
-export { default as IcFluentSquareEraser_20Regular } from './IcFluentSquareEraser_20Regular';
+export { default as IcOrigonSquareEraser_20Filled } from './IcOrigonSquareEraser_20Filled';
+export { default as IcOrigonSquareEraser_20Regular } from './IcOrigonSquareEraser_20Regular';

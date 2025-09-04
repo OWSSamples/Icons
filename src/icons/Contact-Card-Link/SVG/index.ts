@@ -1,4 +1,4 @@
-export { default as IcFluentContactCardLink_16Filled } from './IcFluentContactCardLink_16Filled';
-export { default as IcFluentContactCardLink_16Regular } from './IcFluentContactCardLink_16Regular';
-export { default as IcFluentContactCardLink_20Filled } from './IcFluentContactCardLink_20Filled';
-export { default as IcFluentContactCardLink_20Regular } from './IcFluentContactCardLink_20Regular';
+export { default as IcOrigonContactCardLink_16Filled } from './IcOrigonContactCardLink_16Filled';
+export { default as IcOrigonContactCardLink_16Regular } from './IcOrigonContactCardLink_16Regular';
+export { default as IcOrigonContactCardLink_20Filled } from './IcOrigonContactCardLink_20Filled';
+export { default as IcOrigonContactCardLink_20Regular } from './IcOrigonContactCardLink_20Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentSyringe_20Filled } from './IcFluentSyringe_20Filled';
-export { default as IcFluentSyringe_20Regular } from './IcFluentSyringe_20Regular';
-export { default as IcFluentSyringe_24Filled } from './IcFluentSyringe_24Filled';
-export { default as IcFluentSyringe_24Regular } from './IcFluentSyringe_24Regular';
+export { default as IcOrigonSyringe_20Filled } from './IcOrigonSyringe_20Filled';
+export { default as IcOrigonSyringe_20Regular } from './IcOrigonSyringe_20Regular';
+export { default as IcOrigonSyringe_24Filled } from './IcOrigonSyringe_24Filled';
+export { default as IcOrigonSyringe_24Regular } from './IcOrigonSyringe_24Regular';

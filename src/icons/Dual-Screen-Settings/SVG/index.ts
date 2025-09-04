@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenSettings_20Filled } from './IcFluentDualScreenSettings_20Filled';
-export { default as IcFluentDualScreenSettings_20Regular } from './IcFluentDualScreenSettings_20Regular';
-export { default as IcFluentDualScreenSettings_24Filled } from './IcFluentDualScreenSettings_24Filled';
-export { default as IcFluentDualScreenSettings_24Regular } from './IcFluentDualScreenSettings_24Regular';
+export { default as IcOrigonDualScreenSettings_20Filled } from './IcOrigonDualScreenSettings_20Filled';
+export { default as IcOrigonDualScreenSettings_20Regular } from './IcOrigonDualScreenSettings_20Regular';
+export { default as IcOrigonDualScreenSettings_24Filled } from './IcOrigonDualScreenSettings_24Filled';
+export { default as IcOrigonDualScreenSettings_24Regular } from './IcOrigonDualScreenSettings_24Regular';

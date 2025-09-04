@@ -1,4 +1,4 @@
-export { default as IcFluentEraserTool_20Filled } from './IcFluentEraserTool_20Filled';
-export { default as IcFluentEraserTool_20Regular } from './IcFluentEraserTool_20Regular';
-export { default as IcFluentEraserTool_24Filled } from './IcFluentEraserTool_24Filled';
-export { default as IcFluentEraserTool_24Regular } from './IcFluentEraserTool_24Regular';
+export { default as IcOrigonEraserTool_20Filled } from './IcOrigonEraserTool_20Filled';
+export { default as IcOrigonEraserTool_20Regular } from './IcOrigonEraserTool_20Regular';
+export { default as IcOrigonEraserTool_24Filled } from './IcOrigonEraserTool_24Filled';
+export { default as IcOrigonEraserTool_24Regular } from './IcOrigonEraserTool_24Regular';

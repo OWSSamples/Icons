@@ -1,6 +1,6 @@
-export { default as IcFluentDocumentBorderPrint_20Filled } from './IcFluentDocumentBorderPrint_20Filled';
-export { default as IcFluentDocumentBorderPrint_20Regular } from './IcFluentDocumentBorderPrint_20Regular';
-export { default as IcFluentDocumentBorderPrint_24Filled } from './IcFluentDocumentBorderPrint_24Filled';
-export { default as IcFluentDocumentBorderPrint_24Regular } from './IcFluentDocumentBorderPrint_24Regular';
-export { default as IcFluentDocumentBorderPrint_32Filled } from './IcFluentDocumentBorderPrint_32Filled';
-export { default as IcFluentDocumentBorderPrint_32Regular } from './IcFluentDocumentBorderPrint_32Regular';
+export { default as IcOrigonDocumentBorderPrint_20Filled } from './IcOrigonDocumentBorderPrint_20Filled';
+export { default as IcOrigonDocumentBorderPrint_20Regular } from './IcOrigonDocumentBorderPrint_20Regular';
+export { default as IcOrigonDocumentBorderPrint_24Filled } from './IcOrigonDocumentBorderPrint_24Filled';
+export { default as IcOrigonDocumentBorderPrint_24Regular } from './IcOrigonDocumentBorderPrint_24Regular';
+export { default as IcOrigonDocumentBorderPrint_32Filled } from './IcOrigonDocumentBorderPrint_32Filled';
+export { default as IcOrigonDocumentBorderPrint_32Regular } from './IcOrigonDocumentBorderPrint_32Regular';

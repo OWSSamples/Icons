@@ -1,6 +1,6 @@
-export { default as IcFluentSpeakerBox_16Filled } from './IcFluentSpeakerBox_16Filled';
-export { default as IcFluentSpeakerBox_16Regular } from './IcFluentSpeakerBox_16Regular';
-export { default as IcFluentSpeakerBox_20Filled } from './IcFluentSpeakerBox_20Filled';
-export { default as IcFluentSpeakerBox_20Regular } from './IcFluentSpeakerBox_20Regular';
-export { default as IcFluentSpeakerBox_24Filled } from './IcFluentSpeakerBox_24Filled';
-export { default as IcFluentSpeakerBox_24Regular } from './IcFluentSpeakerBox_24Regular';
+export { default as IcOrigonSpeakerBox_16Filled } from './IcOrigonSpeakerBox_16Filled';
+export { default as IcOrigonSpeakerBox_16Regular } from './IcOrigonSpeakerBox_16Regular';
+export { default as IcOrigonSpeakerBox_20Filled } from './IcOrigonSpeakerBox_20Filled';
+export { default as IcOrigonSpeakerBox_20Regular } from './IcOrigonSpeakerBox_20Regular';
+export { default as IcOrigonSpeakerBox_24Filled } from './IcOrigonSpeakerBox_24Filled';
+export { default as IcOrigonSpeakerBox_24Regular } from './IcOrigonSpeakerBox_24Regular';

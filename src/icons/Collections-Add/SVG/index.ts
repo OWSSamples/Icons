@@ -1,4 +1,4 @@
-export { default as IcFluentCollectionsAdd_20Filled } from './IcFluentCollectionsAdd_20Filled';
-export { default as IcFluentCollectionsAdd_20Regular } from './IcFluentCollectionsAdd_20Regular';
-export { default as IcFluentCollectionsAdd_24Filled } from './IcFluentCollectionsAdd_24Filled';
-export { default as IcFluentCollectionsAdd_24Regular } from './IcFluentCollectionsAdd_24Regular';
+export { default as IcOrigonCollectionsAdd_20Filled } from './IcOrigonCollectionsAdd_20Filled';
+export { default as IcOrigonCollectionsAdd_20Regular } from './IcOrigonCollectionsAdd_20Regular';
+export { default as IcOrigonCollectionsAdd_24Filled } from './IcOrigonCollectionsAdd_24Filled';
+export { default as IcOrigonCollectionsAdd_24Regular } from './IcOrigonCollectionsAdd_24Regular';

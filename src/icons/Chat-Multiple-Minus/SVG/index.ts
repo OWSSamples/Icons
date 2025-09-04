@@ -1,8 +1,8 @@
-export { default as IcFluentChatMultipleMinus_16Filled } from './IcFluentChatMultipleMinus_16Filled';
-export { default as IcFluentChatMultipleMinus_16Regular } from './IcFluentChatMultipleMinus_16Regular';
-export { default as IcFluentChatMultipleMinus_20Filled } from './IcFluentChatMultipleMinus_20Filled';
-export { default as IcFluentChatMultipleMinus_20Regular } from './IcFluentChatMultipleMinus_20Regular';
-export { default as IcFluentChatMultipleMinus_24Filled } from './IcFluentChatMultipleMinus_24Filled';
-export { default as IcFluentChatMultipleMinus_24Regular } from './IcFluentChatMultipleMinus_24Regular';
-export { default as IcFluentChatMultipleMinus_28Filled } from './IcFluentChatMultipleMinus_28Filled';
-export { default as IcFluentChatMultipleMinus_28Regular } from './IcFluentChatMultipleMinus_28Regular';
+export { default as IcOrigonChatMultipleMinus_16Filled } from './IcOrigonChatMultipleMinus_16Filled';
+export { default as IcOrigonChatMultipleMinus_16Regular } from './IcOrigonChatMultipleMinus_16Regular';
+export { default as IcOrigonChatMultipleMinus_20Filled } from './IcOrigonChatMultipleMinus_20Filled';
+export { default as IcOrigonChatMultipleMinus_20Regular } from './IcOrigonChatMultipleMinus_20Regular';
+export { default as IcOrigonChatMultipleMinus_24Filled } from './IcOrigonChatMultipleMinus_24Filled';
+export { default as IcOrigonChatMultipleMinus_24Regular } from './IcOrigonChatMultipleMinus_24Regular';
+export { default as IcOrigonChatMultipleMinus_28Filled } from './IcOrigonChatMultipleMinus_28Filled';
+export { default as IcOrigonChatMultipleMinus_28Regular } from './IcOrigonChatMultipleMinus_28Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentHandMultiple_16Filled } from './IcFluentHandMultiple_16Filled';
-export { default as IcFluentHandMultiple_16Regular } from './IcFluentHandMultiple_16Regular';
-export { default as IcFluentHandMultiple_20Filled } from './IcFluentHandMultiple_20Filled';
-export { default as IcFluentHandMultiple_20Regular } from './IcFluentHandMultiple_20Regular';
-export { default as IcFluentHandMultiple_24Filled } from './IcFluentHandMultiple_24Filled';
-export { default as IcFluentHandMultiple_24Regular } from './IcFluentHandMultiple_24Regular';
-export { default as IcFluentHandMultiple_28Filled } from './IcFluentHandMultiple_28Filled';
-export { default as IcFluentHandMultiple_28Regular } from './IcFluentHandMultiple_28Regular';
+export { default as IcOrigonHandMultiple_16Filled } from './IcOrigonHandMultiple_16Filled';
+export { default as IcOrigonHandMultiple_16Regular } from './IcOrigonHandMultiple_16Regular';
+export { default as IcOrigonHandMultiple_20Filled } from './IcOrigonHandMultiple_20Filled';
+export { default as IcOrigonHandMultiple_20Regular } from './IcOrigonHandMultiple_20Regular';
+export { default as IcOrigonHandMultiple_24Filled } from './IcOrigonHandMultiple_24Filled';
+export { default as IcOrigonHandMultiple_24Regular } from './IcOrigonHandMultiple_24Regular';
+export { default as IcOrigonHandMultiple_28Filled } from './IcOrigonHandMultiple_28Filled';
+export { default as IcOrigonHandMultiple_28Regular } from './IcOrigonHandMultiple_28Regular';

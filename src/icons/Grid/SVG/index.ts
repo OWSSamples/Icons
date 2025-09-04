@@ -1,8 +1,8 @@
-export { default as IcFluentGrid_16Filled } from './IcFluentGrid_16Filled';
-export { default as IcFluentGrid_16Regular } from './IcFluentGrid_16Regular';
-export { default as IcFluentGrid_20Filled } from './IcFluentGrid_20Filled';
-export { default as IcFluentGrid_20Regular } from './IcFluentGrid_20Regular';
-export { default as IcFluentGrid_24Filled } from './IcFluentGrid_24Filled';
-export { default as IcFluentGrid_24Regular } from './IcFluentGrid_24Regular';
-export { default as IcFluentGrid_28Filled } from './IcFluentGrid_28Filled';
-export { default as IcFluentGrid_28Regular } from './IcFluentGrid_28Regular';
+export { default as IcOrigonGrid_16Filled } from './IcOrigonGrid_16Filled';
+export { default as IcOrigonGrid_16Regular } from './IcOrigonGrid_16Regular';
+export { default as IcOrigonGrid_20Filled } from './IcOrigonGrid_20Filled';
+export { default as IcOrigonGrid_20Regular } from './IcOrigonGrid_20Regular';
+export { default as IcOrigonGrid_24Filled } from './IcOrigonGrid_24Filled';
+export { default as IcOrigonGrid_24Regular } from './IcOrigonGrid_24Regular';
+export { default as IcOrigonGrid_28Filled } from './IcOrigonGrid_28Filled';
+export { default as IcOrigonGrid_28Regular } from './IcOrigonGrid_28Regular';

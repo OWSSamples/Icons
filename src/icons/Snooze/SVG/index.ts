@@ -1,6 +1,6 @@
-export { default as IcFluentSnooze_16Filled } from './IcFluentSnooze_16Filled';
-export { default as IcFluentSnooze_16Regular } from './IcFluentSnooze_16Regular';
-export { default as IcFluentSnooze_20Filled } from './IcFluentSnooze_20Filled';
-export { default as IcFluentSnooze_20Regular } from './IcFluentSnooze_20Regular';
-export { default as IcFluentSnooze_24Filled } from './IcFluentSnooze_24Filled';
-export { default as IcFluentSnooze_24Regular } from './IcFluentSnooze_24Regular';
+export { default as IcOrigonSnooze_16Filled } from './IcOrigonSnooze_16Filled';
+export { default as IcOrigonSnooze_16Regular } from './IcOrigonSnooze_16Regular';
+export { default as IcOrigonSnooze_20Filled } from './IcOrigonSnooze_20Filled';
+export { default as IcOrigonSnooze_20Regular } from './IcOrigonSnooze_20Regular';
+export { default as IcOrigonSnooze_24Filled } from './IcOrigonSnooze_24Filled';
+export { default as IcOrigonSnooze_24Regular } from './IcOrigonSnooze_24Regular';

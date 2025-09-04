@@ -1,6 +1,6 @@
-export { default as IcFluentDrinkCoffee_16Filled } from './IcFluentDrinkCoffee_16Filled';
-export { default as IcFluentDrinkCoffee_16Regular } from './IcFluentDrinkCoffee_16Regular';
-export { default as IcFluentDrinkCoffee_20Filled } from './IcFluentDrinkCoffee_20Filled';
-export { default as IcFluentDrinkCoffee_20Regular } from './IcFluentDrinkCoffee_20Regular';
-export { default as IcFluentDrinkCoffee_24Filled } from './IcFluentDrinkCoffee_24Filled';
-export { default as IcFluentDrinkCoffee_24Regular } from './IcFluentDrinkCoffee_24Regular';
+export { default as IcOrigonDrinkCoffee_16Filled } from './IcOrigonDrinkCoffee_16Filled';
+export { default as IcOrigonDrinkCoffee_16Regular } from './IcOrigonDrinkCoffee_16Regular';
+export { default as IcOrigonDrinkCoffee_20Filled } from './IcOrigonDrinkCoffee_20Filled';
+export { default as IcOrigonDrinkCoffee_20Regular } from './IcOrigonDrinkCoffee_20Regular';
+export { default as IcOrigonDrinkCoffee_24Filled } from './IcOrigonDrinkCoffee_24Filled';
+export { default as IcOrigonDrinkCoffee_24Regular } from './IcOrigonDrinkCoffee_24Regular';

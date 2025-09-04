@@ -1,4 +1,4 @@
-export { default as IcFluentTagReset_20Filled } from './IcFluentTagReset_20Filled';
-export { default as IcFluentTagReset_20Regular } from './IcFluentTagReset_20Regular';
-export { default as IcFluentTagReset_24Filled } from './IcFluentTagReset_24Filled';
-export { default as IcFluentTagReset_24Regular } from './IcFluentTagReset_24Regular';
+export { default as IcOrigonTagReset_20Filled } from './IcOrigonTagReset_20Filled';
+export { default as IcOrigonTagReset_20Regular } from './IcOrigonTagReset_20Regular';
+export { default as IcOrigonTagReset_24Filled } from './IcOrigonTagReset_24Filled';
+export { default as IcOrigonTagReset_24Regular } from './IcOrigonTagReset_24Regular';

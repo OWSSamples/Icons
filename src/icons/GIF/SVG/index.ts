@@ -1,6 +1,6 @@
-export { default as IcFluentGif_16Filled } from './IcFluentGif_16Filled';
-export { default as IcFluentGif_16Regular } from './IcFluentGif_16Regular';
-export { default as IcFluentGif_20Filled } from './IcFluentGif_20Filled';
-export { default as IcFluentGif_20Regular } from './IcFluentGif_20Regular';
-export { default as IcFluentGif_24Filled } from './IcFluentGif_24Filled';
-export { default as IcFluentGif_24Regular } from './IcFluentGif_24Regular';
+export { default as IcOrigonGif_16Filled } from './IcOrigonGif_16Filled';
+export { default as IcOrigonGif_16Regular } from './IcOrigonGif_16Regular';
+export { default as IcOrigonGif_20Filled } from './IcOrigonGif_20Filled';
+export { default as IcOrigonGif_20Regular } from './IcOrigonGif_20Regular';
+export { default as IcOrigonGif_24Filled } from './IcOrigonGif_24Filled';
+export { default as IcOrigonGif_24Regular } from './IcOrigonGif_24Regular';

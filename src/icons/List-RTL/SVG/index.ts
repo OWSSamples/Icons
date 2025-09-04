@@ -1,4 +1,4 @@
-export { default as IcFluentListRtl_16Filled } from './IcFluentListRtl_16Filled';
-export { default as IcFluentListRtl_16Regular } from './IcFluentListRtl_16Regular';
-export { default as IcFluentListRtl_20Filled } from './IcFluentListRtl_20Filled';
-export { default as IcFluentListRtl_20Regular } from './IcFluentListRtl_20Regular';
+export { default as IcOrigonListRtl_16Filled } from './IcOrigonListRtl_16Filled';
+export { default as IcOrigonListRtl_16Regular } from './IcOrigonListRtl_16Regular';
+export { default as IcOrigonListRtl_20Filled } from './IcOrigonListRtl_20Filled';
+export { default as IcOrigonListRtl_20Regular } from './IcOrigonListRtl_20Regular';

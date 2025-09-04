@@ -1,6 +1,6 @@
-export { default as IcFluentClipboardArrowRight_16Filled } from './IcFluentClipboardArrowRight_16Filled';
-export { default as IcFluentClipboardArrowRight_16Regular } from './IcFluentClipboardArrowRight_16Regular';
-export { default as IcFluentClipboardArrowRight_20Filled } from './IcFluentClipboardArrowRight_20Filled';
-export { default as IcFluentClipboardArrowRight_20Regular } from './IcFluentClipboardArrowRight_20Regular';
-export { default as IcFluentClipboardArrowRight_24Filled } from './IcFluentClipboardArrowRight_24Filled';
-export { default as IcFluentClipboardArrowRight_24Regular } from './IcFluentClipboardArrowRight_24Regular';
+export { default as IcOrigonClipboardArrowRight_16Filled } from './IcOrigonClipboardArrowRight_16Filled';
+export { default as IcOrigonClipboardArrowRight_16Regular } from './IcOrigonClipboardArrowRight_16Regular';
+export { default as IcOrigonClipboardArrowRight_20Filled } from './IcOrigonClipboardArrowRight_20Filled';
+export { default as IcOrigonClipboardArrowRight_20Regular } from './IcOrigonClipboardArrowRight_20Regular';
+export { default as IcOrigonClipboardArrowRight_24Filled } from './IcOrigonClipboardArrowRight_24Filled';
+export { default as IcOrigonClipboardArrowRight_24Regular } from './IcOrigonClipboardArrowRight_24Regular';

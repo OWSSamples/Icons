@@ -1,6 +1,6 @@
-export { default as IcFluentThumbLikeDislike_16Filled } from './IcFluentThumbLikeDislike_16Filled';
-export { default as IcFluentThumbLikeDislike_16Regular } from './IcFluentThumbLikeDislike_16Regular';
-export { default as IcFluentThumbLikeDislike_20Filled } from './IcFluentThumbLikeDislike_20Filled';
-export { default as IcFluentThumbLikeDislike_20Regular } from './IcFluentThumbLikeDislike_20Regular';
-export { default as IcFluentThumbLikeDislike_24Filled } from './IcFluentThumbLikeDislike_24Filled';
-export { default as IcFluentThumbLikeDislike_24Regular } from './IcFluentThumbLikeDislike_24Regular';
+export { default as IcOrigonThumbLikeDislike_16Filled } from './IcOrigonThumbLikeDislike_16Filled';
+export { default as IcOrigonThumbLikeDislike_16Regular } from './IcOrigonThumbLikeDislike_16Regular';
+export { default as IcOrigonThumbLikeDislike_20Filled } from './IcOrigonThumbLikeDislike_20Filled';
+export { default as IcOrigonThumbLikeDislike_20Regular } from './IcOrigonThumbLikeDislike_20Regular';
+export { default as IcOrigonThumbLikeDislike_24Filled } from './IcOrigonThumbLikeDislike_24Filled';
+export { default as IcOrigonThumbLikeDislike_24Regular } from './IcOrigonThumbLikeDislike_24Regular';

@@ -1,5 +1,5 @@
-export { default as IcFluentTopSpeed_16Regular } from './IcFluentTopSpeed_16Regular';
-export { default as IcFluentTopSpeed_20Filled } from './IcFluentTopSpeed_20Filled';
-export { default as IcFluentTopSpeed_20Regular } from './IcFluentTopSpeed_20Regular';
-export { default as IcFluentTopSpeed_24Filled } from './IcFluentTopSpeed_24Filled';
-export { default as IcFluentTopSpeed_24Regular } from './IcFluentTopSpeed_24Regular';
+export { default as IcOrigonTopSpeed_16Regular } from './IcOrigonTopSpeed_16Regular';
+export { default as IcOrigonTopSpeed_20Filled } from './IcOrigonTopSpeed_20Filled';
+export { default as IcOrigonTopSpeed_20Regular } from './IcOrigonTopSpeed_20Regular';
+export { default as IcOrigonTopSpeed_24Filled } from './IcOrigonTopSpeed_24Filled';
+export { default as IcOrigonTopSpeed_24Regular } from './IcOrigonTopSpeed_24Regular';

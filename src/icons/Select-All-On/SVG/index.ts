@@ -1,6 +1,6 @@
-export { default as IcFluentSelectAllOn_16Filled } from './IcFluentSelectAllOn_16Filled';
-export { default as IcFluentSelectAllOn_16Regular } from './IcFluentSelectAllOn_16Regular';
-export { default as IcFluentSelectAllOn_20Filled } from './IcFluentSelectAllOn_20Filled';
-export { default as IcFluentSelectAllOn_20Regular } from './IcFluentSelectAllOn_20Regular';
-export { default as IcFluentSelectAllOn_24Filled } from './IcFluentSelectAllOn_24Filled';
-export { default as IcFluentSelectAllOn_24Regular } from './IcFluentSelectAllOn_24Regular';
+export { default as IcOrigonSelectAllOn_16Filled } from './IcOrigonSelectAllOn_16Filled';
+export { default as IcOrigonSelectAllOn_16Regular } from './IcOrigonSelectAllOn_16Regular';
+export { default as IcOrigonSelectAllOn_20Filled } from './IcOrigonSelectAllOn_20Filled';
+export { default as IcOrigonSelectAllOn_20Regular } from './IcOrigonSelectAllOn_20Regular';
+export { default as IcOrigonSelectAllOn_24Filled } from './IcOrigonSelectAllOn_24Filled';
+export { default as IcOrigonSelectAllOn_24Regular } from './IcOrigonSelectAllOn_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentDataHistogram_16Filled } from './IcFluentDataHistogram_16Filled';
-export { default as IcFluentDataHistogram_16Regular } from './IcFluentDataHistogram_16Regular';
-export { default as IcFluentDataHistogram_20Filled } from './IcFluentDataHistogram_20Filled';
-export { default as IcFluentDataHistogram_20Regular } from './IcFluentDataHistogram_20Regular';
-export { default as IcFluentDataHistogram_24Filled } from './IcFluentDataHistogram_24Filled';
-export { default as IcFluentDataHistogram_24Regular } from './IcFluentDataHistogram_24Regular';
+export { default as IcOrigonDataHistogram_16Filled } from './IcOrigonDataHistogram_16Filled';
+export { default as IcOrigonDataHistogram_16Regular } from './IcOrigonDataHistogram_16Regular';
+export { default as IcOrigonDataHistogram_20Filled } from './IcOrigonDataHistogram_20Filled';
+export { default as IcOrigonDataHistogram_20Regular } from './IcOrigonDataHistogram_20Regular';
+export { default as IcOrigonDataHistogram_24Filled } from './IcOrigonDataHistogram_24Filled';
+export { default as IcOrigonDataHistogram_24Regular } from './IcOrigonDataHistogram_24Regular';

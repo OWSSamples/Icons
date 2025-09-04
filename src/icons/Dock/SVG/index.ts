@@ -1,4 +1,4 @@
-export { default as IcFluentDock_20Filled } from './IcFluentDock_20Filled';
-export { default as IcFluentDock_20Regular } from './IcFluentDock_20Regular';
-export { default as IcFluentDock_24Filled } from './IcFluentDock_24Filled';
-export { default as IcFluentDock_24Regular } from './IcFluentDock_24Regular';
+export { default as IcOrigonDock_20Filled } from './IcOrigonDock_20Filled';
+export { default as IcOrigonDock_20Regular } from './IcOrigonDock_20Regular';
+export { default as IcOrigonDock_24Filled } from './IcOrigonDock_24Filled';
+export { default as IcOrigonDock_24Regular } from './IcOrigonDock_24Regular';

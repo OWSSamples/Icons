@@ -1,4 +1,4 @@
-export { default as IcFluentHomeGarage_20Filled } from './IcFluentHomeGarage_20Filled';
-export { default as IcFluentHomeGarage_20Regular } from './IcFluentHomeGarage_20Regular';
-export { default as IcFluentHomeGarage_24Filled } from './IcFluentHomeGarage_24Filled';
-export { default as IcFluentHomeGarage_24Regular } from './IcFluentHomeGarage_24Regular';
+export { default as IcOrigonHomeGarage_20Filled } from './IcOrigonHomeGarage_20Filled';
+export { default as IcOrigonHomeGarage_20Regular } from './IcOrigonHomeGarage_20Regular';
+export { default as IcOrigonHomeGarage_24Filled } from './IcOrigonHomeGarage_24Filled';
+export { default as IcOrigonHomeGarage_24Regular } from './IcOrigonHomeGarage_24Regular';

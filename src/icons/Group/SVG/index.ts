@@ -1,4 +1,4 @@
-export { default as IcFluentGroup_20Filled } from './IcFluentGroup_20Filled';
-export { default as IcFluentGroup_20Regular } from './IcFluentGroup_20Regular';
-export { default as IcFluentGroup_24Filled } from './IcFluentGroup_24Filled';
-export { default as IcFluentGroup_24Regular } from './IcFluentGroup_24Regular';
+export { default as IcOrigonGroup_20Filled } from './IcOrigonGroup_20Filled';
+export { default as IcOrigonGroup_20Regular } from './IcOrigonGroup_20Regular';
+export { default as IcOrigonGroup_24Filled } from './IcOrigonGroup_24Filled';
+export { default as IcOrigonGroup_24Regular } from './IcOrigonGroup_24Regular';

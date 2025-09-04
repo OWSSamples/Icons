@@ -1,8 +1,8 @@
-export { default as IcFluentMyLocation_12Filled } from './IcFluentMyLocation_12Filled';
-export { default as IcFluentMyLocation_12Regular } from './IcFluentMyLocation_12Regular';
-export { default as IcFluentMyLocation_16Filled } from './IcFluentMyLocation_16Filled';
-export { default as IcFluentMyLocation_16Regular } from './IcFluentMyLocation_16Regular';
-export { default as IcFluentMyLocation_20Filled } from './IcFluentMyLocation_20Filled';
-export { default as IcFluentMyLocation_20Regular } from './IcFluentMyLocation_20Regular';
-export { default as IcFluentMyLocation_24Filled } from './IcFluentMyLocation_24Filled';
-export { default as IcFluentMyLocation_24Regular } from './IcFluentMyLocation_24Regular';
+export { default as IcOrigonMyLocation_12Filled } from './IcOrigonMyLocation_12Filled';
+export { default as IcOrigonMyLocation_12Regular } from './IcOrigonMyLocation_12Regular';
+export { default as IcOrigonMyLocation_16Filled } from './IcOrigonMyLocation_16Filled';
+export { default as IcOrigonMyLocation_16Regular } from './IcOrigonMyLocation_16Regular';
+export { default as IcOrigonMyLocation_20Filled } from './IcOrigonMyLocation_20Filled';
+export { default as IcOrigonMyLocation_20Regular } from './IcOrigonMyLocation_20Regular';
+export { default as IcOrigonMyLocation_24Filled } from './IcOrigonMyLocation_24Filled';
+export { default as IcOrigonMyLocation_24Regular } from './IcOrigonMyLocation_24Regular';

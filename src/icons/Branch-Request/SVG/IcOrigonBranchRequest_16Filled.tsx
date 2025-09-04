@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonBranchRequest_16Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M13 10.05V5.5A2.5 2.5 0 0 0 10.5 3H8.71l1.14-1.15c.2-.19.2-.51 0-.7-.19-.2-.51-.2-.7 0l-2 2c-.2.19-.2.51 0 .7l2 2c.19.2.51.2.7 0 .2-.19.2-.51 0-.7L8.71 4h1.79c.83 0 1.5.67 1.5 1.5v4.55a2.5 2.5 0 1 0 1 0M6 3.5a2.5 2.5 0 1 0-3 2.45v4.101c-1.14.232-2 1.242-2 2.449C1 13.879 2.122 15 3.5 15S6 13.879 6 12.5c0-1.208-.86-2.217-2-2.449V5.95A2.5 2.5 0 0 0 6 3.5"/>
+  </IconBase>
+);
+
+export default IcOrigonBranchRequest_16Filled;

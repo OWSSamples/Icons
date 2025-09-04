@@ -1,4 +1,4 @@
-export { default as IcFluentInkingToolAccent_16Filled } from './IcFluentInkingToolAccent_16Filled';
-export { default as IcFluentInkingToolAccent_20Filled } from './IcFluentInkingToolAccent_20Filled';
-export { default as IcFluentInkingToolAccent_24Filled } from './IcFluentInkingToolAccent_24Filled';
-export { default as IcFluentInkingToolAccent_32Filled } from './IcFluentInkingToolAccent_32Filled';
+export { default as IcOrigonInkingToolAccent_16Filled } from './IcOrigonInkingToolAccent_16Filled';
+export { default as IcOrigonInkingToolAccent_20Filled } from './IcOrigonInkingToolAccent_20Filled';
+export { default as IcOrigonInkingToolAccent_24Filled } from './IcOrigonInkingToolAccent_24Filled';
+export { default as IcOrigonInkingToolAccent_32Filled } from './IcOrigonInkingToolAccent_32Filled';

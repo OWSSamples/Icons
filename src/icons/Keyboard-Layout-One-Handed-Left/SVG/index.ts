@@ -1,4 +1,4 @@
-export { default as IcFluentKeyboardLayoutOneHandedLeft_20Filled } from './IcFluentKeyboardLayoutOneHandedLeft_20Filled';
-export { default as IcFluentKeyboardLayoutOneHandedLeft_20Regular } from './IcFluentKeyboardLayoutOneHandedLeft_20Regular';
-export { default as IcFluentKeyboardLayoutOneHandedLeft_24Filled } from './IcFluentKeyboardLayoutOneHandedLeft_24Filled';
-export { default as IcFluentKeyboardLayoutOneHandedLeft_24Regular } from './IcFluentKeyboardLayoutOneHandedLeft_24Regular';
+export { default as IcOrigonKeyboardLayoutOneHandedLeft_20Filled } from './IcOrigonKeyboardLayoutOneHandedLeft_20Filled';
+export { default as IcOrigonKeyboardLayoutOneHandedLeft_20Regular } from './IcOrigonKeyboardLayoutOneHandedLeft_20Regular';
+export { default as IcOrigonKeyboardLayoutOneHandedLeft_24Filled } from './IcOrigonKeyboardLayoutOneHandedLeft_24Filled';
+export { default as IcOrigonKeyboardLayoutOneHandedLeft_24Regular } from './IcOrigonKeyboardLayoutOneHandedLeft_24Regular';

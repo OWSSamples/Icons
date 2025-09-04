@@ -1,4 +1,4 @@
-export { default as IcFluentStreetSign_20Filled } from './IcFluentStreetSign_20Filled';
-export { default as IcFluentStreetSign_20Regular } from './IcFluentStreetSign_20Regular';
-export { default as IcFluentStreetSign_24Filled } from './IcFluentStreetSign_24Filled';
-export { default as IcFluentStreetSign_24Regular } from './IcFluentStreetSign_24Regular';
+export { default as IcOrigonStreetSign_20Filled } from './IcOrigonStreetSign_20Filled';
+export { default as IcOrigonStreetSign_20Regular } from './IcOrigonStreetSign_20Regular';
+export { default as IcOrigonStreetSign_24Filled } from './IcOrigonStreetSign_24Filled';
+export { default as IcOrigonStreetSign_24Regular } from './IcOrigonStreetSign_24Regular';

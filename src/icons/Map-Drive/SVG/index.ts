@@ -1,6 +1,6 @@
-export { default as IcFluentMapDrive_16Filled } from './IcFluentMapDrive_16Filled';
-export { default as IcFluentMapDrive_16Regular } from './IcFluentMapDrive_16Regular';
-export { default as IcFluentMapDrive_20Filled } from './IcFluentMapDrive_20Filled';
-export { default as IcFluentMapDrive_20Regular } from './IcFluentMapDrive_20Regular';
-export { default as IcFluentMapDrive_24Filled } from './IcFluentMapDrive_24Filled';
-export { default as IcFluentMapDrive_24Regular } from './IcFluentMapDrive_24Regular';
+export { default as IcOrigonMapDrive_16Filled } from './IcOrigonMapDrive_16Filled';
+export { default as IcOrigonMapDrive_16Regular } from './IcOrigonMapDrive_16Regular';
+export { default as IcOrigonMapDrive_20Filled } from './IcOrigonMapDrive_20Filled';
+export { default as IcOrigonMapDrive_20Regular } from './IcOrigonMapDrive_20Regular';
+export { default as IcOrigonMapDrive_24Filled } from './IcOrigonMapDrive_24Filled';
+export { default as IcOrigonMapDrive_24Regular } from './IcOrigonMapDrive_24Regular';

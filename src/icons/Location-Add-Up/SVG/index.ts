@@ -1,2 +1,2 @@
-export { default as IcFluentLocationAddUp_20Filled } from './IcFluentLocationAddUp_20Filled';
-export { default as IcFluentLocationAddUp_20Regular } from './IcFluentLocationAddUp_20Regular';
+export { default as IcOrigonLocationAddUp_20Filled } from './IcOrigonLocationAddUp_20Filled';
+export { default as IcOrigonLocationAddUp_20Regular } from './IcOrigonLocationAddUp_20Regular';

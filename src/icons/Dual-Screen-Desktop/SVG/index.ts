@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenDesktop_20Filled } from './IcFluentDualScreenDesktop_20Filled';
-export { default as IcFluentDualScreenDesktop_20Regular } from './IcFluentDualScreenDesktop_20Regular';
-export { default as IcFluentDualScreenDesktop_24Filled } from './IcFluentDualScreenDesktop_24Filled';
-export { default as IcFluentDualScreenDesktop_24Regular } from './IcFluentDualScreenDesktop_24Regular';
+export { default as IcOrigonDualScreenDesktop_20Filled } from './IcOrigonDualScreenDesktop_20Filled';
+export { default as IcOrigonDualScreenDesktop_20Regular } from './IcOrigonDualScreenDesktop_20Regular';
+export { default as IcOrigonDualScreenDesktop_24Filled } from './IcOrigonDualScreenDesktop_24Filled';
+export { default as IcOrigonDualScreenDesktop_24Regular } from './IcOrigonDualScreenDesktop_24Regular';

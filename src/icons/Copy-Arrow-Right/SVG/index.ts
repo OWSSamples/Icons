@@ -1,6 +1,6 @@
-export { default as IcFluentCopyArrowRight_16Filled } from './IcFluentCopyArrowRight_16Filled';
-export { default as IcFluentCopyArrowRight_16Regular } from './IcFluentCopyArrowRight_16Regular';
-export { default as IcFluentCopyArrowRight_20Filled } from './IcFluentCopyArrowRight_20Filled';
-export { default as IcFluentCopyArrowRight_20Regular } from './IcFluentCopyArrowRight_20Regular';
-export { default as IcFluentCopyArrowRight_24Filled } from './IcFluentCopyArrowRight_24Filled';
-export { default as IcFluentCopyArrowRight_24Regular } from './IcFluentCopyArrowRight_24Regular';
+export { default as IcOrigonCopyArrowRight_16Filled } from './IcOrigonCopyArrowRight_16Filled';
+export { default as IcOrigonCopyArrowRight_16Regular } from './IcOrigonCopyArrowRight_16Regular';
+export { default as IcOrigonCopyArrowRight_20Filled } from './IcOrigonCopyArrowRight_20Filled';
+export { default as IcOrigonCopyArrowRight_20Regular } from './IcOrigonCopyArrowRight_20Regular';
+export { default as IcOrigonCopyArrowRight_24Filled } from './IcOrigonCopyArrowRight_24Filled';
+export { default as IcOrigonCopyArrowRight_24Regular } from './IcOrigonCopyArrowRight_24Regular';

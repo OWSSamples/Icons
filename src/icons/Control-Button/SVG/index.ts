@@ -1,4 +1,4 @@
-export { default as IcFluentControlButton_20Filled } from './IcFluentControlButton_20Filled';
-export { default as IcFluentControlButton_20Regular } from './IcFluentControlButton_20Regular';
-export { default as IcFluentControlButton_24Filled } from './IcFluentControlButton_24Filled';
-export { default as IcFluentControlButton_24Regular } from './IcFluentControlButton_24Regular';
+export { default as IcOrigonControlButton_20Filled } from './IcOrigonControlButton_20Filled';
+export { default as IcOrigonControlButton_20Regular } from './IcOrigonControlButton_20Regular';
+export { default as IcOrigonControlButton_24Filled } from './IcOrigonControlButton_24Filled';
+export { default as IcOrigonControlButton_24Regular } from './IcOrigonControlButton_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentLayoutRowTwoFocusTopSettings_20Filled } from './IcFluentLayoutRowTwoFocusTopSettings_20Filled';
-export { default as IcFluentLayoutRowTwoFocusTopSettings_28Filled } from './IcFluentLayoutRowTwoFocusTopSettings_28Filled';
-export { default as IcFluentLayoutRowTwoFocusTopSettings_32Filled } from './IcFluentLayoutRowTwoFocusTopSettings_32Filled';
-export { default as IcFluentLayoutRowTwoFocusTopSettings_32Light } from './IcFluentLayoutRowTwoFocusTopSettings_32Light';
+export { default as IcOrigonLayoutRowTwoFocusTopSettings_20Filled } from './IcOrigonLayoutRowTwoFocusTopSettings_20Filled';
+export { default as IcOrigonLayoutRowTwoFocusTopSettings_28Filled } from './IcOrigonLayoutRowTwoFocusTopSettings_28Filled';
+export { default as IcOrigonLayoutRowTwoFocusTopSettings_32Filled } from './IcOrigonLayoutRowTwoFocusTopSettings_32Filled';
+export { default as IcOrigonLayoutRowTwoFocusTopSettings_32Light } from './IcOrigonLayoutRowTwoFocusTopSettings_32Light';

@@ -1,6 +1,6 @@
-export { default as IcFluentChevronDownUp_16Filled } from './IcFluentChevronDownUp_16Filled';
-export { default as IcFluentChevronDownUp_16Regular } from './IcFluentChevronDownUp_16Regular';
-export { default as IcFluentChevronDownUp_20Filled } from './IcFluentChevronDownUp_20Filled';
-export { default as IcFluentChevronDownUp_20Regular } from './IcFluentChevronDownUp_20Regular';
-export { default as IcFluentChevronDownUp_24Filled } from './IcFluentChevronDownUp_24Filled';
-export { default as IcFluentChevronDownUp_24Regular } from './IcFluentChevronDownUp_24Regular';
+export { default as IcOrigonChevronDownUp_16Filled } from './IcOrigonChevronDownUp_16Filled';
+export { default as IcOrigonChevronDownUp_16Regular } from './IcOrigonChevronDownUp_16Regular';
+export { default as IcOrigonChevronDownUp_20Filled } from './IcOrigonChevronDownUp_20Filled';
+export { default as IcOrigonChevronDownUp_20Regular } from './IcOrigonChevronDownUp_20Regular';
+export { default as IcOrigonChevronDownUp_24Filled } from './IcOrigonChevronDownUp_24Filled';
+export { default as IcOrigonChevronDownUp_24Regular } from './IcOrigonChevronDownUp_24Regular';

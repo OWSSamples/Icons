@@ -1,4 +1,4 @@
-export { default as IcFluentCircleSmall_20Filled } from './IcFluentCircleSmall_20Filled';
-export { default as IcFluentCircleSmall_20Regular } from './IcFluentCircleSmall_20Regular';
-export { default as IcFluentCircleSmall_24Filled } from './IcFluentCircleSmall_24Filled';
-export { default as IcFluentCircleSmall_24Regular } from './IcFluentCircleSmall_24Regular';
+export { default as IcOrigonCircleSmall_20Filled } from './IcOrigonCircleSmall_20Filled';
+export { default as IcOrigonCircleSmall_20Regular } from './IcOrigonCircleSmall_20Regular';
+export { default as IcOrigonCircleSmall_24Filled } from './IcOrigonCircleSmall_24Filled';
+export { default as IcOrigonCircleSmall_24Regular } from './IcOrigonCircleSmall_24Regular';

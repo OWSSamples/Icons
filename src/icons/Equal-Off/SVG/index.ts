@@ -1,8 +1,8 @@
-export { default as IcFluentEqualOff_12Filled } from './IcFluentEqualOff_12Filled';
-export { default as IcFluentEqualOff_12Regular } from './IcFluentEqualOff_12Regular';
-export { default as IcFluentEqualOff_16Filled } from './IcFluentEqualOff_16Filled';
-export { default as IcFluentEqualOff_16Regular } from './IcFluentEqualOff_16Regular';
-export { default as IcFluentEqualOff_20Filled } from './IcFluentEqualOff_20Filled';
-export { default as IcFluentEqualOff_20Regular } from './IcFluentEqualOff_20Regular';
-export { default as IcFluentEqualOff_24Filled } from './IcFluentEqualOff_24Filled';
-export { default as IcFluentEqualOff_24Regular } from './IcFluentEqualOff_24Regular';
+export { default as IcOrigonEqualOff_12Filled } from './IcOrigonEqualOff_12Filled';
+export { default as IcOrigonEqualOff_12Regular } from './IcOrigonEqualOff_12Regular';
+export { default as IcOrigonEqualOff_16Filled } from './IcOrigonEqualOff_16Filled';
+export { default as IcOrigonEqualOff_16Regular } from './IcOrigonEqualOff_16Regular';
+export { default as IcOrigonEqualOff_20Filled } from './IcOrigonEqualOff_20Filled';
+export { default as IcOrigonEqualOff_20Regular } from './IcOrigonEqualOff_20Regular';
+export { default as IcOrigonEqualOff_24Filled } from './IcOrigonEqualOff_24Filled';
+export { default as IcOrigonEqualOff_24Regular } from './IcOrigonEqualOff_24Regular';

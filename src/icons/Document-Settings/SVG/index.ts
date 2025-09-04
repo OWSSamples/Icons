@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentSettings_16Filled } from './IcFluentDocumentSettings_16Filled';
-export { default as IcFluentDocumentSettings_16Regular } from './IcFluentDocumentSettings_16Regular';
-export { default as IcFluentDocumentSettings_20Filled } from './IcFluentDocumentSettings_20Filled';
-export { default as IcFluentDocumentSettings_20Regular } from './IcFluentDocumentSettings_20Regular';
+export { default as IcOrigonDocumentSettings_16Filled } from './IcOrigonDocumentSettings_16Filled';
+export { default as IcOrigonDocumentSettings_16Regular } from './IcOrigonDocumentSettings_16Regular';
+export { default as IcOrigonDocumentSettings_20Filled } from './IcOrigonDocumentSettings_20Filled';
+export { default as IcOrigonDocumentSettings_20Regular } from './IcOrigonDocumentSettings_20Regular';

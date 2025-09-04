@@ -1,6 +1,6 @@
-export { default as IcFluentLayoutRowTwoSplitBottom_16Filled } from './IcFluentLayoutRowTwoSplitBottom_16Filled';
-export { default as IcFluentLayoutRowTwoSplitBottom_16Regular } from './IcFluentLayoutRowTwoSplitBottom_16Regular';
-export { default as IcFluentLayoutRowTwoSplitBottom_20Filled } from './IcFluentLayoutRowTwoSplitBottom_20Filled';
-export { default as IcFluentLayoutRowTwoSplitBottom_20Regular } from './IcFluentLayoutRowTwoSplitBottom_20Regular';
-export { default as IcFluentLayoutRowTwoSplitBottom_24Filled } from './IcFluentLayoutRowTwoSplitBottom_24Filled';
-export { default as IcFluentLayoutRowTwoSplitBottom_24Regular } from './IcFluentLayoutRowTwoSplitBottom_24Regular';
+export { default as IcOrigonLayoutRowTwoSplitBottom_16Filled } from './IcOrigonLayoutRowTwoSplitBottom_16Filled';
+export { default as IcOrigonLayoutRowTwoSplitBottom_16Regular } from './IcOrigonLayoutRowTwoSplitBottom_16Regular';
+export { default as IcOrigonLayoutRowTwoSplitBottom_20Filled } from './IcOrigonLayoutRowTwoSplitBottom_20Filled';
+export { default as IcOrigonLayoutRowTwoSplitBottom_20Regular } from './IcOrigonLayoutRowTwoSplitBottom_20Regular';
+export { default as IcOrigonLayoutRowTwoSplitBottom_24Filled } from './IcOrigonLayoutRowTwoSplitBottom_24Filled';
+export { default as IcOrigonLayoutRowTwoSplitBottom_24Regular } from './IcOrigonLayoutRowTwoSplitBottom_24Regular';

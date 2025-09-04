@@ -1,4 +1,4 @@
-export { default as IcFluentCopySelect_20Filled } from './IcFluentCopySelect_20Filled';
-export { default as IcFluentCopySelect_20Regular } from './IcFluentCopySelect_20Regular';
-export { default as IcFluentCopySelect_24Filled } from './IcFluentCopySelect_24Filled';
-export { default as IcFluentCopySelect_24Regular } from './IcFluentCopySelect_24Regular';
+export { default as IcOrigonCopySelect_20Filled } from './IcOrigonCopySelect_20Filled';
+export { default as IcOrigonCopySelect_20Regular } from './IcOrigonCopySelect_20Regular';
+export { default as IcOrigonCopySelect_24Filled } from './IcOrigonCopySelect_24Filled';
+export { default as IcOrigonCopySelect_24Regular } from './IcOrigonCopySelect_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentSlideTextTitle_16Filled } from './IcFluentSlideTextTitle_16Filled';
-export { default as IcFluentSlideTextTitle_16Regular } from './IcFluentSlideTextTitle_16Regular';
-export { default as IcFluentSlideTextTitle_20Filled } from './IcFluentSlideTextTitle_20Filled';
-export { default as IcFluentSlideTextTitle_20Regular } from './IcFluentSlideTextTitle_20Regular';
-export { default as IcFluentSlideTextTitle_24Filled } from './IcFluentSlideTextTitle_24Filled';
-export { default as IcFluentSlideTextTitle_24Regular } from './IcFluentSlideTextTitle_24Regular';
+export { default as IcOrigonSlideTextTitle_16Filled } from './IcOrigonSlideTextTitle_16Filled';
+export { default as IcOrigonSlideTextTitle_16Regular } from './IcOrigonSlideTextTitle_16Regular';
+export { default as IcOrigonSlideTextTitle_20Filled } from './IcOrigonSlideTextTitle_20Filled';
+export { default as IcOrigonSlideTextTitle_20Regular } from './IcOrigonSlideTextTitle_20Regular';
+export { default as IcOrigonSlideTextTitle_24Filled } from './IcOrigonSlideTextTitle_24Filled';
+export { default as IcOrigonSlideTextTitle_24Regular } from './IcOrigonSlideTextTitle_24Regular';

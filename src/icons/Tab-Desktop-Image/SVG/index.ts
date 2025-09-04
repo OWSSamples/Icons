@@ -1,6 +1,6 @@
-export { default as IcFluentTabDesktopImage_16Filled } from './IcFluentTabDesktopImage_16Filled';
-export { default as IcFluentTabDesktopImage_16Regular } from './IcFluentTabDesktopImage_16Regular';
-export { default as IcFluentTabDesktopImage_20Filled } from './IcFluentTabDesktopImage_20Filled';
-export { default as IcFluentTabDesktopImage_20Regular } from './IcFluentTabDesktopImage_20Regular';
-export { default as IcFluentTabDesktopImage_24Filled } from './IcFluentTabDesktopImage_24Filled';
-export { default as IcFluentTabDesktopImage_24Regular } from './IcFluentTabDesktopImage_24Regular';
+export { default as IcOrigonTabDesktopImage_16Filled } from './IcOrigonTabDesktopImage_16Filled';
+export { default as IcOrigonTabDesktopImage_16Regular } from './IcOrigonTabDesktopImage_16Regular';
+export { default as IcOrigonTabDesktopImage_20Filled } from './IcOrigonTabDesktopImage_20Filled';
+export { default as IcOrigonTabDesktopImage_20Regular } from './IcOrigonTabDesktopImage_20Regular';
+export { default as IcOrigonTabDesktopImage_24Filled } from './IcOrigonTabDesktopImage_24Filled';
+export { default as IcOrigonTabDesktopImage_24Regular } from './IcOrigonTabDesktopImage_24Regular';

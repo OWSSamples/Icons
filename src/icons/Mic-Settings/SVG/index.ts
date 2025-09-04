@@ -1,4 +1,4 @@
-export { default as IcFluentMicSettings_20Filled } from './IcFluentMicSettings_20Filled';
-export { default as IcFluentMicSettings_20Regular } from './IcFluentMicSettings_20Regular';
-export { default as IcFluentMicSettings_24Filled } from './IcFluentMicSettings_24Filled';
-export { default as IcFluentMicSettings_24Regular } from './IcFluentMicSettings_24Regular';
+export { default as IcOrigonMicSettings_20Filled } from './IcOrigonMicSettings_20Filled';
+export { default as IcOrigonMicSettings_20Regular } from './IcOrigonMicSettings_20Regular';
+export { default as IcOrigonMicSettings_24Filled } from './IcOrigonMicSettings_24Filled';
+export { default as IcOrigonMicSettings_24Regular } from './IcOrigonMicSettings_24Regular';

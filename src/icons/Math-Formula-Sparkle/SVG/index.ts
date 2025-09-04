@@ -1,4 +1,4 @@
-export { default as IcFluentMathFormulaSparkle_16Filled } from './IcFluentMathFormulaSparkle_16Filled';
-export { default as IcFluentMathFormulaSparkle_16Regular } from './IcFluentMathFormulaSparkle_16Regular';
-export { default as IcFluentMathFormulaSparkle_20Filled } from './IcFluentMathFormulaSparkle_20Filled';
-export { default as IcFluentMathFormulaSparkle_20Regular } from './IcFluentMathFormulaSparkle_20Regular';
+export { default as IcOrigonMathFormulaSparkle_16Filled } from './IcOrigonMathFormulaSparkle_16Filled';
+export { default as IcOrigonMathFormulaSparkle_16Regular } from './IcOrigonMathFormulaSparkle_16Regular';
+export { default as IcOrigonMathFormulaSparkle_20Filled } from './IcOrigonMathFormulaSparkle_20Filled';
+export { default as IcOrigonMathFormulaSparkle_20Regular } from './IcOrigonMathFormulaSparkle_20Regular';

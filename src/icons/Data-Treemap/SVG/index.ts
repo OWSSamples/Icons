@@ -1,4 +1,4 @@
-export { default as IcFluentDataTreemap_20Filled } from './IcFluentDataTreemap_20Filled';
-export { default as IcFluentDataTreemap_20Regular } from './IcFluentDataTreemap_20Regular';
-export { default as IcFluentDataTreemap_24Filled } from './IcFluentDataTreemap_24Filled';
-export { default as IcFluentDataTreemap_24Regular } from './IcFluentDataTreemap_24Regular';
+export { default as IcOrigonDataTreemap_20Filled } from './IcOrigonDataTreemap_20Filled';
+export { default as IcOrigonDataTreemap_20Regular } from './IcOrigonDataTreemap_20Regular';
+export { default as IcOrigonDataTreemap_24Filled } from './IcOrigonDataTreemap_24Filled';
+export { default as IcOrigonDataTreemap_24Regular } from './IcOrigonDataTreemap_24Regular';

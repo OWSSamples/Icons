@@ -1,4 +1,4 @@
-export { default as IcFluentSmartwatch_20Filled } from './IcFluentSmartwatch_20Filled';
-export { default as IcFluentSmartwatch_20Regular } from './IcFluentSmartwatch_20Regular';
-export { default as IcFluentSmartwatch_24Filled } from './IcFluentSmartwatch_24Filled';
-export { default as IcFluentSmartwatch_24Regular } from './IcFluentSmartwatch_24Regular';
+export { default as IcOrigonSmartwatch_20Filled } from './IcOrigonSmartwatch_20Filled';
+export { default as IcOrigonSmartwatch_20Regular } from './IcOrigonSmartwatch_20Regular';
+export { default as IcOrigonSmartwatch_24Filled } from './IcOrigonSmartwatch_24Filled';
+export { default as IcOrigonSmartwatch_24Regular } from './IcOrigonSmartwatch_24Regular';

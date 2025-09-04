@@ -1,6 +1,6 @@
-export { default as IcFluentTextIndentDecreaseRtl_16Filled } from './IcFluentTextIndentDecreaseRtl_16Filled';
-export { default as IcFluentTextIndentDecreaseRtl_16Regular } from './IcFluentTextIndentDecreaseRtl_16Regular';
-export { default as IcFluentTextIndentDecreaseRtl_20Filled } from './IcFluentTextIndentDecreaseRtl_20Filled';
-export { default as IcFluentTextIndentDecreaseRtl_20Regular } from './IcFluentTextIndentDecreaseRtl_20Regular';
-export { default as IcFluentTextIndentDecreaseRtl_24Filled } from './IcFluentTextIndentDecreaseRtl_24Filled';
-export { default as IcFluentTextIndentDecreaseRtl_24Regular } from './IcFluentTextIndentDecreaseRtl_24Regular';
+export { default as IcOrigonTextIndentDecreaseRtl_16Filled } from './IcOrigonTextIndentDecreaseRtl_16Filled';
+export { default as IcOrigonTextIndentDecreaseRtl_16Regular } from './IcOrigonTextIndentDecreaseRtl_16Regular';
+export { default as IcOrigonTextIndentDecreaseRtl_20Filled } from './IcOrigonTextIndentDecreaseRtl_20Filled';
+export { default as IcOrigonTextIndentDecreaseRtl_20Regular } from './IcOrigonTextIndentDecreaseRtl_20Regular';
+export { default as IcOrigonTextIndentDecreaseRtl_24Filled } from './IcOrigonTextIndentDecreaseRtl_24Filled';
+export { default as IcOrigonTextIndentDecreaseRtl_24Regular } from './IcOrigonTextIndentDecreaseRtl_24Regular';

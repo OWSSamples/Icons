@@ -1,8 +1,8 @@
-export { default as IcFluentBuildingDesktop_16Filled } from './IcFluentBuildingDesktop_16Filled';
-export { default as IcFluentBuildingDesktop_16Regular } from './IcFluentBuildingDesktop_16Regular';
-export { default as IcFluentBuildingDesktop_20Filled } from './IcFluentBuildingDesktop_20Filled';
-export { default as IcFluentBuildingDesktop_20Regular } from './IcFluentBuildingDesktop_20Regular';
-export { default as IcFluentBuildingDesktop_24Filled } from './IcFluentBuildingDesktop_24Filled';
-export { default as IcFluentBuildingDesktop_24Regular } from './IcFluentBuildingDesktop_24Regular';
-export { default as IcFluentBuildingDesktop_32Filled } from './IcFluentBuildingDesktop_32Filled';
-export { default as IcFluentBuildingDesktop_32Regular } from './IcFluentBuildingDesktop_32Regular';
+export { default as IcOrigonBuildingDesktop_16Filled } from './IcOrigonBuildingDesktop_16Filled';
+export { default as IcOrigonBuildingDesktop_16Regular } from './IcOrigonBuildingDesktop_16Regular';
+export { default as IcOrigonBuildingDesktop_20Filled } from './IcOrigonBuildingDesktop_20Filled';
+export { default as IcOrigonBuildingDesktop_20Regular } from './IcOrigonBuildingDesktop_20Regular';
+export { default as IcOrigonBuildingDesktop_24Filled } from './IcOrigonBuildingDesktop_24Filled';
+export { default as IcOrigonBuildingDesktop_24Regular } from './IcOrigonBuildingDesktop_24Regular';
+export { default as IcOrigonBuildingDesktop_32Filled } from './IcOrigonBuildingDesktop_32Filled';
+export { default as IcOrigonBuildingDesktop_32Regular } from './IcOrigonBuildingDesktop_32Regular';

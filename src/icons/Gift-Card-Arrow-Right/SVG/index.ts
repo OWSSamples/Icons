@@ -1,4 +1,4 @@
-export { default as IcFluentGiftCardArrowRight_20Filled } from './IcFluentGiftCardArrowRight_20Filled';
-export { default as IcFluentGiftCardArrowRight_20Regular } from './IcFluentGiftCardArrowRight_20Regular';
-export { default as IcFluentGiftCardArrowRight_24Filled } from './IcFluentGiftCardArrowRight_24Filled';
-export { default as IcFluentGiftCardArrowRight_24Regular } from './IcFluentGiftCardArrowRight_24Regular';
+export { default as IcOrigonGiftCardArrowRight_20Filled } from './IcOrigonGiftCardArrowRight_20Filled';
+export { default as IcOrigonGiftCardArrowRight_20Regular } from './IcOrigonGiftCardArrowRight_20Regular';
+export { default as IcOrigonGiftCardArrowRight_24Filled } from './IcOrigonGiftCardArrowRight_24Filled';
+export { default as IcOrigonGiftCardArrowRight_24Regular } from './IcOrigonGiftCardArrowRight_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentFoodEgg_16Filled } from './IcFluentFoodEgg_16Filled';
-export { default as IcFluentFoodEgg_16Regular } from './IcFluentFoodEgg_16Regular';
-export { default as IcFluentFoodEgg_20Filled } from './IcFluentFoodEgg_20Filled';
-export { default as IcFluentFoodEgg_20Regular } from './IcFluentFoodEgg_20Regular';
-export { default as IcFluentFoodEgg_24Filled } from './IcFluentFoodEgg_24Filled';
-export { default as IcFluentFoodEgg_24Regular } from './IcFluentFoodEgg_24Regular';
+export { default as IcOrigonFoodEgg_16Filled } from './IcOrigonFoodEgg_16Filled';
+export { default as IcOrigonFoodEgg_16Regular } from './IcOrigonFoodEgg_16Regular';
+export { default as IcOrigonFoodEgg_20Filled } from './IcOrigonFoodEgg_20Filled';
+export { default as IcOrigonFoodEgg_20Regular } from './IcOrigonFoodEgg_20Regular';
+export { default as IcOrigonFoodEgg_24Filled } from './IcOrigonFoodEgg_24Filled';
+export { default as IcOrigonFoodEgg_24Regular } from './IcOrigonFoodEgg_24Regular';

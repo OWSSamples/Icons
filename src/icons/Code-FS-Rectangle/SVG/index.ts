@@ -1,2 +1,2 @@
-export { default as IcFluentCodeFsRectangle_16Filled } from './IcFluentCodeFsRectangle_16Filled';
-export { default as IcFluentCodeFsRectangle_16Regular } from './IcFluentCodeFsRectangle_16Regular';
+export { default as IcOrigonCodeFsRectangle_16Filled } from './IcOrigonCodeFsRectangle_16Filled';
+export { default as IcOrigonCodeFsRectangle_16Regular } from './IcOrigonCodeFsRectangle_16Regular';

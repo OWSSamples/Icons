@@ -1,6 +1,6 @@
-export { default as IcFluentPersonDelete_16Filled } from './IcFluentPersonDelete_16Filled';
-export { default as IcFluentPersonDelete_16Regular } from './IcFluentPersonDelete_16Regular';
-export { default as IcFluentPersonDelete_20Filled } from './IcFluentPersonDelete_20Filled';
-export { default as IcFluentPersonDelete_20Regular } from './IcFluentPersonDelete_20Regular';
-export { default as IcFluentPersonDelete_24Filled } from './IcFluentPersonDelete_24Filled';
-export { default as IcFluentPersonDelete_24Regular } from './IcFluentPersonDelete_24Regular';
+export { default as IcOrigonPersonDelete_16Filled } from './IcOrigonPersonDelete_16Filled';
+export { default as IcOrigonPersonDelete_16Regular } from './IcOrigonPersonDelete_16Regular';
+export { default as IcOrigonPersonDelete_20Filled } from './IcOrigonPersonDelete_20Filled';
+export { default as IcOrigonPersonDelete_20Regular } from './IcOrigonPersonDelete_20Regular';
+export { default as IcOrigonPersonDelete_24Filled } from './IcOrigonPersonDelete_24Filled';
+export { default as IcOrigonPersonDelete_24Regular } from './IcOrigonPersonDelete_24Regular';

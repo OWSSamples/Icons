@@ -1,2 +1,2 @@
-export { default as IcFluentCallConnecting_20Filled } from './IcFluentCallConnecting_20Filled';
-export { default as IcFluentCallConnecting_20Regular } from './IcFluentCallConnecting_20Regular';
+export { default as IcOrigonCallConnecting_20Filled } from './IcOrigonCallConnecting_20Filled';
+export { default as IcOrigonCallConnecting_20Regular } from './IcOrigonCallConnecting_20Regular';

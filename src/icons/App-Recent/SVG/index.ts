@@ -1,4 +1,4 @@
-export { default as IcFluentAppRecent_20Filled } from './IcFluentAppRecent_20Filled';
-export { default as IcFluentAppRecent_20Regular } from './IcFluentAppRecent_20Regular';
-export { default as IcFluentAppRecent_24Filled } from './IcFluentAppRecent_24Filled';
-export { default as IcFluentAppRecent_24Regular } from './IcFluentAppRecent_24Regular';
+export { default as IcOrigonAppRecent_20Filled } from './IcOrigonAppRecent_20Filled';
+export { default as IcOrigonAppRecent_20Regular } from './IcOrigonAppRecent_20Regular';
+export { default as IcOrigonAppRecent_24Filled } from './IcOrigonAppRecent_24Filled';
+export { default as IcOrigonAppRecent_24Regular } from './IcOrigonAppRecent_24Regular';

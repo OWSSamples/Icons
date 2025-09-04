@@ -1,2 +1,2 @@
-export { default as IcFluentVirtualNetwork_20Filled } from './IcFluentVirtualNetwork_20Filled';
-export { default as IcFluentVirtualNetwork_20Regular } from './IcFluentVirtualNetwork_20Regular';
+export { default as IcOrigonVirtualNetwork_20Filled } from './IcOrigonVirtualNetwork_20Filled';
+export { default as IcOrigonVirtualNetwork_20Regular } from './IcOrigonVirtualNetwork_20Regular';

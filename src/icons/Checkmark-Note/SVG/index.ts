@@ -1,2 +1,2 @@
-export { default as IcFluentCheckmarkNote_20Filled } from './IcFluentCheckmarkNote_20Filled';
-export { default as IcFluentCheckmarkNote_20Regular } from './IcFluentCheckmarkNote_20Regular';
+export { default as IcOrigonCheckmarkNote_20Filled } from './IcOrigonCheckmarkNote_20Filled';
+export { default as IcOrigonCheckmarkNote_20Regular } from './IcOrigonCheckmarkNote_20Regular';

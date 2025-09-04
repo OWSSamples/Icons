@@ -1,8 +1,8 @@
-export { default as IcFluentPhoneSpanIn_16Filled } from './IcFluentPhoneSpanIn_16Filled';
-export { default as IcFluentPhoneSpanIn_16Regular } from './IcFluentPhoneSpanIn_16Regular';
-export { default as IcFluentPhoneSpanIn_20Filled } from './IcFluentPhoneSpanIn_20Filled';
-export { default as IcFluentPhoneSpanIn_20Regular } from './IcFluentPhoneSpanIn_20Regular';
-export { default as IcFluentPhoneSpanIn_24Filled } from './IcFluentPhoneSpanIn_24Filled';
-export { default as IcFluentPhoneSpanIn_24Regular } from './IcFluentPhoneSpanIn_24Regular';
-export { default as IcFluentPhoneSpanIn_28Filled } from './IcFluentPhoneSpanIn_28Filled';
-export { default as IcFluentPhoneSpanIn_28Regular } from './IcFluentPhoneSpanIn_28Regular';
+export { default as IcOrigonPhoneSpanIn_16Filled } from './IcOrigonPhoneSpanIn_16Filled';
+export { default as IcOrigonPhoneSpanIn_16Regular } from './IcOrigonPhoneSpanIn_16Regular';
+export { default as IcOrigonPhoneSpanIn_20Filled } from './IcOrigonPhoneSpanIn_20Filled';
+export { default as IcOrigonPhoneSpanIn_20Regular } from './IcOrigonPhoneSpanIn_20Regular';
+export { default as IcOrigonPhoneSpanIn_24Filled } from './IcOrigonPhoneSpanIn_24Filled';
+export { default as IcOrigonPhoneSpanIn_24Regular } from './IcOrigonPhoneSpanIn_24Regular';
+export { default as IcOrigonPhoneSpanIn_28Filled } from './IcOrigonPhoneSpanIn_28Filled';
+export { default as IcOrigonPhoneSpanIn_28Regular } from './IcOrigonPhoneSpanIn_28Regular';

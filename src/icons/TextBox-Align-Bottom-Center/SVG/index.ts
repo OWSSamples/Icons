@@ -1,6 +1,6 @@
-export { default as IcFluentTextboxAlignBottomCenter_16Filled } from './IcFluentTextboxAlignBottomCenter_16Filled';
-export { default as IcFluentTextboxAlignBottomCenter_16Regular } from './IcFluentTextboxAlignBottomCenter_16Regular';
-export { default as IcFluentTextboxAlignBottomCenter_20Filled } from './IcFluentTextboxAlignBottomCenter_20Filled';
-export { default as IcFluentTextboxAlignBottomCenter_20Regular } from './IcFluentTextboxAlignBottomCenter_20Regular';
-export { default as IcFluentTextboxAlignBottomCenter_24Filled } from './IcFluentTextboxAlignBottomCenter_24Filled';
-export { default as IcFluentTextboxAlignBottomCenter_24Regular } from './IcFluentTextboxAlignBottomCenter_24Regular';
+export { default as IcOrigonTextboxAlignBottomCenter_16Filled } from './IcOrigonTextboxAlignBottomCenter_16Filled';
+export { default as IcOrigonTextboxAlignBottomCenter_16Regular } from './IcOrigonTextboxAlignBottomCenter_16Regular';
+export { default as IcOrigonTextboxAlignBottomCenter_20Filled } from './IcOrigonTextboxAlignBottomCenter_20Filled';
+export { default as IcOrigonTextboxAlignBottomCenter_20Regular } from './IcOrigonTextboxAlignBottomCenter_20Regular';
+export { default as IcOrigonTextboxAlignBottomCenter_24Filled } from './IcOrigonTextboxAlignBottomCenter_24Filled';
+export { default as IcOrigonTextboxAlignBottomCenter_24Regular } from './IcOrigonTextboxAlignBottomCenter_24Regular';

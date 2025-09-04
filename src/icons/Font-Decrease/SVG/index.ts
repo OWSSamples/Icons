@@ -1,4 +1,4 @@
-export { default as IcFluentFontDecrease_20Filled } from './IcFluentFontDecrease_20Filled';
-export { default as IcFluentFontDecrease_20Regular } from './IcFluentFontDecrease_20Regular';
-export { default as IcFluentFontDecrease_24Filled } from './IcFluentFontDecrease_24Filled';
-export { default as IcFluentFontDecrease_24Regular } from './IcFluentFontDecrease_24Regular';
+export { default as IcOrigonFontDecrease_20Filled } from './IcOrigonFontDecrease_20Filled';
+export { default as IcOrigonFontDecrease_20Regular } from './IcOrigonFontDecrease_20Regular';
+export { default as IcOrigonFontDecrease_24Filled } from './IcOrigonFontDecrease_24Filled';
+export { default as IcOrigonFontDecrease_24Regular } from './IcOrigonFontDecrease_24Regular';

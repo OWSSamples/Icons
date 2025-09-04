@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonLockClosed_48Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M27 28a3 3 0 1 1-6 0 3 3 0 0 1 6 0M16 14v-2a8 8 0 1 1 16 0v2h1.75A6.25 6.25 0 0 1 40 20.25v15.5A6.25 6.25 0 0 1 33.75 42h-19.5A6.25 6.25 0 0 1 8 35.75v-15.5A6.25 6.25 0 0 1 14.25 14zm2.5-2v2h11v-2a5.5 5.5 0 1 0-11 0m-4.25 4.5a3.75 3.75 0 0 0-3.75 3.75v15.5a3.75 3.75 0 0 0 3.75 3.75h19.5a3.75 3.75 0 0 0 3.75-3.75v-15.5a3.75 3.75 0 0 0-3.75-3.75z"/>
+  </IconBase>
+);
+
+export default IcOrigonLockClosed_48Regular;

@@ -1,6 +1,6 @@
-export { default as IcFluentScan_16Filled } from './IcFluentScan_16Filled';
-export { default as IcFluentScan_16Regular } from './IcFluentScan_16Regular';
-export { default as IcFluentScan_20Filled } from './IcFluentScan_20Filled';
-export { default as IcFluentScan_20Regular } from './IcFluentScan_20Regular';
-export { default as IcFluentScan_24Filled } from './IcFluentScan_24Filled';
-export { default as IcFluentScan_24Regular } from './IcFluentScan_24Regular';
+export { default as IcOrigonScan_16Filled } from './IcOrigonScan_16Filled';
+export { default as IcOrigonScan_16Regular } from './IcOrigonScan_16Regular';
+export { default as IcOrigonScan_20Filled } from './IcOrigonScan_20Filled';
+export { default as IcOrigonScan_20Regular } from './IcOrigonScan_20Regular';
+export { default as IcOrigonScan_24Filled } from './IcOrigonScan_24Filled';
+export { default as IcOrigonScan_24Regular } from './IcOrigonScan_24Regular';

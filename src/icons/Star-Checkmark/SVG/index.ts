@@ -1,8 +1,8 @@
-export { default as IcFluentStarCheckmark_16Filled } from './IcFluentStarCheckmark_16Filled';
-export { default as IcFluentStarCheckmark_16Regular } from './IcFluentStarCheckmark_16Regular';
-export { default as IcFluentStarCheckmark_20Filled } from './IcFluentStarCheckmark_20Filled';
-export { default as IcFluentStarCheckmark_20Regular } from './IcFluentStarCheckmark_20Regular';
-export { default as IcFluentStarCheckmark_24Filled } from './IcFluentStarCheckmark_24Filled';
-export { default as IcFluentStarCheckmark_24Regular } from './IcFluentStarCheckmark_24Regular';
-export { default as IcFluentStarCheckmark_28Filled } from './IcFluentStarCheckmark_28Filled';
-export { default as IcFluentStarCheckmark_28Regular } from './IcFluentStarCheckmark_28Regular';
+export { default as IcOrigonStarCheckmark_16Filled } from './IcOrigonStarCheckmark_16Filled';
+export { default as IcOrigonStarCheckmark_16Regular } from './IcOrigonStarCheckmark_16Regular';
+export { default as IcOrigonStarCheckmark_20Filled } from './IcOrigonStarCheckmark_20Filled';
+export { default as IcOrigonStarCheckmark_20Regular } from './IcOrigonStarCheckmark_20Regular';
+export { default as IcOrigonStarCheckmark_24Filled } from './IcOrigonStarCheckmark_24Filled';
+export { default as IcOrigonStarCheckmark_24Regular } from './IcOrigonStarCheckmark_24Regular';
+export { default as IcOrigonStarCheckmark_28Filled } from './IcOrigonStarCheckmark_28Filled';
+export { default as IcOrigonStarCheckmark_28Regular } from './IcOrigonStarCheckmark_28Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentBroadActivityFeed_16Filled } from './IcFluentBroadActivityFeed_16Filled';
-export { default as IcFluentBroadActivityFeed_16Regular } from './IcFluentBroadActivityFeed_16Regular';
-export { default as IcFluentBroadActivityFeed_20Filled } from './IcFluentBroadActivityFeed_20Filled';
-export { default as IcFluentBroadActivityFeed_20Regular } from './IcFluentBroadActivityFeed_20Regular';
-export { default as IcFluentBroadActivityFeed_24Filled } from './IcFluentBroadActivityFeed_24Filled';
-export { default as IcFluentBroadActivityFeed_24Regular } from './IcFluentBroadActivityFeed_24Regular';
+export { default as IcOrigonBroadActivityFeed_16Filled } from './IcOrigonBroadActivityFeed_16Filled';
+export { default as IcOrigonBroadActivityFeed_16Regular } from './IcOrigonBroadActivityFeed_16Regular';
+export { default as IcOrigonBroadActivityFeed_20Filled } from './IcOrigonBroadActivityFeed_20Filled';
+export { default as IcOrigonBroadActivityFeed_20Regular } from './IcOrigonBroadActivityFeed_20Regular';
+export { default as IcOrigonBroadActivityFeed_24Filled } from './IcOrigonBroadActivityFeed_24Filled';
+export { default as IcOrigonBroadActivityFeed_24Regular } from './IcOrigonBroadActivityFeed_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentHeart_20Filled } from './IcFluentDocumentHeart_20Filled';
-export { default as IcFluentDocumentHeart_20Regular } from './IcFluentDocumentHeart_20Regular';
-export { default as IcFluentDocumentHeart_24Filled } from './IcFluentDocumentHeart_24Filled';
-export { default as IcFluentDocumentHeart_24Regular } from './IcFluentDocumentHeart_24Regular';
+export { default as IcOrigonDocumentHeart_20Filled } from './IcOrigonDocumentHeart_20Filled';
+export { default as IcOrigonDocumentHeart_20Regular } from './IcOrigonDocumentHeart_20Regular';
+export { default as IcOrigonDocumentHeart_24Filled } from './IcOrigonDocumentHeart_24Filled';
+export { default as IcOrigonDocumentHeart_24Regular } from './IcOrigonDocumentHeart_24Regular';

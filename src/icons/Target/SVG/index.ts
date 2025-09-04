@@ -1,8 +1,8 @@
-export { default as IcFluentTarget_16Filled } from './IcFluentTarget_16Filled';
-export { default as IcFluentTarget_16Regular } from './IcFluentTarget_16Regular';
-export { default as IcFluentTarget_20Filled } from './IcFluentTarget_20Filled';
-export { default as IcFluentTarget_20Regular } from './IcFluentTarget_20Regular';
-export { default as IcFluentTarget_24Filled } from './IcFluentTarget_24Filled';
-export { default as IcFluentTarget_24Regular } from './IcFluentTarget_24Regular';
-export { default as IcFluentTarget_32Filled } from './IcFluentTarget_32Filled';
-export { default as IcFluentTarget_32Regular } from './IcFluentTarget_32Regular';
+export { default as IcOrigonTarget_16Filled } from './IcOrigonTarget_16Filled';
+export { default as IcOrigonTarget_16Regular } from './IcOrigonTarget_16Regular';
+export { default as IcOrigonTarget_20Filled } from './IcOrigonTarget_20Filled';
+export { default as IcOrigonTarget_20Regular } from './IcOrigonTarget_20Regular';
+export { default as IcOrigonTarget_24Filled } from './IcOrigonTarget_24Filled';
+export { default as IcOrigonTarget_24Regular } from './IcOrigonTarget_24Regular';
+export { default as IcOrigonTarget_32Filled } from './IcOrigonTarget_32Filled';
+export { default as IcOrigonTarget_32Regular } from './IcOrigonTarget_32Regular';

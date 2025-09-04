@@ -1,2 +1,2 @@
-export { default as IcFluentDeveloperBoardLightning_20Filled } from './IcFluentDeveloperBoardLightning_20Filled';
-export { default as IcFluentDeveloperBoardLightning_20Regular } from './IcFluentDeveloperBoardLightning_20Regular';
+export { default as IcOrigonDeveloperBoardLightning_20Filled } from './IcOrigonDeveloperBoardLightning_20Filled';
+export { default as IcOrigonDeveloperBoardLightning_20Regular } from './IcOrigonDeveloperBoardLightning_20Regular';

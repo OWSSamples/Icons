@@ -1,6 +1,6 @@
-export { default as IcFluentMountainLocationTop_20Filled } from './IcFluentMountainLocationTop_20Filled';
-export { default as IcFluentMountainLocationTop_20Regular } from './IcFluentMountainLocationTop_20Regular';
-export { default as IcFluentMountainLocationTop_24Filled } from './IcFluentMountainLocationTop_24Filled';
-export { default as IcFluentMountainLocationTop_24Regular } from './IcFluentMountainLocationTop_24Regular';
-export { default as IcFluentMountainLocationTop_28Filled } from './IcFluentMountainLocationTop_28Filled';
-export { default as IcFluentMountainLocationTop_28Regular } from './IcFluentMountainLocationTop_28Regular';
+export { default as IcOrigonMountainLocationTop_20Filled } from './IcOrigonMountainLocationTop_20Filled';
+export { default as IcOrigonMountainLocationTop_20Regular } from './IcOrigonMountainLocationTop_20Regular';
+export { default as IcOrigonMountainLocationTop_24Filled } from './IcOrigonMountainLocationTop_24Filled';
+export { default as IcOrigonMountainLocationTop_24Regular } from './IcOrigonMountainLocationTop_24Regular';
+export { default as IcOrigonMountainLocationTop_28Filled } from './IcOrigonMountainLocationTop_28Filled';
+export { default as IcOrigonMountainLocationTop_28Regular } from './IcOrigonMountainLocationTop_28Regular';

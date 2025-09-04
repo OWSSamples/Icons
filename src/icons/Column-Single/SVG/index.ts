@@ -1,2 +1,2 @@
-export { default as IcFluentColumnSingle_16Filled } from './IcFluentColumnSingle_16Filled';
-export { default as IcFluentColumnSingle_16Regular } from './IcFluentColumnSingle_16Regular';
+export { default as IcOrigonColumnSingle_16Filled } from './IcOrigonColumnSingle_16Filled';
+export { default as IcOrigonColumnSingle_16Regular } from './IcOrigonColumnSingle_16Regular';

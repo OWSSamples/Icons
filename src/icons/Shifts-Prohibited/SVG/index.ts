@@ -1,4 +1,4 @@
-export { default as IcFluentShiftsProhibited_20Filled } from './IcFluentShiftsProhibited_20Filled';
-export { default as IcFluentShiftsProhibited_20Regular } from './IcFluentShiftsProhibited_20Regular';
-export { default as IcFluentShiftsProhibited_24Filled } from './IcFluentShiftsProhibited_24Filled';
-export { default as IcFluentShiftsProhibited_24Regular } from './IcFluentShiftsProhibited_24Regular';
+export { default as IcOrigonShiftsProhibited_20Filled } from './IcOrigonShiftsProhibited_20Filled';
+export { default as IcOrigonShiftsProhibited_20Regular } from './IcOrigonShiftsProhibited_20Regular';
+export { default as IcOrigonShiftsProhibited_24Filled } from './IcOrigonShiftsProhibited_24Filled';
+export { default as IcOrigonShiftsProhibited_24Regular } from './IcOrigonShiftsProhibited_24Regular';

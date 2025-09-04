@@ -1,4 +1,4 @@
-export { default as IcFluentBranchForkHint_20Filled } from './IcFluentBranchForkHint_20Filled';
-export { default as IcFluentBranchForkHint_20Regular } from './IcFluentBranchForkHint_20Regular';
-export { default as IcFluentBranchForkHint_24Filled } from './IcFluentBranchForkHint_24Filled';
-export { default as IcFluentBranchForkHint_24Regular } from './IcFluentBranchForkHint_24Regular';
+export { default as IcOrigonBranchForkHint_20Filled } from './IcOrigonBranchForkHint_20Filled';
+export { default as IcOrigonBranchForkHint_20Regular } from './IcOrigonBranchForkHint_20Regular';
+export { default as IcOrigonBranchForkHint_24Filled } from './IcOrigonBranchForkHint_24Filled';
+export { default as IcOrigonBranchForkHint_24Regular } from './IcOrigonBranchForkHint_24Regular';

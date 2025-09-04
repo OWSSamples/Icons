@@ -1,4 +1,4 @@
-export { default as IcFluentBorderLeftRight_20Filled } from './IcFluentBorderLeftRight_20Filled';
-export { default as IcFluentBorderLeftRight_20Regular } from './IcFluentBorderLeftRight_20Regular';
-export { default as IcFluentBorderLeftRight_24Filled } from './IcFluentBorderLeftRight_24Filled';
-export { default as IcFluentBorderLeftRight_24Regular } from './IcFluentBorderLeftRight_24Regular';
+export { default as IcOrigonBorderLeftRight_20Filled } from './IcOrigonBorderLeftRight_20Filled';
+export { default as IcOrigonBorderLeftRight_20Regular } from './IcOrigonBorderLeftRight_20Regular';
+export { default as IcOrigonBorderLeftRight_24Filled } from './IcOrigonBorderLeftRight_24Filled';
+export { default as IcOrigonBorderLeftRight_24Regular } from './IcOrigonBorderLeftRight_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentTextIndentIncreaseRotate_270_20Filled } from './IcFluentTextIndentIncreaseRotate_270_20Filled';
-export { default as IcFluentTextIndentIncreaseRotate_270_20Regular } from './IcFluentTextIndentIncreaseRotate_270_20Regular';
-export { default as IcFluentTextIndentIncreaseRotate_270_24Filled } from './IcFluentTextIndentIncreaseRotate_270_24Filled';
-export { default as IcFluentTextIndentIncreaseRotate_270_24Regular } from './IcFluentTextIndentIncreaseRotate_270_24Regular';
+export { default as IcOrigonTextIndentIncreaseRotate_270_20Filled } from './IcOrigonTextIndentIncreaseRotate_270_20Filled';
+export { default as IcOrigonTextIndentIncreaseRotate_270_20Regular } from './IcOrigonTextIndentIncreaseRotate_270_20Regular';
+export { default as IcOrigonTextIndentIncreaseRotate_270_24Filled } from './IcOrigonTextIndentIncreaseRotate_270_24Filled';
+export { default as IcOrigonTextIndentIncreaseRotate_270_24Regular } from './IcOrigonTextIndentIncreaseRotate_270_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentSlideMicrophone_20Filled } from './IcFluentSlideMicrophone_20Filled';
-export { default as IcFluentSlideMicrophone_20Regular } from './IcFluentSlideMicrophone_20Regular';
-export { default as IcFluentSlideMicrophone_24Filled } from './IcFluentSlideMicrophone_24Filled';
-export { default as IcFluentSlideMicrophone_24Regular } from './IcFluentSlideMicrophone_24Regular';
-export { default as IcFluentSlideMicrophone_32Filled } from './IcFluentSlideMicrophone_32Filled';
-export { default as IcFluentSlideMicrophone_32Regular } from './IcFluentSlideMicrophone_32Regular';
+export { default as IcOrigonSlideMicrophone_20Filled } from './IcOrigonSlideMicrophone_20Filled';
+export { default as IcOrigonSlideMicrophone_20Regular } from './IcOrigonSlideMicrophone_20Regular';
+export { default as IcOrigonSlideMicrophone_24Filled } from './IcOrigonSlideMicrophone_24Filled';
+export { default as IcOrigonSlideMicrophone_24Regular } from './IcOrigonSlideMicrophone_24Regular';
+export { default as IcOrigonSlideMicrophone_32Filled } from './IcOrigonSlideMicrophone_32Filled';
+export { default as IcOrigonSlideMicrophone_32Regular } from './IcOrigonSlideMicrophone_32Regular';

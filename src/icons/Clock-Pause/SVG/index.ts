@@ -1,4 +1,4 @@
-export { default as IcFluentClockPause_20Filled } from './IcFluentClockPause_20Filled';
-export { default as IcFluentClockPause_20Regular } from './IcFluentClockPause_20Regular';
-export { default as IcFluentClockPause_24Filled } from './IcFluentClockPause_24Filled';
-export { default as IcFluentClockPause_24Regular } from './IcFluentClockPause_24Regular';
+export { default as IcOrigonClockPause_20Filled } from './IcOrigonClockPause_20Filled';
+export { default as IcOrigonClockPause_20Regular } from './IcOrigonClockPause_20Regular';
+export { default as IcOrigonClockPause_24Filled } from './IcOrigonClockPause_24Filled';
+export { default as IcOrigonClockPause_24Regular } from './IcOrigonClockPause_24Regular';

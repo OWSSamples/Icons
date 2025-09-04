@@ -1,6 +1,6 @@
-export { default as IcFluentPersonClock_16Filled } from './IcFluentPersonClock_16Filled';
-export { default as IcFluentPersonClock_16Regular } from './IcFluentPersonClock_16Regular';
-export { default as IcFluentPersonClock_20Filled } from './IcFluentPersonClock_20Filled';
-export { default as IcFluentPersonClock_20Regular } from './IcFluentPersonClock_20Regular';
-export { default as IcFluentPersonClock_24Filled } from './IcFluentPersonClock_24Filled';
-export { default as IcFluentPersonClock_24Regular } from './IcFluentPersonClock_24Regular';
+export { default as IcOrigonPersonClock_16Filled } from './IcOrigonPersonClock_16Filled';
+export { default as IcOrigonPersonClock_16Regular } from './IcOrigonPersonClock_16Regular';
+export { default as IcOrigonPersonClock_20Filled } from './IcOrigonPersonClock_20Filled';
+export { default as IcOrigonPersonClock_20Regular } from './IcOrigonPersonClock_20Regular';
+export { default as IcOrigonPersonClock_24Filled } from './IcOrigonPersonClock_24Filled';
+export { default as IcOrigonPersonClock_24Regular } from './IcOrigonPersonClock_24Regular';

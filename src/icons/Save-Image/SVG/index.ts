@@ -1,2 +1,2 @@
-export { default as IcFluentSaveImage_20Filled } from './IcFluentSaveImage_20Filled';
-export { default as IcFluentSaveImage_20Regular } from './IcFluentSaveImage_20Regular';
+export { default as IcOrigonSaveImage_20Filled } from './IcOrigonSaveImage_20Filled';
+export { default as IcOrigonSaveImage_20Regular } from './IcOrigonSaveImage_20Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentGridDots_20Filled } from './IcFluentGridDots_20Filled';
-export { default as IcFluentGridDots_20Regular } from './IcFluentGridDots_20Regular';
-export { default as IcFluentGridDots_24Filled } from './IcFluentGridDots_24Filled';
-export { default as IcFluentGridDots_24Regular } from './IcFluentGridDots_24Regular';
-export { default as IcFluentGridDots_28Filled } from './IcFluentGridDots_28Filled';
-export { default as IcFluentGridDots_28Regular } from './IcFluentGridDots_28Regular';
+export { default as IcOrigonGridDots_20Filled } from './IcOrigonGridDots_20Filled';
+export { default as IcOrigonGridDots_20Regular } from './IcOrigonGridDots_20Regular';
+export { default as IcOrigonGridDots_24Filled } from './IcOrigonGridDots_24Filled';
+export { default as IcOrigonGridDots_24Regular } from './IcOrigonGridDots_24Regular';
+export { default as IcOrigonGridDots_28Filled } from './IcOrigonGridDots_28Filled';
+export { default as IcOrigonGridDots_28Regular } from './IcOrigonGridDots_28Regular';

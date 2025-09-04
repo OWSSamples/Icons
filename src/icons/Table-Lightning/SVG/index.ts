@@ -1,8 +1,8 @@
-export { default as IcFluentTableLightning_16Filled } from './IcFluentTableLightning_16Filled';
-export { default as IcFluentTableLightning_16Regular } from './IcFluentTableLightning_16Regular';
-export { default as IcFluentTableLightning_20Filled } from './IcFluentTableLightning_20Filled';
-export { default as IcFluentTableLightning_20Regular } from './IcFluentTableLightning_20Regular';
-export { default as IcFluentTableLightning_24Filled } from './IcFluentTableLightning_24Filled';
-export { default as IcFluentTableLightning_24Regular } from './IcFluentTableLightning_24Regular';
-export { default as IcFluentTableLightning_28Filled } from './IcFluentTableLightning_28Filled';
-export { default as IcFluentTableLightning_28Regular } from './IcFluentTableLightning_28Regular';
+export { default as IcOrigonTableLightning_16Filled } from './IcOrigonTableLightning_16Filled';
+export { default as IcOrigonTableLightning_16Regular } from './IcOrigonTableLightning_16Regular';
+export { default as IcOrigonTableLightning_20Filled } from './IcOrigonTableLightning_20Filled';
+export { default as IcOrigonTableLightning_20Regular } from './IcOrigonTableLightning_20Regular';
+export { default as IcOrigonTableLightning_24Filled } from './IcOrigonTableLightning_24Filled';
+export { default as IcOrigonTableLightning_24Regular } from './IcOrigonTableLightning_24Regular';
+export { default as IcOrigonTableLightning_28Filled } from './IcOrigonTableLightning_28Filled';
+export { default as IcOrigonTableLightning_28Regular } from './IcOrigonTableLightning_28Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentHomeSplit_20Filled } from './IcFluentHomeSplit_20Filled';
-export { default as IcFluentHomeSplit_20Regular } from './IcFluentHomeSplit_20Regular';
-export { default as IcFluentHomeSplit_24Filled } from './IcFluentHomeSplit_24Filled';
-export { default as IcFluentHomeSplit_24Regular } from './IcFluentHomeSplit_24Regular';
-export { default as IcFluentHomeSplit_32Filled } from './IcFluentHomeSplit_32Filled';
-export { default as IcFluentHomeSplit_32Regular } from './IcFluentHomeSplit_32Regular';
-export { default as IcFluentHomeSplit_48Filled } from './IcFluentHomeSplit_48Filled';
-export { default as IcFluentHomeSplit_48Regular } from './IcFluentHomeSplit_48Regular';
+export { default as IcOrigonHomeSplit_20Filled } from './IcOrigonHomeSplit_20Filled';
+export { default as IcOrigonHomeSplit_20Regular } from './IcOrigonHomeSplit_20Regular';
+export { default as IcOrigonHomeSplit_24Filled } from './IcOrigonHomeSplit_24Filled';
+export { default as IcOrigonHomeSplit_24Regular } from './IcOrigonHomeSplit_24Regular';
+export { default as IcOrigonHomeSplit_32Filled } from './IcOrigonHomeSplit_32Filled';
+export { default as IcOrigonHomeSplit_32Regular } from './IcOrigonHomeSplit_32Regular';
+export { default as IcOrigonHomeSplit_48Filled } from './IcOrigonHomeSplit_48Filled';
+export { default as IcOrigonHomeSplit_48Regular } from './IcOrigonHomeSplit_48Regular';

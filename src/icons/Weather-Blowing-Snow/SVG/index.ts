@@ -1,6 +1,6 @@
-export { default as IcFluentWeatherBlowingSnow_20Filled } from './IcFluentWeatherBlowingSnow_20Filled';
-export { default as IcFluentWeatherBlowingSnow_20Regular } from './IcFluentWeatherBlowingSnow_20Regular';
-export { default as IcFluentWeatherBlowingSnow_24Filled } from './IcFluentWeatherBlowingSnow_24Filled';
-export { default as IcFluentWeatherBlowingSnow_24Regular } from './IcFluentWeatherBlowingSnow_24Regular';
-export { default as IcFluentWeatherBlowingSnow_48Filled } from './IcFluentWeatherBlowingSnow_48Filled';
-export { default as IcFluentWeatherBlowingSnow_48Regular } from './IcFluentWeatherBlowingSnow_48Regular';
+export { default as IcOrigonWeatherBlowingSnow_20Filled } from './IcOrigonWeatherBlowingSnow_20Filled';
+export { default as IcOrigonWeatherBlowingSnow_20Regular } from './IcOrigonWeatherBlowingSnow_20Regular';
+export { default as IcOrigonWeatherBlowingSnow_24Filled } from './IcOrigonWeatherBlowingSnow_24Filled';
+export { default as IcOrigonWeatherBlowingSnow_24Regular } from './IcOrigonWeatherBlowingSnow_24Regular';
+export { default as IcOrigonWeatherBlowingSnow_48Filled } from './IcOrigonWeatherBlowingSnow_48Filled';
+export { default as IcOrigonWeatherBlowingSnow_48Regular } from './IcOrigonWeatherBlowingSnow_48Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentPeopleTeamAdd_20Filled } from './IcFluentPeopleTeamAdd_20Filled';
-export { default as IcFluentPeopleTeamAdd_20Regular } from './IcFluentPeopleTeamAdd_20Regular';
-export { default as IcFluentPeopleTeamAdd_24Filled } from './IcFluentPeopleTeamAdd_24Filled';
-export { default as IcFluentPeopleTeamAdd_24Regular } from './IcFluentPeopleTeamAdd_24Regular';
+export { default as IcOrigonPeopleTeamAdd_20Filled } from './IcOrigonPeopleTeamAdd_20Filled';
+export { default as IcOrigonPeopleTeamAdd_20Regular } from './IcOrigonPeopleTeamAdd_20Regular';
+export { default as IcOrigonPeopleTeamAdd_24Filled } from './IcOrigonPeopleTeamAdd_24Filled';
+export { default as IcOrigonPeopleTeamAdd_24Regular } from './IcOrigonPeopleTeamAdd_24Regular';

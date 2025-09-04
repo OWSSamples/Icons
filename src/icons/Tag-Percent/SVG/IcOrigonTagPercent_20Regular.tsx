@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonTagPercent_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M13.999 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2m-2.87-5a2 2 0 0 0-1.426.584L3.02 9.249a2 2 0 0 0-.002 2.83l4.949 4.948a2 2 0 0 0 1.948.514 5.5 5.5 0 0 1-.496-.929 1 1 0 0 1-.745-.292l-4.949-4.948a1 1 0 0 1 .001-1.415l6.682-6.665A1 1 0 0 1 11.122 3l4.89.032a1 1 0 0 1 .994.999l.007 4.95a1 1 0 0 1-.161.546q.456.216.86.509a2 2 0 0 0 .3-1.057l-.006-4.95a2 2 0 0 0-1.987-1.997zM19 14.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0M11.5 13a1 1 0 1 0 2 0 1 1 0 0 0-2 0m5.348-.853a.5.5 0 0 0-.707 0l-3.996 3.996a.5.5 0 0 0 .707.707l3.996-3.996a.5.5 0 0 0 0-.707M16.5 15a1 1 0 1 0 0 2 1 1 0 0 0 0-2"/>
+  </IconBase>
+);
+
+export default IcOrigonTagPercent_20Regular;

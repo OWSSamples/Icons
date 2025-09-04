@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonCalendarArrowCounterclockwise_32Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M4 9a5 5 0 0 1 5-5h14a5 5 0 0 1 5 5v14a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5v-4a1 1 0 1 1 2 0v4a3 3 0 0 0 3 3h14a3 3 0 0 0 3-3V12H10.293a2.5 2.5 0 0 0 0-2H26V9a3 3 0 0 0-3-3H9a3 3 0 0 0-3 3v2.586l1.293-1.293a1 1 0 1 1 1.414 1.414l-3 3a1 1 0 0 1-1.414 0l-3-3a1 1 0 1 1 1.414-1.414L4 11.586zm6.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1.5 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m4 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3m1.5-6.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0m4 1.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3"/>
+  </IconBase>
+);
+
+export default IcOrigonCalendarArrowCounterclockwise_32Regular;

@@ -1,4 +1,4 @@
-export { default as IcFluentPaintBrushArrowUp_20Filled } from './IcFluentPaintBrushArrowUp_20Filled';
-export { default as IcFluentPaintBrushArrowUp_20Regular } from './IcFluentPaintBrushArrowUp_20Regular';
-export { default as IcFluentPaintBrushArrowUp_24Filled } from './IcFluentPaintBrushArrowUp_24Filled';
-export { default as IcFluentPaintBrushArrowUp_24Regular } from './IcFluentPaintBrushArrowUp_24Regular';
+export { default as IcOrigonPaintBrushArrowUp_20Filled } from './IcOrigonPaintBrushArrowUp_20Filled';
+export { default as IcOrigonPaintBrushArrowUp_20Regular } from './IcOrigonPaintBrushArrowUp_20Regular';
+export { default as IcOrigonPaintBrushArrowUp_24Filled } from './IcOrigonPaintBrushArrowUp_24Filled';
+export { default as IcOrigonPaintBrushArrowUp_24Regular } from './IcOrigonPaintBrushArrowUp_24Regular';

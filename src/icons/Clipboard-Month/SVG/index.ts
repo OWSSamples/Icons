@@ -1,6 +1,6 @@
-export { default as IcFluentClipboardMonth_16Filled } from './IcFluentClipboardMonth_16Filled';
-export { default as IcFluentClipboardMonth_16Regular } from './IcFluentClipboardMonth_16Regular';
-export { default as IcFluentClipboardMonth_20Filled } from './IcFluentClipboardMonth_20Filled';
-export { default as IcFluentClipboardMonth_20Regular } from './IcFluentClipboardMonth_20Regular';
-export { default as IcFluentClipboardMonth_24Filled } from './IcFluentClipboardMonth_24Filled';
-export { default as IcFluentClipboardMonth_24Regular } from './IcFluentClipboardMonth_24Regular';
+export { default as IcOrigonClipboardMonth_16Filled } from './IcOrigonClipboardMonth_16Filled';
+export { default as IcOrigonClipboardMonth_16Regular } from './IcOrigonClipboardMonth_16Regular';
+export { default as IcOrigonClipboardMonth_20Filled } from './IcOrigonClipboardMonth_20Filled';
+export { default as IcOrigonClipboardMonth_20Regular } from './IcOrigonClipboardMonth_20Regular';
+export { default as IcOrigonClipboardMonth_24Filled } from './IcOrigonClipboardMonth_24Filled';
+export { default as IcOrigonClipboardMonth_24Regular } from './IcOrigonClipboardMonth_24Regular';

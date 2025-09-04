@@ -1,4 +1,4 @@
-export { default as IcFluentBookmarkSearch_20Filled } from './IcFluentBookmarkSearch_20Filled';
-export { default as IcFluentBookmarkSearch_20Regular } from './IcFluentBookmarkSearch_20Regular';
-export { default as IcFluentBookmarkSearch_24Filled } from './IcFluentBookmarkSearch_24Filled';
-export { default as IcFluentBookmarkSearch_24Regular } from './IcFluentBookmarkSearch_24Regular';
+export { default as IcOrigonBookmarkSearch_20Filled } from './IcOrigonBookmarkSearch_20Filled';
+export { default as IcOrigonBookmarkSearch_20Regular } from './IcOrigonBookmarkSearch_20Regular';
+export { default as IcOrigonBookmarkSearch_24Filled } from './IcOrigonBookmarkSearch_24Filled';
+export { default as IcOrigonBookmarkSearch_24Regular } from './IcOrigonBookmarkSearch_24Regular';

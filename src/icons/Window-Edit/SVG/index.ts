@@ -1,4 +1,4 @@
-export { default as IcFluentWindowEdit_16Filled } from './IcFluentWindowEdit_16Filled';
-export { default as IcFluentWindowEdit_16Regular } from './IcFluentWindowEdit_16Regular';
-export { default as IcFluentWindowEdit_20Filled } from './IcFluentWindowEdit_20Filled';
-export { default as IcFluentWindowEdit_20Regular } from './IcFluentWindowEdit_20Regular';
+export { default as IcOrigonWindowEdit_16Filled } from './IcOrigonWindowEdit_16Filled';
+export { default as IcOrigonWindowEdit_16Regular } from './IcOrigonWindowEdit_16Regular';
+export { default as IcOrigonWindowEdit_20Filled } from './IcOrigonWindowEdit_20Filled';
+export { default as IcOrigonWindowEdit_20Regular } from './IcOrigonWindowEdit_20Regular';

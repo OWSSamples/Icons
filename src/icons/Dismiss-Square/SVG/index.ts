@@ -1,4 +1,4 @@
-export { default as IcFluentDismissSquare_20Filled } from './IcFluentDismissSquare_20Filled';
-export { default as IcFluentDismissSquare_20Regular } from './IcFluentDismissSquare_20Regular';
-export { default as IcFluentDismissSquare_24Filled } from './IcFluentDismissSquare_24Filled';
-export { default as IcFluentDismissSquare_24Regular } from './IcFluentDismissSquare_24Regular';
+export { default as IcOrigonDismissSquare_20Filled } from './IcOrigonDismissSquare_20Filled';
+export { default as IcOrigonDismissSquare_20Regular } from './IcOrigonDismissSquare_20Regular';
+export { default as IcOrigonDismissSquare_24Filled } from './IcOrigonDismissSquare_24Filled';
+export { default as IcOrigonDismissSquare_24Regular } from './IcOrigonDismissSquare_24Regular';

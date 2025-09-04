@@ -1,2 +1,2 @@
-export { default as IcFluentLineHorizontal_1DashDotDash_20Filled } from './IcFluentLineHorizontal_1DashDotDash_20Filled';
-export { default as IcFluentLineHorizontal_1DashDotDash_20Regular } from './IcFluentLineHorizontal_1DashDotDash_20Regular';
+export { default as IcOrigonLineHorizontal_1DashDotDash_20Filled } from './IcOrigonLineHorizontal_1DashDotDash_20Filled';
+export { default as IcOrigonLineHorizontal_1DashDotDash_20Regular } from './IcOrigonLineHorizontal_1DashDotDash_20Regular';

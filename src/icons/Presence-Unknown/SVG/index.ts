@@ -1,5 +1,5 @@
-export { default as IcFluentPresenceUnknown_10Regular } from './IcFluentPresenceUnknown_10Regular';
-export { default as IcFluentPresenceUnknown_12Regular } from './IcFluentPresenceUnknown_12Regular';
-export { default as IcFluentPresenceUnknown_16Regular } from './IcFluentPresenceUnknown_16Regular';
-export { default as IcFluentPresenceUnknown_20Regular } from './IcFluentPresenceUnknown_20Regular';
-export { default as IcFluentPresenceUnknown_24Regular } from './IcFluentPresenceUnknown_24Regular';
+export { default as IcOrigonPresenceUnknown_10Regular } from './IcOrigonPresenceUnknown_10Regular';
+export { default as IcOrigonPresenceUnknown_12Regular } from './IcOrigonPresenceUnknown_12Regular';
+export { default as IcOrigonPresenceUnknown_16Regular } from './IcOrigonPresenceUnknown_16Regular';
+export { default as IcOrigonPresenceUnknown_20Regular } from './IcOrigonPresenceUnknown_20Regular';
+export { default as IcOrigonPresenceUnknown_24Regular } from './IcOrigonPresenceUnknown_24Regular';

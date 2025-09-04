@@ -1,4 +1,4 @@
-export { default as IcFluentSlidePlay_20Filled } from './IcFluentSlidePlay_20Filled';
-export { default as IcFluentSlidePlay_20Regular } from './IcFluentSlidePlay_20Regular';
-export { default as IcFluentSlidePlay_24Filled } from './IcFluentSlidePlay_24Filled';
-export { default as IcFluentSlidePlay_24Regular } from './IcFluentSlidePlay_24Regular';
+export { default as IcOrigonSlidePlay_20Filled } from './IcOrigonSlidePlay_20Filled';
+export { default as IcOrigonSlidePlay_20Regular } from './IcOrigonSlidePlay_20Regular';
+export { default as IcOrigonSlidePlay_24Filled } from './IcOrigonSlidePlay_24Filled';
+export { default as IcOrigonSlidePlay_24Regular } from './IcOrigonSlidePlay_24Regular';

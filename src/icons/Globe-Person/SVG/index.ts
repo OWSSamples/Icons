@@ -1,4 +1,4 @@
-export { default as IcFluentGlobePerson_20Filled } from './IcFluentGlobePerson_20Filled';
-export { default as IcFluentGlobePerson_20Regular } from './IcFluentGlobePerson_20Regular';
-export { default as IcFluentGlobePerson_24Filled } from './IcFluentGlobePerson_24Filled';
-export { default as IcFluentGlobePerson_24Regular } from './IcFluentGlobePerson_24Regular';
+export { default as IcOrigonGlobePerson_20Filled } from './IcOrigonGlobePerson_20Filled';
+export { default as IcOrigonGlobePerson_20Regular } from './IcOrigonGlobePerson_20Regular';
+export { default as IcOrigonGlobePerson_24Filled } from './IcOrigonGlobePerson_24Filled';
+export { default as IcOrigonGlobePerson_24Regular } from './IcOrigonGlobePerson_24Regular';

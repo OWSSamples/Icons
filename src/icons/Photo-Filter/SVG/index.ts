@@ -1,4 +1,4 @@
-export { default as IcFluentPhotoFilter_20Filled } from './IcFluentPhotoFilter_20Filled';
-export { default as IcFluentPhotoFilter_20Regular } from './IcFluentPhotoFilter_20Regular';
-export { default as IcFluentPhotoFilter_24Filled } from './IcFluentPhotoFilter_24Filled';
-export { default as IcFluentPhotoFilter_24Regular } from './IcFluentPhotoFilter_24Regular';
+export { default as IcOrigonPhotoFilter_20Filled } from './IcOrigonPhotoFilter_20Filled';
+export { default as IcOrigonPhotoFilter_20Regular } from './IcOrigonPhotoFilter_20Regular';
+export { default as IcOrigonPhotoFilter_24Filled } from './IcOrigonPhotoFilter_24Filled';
+export { default as IcOrigonPhotoFilter_24Regular } from './IcOrigonPhotoFilter_24Regular';

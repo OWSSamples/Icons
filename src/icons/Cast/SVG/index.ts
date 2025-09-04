@@ -1,6 +1,6 @@
-export { default as IcFluentCast_20Filled } from './IcFluentCast_20Filled';
-export { default as IcFluentCast_20Regular } from './IcFluentCast_20Regular';
-export { default as IcFluentCast_24Filled } from './IcFluentCast_24Filled';
-export { default as IcFluentCast_24Regular } from './IcFluentCast_24Regular';
-export { default as IcFluentCast_28Filled } from './IcFluentCast_28Filled';
-export { default as IcFluentCast_28Regular } from './IcFluentCast_28Regular';
+export { default as IcOrigonCast_20Filled } from './IcOrigonCast_20Filled';
+export { default as IcOrigonCast_20Regular } from './IcOrigonCast_20Regular';
+export { default as IcOrigonCast_24Filled } from './IcOrigonCast_24Filled';
+export { default as IcOrigonCast_24Regular } from './IcOrigonCast_24Regular';
+export { default as IcOrigonCast_28Filled } from './IcOrigonCast_28Filled';
+export { default as IcOrigonCast_28Regular } from './IcOrigonCast_28Regular';

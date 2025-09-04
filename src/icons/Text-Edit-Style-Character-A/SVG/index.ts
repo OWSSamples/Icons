@@ -1,2 +1,2 @@
-export { default as IcFluentTextEditStyleCharacterA_32Filled } from './IcFluentTextEditStyleCharacterA_32Filled';
-export { default as IcFluentTextEditStyleCharacterA_32Regular } from './IcFluentTextEditStyleCharacterA_32Regular';
+export { default as IcOrigonTextEditStyleCharacterA_32Filled } from './IcOrigonTextEditStyleCharacterA_32Filled';
+export { default as IcOrigonTextEditStyleCharacterA_32Regular } from './IcOrigonTextEditStyleCharacterA_32Regular';

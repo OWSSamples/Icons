@@ -1,4 +1,4 @@
-export { default as IcFluentVoicemailArrowForward_16Filled } from './IcFluentVoicemailArrowForward_16Filled';
-export { default as IcFluentVoicemailArrowForward_16Regular } from './IcFluentVoicemailArrowForward_16Regular';
-export { default as IcFluentVoicemailArrowForward_20Filled } from './IcFluentVoicemailArrowForward_20Filled';
-export { default as IcFluentVoicemailArrowForward_20Regular } from './IcFluentVoicemailArrowForward_20Regular';
+export { default as IcOrigonVoicemailArrowForward_16Filled } from './IcOrigonVoicemailArrowForward_16Filled';
+export { default as IcOrigonVoicemailArrowForward_16Regular } from './IcOrigonVoicemailArrowForward_16Regular';
+export { default as IcOrigonVoicemailArrowForward_20Filled } from './IcOrigonVoicemailArrowForward_20Filled';
+export { default as IcOrigonVoicemailArrowForward_20Regular } from './IcOrigonVoicemailArrowForward_20Regular';

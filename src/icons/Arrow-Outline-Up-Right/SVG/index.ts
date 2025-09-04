@@ -1,8 +1,8 @@
-export { default as IcFluentArrowOutlineUpRight_20Filled } from './IcFluentArrowOutlineUpRight_20Filled';
-export { default as IcFluentArrowOutlineUpRight_20Regular } from './IcFluentArrowOutlineUpRight_20Regular';
-export { default as IcFluentArrowOutlineUpRight_24Filled } from './IcFluentArrowOutlineUpRight_24Filled';
-export { default as IcFluentArrowOutlineUpRight_24Regular } from './IcFluentArrowOutlineUpRight_24Regular';
-export { default as IcFluentArrowOutlineUpRight_32Filled } from './IcFluentArrowOutlineUpRight_32Filled';
-export { default as IcFluentArrowOutlineUpRight_32Regular } from './IcFluentArrowOutlineUpRight_32Regular';
-export { default as IcFluentArrowOutlineUpRight_48Filled } from './IcFluentArrowOutlineUpRight_48Filled';
-export { default as IcFluentArrowOutlineUpRight_48Regular } from './IcFluentArrowOutlineUpRight_48Regular';
+export { default as IcOrigonArrowOutlineUpRight_20Filled } from './IcOrigonArrowOutlineUpRight_20Filled';
+export { default as IcOrigonArrowOutlineUpRight_20Regular } from './IcOrigonArrowOutlineUpRight_20Regular';
+export { default as IcOrigonArrowOutlineUpRight_24Filled } from './IcOrigonArrowOutlineUpRight_24Filled';
+export { default as IcOrigonArrowOutlineUpRight_24Regular } from './IcOrigonArrowOutlineUpRight_24Regular';
+export { default as IcOrigonArrowOutlineUpRight_32Filled } from './IcOrigonArrowOutlineUpRight_32Filled';
+export { default as IcOrigonArrowOutlineUpRight_32Regular } from './IcOrigonArrowOutlineUpRight_32Regular';
+export { default as IcOrigonArrowOutlineUpRight_48Filled } from './IcOrigonArrowOutlineUpRight_48Filled';
+export { default as IcOrigonArrowOutlineUpRight_48Regular } from './IcOrigonArrowOutlineUpRight_48Regular';

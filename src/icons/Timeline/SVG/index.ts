@@ -1,4 +1,4 @@
-export { default as IcFluentTimeline_20Filled } from './IcFluentTimeline_20Filled';
-export { default as IcFluentTimeline_20Regular } from './IcFluentTimeline_20Regular';
-export { default as IcFluentTimeline_24Filled } from './IcFluentTimeline_24Filled';
-export { default as IcFluentTimeline_24Regular } from './IcFluentTimeline_24Regular';
+export { default as IcOrigonTimeline_20Filled } from './IcOrigonTimeline_20Filled';
+export { default as IcOrigonTimeline_20Regular } from './IcOrigonTimeline_20Regular';
+export { default as IcOrigonTimeline_24Filled } from './IcOrigonTimeline_24Filled';
+export { default as IcOrigonTimeline_24Regular } from './IcOrigonTimeline_24Regular';

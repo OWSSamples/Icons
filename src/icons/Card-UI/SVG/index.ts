@@ -1,4 +1,4 @@
-export { default as IcFluentCardUi_20Filled } from './IcFluentCardUi_20Filled';
-export { default as IcFluentCardUi_20Regular } from './IcFluentCardUi_20Regular';
-export { default as IcFluentCardUi_24Filled } from './IcFluentCardUi_24Filled';
-export { default as IcFluentCardUi_24Regular } from './IcFluentCardUi_24Regular';
+export { default as IcOrigonCardUi_20Filled } from './IcOrigonCardUi_20Filled';
+export { default as IcOrigonCardUi_20Regular } from './IcOrigonCardUi_20Regular';
+export { default as IcOrigonCardUi_24Filled } from './IcOrigonCardUi_24Filled';
+export { default as IcOrigonCardUi_24Regular } from './IcOrigonCardUi_24Regular';

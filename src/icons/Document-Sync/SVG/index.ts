@@ -1,8 +1,8 @@
-export { default as IcFluentDocumentSync_16Filled } from './IcFluentDocumentSync_16Filled';
-export { default as IcFluentDocumentSync_16Regular } from './IcFluentDocumentSync_16Regular';
-export { default as IcFluentDocumentSync_20Filled } from './IcFluentDocumentSync_20Filled';
-export { default as IcFluentDocumentSync_20Regular } from './IcFluentDocumentSync_20Regular';
-export { default as IcFluentDocumentSync_24Filled } from './IcFluentDocumentSync_24Filled';
-export { default as IcFluentDocumentSync_24Regular } from './IcFluentDocumentSync_24Regular';
-export { default as IcFluentDocumentSync_32Filled } from './IcFluentDocumentSync_32Filled';
-export { default as IcFluentDocumentSync_32Regular } from './IcFluentDocumentSync_32Regular';
+export { default as IcOrigonDocumentSync_16Filled } from './IcOrigonDocumentSync_16Filled';
+export { default as IcOrigonDocumentSync_16Regular } from './IcOrigonDocumentSync_16Regular';
+export { default as IcOrigonDocumentSync_20Filled } from './IcOrigonDocumentSync_20Filled';
+export { default as IcOrigonDocumentSync_20Regular } from './IcOrigonDocumentSync_20Regular';
+export { default as IcOrigonDocumentSync_24Filled } from './IcOrigonDocumentSync_24Filled';
+export { default as IcOrigonDocumentSync_24Regular } from './IcOrigonDocumentSync_24Regular';
+export { default as IcOrigonDocumentSync_32Filled } from './IcOrigonDocumentSync_32Filled';
+export { default as IcOrigonDocumentSync_32Regular } from './IcOrigonDocumentSync_32Regular';

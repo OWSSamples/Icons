@@ -1,6 +1,6 @@
-export { default as IcFluentBackspace_16Filled } from './IcFluentBackspace_16Filled';
-export { default as IcFluentBackspace_16Regular } from './IcFluentBackspace_16Regular';
-export { default as IcFluentBackspace_20Filled } from './IcFluentBackspace_20Filled';
-export { default as IcFluentBackspace_20Regular } from './IcFluentBackspace_20Regular';
-export { default as IcFluentBackspace_24Filled } from './IcFluentBackspace_24Filled';
-export { default as IcFluentBackspace_24Regular } from './IcFluentBackspace_24Regular';
+export { default as IcOrigonBackspace_16Filled } from './IcOrigonBackspace_16Filled';
+export { default as IcOrigonBackspace_16Regular } from './IcOrigonBackspace_16Regular';
+export { default as IcOrigonBackspace_20Filled } from './IcOrigonBackspace_20Filled';
+export { default as IcOrigonBackspace_20Regular } from './IcOrigonBackspace_20Regular';
+export { default as IcOrigonBackspace_24Filled } from './IcOrigonBackspace_24Filled';
+export { default as IcOrigonBackspace_24Regular } from './IcOrigonBackspace_24Regular';

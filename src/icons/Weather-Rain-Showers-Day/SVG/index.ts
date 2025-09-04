@@ -1,6 +1,6 @@
-export { default as IcFluentWeatherRainShowersDay_20Filled } from './IcFluentWeatherRainShowersDay_20Filled';
-export { default as IcFluentWeatherRainShowersDay_20Regular } from './IcFluentWeatherRainShowersDay_20Regular';
-export { default as IcFluentWeatherRainShowersDay_24Filled } from './IcFluentWeatherRainShowersDay_24Filled';
-export { default as IcFluentWeatherRainShowersDay_24Regular } from './IcFluentWeatherRainShowersDay_24Regular';
-export { default as IcFluentWeatherRainShowersDay_48Filled } from './IcFluentWeatherRainShowersDay_48Filled';
-export { default as IcFluentWeatherRainShowersDay_48Regular } from './IcFluentWeatherRainShowersDay_48Regular';
+export { default as IcOrigonWeatherRainShowersDay_20Filled } from './IcOrigonWeatherRainShowersDay_20Filled';
+export { default as IcOrigonWeatherRainShowersDay_20Regular } from './IcOrigonWeatherRainShowersDay_20Regular';
+export { default as IcOrigonWeatherRainShowersDay_24Filled } from './IcOrigonWeatherRainShowersDay_24Filled';
+export { default as IcOrigonWeatherRainShowersDay_24Regular } from './IcOrigonWeatherRainShowersDay_24Regular';
+export { default as IcOrigonWeatherRainShowersDay_48Filled } from './IcOrigonWeatherRainShowersDay_48Filled';
+export { default as IcOrigonWeatherRainShowersDay_48Regular } from './IcOrigonWeatherRainShowersDay_48Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentCd_16Filled } from './IcFluentCd_16Filled';
-export { default as IcFluentCd_16Regular } from './IcFluentCd_16Regular';
+export { default as IcOrigonCd_16Filled } from './IcOrigonCd_16Filled';
+export { default as IcOrigonCd_16Regular } from './IcOrigonCd_16Regular';

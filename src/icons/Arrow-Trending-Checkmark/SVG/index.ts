@@ -1,4 +1,4 @@
-export { default as IcFluentArrowTrendingCheckmark_20Filled } from './IcFluentArrowTrendingCheckmark_20Filled';
-export { default as IcFluentArrowTrendingCheckmark_20Regular } from './IcFluentArrowTrendingCheckmark_20Regular';
-export { default as IcFluentArrowTrendingCheckmark_24Filled } from './IcFluentArrowTrendingCheckmark_24Filled';
-export { default as IcFluentArrowTrendingCheckmark_24Regular } from './IcFluentArrowTrendingCheckmark_24Regular';
+export { default as IcOrigonArrowTrendingCheckmark_20Filled } from './IcOrigonArrowTrendingCheckmark_20Filled';
+export { default as IcOrigonArrowTrendingCheckmark_20Regular } from './IcOrigonArrowTrendingCheckmark_20Regular';
+export { default as IcOrigonArrowTrendingCheckmark_24Filled } from './IcOrigonArrowTrendingCheckmark_24Filled';
+export { default as IcOrigonArrowTrendingCheckmark_24Regular } from './IcOrigonArrowTrendingCheckmark_24Regular';

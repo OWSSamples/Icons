@@ -1,6 +1,6 @@
-export { default as IcFluentSim_16Filled } from './IcFluentSim_16Filled';
-export { default as IcFluentSim_16Regular } from './IcFluentSim_16Regular';
-export { default as IcFluentSim_20Filled } from './IcFluentSim_20Filled';
-export { default as IcFluentSim_20Regular } from './IcFluentSim_20Regular';
-export { default as IcFluentSim_24Filled } from './IcFluentSim_24Filled';
-export { default as IcFluentSim_24Regular } from './IcFluentSim_24Regular';
+export { default as IcOrigonSim_16Filled } from './IcOrigonSim_16Filled';
+export { default as IcOrigonSim_16Regular } from './IcOrigonSim_16Regular';
+export { default as IcOrigonSim_20Filled } from './IcOrigonSim_20Filled';
+export { default as IcOrigonSim_20Regular } from './IcOrigonSim_20Regular';
+export { default as IcOrigonSim_24Filled } from './IcOrigonSim_24Filled';
+export { default as IcOrigonSim_24Regular } from './IcOrigonSim_24Regular';

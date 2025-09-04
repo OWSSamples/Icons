@@ -1,4 +1,4 @@
-export { default as IcFluentPlugConnectedSettings_20Filled } from './IcFluentPlugConnectedSettings_20Filled';
-export { default as IcFluentPlugConnectedSettings_20Regular } from './IcFluentPlugConnectedSettings_20Regular';
-export { default as IcFluentPlugConnectedSettings_24Filled } from './IcFluentPlugConnectedSettings_24Filled';
-export { default as IcFluentPlugConnectedSettings_24Regular } from './IcFluentPlugConnectedSettings_24Regular';
+export { default as IcOrigonPlugConnectedSettings_20Filled } from './IcOrigonPlugConnectedSettings_20Filled';
+export { default as IcOrigonPlugConnectedSettings_20Regular } from './IcOrigonPlugConnectedSettings_20Regular';
+export { default as IcOrigonPlugConnectedSettings_24Filled } from './IcOrigonPlugConnectedSettings_24Filled';
+export { default as IcOrigonPlugConnectedSettings_24Regular } from './IcOrigonPlugConnectedSettings_24Regular';

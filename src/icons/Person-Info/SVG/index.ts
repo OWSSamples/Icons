@@ -1,6 +1,6 @@
-export { default as IcFluentPersonInfo_16Filled } from './IcFluentPersonInfo_16Filled';
-export { default as IcFluentPersonInfo_16Regular } from './IcFluentPersonInfo_16Regular';
-export { default as IcFluentPersonInfo_20Filled } from './IcFluentPersonInfo_20Filled';
-export { default as IcFluentPersonInfo_20Regular } from './IcFluentPersonInfo_20Regular';
-export { default as IcFluentPersonInfo_24Filled } from './IcFluentPersonInfo_24Filled';
-export { default as IcFluentPersonInfo_24Regular } from './IcFluentPersonInfo_24Regular';
+export { default as IcOrigonPersonInfo_16Filled } from './IcOrigonPersonInfo_16Filled';
+export { default as IcOrigonPersonInfo_16Regular } from './IcOrigonPersonInfo_16Regular';
+export { default as IcOrigonPersonInfo_20Filled } from './IcOrigonPersonInfo_20Filled';
+export { default as IcOrigonPersonInfo_20Regular } from './IcOrigonPersonInfo_20Regular';
+export { default as IcOrigonPersonInfo_24Filled } from './IcOrigonPersonInfo_24Filled';
+export { default as IcOrigonPersonInfo_24Regular } from './IcOrigonPersonInfo_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentTextBulletListSquarePerson_20Filled } from './IcFluentTextBulletListSquarePerson_20Filled';
-export { default as IcFluentTextBulletListSquarePerson_20Regular } from './IcFluentTextBulletListSquarePerson_20Regular';
-export { default as IcFluentTextBulletListSquarePerson_32Filled } from './IcFluentTextBulletListSquarePerson_32Filled';
-export { default as IcFluentTextBulletListSquarePerson_32Regular } from './IcFluentTextBulletListSquarePerson_32Regular';
+export { default as IcOrigonTextBulletListSquarePerson_20Filled } from './IcOrigonTextBulletListSquarePerson_20Filled';
+export { default as IcOrigonTextBulletListSquarePerson_20Regular } from './IcOrigonTextBulletListSquarePerson_20Regular';
+export { default as IcOrigonTextBulletListSquarePerson_32Filled } from './IcOrigonTextBulletListSquarePerson_32Filled';
+export { default as IcOrigonTextBulletListSquarePerson_32Regular } from './IcOrigonTextBulletListSquarePerson_32Regular';

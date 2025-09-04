@@ -1,6 +1,6 @@
-export { default as IcFluentCircleMultipleConcentric_16Filled } from './IcFluentCircleMultipleConcentric_16Filled';
-export { default as IcFluentCircleMultipleConcentric_16Regular } from './IcFluentCircleMultipleConcentric_16Regular';
-export { default as IcFluentCircleMultipleConcentric_20Filled } from './IcFluentCircleMultipleConcentric_20Filled';
-export { default as IcFluentCircleMultipleConcentric_20Regular } from './IcFluentCircleMultipleConcentric_20Regular';
-export { default as IcFluentCircleMultipleConcentric_24Filled } from './IcFluentCircleMultipleConcentric_24Filled';
-export { default as IcFluentCircleMultipleConcentric_24Regular } from './IcFluentCircleMultipleConcentric_24Regular';
+export { default as IcOrigonCircleMultipleConcentric_16Filled } from './IcOrigonCircleMultipleConcentric_16Filled';
+export { default as IcOrigonCircleMultipleConcentric_16Regular } from './IcOrigonCircleMultipleConcentric_16Regular';
+export { default as IcOrigonCircleMultipleConcentric_20Filled } from './IcOrigonCircleMultipleConcentric_20Filled';
+export { default as IcOrigonCircleMultipleConcentric_20Regular } from './IcOrigonCircleMultipleConcentric_20Regular';
+export { default as IcOrigonCircleMultipleConcentric_24Filled } from './IcOrigonCircleMultipleConcentric_24Filled';
+export { default as IcOrigonCircleMultipleConcentric_24Regular } from './IcOrigonCircleMultipleConcentric_24Regular';

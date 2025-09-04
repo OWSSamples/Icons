@@ -1,2 +1,2 @@
-export { default as IcFluentWindowHeaderVertical_20Filled } from './IcFluentWindowHeaderVertical_20Filled';
-export { default as IcFluentWindowHeaderVertical_20Regular } from './IcFluentWindowHeaderVertical_20Regular';
+export { default as IcOrigonWindowHeaderVertical_20Filled } from './IcOrigonWindowHeaderVertical_20Filled';
+export { default as IcOrigonWindowHeaderVertical_20Regular } from './IcOrigonWindowHeaderVertical_20Regular';

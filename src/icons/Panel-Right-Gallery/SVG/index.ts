@@ -1,8 +1,8 @@
-export { default as IcFluentPanelRightGallery_16Filled } from './IcFluentPanelRightGallery_16Filled';
-export { default as IcFluentPanelRightGallery_16Regular } from './IcFluentPanelRightGallery_16Regular';
-export { default as IcFluentPanelRightGallery_20Filled } from './IcFluentPanelRightGallery_20Filled';
-export { default as IcFluentPanelRightGallery_20Regular } from './IcFluentPanelRightGallery_20Regular';
-export { default as IcFluentPanelRightGallery_24Filled } from './IcFluentPanelRightGallery_24Filled';
-export { default as IcFluentPanelRightGallery_24Regular } from './IcFluentPanelRightGallery_24Regular';
-export { default as IcFluentPanelRightGallery_28Filled } from './IcFluentPanelRightGallery_28Filled';
-export { default as IcFluentPanelRightGallery_28Regular } from './IcFluentPanelRightGallery_28Regular';
+export { default as IcOrigonPanelRightGallery_16Filled } from './IcOrigonPanelRightGallery_16Filled';
+export { default as IcOrigonPanelRightGallery_16Regular } from './IcOrigonPanelRightGallery_16Regular';
+export { default as IcOrigonPanelRightGallery_20Filled } from './IcOrigonPanelRightGallery_20Filled';
+export { default as IcOrigonPanelRightGallery_20Regular } from './IcOrigonPanelRightGallery_20Regular';
+export { default as IcOrigonPanelRightGallery_24Filled } from './IcOrigonPanelRightGallery_24Filled';
+export { default as IcOrigonPanelRightGallery_24Regular } from './IcOrigonPanelRightGallery_24Regular';
+export { default as IcOrigonPanelRightGallery_28Filled } from './IcOrigonPanelRightGallery_28Filled';
+export { default as IcOrigonPanelRightGallery_28Regular } from './IcOrigonPanelRightGallery_28Regular';

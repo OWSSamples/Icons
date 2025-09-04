@@ -1,4 +1,4 @@
-export { default as IcFluentReadingModeMobile_20Filled } from './IcFluentReadingModeMobile_20Filled';
-export { default as IcFluentReadingModeMobile_20Regular } from './IcFluentReadingModeMobile_20Regular';
-export { default as IcFluentReadingModeMobile_24Filled } from './IcFluentReadingModeMobile_24Filled';
-export { default as IcFluentReadingModeMobile_24Regular } from './IcFluentReadingModeMobile_24Regular';
+export { default as IcOrigonReadingModeMobile_20Filled } from './IcOrigonReadingModeMobile_20Filled';
+export { default as IcOrigonReadingModeMobile_20Regular } from './IcOrigonReadingModeMobile_20Regular';
+export { default as IcOrigonReadingModeMobile_24Filled } from './IcOrigonReadingModeMobile_24Filled';
+export { default as IcOrigonReadingModeMobile_24Regular } from './IcOrigonReadingModeMobile_24Regular';

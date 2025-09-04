@@ -1,4 +1,4 @@
-export { default as IcFluentRemote_16Filled } from './IcFluentRemote_16Filled';
-export { default as IcFluentRemote_16Regular } from './IcFluentRemote_16Regular';
-export { default as IcFluentRemote_20Filled } from './IcFluentRemote_20Filled';
-export { default as IcFluentRemote_20Regular } from './IcFluentRemote_20Regular';
+export { default as IcOrigonRemote_16Filled } from './IcOrigonRemote_16Filled';
+export { default as IcOrigonRemote_16Regular } from './IcOrigonRemote_16Regular';
+export { default as IcOrigonRemote_20Filled } from './IcOrigonRemote_20Filled';
+export { default as IcOrigonRemote_20Regular } from './IcOrigonRemote_20Regular';

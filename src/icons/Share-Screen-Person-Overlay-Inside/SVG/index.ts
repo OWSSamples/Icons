@@ -1,8 +1,8 @@
-export { default as IcFluentShareScreenPersonOverlayInside_16Filled } from './IcFluentShareScreenPersonOverlayInside_16Filled';
-export { default as IcFluentShareScreenPersonOverlayInside_16Regular } from './IcFluentShareScreenPersonOverlayInside_16Regular';
-export { default as IcFluentShareScreenPersonOverlayInside_20Filled } from './IcFluentShareScreenPersonOverlayInside_20Filled';
-export { default as IcFluentShareScreenPersonOverlayInside_20Regular } from './IcFluentShareScreenPersonOverlayInside_20Regular';
-export { default as IcFluentShareScreenPersonOverlayInside_24Filled } from './IcFluentShareScreenPersonOverlayInside_24Filled';
-export { default as IcFluentShareScreenPersonOverlayInside_24Regular } from './IcFluentShareScreenPersonOverlayInside_24Regular';
-export { default as IcFluentShareScreenPersonOverlayInside_28Filled } from './IcFluentShareScreenPersonOverlayInside_28Filled';
-export { default as IcFluentShareScreenPersonOverlayInside_28Regular } from './IcFluentShareScreenPersonOverlayInside_28Regular';
+export { default as IcOrigonShareScreenPersonOverlayInside_16Filled } from './IcOrigonShareScreenPersonOverlayInside_16Filled';
+export { default as IcOrigonShareScreenPersonOverlayInside_16Regular } from './IcOrigonShareScreenPersonOverlayInside_16Regular';
+export { default as IcOrigonShareScreenPersonOverlayInside_20Filled } from './IcOrigonShareScreenPersonOverlayInside_20Filled';
+export { default as IcOrigonShareScreenPersonOverlayInside_20Regular } from './IcOrigonShareScreenPersonOverlayInside_20Regular';
+export { default as IcOrigonShareScreenPersonOverlayInside_24Filled } from './IcOrigonShareScreenPersonOverlayInside_24Filled';
+export { default as IcOrigonShareScreenPersonOverlayInside_24Regular } from './IcOrigonShareScreenPersonOverlayInside_24Regular';
+export { default as IcOrigonShareScreenPersonOverlayInside_28Filled } from './IcOrigonShareScreenPersonOverlayInside_28Filled';
+export { default as IcOrigonShareScreenPersonOverlayInside_28Regular } from './IcOrigonShareScreenPersonOverlayInside_28Regular';

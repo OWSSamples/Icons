@@ -1,4 +1,4 @@
-export { default as IcFluentBookDismiss_16Filled } from './IcFluentBookDismiss_16Filled';
-export { default as IcFluentBookDismiss_16Regular } from './IcFluentBookDismiss_16Regular';
-export { default as IcFluentBookDismiss_20Filled } from './IcFluentBookDismiss_20Filled';
-export { default as IcFluentBookDismiss_20Regular } from './IcFluentBookDismiss_20Regular';
+export { default as IcOrigonBookDismiss_16Filled } from './IcOrigonBookDismiss_16Filled';
+export { default as IcOrigonBookDismiss_16Regular } from './IcOrigonBookDismiss_16Regular';
+export { default as IcOrigonBookDismiss_20Filled } from './IcOrigonBookDismiss_20Filled';
+export { default as IcOrigonBookDismiss_20Regular } from './IcOrigonBookDismiss_20Regular';

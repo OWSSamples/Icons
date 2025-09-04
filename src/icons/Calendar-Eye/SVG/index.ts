@@ -1,2 +1,2 @@
-export { default as IcFluentCalendarEye_20Filled } from './IcFluentCalendarEye_20Filled';
-export { default as IcFluentCalendarEye_20Regular } from './IcFluentCalendarEye_20Regular';
+export { default as IcOrigonCalendarEye_20Filled } from './IcOrigonCalendarEye_20Filled';
+export { default as IcOrigonCalendarEye_20Regular } from './IcOrigonCalendarEye_20Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentBorderAll_16Filled } from './IcFluentBorderAll_16Filled';
-export { default as IcFluentBorderAll_16Regular } from './IcFluentBorderAll_16Regular';
-export { default as IcFluentBorderAll_20Filled } from './IcFluentBorderAll_20Filled';
-export { default as IcFluentBorderAll_20Regular } from './IcFluentBorderAll_20Regular';
-export { default as IcFluentBorderAll_24Filled } from './IcFluentBorderAll_24Filled';
-export { default as IcFluentBorderAll_24Regular } from './IcFluentBorderAll_24Regular';
+export { default as IcOrigonBorderAll_16Filled } from './IcOrigonBorderAll_16Filled';
+export { default as IcOrigonBorderAll_16Regular } from './IcOrigonBorderAll_16Regular';
+export { default as IcOrigonBorderAll_20Filled } from './IcOrigonBorderAll_20Filled';
+export { default as IcOrigonBorderAll_20Regular } from './IcOrigonBorderAll_20Regular';
+export { default as IcOrigonBorderAll_24Filled } from './IcOrigonBorderAll_24Filled';
+export { default as IcOrigonBorderAll_24Regular } from './IcOrigonBorderAll_24Regular';

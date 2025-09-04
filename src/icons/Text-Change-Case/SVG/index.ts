@@ -1,6 +1,6 @@
-export { default as IcFluentTextChangeCase_16Filled } from './IcFluentTextChangeCase_16Filled';
-export { default as IcFluentTextChangeCase_16Regular } from './IcFluentTextChangeCase_16Regular';
-export { default as IcFluentTextChangeCase_20Filled } from './IcFluentTextChangeCase_20Filled';
-export { default as IcFluentTextChangeCase_20Regular } from './IcFluentTextChangeCase_20Regular';
-export { default as IcFluentTextChangeCase_24Filled } from './IcFluentTextChangeCase_24Filled';
-export { default as IcFluentTextChangeCase_24Regular } from './IcFluentTextChangeCase_24Regular';
+export { default as IcOrigonTextChangeCase_16Filled } from './IcOrigonTextChangeCase_16Filled';
+export { default as IcOrigonTextChangeCase_16Regular } from './IcOrigonTextChangeCase_16Regular';
+export { default as IcOrigonTextChangeCase_20Filled } from './IcOrigonTextChangeCase_20Filled';
+export { default as IcOrigonTextChangeCase_20Regular } from './IcOrigonTextChangeCase_20Regular';
+export { default as IcOrigonTextChangeCase_24Filled } from './IcOrigonTextChangeCase_24Filled';
+export { default as IcOrigonTextChangeCase_24Regular } from './IcOrigonTextChangeCase_24Regular';

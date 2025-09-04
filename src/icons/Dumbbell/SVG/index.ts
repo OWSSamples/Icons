@@ -1,8 +1,8 @@
-export { default as IcFluentDumbbell_16Filled } from './IcFluentDumbbell_16Filled';
-export { default as IcFluentDumbbell_16Regular } from './IcFluentDumbbell_16Regular';
-export { default as IcFluentDumbbell_20Filled } from './IcFluentDumbbell_20Filled';
-export { default as IcFluentDumbbell_20Regular } from './IcFluentDumbbell_20Regular';
-export { default as IcFluentDumbbell_24Filled } from './IcFluentDumbbell_24Filled';
-export { default as IcFluentDumbbell_24Regular } from './IcFluentDumbbell_24Regular';
-export { default as IcFluentDumbbell_28Filled } from './IcFluentDumbbell_28Filled';
-export { default as IcFluentDumbbell_28Regular } from './IcFluentDumbbell_28Regular';
+export { default as IcOrigonDumbbell_16Filled } from './IcOrigonDumbbell_16Filled';
+export { default as IcOrigonDumbbell_16Regular } from './IcOrigonDumbbell_16Regular';
+export { default as IcOrigonDumbbell_20Filled } from './IcOrigonDumbbell_20Filled';
+export { default as IcOrigonDumbbell_20Regular } from './IcOrigonDumbbell_20Regular';
+export { default as IcOrigonDumbbell_24Filled } from './IcOrigonDumbbell_24Filled';
+export { default as IcOrigonDumbbell_24Regular } from './IcOrigonDumbbell_24Regular';
+export { default as IcOrigonDumbbell_28Filled } from './IcOrigonDumbbell_28Filled';
+export { default as IcOrigonDumbbell_28Regular } from './IcOrigonDumbbell_28Regular';

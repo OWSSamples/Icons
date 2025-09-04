@@ -1,4 +1,4 @@
-export { default as IcFluentTableSparkle_20Filled } from './IcFluentTableSparkle_20Filled';
-export { default as IcFluentTableSparkle_20Regular } from './IcFluentTableSparkle_20Regular';
-export { default as IcFluentTableSparkle_24Filled } from './IcFluentTableSparkle_24Filled';
-export { default as IcFluentTableSparkle_24Regular } from './IcFluentTableSparkle_24Regular';
+export { default as IcOrigonTableSparkle_20Filled } from './IcOrigonTableSparkle_20Filled';
+export { default as IcOrigonTableSparkle_20Regular } from './IcOrigonTableSparkle_20Regular';
+export { default as IcOrigonTableSparkle_24Filled } from './IcOrigonTableSparkle_24Filled';
+export { default as IcOrigonTableSparkle_24Regular } from './IcOrigonTableSparkle_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentMultiselectRtl_16Filled } from './IcFluentMultiselectRtl_16Filled';
-export { default as IcFluentMultiselectRtl_16Regular } from './IcFluentMultiselectRtl_16Regular';
-export { default as IcFluentMultiselectRtl_20Filled } from './IcFluentMultiselectRtl_20Filled';
-export { default as IcFluentMultiselectRtl_20Regular } from './IcFluentMultiselectRtl_20Regular';
-export { default as IcFluentMultiselectRtl_24Filled } from './IcFluentMultiselectRtl_24Filled';
-export { default as IcFluentMultiselectRtl_24Regular } from './IcFluentMultiselectRtl_24Regular';
+export { default as IcOrigonMultiselectRtl_16Filled } from './IcOrigonMultiselectRtl_16Filled';
+export { default as IcOrigonMultiselectRtl_16Regular } from './IcOrigonMultiselectRtl_16Regular';
+export { default as IcOrigonMultiselectRtl_20Filled } from './IcOrigonMultiselectRtl_20Filled';
+export { default as IcOrigonMultiselectRtl_20Regular } from './IcOrigonMultiselectRtl_20Regular';
+export { default as IcOrigonMultiselectRtl_24Filled } from './IcOrigonMultiselectRtl_24Filled';
+export { default as IcOrigonMultiselectRtl_24Regular } from './IcOrigonMultiselectRtl_24Regular';

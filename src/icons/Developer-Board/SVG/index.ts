@@ -1,6 +1,6 @@
-export { default as IcFluentDeveloperBoard_16Filled } from './IcFluentDeveloperBoard_16Filled';
-export { default as IcFluentDeveloperBoard_16Regular } from './IcFluentDeveloperBoard_16Regular';
-export { default as IcFluentDeveloperBoard_20Filled } from './IcFluentDeveloperBoard_20Filled';
-export { default as IcFluentDeveloperBoard_20Regular } from './IcFluentDeveloperBoard_20Regular';
-export { default as IcFluentDeveloperBoard_24Filled } from './IcFluentDeveloperBoard_24Filled';
-export { default as IcFluentDeveloperBoard_24Regular } from './IcFluentDeveloperBoard_24Regular';
+export { default as IcOrigonDeveloperBoard_16Filled } from './IcOrigonDeveloperBoard_16Filled';
+export { default as IcOrigonDeveloperBoard_16Regular } from './IcOrigonDeveloperBoard_16Regular';
+export { default as IcOrigonDeveloperBoard_20Filled } from './IcOrigonDeveloperBoard_20Filled';
+export { default as IcOrigonDeveloperBoard_20Regular } from './IcOrigonDeveloperBoard_20Regular';
+export { default as IcOrigonDeveloperBoard_24Filled } from './IcOrigonDeveloperBoard_24Filled';
+export { default as IcOrigonDeveloperBoard_24Regular } from './IcOrigonDeveloperBoard_24Regular';

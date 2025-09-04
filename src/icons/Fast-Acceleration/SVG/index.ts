@@ -1,4 +1,4 @@
-export { default as IcFluentFastAcceleration_20Filled } from './IcFluentFastAcceleration_20Filled';
-export { default as IcFluentFastAcceleration_20Regular } from './IcFluentFastAcceleration_20Regular';
-export { default as IcFluentFastAcceleration_24Filled } from './IcFluentFastAcceleration_24Filled';
-export { default as IcFluentFastAcceleration_24Regular } from './IcFluentFastAcceleration_24Regular';
+export { default as IcOrigonFastAcceleration_20Filled } from './IcOrigonFastAcceleration_20Filled';
+export { default as IcOrigonFastAcceleration_20Regular } from './IcOrigonFastAcceleration_20Regular';
+export { default as IcOrigonFastAcceleration_24Filled } from './IcOrigonFastAcceleration_24Filled';
+export { default as IcOrigonFastAcceleration_24Regular } from './IcOrigonFastAcceleration_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentWindowPlay_20Filled } from './IcFluentWindowPlay_20Filled';
-export { default as IcFluentWindowPlay_20Regular } from './IcFluentWindowPlay_20Regular';
+export { default as IcOrigonWindowPlay_20Filled } from './IcOrigonWindowPlay_20Filled';
+export { default as IcOrigonWindowPlay_20Regular } from './IcOrigonWindowPlay_20Regular';

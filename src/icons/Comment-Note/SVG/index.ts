@@ -1,4 +1,4 @@
-export { default as IcFluentCommentNote_20Filled } from './IcFluentCommentNote_20Filled';
-export { default as IcFluentCommentNote_20Regular } from './IcFluentCommentNote_20Regular';
-export { default as IcFluentCommentNote_24Filled } from './IcFluentCommentNote_24Filled';
-export { default as IcFluentCommentNote_24Regular } from './IcFluentCommentNote_24Regular';
+export { default as IcOrigonCommentNote_20Filled } from './IcOrigonCommentNote_20Filled';
+export { default as IcOrigonCommentNote_20Regular } from './IcOrigonCommentNote_20Regular';
+export { default as IcOrigonCommentNote_24Filled } from './IcOrigonCommentNote_24Filled';
+export { default as IcOrigonCommentNote_24Regular } from './IcOrigonCommentNote_24Regular';

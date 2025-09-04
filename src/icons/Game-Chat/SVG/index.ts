@@ -1,3 +1,3 @@
-export { default as IcFluentGameChat_20Color } from './IcFluentGameChat_20Color';
-export { default as IcFluentGameChat_20Filled } from './IcFluentGameChat_20Filled';
-export { default as IcFluentGameChat_20Regular } from './IcFluentGameChat_20Regular';
+export { default as IcOrigonGameChat_20Color } from './IcOrigonGameChat_20Color';
+export { default as IcOrigonGameChat_20Filled } from './IcOrigonGameChat_20Filled';
+export { default as IcOrigonGameChat_20Regular } from './IcOrigonGameChat_20Regular';

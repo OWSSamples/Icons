@@ -1,6 +1,6 @@
-export { default as IcFluentShapeSubtract_16Filled } from './IcFluentShapeSubtract_16Filled';
-export { default as IcFluentShapeSubtract_16Regular } from './IcFluentShapeSubtract_16Regular';
-export { default as IcFluentShapeSubtract_20Filled } from './IcFluentShapeSubtract_20Filled';
-export { default as IcFluentShapeSubtract_20Regular } from './IcFluentShapeSubtract_20Regular';
-export { default as IcFluentShapeSubtract_24Filled } from './IcFluentShapeSubtract_24Filled';
-export { default as IcFluentShapeSubtract_24Regular } from './IcFluentShapeSubtract_24Regular';
+export { default as IcOrigonShapeSubtract_16Filled } from './IcOrigonShapeSubtract_16Filled';
+export { default as IcOrigonShapeSubtract_16Regular } from './IcOrigonShapeSubtract_16Regular';
+export { default as IcOrigonShapeSubtract_20Filled } from './IcOrigonShapeSubtract_20Filled';
+export { default as IcOrigonShapeSubtract_20Regular } from './IcOrigonShapeSubtract_20Regular';
+export { default as IcOrigonShapeSubtract_24Filled } from './IcOrigonShapeSubtract_24Filled';
+export { default as IcOrigonShapeSubtract_24Regular } from './IcOrigonShapeSubtract_24Regular';

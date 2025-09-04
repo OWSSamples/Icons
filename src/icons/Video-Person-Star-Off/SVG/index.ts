@@ -1,4 +1,4 @@
-export { default as IcFluentVideoPersonStarOff_20Filled } from './IcFluentVideoPersonStarOff_20Filled';
-export { default as IcFluentVideoPersonStarOff_20Regular } from './IcFluentVideoPersonStarOff_20Regular';
-export { default as IcFluentVideoPersonStarOff_24Filled } from './IcFluentVideoPersonStarOff_24Filled';
-export { default as IcFluentVideoPersonStarOff_24Regular } from './IcFluentVideoPersonStarOff_24Regular';
+export { default as IcOrigonVideoPersonStarOff_20Filled } from './IcOrigonVideoPersonStarOff_20Filled';
+export { default as IcOrigonVideoPersonStarOff_20Regular } from './IcOrigonVideoPersonStarOff_20Regular';
+export { default as IcOrigonVideoPersonStarOff_24Filled } from './IcOrigonVideoPersonStarOff_24Filled';
+export { default as IcOrigonVideoPersonStarOff_24Regular } from './IcOrigonVideoPersonStarOff_24Regular';

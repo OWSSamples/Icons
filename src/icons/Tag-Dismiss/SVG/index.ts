@@ -1,6 +1,6 @@
-export { default as IcFluentTagDismiss_16Filled } from './IcFluentTagDismiss_16Filled';
-export { default as IcFluentTagDismiss_16Regular } from './IcFluentTagDismiss_16Regular';
-export { default as IcFluentTagDismiss_20Filled } from './IcFluentTagDismiss_20Filled';
-export { default as IcFluentTagDismiss_20Regular } from './IcFluentTagDismiss_20Regular';
-export { default as IcFluentTagDismiss_24Filled } from './IcFluentTagDismiss_24Filled';
-export { default as IcFluentTagDismiss_24Regular } from './IcFluentTagDismiss_24Regular';
+export { default as IcOrigonTagDismiss_16Filled } from './IcOrigonTagDismiss_16Filled';
+export { default as IcOrigonTagDismiss_16Regular } from './IcOrigonTagDismiss_16Regular';
+export { default as IcOrigonTagDismiss_20Filled } from './IcOrigonTagDismiss_20Filled';
+export { default as IcOrigonTagDismiss_20Regular } from './IcOrigonTagDismiss_20Regular';
+export { default as IcOrigonTagDismiss_24Filled } from './IcOrigonTagDismiss_24Filled';
+export { default as IcOrigonTagDismiss_24Regular } from './IcOrigonTagDismiss_24Regular';

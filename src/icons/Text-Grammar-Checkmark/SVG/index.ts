@@ -1,4 +1,4 @@
-export { default as IcFluentTextGrammarCheckmark_20Filled } from './IcFluentTextGrammarCheckmark_20Filled';
-export { default as IcFluentTextGrammarCheckmark_20Regular } from './IcFluentTextGrammarCheckmark_20Regular';
-export { default as IcFluentTextGrammarCheckmark_24Filled } from './IcFluentTextGrammarCheckmark_24Filled';
-export { default as IcFluentTextGrammarCheckmark_24Regular } from './IcFluentTextGrammarCheckmark_24Regular';
+export { default as IcOrigonTextGrammarCheckmark_20Filled } from './IcOrigonTextGrammarCheckmark_20Filled';
+export { default as IcOrigonTextGrammarCheckmark_20Regular } from './IcOrigonTextGrammarCheckmark_20Regular';
+export { default as IcOrigonTextGrammarCheckmark_24Filled } from './IcOrigonTextGrammarCheckmark_24Filled';
+export { default as IcOrigonTextGrammarCheckmark_24Regular } from './IcOrigonTextGrammarCheckmark_24Regular';

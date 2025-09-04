@@ -1,4 +1,4 @@
-export { default as IcFluentFilmstripImage_20Filled } from './IcFluentFilmstripImage_20Filled';
-export { default as IcFluentFilmstripImage_20Regular } from './IcFluentFilmstripImage_20Regular';
-export { default as IcFluentFilmstripImage_24Filled } from './IcFluentFilmstripImage_24Filled';
-export { default as IcFluentFilmstripImage_24Regular } from './IcFluentFilmstripImage_24Regular';
+export { default as IcOrigonFilmstripImage_20Filled } from './IcOrigonFilmstripImage_20Filled';
+export { default as IcOrigonFilmstripImage_20Regular } from './IcOrigonFilmstripImage_20Regular';
+export { default as IcOrigonFilmstripImage_24Filled } from './IcOrigonFilmstripImage_24Filled';
+export { default as IcOrigonFilmstripImage_24Regular } from './IcOrigonFilmstripImage_24Regular';

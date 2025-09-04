@@ -1,6 +1,6 @@
-export { default as IcFluentTableCellCenterLink_20Filled } from './IcFluentTableCellCenterLink_20Filled';
-export { default as IcFluentTableCellCenterLink_20Regular } from './IcFluentTableCellCenterLink_20Regular';
-export { default as IcFluentTableCellCenterLink_24Filled } from './IcFluentTableCellCenterLink_24Filled';
-export { default as IcFluentTableCellCenterLink_24Regular } from './IcFluentTableCellCenterLink_24Regular';
-export { default as IcFluentTableCellCenterLink_28Filled } from './IcFluentTableCellCenterLink_28Filled';
-export { default as IcFluentTableCellCenterLink_28Regular } from './IcFluentTableCellCenterLink_28Regular';
+export { default as IcOrigonTableCellCenterLink_20Filled } from './IcOrigonTableCellCenterLink_20Filled';
+export { default as IcOrigonTableCellCenterLink_20Regular } from './IcOrigonTableCellCenterLink_20Regular';
+export { default as IcOrigonTableCellCenterLink_24Filled } from './IcOrigonTableCellCenterLink_24Filled';
+export { default as IcOrigonTableCellCenterLink_24Regular } from './IcOrigonTableCellCenterLink_24Regular';
+export { default as IcOrigonTableCellCenterLink_28Filled } from './IcOrigonTableCellCenterLink_28Filled';
+export { default as IcOrigonTableCellCenterLink_28Regular } from './IcOrigonTableCellCenterLink_28Regular';

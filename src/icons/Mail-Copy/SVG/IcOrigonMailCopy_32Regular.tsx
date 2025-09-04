@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonMailCopy_32Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M6 9.5A4.5 4.5 0 0 1 10.5 5h15A4.5 4.5 0 0 1 30 9.5v10a4.5 4.5 0 0 1-4.5 4.5h-15A4.5 4.5 0 0 1 6 19.5zm2-.054 10 5.417 10-5.417A2.5 2.5 0 0 0 25.5 7h-15A2.5 2.5 0 0 0 8 9.446m20 2.274-9.524 5.16a1 1 0 0 1-.953 0L8 11.72v7.78a2.5 2.5 0 0 0 2.5 2.5h15a2.5 2.5 0 0 0 2.5-2.5zM2 13.5c0-1.56.794-2.935 2-3.742V19.5a6.5 6.5 0 0 0 6.5 6.5h14.742a4.5 4.5 0 0 1-3.742 2h-11A8.5 8.5 0 0 1 2 19.5z"/>
+  </IconBase>
+);
+
+export default IcOrigonMailCopy_32Regular;

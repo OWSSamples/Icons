@@ -1,6 +1,6 @@
-export { default as IcFluentSerialPort_16Filled } from './IcFluentSerialPort_16Filled';
-export { default as IcFluentSerialPort_16Regular } from './IcFluentSerialPort_16Regular';
-export { default as IcFluentSerialPort_20Filled } from './IcFluentSerialPort_20Filled';
-export { default as IcFluentSerialPort_20Regular } from './IcFluentSerialPort_20Regular';
-export { default as IcFluentSerialPort_24Filled } from './IcFluentSerialPort_24Filled';
-export { default as IcFluentSerialPort_24Regular } from './IcFluentSerialPort_24Regular';
+export { default as IcOrigonSerialPort_16Filled } from './IcOrigonSerialPort_16Filled';
+export { default as IcOrigonSerialPort_16Regular } from './IcOrigonSerialPort_16Regular';
+export { default as IcOrigonSerialPort_20Filled } from './IcOrigonSerialPort_20Filled';
+export { default as IcOrigonSerialPort_20Regular } from './IcOrigonSerialPort_20Regular';
+export { default as IcOrigonSerialPort_24Filled } from './IcOrigonSerialPort_24Filled';
+export { default as IcOrigonSerialPort_24Regular } from './IcOrigonSerialPort_24Regular';

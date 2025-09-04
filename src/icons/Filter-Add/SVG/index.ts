@@ -1,2 +1,2 @@
-export { default as IcFluentFilterAdd_20Filled } from './IcFluentFilterAdd_20Filled';
-export { default as IcFluentFilterAdd_20Regular } from './IcFluentFilterAdd_20Regular';
+export { default as IcOrigonFilterAdd_20Filled } from './IcOrigonFilterAdd_20Filled';
+export { default as IcOrigonFilterAdd_20Regular } from './IcOrigonFilterAdd_20Regular';

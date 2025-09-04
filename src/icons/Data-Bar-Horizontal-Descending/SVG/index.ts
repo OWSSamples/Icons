@@ -1,2 +1,2 @@
-export { default as IcFluentDataBarHorizontalDescending_16Filled } from './IcFluentDataBarHorizontalDescending_16Filled';
-export { default as IcFluentDataBarHorizontalDescending_16Regular } from './IcFluentDataBarHorizontalDescending_16Regular';
+export { default as IcOrigonDataBarHorizontalDescending_16Filled } from './IcOrigonDataBarHorizontalDescending_16Filled';
+export { default as IcOrigonDataBarHorizontalDescending_16Regular } from './IcOrigonDataBarHorizontalDescending_16Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentBranchRequest_16Filled } from './IcFluentBranchRequest_16Filled';
-export { default as IcFluentBranchRequest_16Regular } from './IcFluentBranchRequest_16Regular';
-export { default as IcFluentBranchRequest_20Filled } from './IcFluentBranchRequest_20Filled';
-export { default as IcFluentBranchRequest_20Regular } from './IcFluentBranchRequest_20Regular';
+export { default as IcOrigonBranchRequest_16Filled } from './IcOrigonBranchRequest_16Filled';
+export { default as IcOrigonBranchRequest_16Regular } from './IcOrigonBranchRequest_16Regular';
+export { default as IcOrigonBranchRequest_20Filled } from './IcOrigonBranchRequest_20Filled';
+export { default as IcOrigonBranchRequest_20Regular } from './IcOrigonBranchRequest_20Regular';

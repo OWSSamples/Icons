@@ -1,2 +1,2 @@
-export { default as IcFluentVideoPeople_32Filled } from './IcFluentVideoPeople_32Filled';
-export { default as IcFluentVideoPeople_32Regular } from './IcFluentVideoPeople_32Regular';
+export { default as IcOrigonVideoPeople_32Filled } from './IcOrigonVideoPeople_32Filled';
+export { default as IcOrigonVideoPeople_32Regular } from './IcOrigonVideoPeople_32Regular';

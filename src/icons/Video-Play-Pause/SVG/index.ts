@@ -1,4 +1,4 @@
-export { default as IcFluentVideoPlayPause_20Filled } from './IcFluentVideoPlayPause_20Filled';
-export { default as IcFluentVideoPlayPause_20Regular } from './IcFluentVideoPlayPause_20Regular';
-export { default as IcFluentVideoPlayPause_24Filled } from './IcFluentVideoPlayPause_24Filled';
-export { default as IcFluentVideoPlayPause_24Regular } from './IcFluentVideoPlayPause_24Regular';
+export { default as IcOrigonVideoPlayPause_20Filled } from './IcOrigonVideoPlayPause_20Filled';
+export { default as IcOrigonVideoPlayPause_20Regular } from './IcOrigonVideoPlayPause_20Regular';
+export { default as IcOrigonVideoPlayPause_24Filled } from './IcOrigonVideoPlayPause_24Filled';
+export { default as IcOrigonVideoPlayPause_24Regular } from './IcOrigonVideoPlayPause_24Regular';

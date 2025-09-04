@@ -1,2 +1,2 @@
-export { default as IcFluentTreeEvergreen_20Filled } from './IcFluentTreeEvergreen_20Filled';
-export { default as IcFluentTreeEvergreen_20Regular } from './IcFluentTreeEvergreen_20Regular';
+export { default as IcOrigonTreeEvergreen_20Filled } from './IcOrigonTreeEvergreen_20Filled';
+export { default as IcOrigonTreeEvergreen_20Regular } from './IcOrigonTreeEvergreen_20Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentClipboardEdit_20Filled } from './IcFluentClipboardEdit_20Filled';
-export { default as IcFluentClipboardEdit_20Regular } from './IcFluentClipboardEdit_20Regular';
+export { default as IcOrigonClipboardEdit_20Filled } from './IcOrigonClipboardEdit_20Filled';
+export { default as IcOrigonClipboardEdit_20Regular } from './IcOrigonClipboardEdit_20Regular';

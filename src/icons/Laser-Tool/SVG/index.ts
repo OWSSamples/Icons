@@ -1,2 +1,2 @@
-export { default as IcFluentLaserTool_20Filled } from './IcFluentLaserTool_20Filled';
-export { default as IcFluentLaserTool_20Regular } from './IcFluentLaserTool_20Regular';
+export { default as IcOrigonLaserTool_20Filled } from './IcOrigonLaserTool_20Filled';
+export { default as IcOrigonLaserTool_20Regular } from './IcOrigonLaserTool_20Regular';

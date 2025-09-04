@@ -1,6 +1,6 @@
-export { default as IcFluentDataBarVerticalEdit_16Filled } from './IcFluentDataBarVerticalEdit_16Filled';
-export { default as IcFluentDataBarVerticalEdit_16Regular } from './IcFluentDataBarVerticalEdit_16Regular';
-export { default as IcFluentDataBarVerticalEdit_20Filled } from './IcFluentDataBarVerticalEdit_20Filled';
-export { default as IcFluentDataBarVerticalEdit_20Regular } from './IcFluentDataBarVerticalEdit_20Regular';
-export { default as IcFluentDataBarVerticalEdit_24Filled } from './IcFluentDataBarVerticalEdit_24Filled';
-export { default as IcFluentDataBarVerticalEdit_24Regular } from './IcFluentDataBarVerticalEdit_24Regular';
+export { default as IcOrigonDataBarVerticalEdit_16Filled } from './IcOrigonDataBarVerticalEdit_16Filled';
+export { default as IcOrigonDataBarVerticalEdit_16Regular } from './IcOrigonDataBarVerticalEdit_16Regular';
+export { default as IcOrigonDataBarVerticalEdit_20Filled } from './IcOrigonDataBarVerticalEdit_20Filled';
+export { default as IcOrigonDataBarVerticalEdit_20Regular } from './IcOrigonDataBarVerticalEdit_20Regular';
+export { default as IcOrigonDataBarVerticalEdit_24Filled } from './IcOrigonDataBarVerticalEdit_24Filled';
+export { default as IcOrigonDataBarVerticalEdit_24Regular } from './IcOrigonDataBarVerticalEdit_24Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonTagEdit_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M13.999 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2m-2.87-5a2 2 0 0 0-1.426.584L3.02 9.249a2 2 0 0 0-.002 2.83l4.949 4.948.033.033q.006-.201.057-.407l.19-.76-4.522-4.521a1 1 0 0 1 .001-1.415l6.682-6.665A1 1 0 0 1 11.122 3l4.89.032a1 1 0 0 1 .994.999l.006 4.106c.36.116.7.304 1 .564l-.006-4.672a2 2 0 0 0-1.987-1.997zm-1.15 12.377 4.83-4.83a1.87 1.87 0 1 1 2.645 2.646l-4.83 4.829a2.2 2.2 0 0 1-1.02.578l-1.498.374a.89.89 0 0 1-1.079-1.078l.375-1.498a2.2 2.2 0 0 1 .578-1.02"/>
+  </IconBase>
+);
+
+export default IcOrigonTagEdit_20Regular;

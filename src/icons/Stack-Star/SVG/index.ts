@@ -1,6 +1,6 @@
-export { default as IcFluentStackStar_16Filled } from './IcFluentStackStar_16Filled';
-export { default as IcFluentStackStar_16Regular } from './IcFluentStackStar_16Regular';
-export { default as IcFluentStackStar_20Filled } from './IcFluentStackStar_20Filled';
-export { default as IcFluentStackStar_20Regular } from './IcFluentStackStar_20Regular';
-export { default as IcFluentStackStar_24Filled } from './IcFluentStackStar_24Filled';
-export { default as IcFluentStackStar_24Regular } from './IcFluentStackStar_24Regular';
+export { default as IcOrigonStackStar_16Filled } from './IcOrigonStackStar_16Filled';
+export { default as IcOrigonStackStar_16Regular } from './IcOrigonStackStar_16Regular';
+export { default as IcOrigonStackStar_20Filled } from './IcOrigonStackStar_20Filled';
+export { default as IcOrigonStackStar_20Regular } from './IcOrigonStackStar_20Regular';
+export { default as IcOrigonStackStar_24Filled } from './IcOrigonStackStar_24Filled';
+export { default as IcOrigonStackStar_24Regular } from './IcOrigonStackStar_24Regular';

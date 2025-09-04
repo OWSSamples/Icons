@@ -1,4 +1,4 @@
-export { default as IcFluentTableOffset_20Filled } from './IcFluentTableOffset_20Filled';
-export { default as IcFluentTableOffset_20Regular } from './IcFluentTableOffset_20Regular';
-export { default as IcFluentTableOffset_24Filled } from './IcFluentTableOffset_24Filled';
-export { default as IcFluentTableOffset_24Regular } from './IcFluentTableOffset_24Regular';
+export { default as IcOrigonTableOffset_20Filled } from './IcOrigonTableOffset_20Filled';
+export { default as IcOrigonTableOffset_20Regular } from './IcOrigonTableOffset_20Regular';
+export { default as IcOrigonTableOffset_24Filled } from './IcOrigonTableOffset_24Filled';
+export { default as IcOrigonTableOffset_24Regular } from './IcOrigonTableOffset_24Regular';

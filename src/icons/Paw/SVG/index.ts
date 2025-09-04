@@ -1,6 +1,6 @@
-export { default as IcFluentPaw_16Color } from './IcFluentPaw_16Color';
-export { default as IcFluentPaw_20Color } from './IcFluentPaw_20Color';
-export { default as IcFluentPaw_24Color } from './IcFluentPaw_24Color';
-export { default as IcFluentPaw_28Color } from './IcFluentPaw_28Color';
-export { default as IcFluentPaw_32Color } from './IcFluentPaw_32Color';
-export { default as IcFluentPaw_48Color } from './IcFluentPaw_48Color';
+export { default as IcOrigonPaw_16Color } from './IcOrigonPaw_16Color';
+export { default as IcOrigonPaw_20Color } from './IcOrigonPaw_20Color';
+export { default as IcOrigonPaw_24Color } from './IcOrigonPaw_24Color';
+export { default as IcOrigonPaw_28Color } from './IcOrigonPaw_28Color';
+export { default as IcOrigonPaw_32Color } from './IcOrigonPaw_32Color';
+export { default as IcOrigonPaw_48Color } from './IcOrigonPaw_48Color';

@@ -1,8 +1,8 @@
-export { default as IcFluentContentViewGalleryLightning_16Filled } from './IcFluentContentViewGalleryLightning_16Filled';
-export { default as IcFluentContentViewGalleryLightning_16Regular } from './IcFluentContentViewGalleryLightning_16Regular';
-export { default as IcFluentContentViewGalleryLightning_20Filled } from './IcFluentContentViewGalleryLightning_20Filled';
-export { default as IcFluentContentViewGalleryLightning_20Regular } from './IcFluentContentViewGalleryLightning_20Regular';
-export { default as IcFluentContentViewGalleryLightning_24Filled } from './IcFluentContentViewGalleryLightning_24Filled';
-export { default as IcFluentContentViewGalleryLightning_24Regular } from './IcFluentContentViewGalleryLightning_24Regular';
-export { default as IcFluentContentViewGalleryLightning_28Filled } from './IcFluentContentViewGalleryLightning_28Filled';
-export { default as IcFluentContentViewGalleryLightning_28Regular } from './IcFluentContentViewGalleryLightning_28Regular';
+export { default as IcOrigonContentViewGalleryLightning_16Filled } from './IcOrigonContentViewGalleryLightning_16Filled';
+export { default as IcOrigonContentViewGalleryLightning_16Regular } from './IcOrigonContentViewGalleryLightning_16Regular';
+export { default as IcOrigonContentViewGalleryLightning_20Filled } from './IcOrigonContentViewGalleryLightning_20Filled';
+export { default as IcOrigonContentViewGalleryLightning_20Regular } from './IcOrigonContentViewGalleryLightning_20Regular';
+export { default as IcOrigonContentViewGalleryLightning_24Filled } from './IcOrigonContentViewGalleryLightning_24Filled';
+export { default as IcOrigonContentViewGalleryLightning_24Regular } from './IcOrigonContentViewGalleryLightning_24Regular';
+export { default as IcOrigonContentViewGalleryLightning_28Filled } from './IcOrigonContentViewGalleryLightning_28Filled';
+export { default as IcOrigonContentViewGalleryLightning_28Regular } from './IcOrigonContentViewGalleryLightning_28Regular';

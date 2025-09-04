@@ -1,2 +1,2 @@
-export { default as IcFluentCircleEraser_20Filled } from './IcFluentCircleEraser_20Filled';
-export { default as IcFluentCircleEraser_20Regular } from './IcFluentCircleEraser_20Regular';
+export { default as IcOrigonCircleEraser_20Filled } from './IcOrigonCircleEraser_20Filled';
+export { default as IcOrigonCircleEraser_20Regular } from './IcOrigonCircleEraser_20Regular';

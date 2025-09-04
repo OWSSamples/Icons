@@ -1,6 +1,6 @@
-export { default as IcFluentResizeSmall_16Filled } from './IcFluentResizeSmall_16Filled';
-export { default as IcFluentResizeSmall_16Regular } from './IcFluentResizeSmall_16Regular';
-export { default as IcFluentResizeSmall_20Filled } from './IcFluentResizeSmall_20Filled';
-export { default as IcFluentResizeSmall_20Regular } from './IcFluentResizeSmall_20Regular';
-export { default as IcFluentResizeSmall_24Filled } from './IcFluentResizeSmall_24Filled';
-export { default as IcFluentResizeSmall_24Regular } from './IcFluentResizeSmall_24Regular';
+export { default as IcOrigonResizeSmall_16Filled } from './IcOrigonResizeSmall_16Filled';
+export { default as IcOrigonResizeSmall_16Regular } from './IcOrigonResizeSmall_16Regular';
+export { default as IcOrigonResizeSmall_20Filled } from './IcOrigonResizeSmall_20Filled';
+export { default as IcOrigonResizeSmall_20Regular } from './IcOrigonResizeSmall_20Regular';
+export { default as IcOrigonResizeSmall_24Filled } from './IcOrigonResizeSmall_24Filled';
+export { default as IcOrigonResizeSmall_24Regular } from './IcOrigonResizeSmall_24Regular';

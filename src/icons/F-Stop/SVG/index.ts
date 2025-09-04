@@ -1,8 +1,8 @@
-export { default as IcFluentFStop_16Filled } from './IcFluentFStop_16Filled';
-export { default as IcFluentFStop_16Regular } from './IcFluentFStop_16Regular';
-export { default as IcFluentFStop_20Filled } from './IcFluentFStop_20Filled';
-export { default as IcFluentFStop_20Regular } from './IcFluentFStop_20Regular';
-export { default as IcFluentFStop_24Filled } from './IcFluentFStop_24Filled';
-export { default as IcFluentFStop_24Regular } from './IcFluentFStop_24Regular';
-export { default as IcFluentFStop_28Filled } from './IcFluentFStop_28Filled';
-export { default as IcFluentFStop_28Regular } from './IcFluentFStop_28Regular';
+export { default as IcOrigonFStop_16Filled } from './IcOrigonFStop_16Filled';
+export { default as IcOrigonFStop_16Regular } from './IcOrigonFStop_16Regular';
+export { default as IcOrigonFStop_20Filled } from './IcOrigonFStop_20Filled';
+export { default as IcOrigonFStop_20Regular } from './IcOrigonFStop_20Regular';
+export { default as IcOrigonFStop_24Filled } from './IcOrigonFStop_24Filled';
+export { default as IcOrigonFStop_24Regular } from './IcOrigonFStop_24Regular';
+export { default as IcOrigonFStop_28Filled } from './IcOrigonFStop_28Filled';
+export { default as IcOrigonFStop_28Regular } from './IcOrigonFStop_28Regular';

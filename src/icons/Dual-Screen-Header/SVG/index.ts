@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenHeader_20Filled } from './IcFluentDualScreenHeader_20Filled';
-export { default as IcFluentDualScreenHeader_20Regular } from './IcFluentDualScreenHeader_20Regular';
-export { default as IcFluentDualScreenHeader_24Filled } from './IcFluentDualScreenHeader_24Filled';
-export { default as IcFluentDualScreenHeader_24Regular } from './IcFluentDualScreenHeader_24Regular';
+export { default as IcOrigonDualScreenHeader_20Filled } from './IcOrigonDualScreenHeader_20Filled';
+export { default as IcOrigonDualScreenHeader_20Regular } from './IcOrigonDualScreenHeader_20Regular';
+export { default as IcOrigonDualScreenHeader_24Filled } from './IcOrigonDualScreenHeader_24Filled';
+export { default as IcOrigonDualScreenHeader_24Regular } from './IcOrigonDualScreenHeader_24Regular';

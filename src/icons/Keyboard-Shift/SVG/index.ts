@@ -1,6 +1,6 @@
-export { default as IcFluentKeyboardShift_16Filled } from './IcFluentKeyboardShift_16Filled';
-export { default as IcFluentKeyboardShift_16Regular } from './IcFluentKeyboardShift_16Regular';
-export { default as IcFluentKeyboardShift_20Filled } from './IcFluentKeyboardShift_20Filled';
-export { default as IcFluentKeyboardShift_20Regular } from './IcFluentKeyboardShift_20Regular';
-export { default as IcFluentKeyboardShift_24Filled } from './IcFluentKeyboardShift_24Filled';
-export { default as IcFluentKeyboardShift_24Regular } from './IcFluentKeyboardShift_24Regular';
+export { default as IcOrigonKeyboardShift_16Filled } from './IcOrigonKeyboardShift_16Filled';
+export { default as IcOrigonKeyboardShift_16Regular } from './IcOrigonKeyboardShift_16Regular';
+export { default as IcOrigonKeyboardShift_20Filled } from './IcOrigonKeyboardShift_20Filled';
+export { default as IcOrigonKeyboardShift_20Regular } from './IcOrigonKeyboardShift_20Regular';
+export { default as IcOrigonKeyboardShift_24Filled } from './IcOrigonKeyboardShift_24Filled';
+export { default as IcOrigonKeyboardShift_24Regular } from './IcOrigonKeyboardShift_24Regular';

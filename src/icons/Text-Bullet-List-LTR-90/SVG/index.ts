@@ -1,4 +1,4 @@
-export { default as IcFluentTextBulletListLtr_90_20Filled } from './IcFluentTextBulletListLtr_90_20Filled';
-export { default as IcFluentTextBulletListLtr_90_20Regular } from './IcFluentTextBulletListLtr_90_20Regular';
-export { default as IcFluentTextBulletListLtr_90_24Filled } from './IcFluentTextBulletListLtr_90_24Filled';
-export { default as IcFluentTextBulletListLtr_90_24Regular } from './IcFluentTextBulletListLtr_90_24Regular';
+export { default as IcOrigonTextBulletListLtr_90_20Filled } from './IcOrigonTextBulletListLtr_90_20Filled';
+export { default as IcOrigonTextBulletListLtr_90_20Regular } from './IcOrigonTextBulletListLtr_90_20Regular';
+export { default as IcOrigonTextBulletListLtr_90_24Filled } from './IcOrigonTextBulletListLtr_90_24Filled';
+export { default as IcOrigonTextBulletListLtr_90_24Regular } from './IcOrigonTextBulletListLtr_90_24Regular';

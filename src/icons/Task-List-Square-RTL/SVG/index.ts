@@ -1,6 +1,6 @@
-export { default as IcFluentTaskListSquareRtl_16Filled } from './IcFluentTaskListSquareRtl_16Filled';
-export { default as IcFluentTaskListSquareRtl_16Regular } from './IcFluentTaskListSquareRtl_16Regular';
-export { default as IcFluentTaskListSquareRtl_20Filled } from './IcFluentTaskListSquareRtl_20Filled';
-export { default as IcFluentTaskListSquareRtl_20Regular } from './IcFluentTaskListSquareRtl_20Regular';
-export { default as IcFluentTaskListSquareRtl_24Filled } from './IcFluentTaskListSquareRtl_24Filled';
-export { default as IcFluentTaskListSquareRtl_24Regular } from './IcFluentTaskListSquareRtl_24Regular';
+export { default as IcOrigonTaskListSquareRtl_16Filled } from './IcOrigonTaskListSquareRtl_16Filled';
+export { default as IcOrigonTaskListSquareRtl_16Regular } from './IcOrigonTaskListSquareRtl_16Regular';
+export { default as IcOrigonTaskListSquareRtl_20Filled } from './IcOrigonTaskListSquareRtl_20Filled';
+export { default as IcOrigonTaskListSquareRtl_20Regular } from './IcOrigonTaskListSquareRtl_20Regular';
+export { default as IcOrigonTaskListSquareRtl_24Filled } from './IcOrigonTaskListSquareRtl_24Filled';
+export { default as IcOrigonTaskListSquareRtl_24Regular } from './IcOrigonTaskListSquareRtl_24Regular';

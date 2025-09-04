@@ -1,6 +1,6 @@
-export { default as IcFluentLeafThree_16Filled } from './IcFluentLeafThree_16Filled';
-export { default as IcFluentLeafThree_16Regular } from './IcFluentLeafThree_16Regular';
-export { default as IcFluentLeafThree_20Filled } from './IcFluentLeafThree_20Filled';
-export { default as IcFluentLeafThree_20Regular } from './IcFluentLeafThree_20Regular';
-export { default as IcFluentLeafThree_24Filled } from './IcFluentLeafThree_24Filled';
-export { default as IcFluentLeafThree_24Regular } from './IcFluentLeafThree_24Regular';
+export { default as IcOrigonLeafThree_16Filled } from './IcOrigonLeafThree_16Filled';
+export { default as IcOrigonLeafThree_16Regular } from './IcOrigonLeafThree_16Regular';
+export { default as IcOrigonLeafThree_20Filled } from './IcOrigonLeafThree_20Filled';
+export { default as IcOrigonLeafThree_20Regular } from './IcOrigonLeafThree_20Regular';
+export { default as IcOrigonLeafThree_24Filled } from './IcOrigonLeafThree_24Filled';
+export { default as IcOrigonLeafThree_24Regular } from './IcOrigonLeafThree_24Regular';

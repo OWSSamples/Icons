@@ -1,2 +1,2 @@
-export { default as IcFluentPersonWrench_20Filled } from './IcFluentPersonWrench_20Filled';
-export { default as IcFluentPersonWrench_20Regular } from './IcFluentPersonWrench_20Regular';
+export { default as IcOrigonPersonWrench_20Filled } from './IcOrigonPersonWrench_20Filled';
+export { default as IcOrigonPersonWrench_20Regular } from './IcOrigonPersonWrench_20Regular';

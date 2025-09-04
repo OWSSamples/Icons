@@ -1,6 +1,6 @@
-export { default as IcFluentSteps_16Filled } from './IcFluentSteps_16Filled';
-export { default as IcFluentSteps_16Regular } from './IcFluentSteps_16Regular';
-export { default as IcFluentSteps_20Filled } from './IcFluentSteps_20Filled';
-export { default as IcFluentSteps_20Regular } from './IcFluentSteps_20Regular';
-export { default as IcFluentSteps_24Filled } from './IcFluentSteps_24Filled';
-export { default as IcFluentSteps_24Regular } from './IcFluentSteps_24Regular';
+export { default as IcOrigonSteps_16Filled } from './IcOrigonSteps_16Filled';
+export { default as IcOrigonSteps_16Regular } from './IcOrigonSteps_16Regular';
+export { default as IcOrigonSteps_20Filled } from './IcOrigonSteps_20Filled';
+export { default as IcOrigonSteps_20Regular } from './IcOrigonSteps_20Regular';
+export { default as IcOrigonSteps_24Filled } from './IcOrigonSteps_24Filled';
+export { default as IcOrigonSteps_24Regular } from './IcOrigonSteps_24Regular';

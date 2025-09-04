@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonCalendarMonth_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M21.75 3A3.25 3.25 0 0 1 25 6.25v15.5A3.25 3.25 0 0 1 21.75 25H6.25A3.25 3.25 0 0 1 3 21.75V6.25A3.25 3.25 0 0 1 6.25 3zM8.5 15.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3m5.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3m-5.5-6a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3m5.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3m5.5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3"/>
+  </IconBase>
+);
+
+export default IcOrigonCalendarMonth_28Filled;

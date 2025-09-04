@@ -1,6 +1,6 @@
-export { default as IcFluentJavascript_16Filled } from './IcFluentJavascript_16Filled';
-export { default as IcFluentJavascript_16Regular } from './IcFluentJavascript_16Regular';
-export { default as IcFluentJavascript_20Filled } from './IcFluentJavascript_20Filled';
-export { default as IcFluentJavascript_20Regular } from './IcFluentJavascript_20Regular';
-export { default as IcFluentJavascript_24Filled } from './IcFluentJavascript_24Filled';
-export { default as IcFluentJavascript_24Regular } from './IcFluentJavascript_24Regular';
+export { default as IcOrigonJavascript_16Filled } from './IcOrigonJavascript_16Filled';
+export { default as IcOrigonJavascript_16Regular } from './IcOrigonJavascript_16Regular';
+export { default as IcOrigonJavascript_20Filled } from './IcOrigonJavascript_20Filled';
+export { default as IcOrigonJavascript_20Regular } from './IcOrigonJavascript_20Regular';
+export { default as IcOrigonJavascript_24Filled } from './IcOrigonJavascript_24Filled';
+export { default as IcOrigonJavascript_24Regular } from './IcOrigonJavascript_24Regular';

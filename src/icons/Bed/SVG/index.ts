@@ -1,6 +1,6 @@
-export { default as IcFluentBed_16Filled } from './IcFluentBed_16Filled';
-export { default as IcFluentBed_16Regular } from './IcFluentBed_16Regular';
-export { default as IcFluentBed_20Filled } from './IcFluentBed_20Filled';
-export { default as IcFluentBed_20Regular } from './IcFluentBed_20Regular';
-export { default as IcFluentBed_24Filled } from './IcFluentBed_24Filled';
-export { default as IcFluentBed_24Regular } from './IcFluentBed_24Regular';
+export { default as IcOrigonBed_16Filled } from './IcOrigonBed_16Filled';
+export { default as IcOrigonBed_16Regular } from './IcOrigonBed_16Regular';
+export { default as IcOrigonBed_20Filled } from './IcOrigonBed_20Filled';
+export { default as IcOrigonBed_20Regular } from './IcOrigonBed_20Regular';
+export { default as IcOrigonBed_24Filled } from './IcOrigonBed_24Filled';
+export { default as IcOrigonBed_24Regular } from './IcOrigonBed_24Regular';

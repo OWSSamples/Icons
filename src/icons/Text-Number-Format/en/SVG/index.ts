@@ -1,4 +1,4 @@
-export { default as IcFluentTextNumberFormat_20Filled } from './IcFluentTextNumberFormat_20Filled';
-export { default as IcFluentTextNumberFormat_20Regular } from './IcFluentTextNumberFormat_20Regular';
-export { default as IcFluentTextNumberFormat_24Filled } from './IcFluentTextNumberFormat_24Filled';
-export { default as IcFluentTextNumberFormat_24Regular } from './IcFluentTextNumberFormat_24Regular';
+export { default as IcOrigonTextNumberFormat_20Filled } from './IcOrigonTextNumberFormat_20Filled';
+export { default as IcOrigonTextNumberFormat_20Regular } from './IcOrigonTextNumberFormat_20Regular';
+export { default as IcOrigonTextNumberFormat_24Filled } from './IcOrigonTextNumberFormat_24Filled';
+export { default as IcOrigonTextNumberFormat_24Regular } from './IcOrigonTextNumberFormat_24Regular';

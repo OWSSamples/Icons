@@ -1,2 +1,2 @@
-export { default as IcFluentBookTemplate_20Filled } from './IcFluentBookTemplate_20Filled';
-export { default as IcFluentBookTemplate_20Regular } from './IcFluentBookTemplate_20Regular';
+export { default as IcOrigonBookTemplate_20Filled } from './IcOrigonBookTemplate_20Filled';
+export { default as IcOrigonBookTemplate_20Regular } from './IcOrigonBookTemplate_20Regular';

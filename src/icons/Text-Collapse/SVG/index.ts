@@ -1,5 +1,5 @@
-export { default as IcFluentTextCollapse_20Filled } from './IcFluentTextCollapse_20Filled';
-export { default as IcFluentTextCollapse_20Regular } from './IcFluentTextCollapse_20Regular';
-export { default as IcFluentTextCollapse_24Filled } from './IcFluentTextCollapse_24Filled';
-export { default as IcFluentTextCollapse_24Regular } from './IcFluentTextCollapse_24Regular';
-export { default as IcFluentTextCollapse_32Light } from './IcFluentTextCollapse_32Light';
+export { default as IcOrigonTextCollapse_20Filled } from './IcOrigonTextCollapse_20Filled';
+export { default as IcOrigonTextCollapse_20Regular } from './IcOrigonTextCollapse_20Regular';
+export { default as IcOrigonTextCollapse_24Filled } from './IcOrigonTextCollapse_24Filled';
+export { default as IcOrigonTextCollapse_24Regular } from './IcOrigonTextCollapse_24Regular';
+export { default as IcOrigonTextCollapse_32Light } from './IcOrigonTextCollapse_32Light';

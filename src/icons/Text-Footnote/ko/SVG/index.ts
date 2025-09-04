@@ -1,4 +1,4 @@
-export { default as IcFluentTextFootnote_20Filled } from './IcFluentTextFootnote_20Filled';
-export { default as IcFluentTextFootnote_20Regular } from './IcFluentTextFootnote_20Regular';
-export { default as IcFluentTextFootnote_24Filled } from './IcFluentTextFootnote_24Filled';
-export { default as IcFluentTextFootnote_24Regular } from './IcFluentTextFootnote_24Regular';
+export { default as IcOrigonTextFootnote_20Filled } from './IcOrigonTextFootnote_20Filled';
+export { default as IcOrigonTextFootnote_20Regular } from './IcOrigonTextFootnote_20Regular';
+export { default as IcOrigonTextFootnote_24Filled } from './IcOrigonTextFootnote_24Filled';
+export { default as IcOrigonTextFootnote_24Regular } from './IcOrigonTextFootnote_24Regular';

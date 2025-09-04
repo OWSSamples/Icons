@@ -1,6 +1,6 @@
-export { default as IcFluentClipboardCode_16Filled } from './IcFluentClipboardCode_16Filled';
-export { default as IcFluentClipboardCode_16Regular } from './IcFluentClipboardCode_16Regular';
-export { default as IcFluentClipboardCode_20Filled } from './IcFluentClipboardCode_20Filled';
-export { default as IcFluentClipboardCode_20Regular } from './IcFluentClipboardCode_20Regular';
-export { default as IcFluentClipboardCode_24Filled } from './IcFluentClipboardCode_24Filled';
-export { default as IcFluentClipboardCode_24Regular } from './IcFluentClipboardCode_24Regular';
+export { default as IcOrigonClipboardCode_16Filled } from './IcOrigonClipboardCode_16Filled';
+export { default as IcOrigonClipboardCode_16Regular } from './IcOrigonClipboardCode_16Regular';
+export { default as IcOrigonClipboardCode_20Filled } from './IcOrigonClipboardCode_20Filled';
+export { default as IcOrigonClipboardCode_20Regular } from './IcOrigonClipboardCode_20Regular';
+export { default as IcOrigonClipboardCode_24Filled } from './IcOrigonClipboardCode_24Filled';
+export { default as IcOrigonClipboardCode_24Regular } from './IcOrigonClipboardCode_24Regular';

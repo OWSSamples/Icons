@@ -1,6 +1,6 @@
-export { default as IcFluentFoodToast_16Filled } from './IcFluentFoodToast_16Filled';
-export { default as IcFluentFoodToast_16Regular } from './IcFluentFoodToast_16Regular';
-export { default as IcFluentFoodToast_20Filled } from './IcFluentFoodToast_20Filled';
-export { default as IcFluentFoodToast_20Regular } from './IcFluentFoodToast_20Regular';
-export { default as IcFluentFoodToast_24Filled } from './IcFluentFoodToast_24Filled';
-export { default as IcFluentFoodToast_24Regular } from './IcFluentFoodToast_24Regular';
+export { default as IcOrigonFoodToast_16Filled } from './IcOrigonFoodToast_16Filled';
+export { default as IcOrigonFoodToast_16Regular } from './IcOrigonFoodToast_16Regular';
+export { default as IcOrigonFoodToast_20Filled } from './IcOrigonFoodToast_20Filled';
+export { default as IcOrigonFoodToast_20Regular } from './IcOrigonFoodToast_20Regular';
+export { default as IcOrigonFoodToast_24Filled } from './IcOrigonFoodToast_24Filled';
+export { default as IcOrigonFoodToast_24Regular } from './IcOrigonFoodToast_24Regular';

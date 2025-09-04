@@ -1,2 +1,2 @@
-export { default as IcFluentDatabaseArrowDown_20Filled } from './IcFluentDatabaseArrowDown_20Filled';
-export { default as IcFluentDatabaseArrowDown_20Regular } from './IcFluentDatabaseArrowDown_20Regular';
+export { default as IcOrigonDatabaseArrowDown_20Filled } from './IcOrigonDatabaseArrowDown_20Filled';
+export { default as IcOrigonDatabaseArrowDown_20Regular } from './IcOrigonDatabaseArrowDown_20Regular';

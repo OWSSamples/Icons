@@ -1,4 +1,4 @@
-export { default as IcFluentCallPause_20Filled } from './IcFluentCallPause_20Filled';
-export { default as IcFluentCallPause_20Regular } from './IcFluentCallPause_20Regular';
-export { default as IcFluentCallPause_24Filled } from './IcFluentCallPause_24Filled';
-export { default as IcFluentCallPause_24Regular } from './IcFluentCallPause_24Regular';
+export { default as IcOrigonCallPause_20Filled } from './IcOrigonCallPause_20Filled';
+export { default as IcOrigonCallPause_20Regular } from './IcOrigonCallPause_20Regular';
+export { default as IcOrigonCallPause_24Filled } from './IcOrigonCallPause_24Filled';
+export { default as IcOrigonCallPause_24Regular } from './IcOrigonCallPause_24Regular';

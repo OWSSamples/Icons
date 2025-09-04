@@ -1,2 +1,2 @@
-export { default as IcFluentPhonePerson_24Filled } from './IcFluentPhonePerson_24Filled';
-export { default as IcFluentPhonePerson_24Regular } from './IcFluentPhonePerson_24Regular';
+export { default as IcOrigonPhonePerson_24Filled } from './IcOrigonPhonePerson_24Filled';
+export { default as IcOrigonPhonePerson_24Regular } from './IcOrigonPhonePerson_24Regular';

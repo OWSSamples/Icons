@@ -1,8 +1,8 @@
-export { default as IcFluentVideoProhibited_16Filled } from './IcFluentVideoProhibited_16Filled';
-export { default as IcFluentVideoProhibited_16Regular } from './IcFluentVideoProhibited_16Regular';
-export { default as IcFluentVideoProhibited_20Filled } from './IcFluentVideoProhibited_20Filled';
-export { default as IcFluentVideoProhibited_20Regular } from './IcFluentVideoProhibited_20Regular';
-export { default as IcFluentVideoProhibited_24Filled } from './IcFluentVideoProhibited_24Filled';
-export { default as IcFluentVideoProhibited_24Regular } from './IcFluentVideoProhibited_24Regular';
-export { default as IcFluentVideoProhibited_28Filled } from './IcFluentVideoProhibited_28Filled';
-export { default as IcFluentVideoProhibited_28Regular } from './IcFluentVideoProhibited_28Regular';
+export { default as IcOrigonVideoProhibited_16Filled } from './IcOrigonVideoProhibited_16Filled';
+export { default as IcOrigonVideoProhibited_16Regular } from './IcOrigonVideoProhibited_16Regular';
+export { default as IcOrigonVideoProhibited_20Filled } from './IcOrigonVideoProhibited_20Filled';
+export { default as IcOrigonVideoProhibited_20Regular } from './IcOrigonVideoProhibited_20Regular';
+export { default as IcOrigonVideoProhibited_24Filled } from './IcOrigonVideoProhibited_24Filled';
+export { default as IcOrigonVideoProhibited_24Regular } from './IcOrigonVideoProhibited_24Regular';
+export { default as IcOrigonVideoProhibited_28Filled } from './IcOrigonVideoProhibited_28Filled';
+export { default as IcOrigonVideoProhibited_28Regular } from './IcOrigonVideoProhibited_28Regular';

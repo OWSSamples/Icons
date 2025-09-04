@@ -1,4 +1,4 @@
-export { default as IcFluentBuildingCheckmark_16Filled } from './IcFluentBuildingCheckmark_16Filled';
-export { default as IcFluentBuildingCheckmark_16Regular } from './IcFluentBuildingCheckmark_16Regular';
-export { default as IcFluentBuildingCheckmark_20Filled } from './IcFluentBuildingCheckmark_20Filled';
-export { default as IcFluentBuildingCheckmark_20Regular } from './IcFluentBuildingCheckmark_20Regular';
+export { default as IcOrigonBuildingCheckmark_16Filled } from './IcOrigonBuildingCheckmark_16Filled';
+export { default as IcOrigonBuildingCheckmark_16Regular } from './IcOrigonBuildingCheckmark_16Regular';
+export { default as IcOrigonBuildingCheckmark_20Filled } from './IcOrigonBuildingCheckmark_20Filled';
+export { default as IcOrigonBuildingCheckmark_20Regular } from './IcOrigonBuildingCheckmark_20Regular';

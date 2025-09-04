@@ -1,8 +1,8 @@
-export { default as IcFluentCallRectangleLandscape_16Filled } from './IcFluentCallRectangleLandscape_16Filled';
-export { default as IcFluentCallRectangleLandscape_16Regular } from './IcFluentCallRectangleLandscape_16Regular';
-export { default as IcFluentCallRectangleLandscape_20Filled } from './IcFluentCallRectangleLandscape_20Filled';
-export { default as IcFluentCallRectangleLandscape_20Regular } from './IcFluentCallRectangleLandscape_20Regular';
-export { default as IcFluentCallRectangleLandscape_24Filled } from './IcFluentCallRectangleLandscape_24Filled';
-export { default as IcFluentCallRectangleLandscape_24Regular } from './IcFluentCallRectangleLandscape_24Regular';
-export { default as IcFluentCallRectangleLandscape_28Filled } from './IcFluentCallRectangleLandscape_28Filled';
-export { default as IcFluentCallRectangleLandscape_28Regular } from './IcFluentCallRectangleLandscape_28Regular';
+export { default as IcOrigonCallRectangleLandscape_16Filled } from './IcOrigonCallRectangleLandscape_16Filled';
+export { default as IcOrigonCallRectangleLandscape_16Regular } from './IcOrigonCallRectangleLandscape_16Regular';
+export { default as IcOrigonCallRectangleLandscape_20Filled } from './IcOrigonCallRectangleLandscape_20Filled';
+export { default as IcOrigonCallRectangleLandscape_20Regular } from './IcOrigonCallRectangleLandscape_20Regular';
+export { default as IcOrigonCallRectangleLandscape_24Filled } from './IcOrigonCallRectangleLandscape_24Filled';
+export { default as IcOrigonCallRectangleLandscape_24Regular } from './IcOrigonCallRectangleLandscape_24Regular';
+export { default as IcOrigonCallRectangleLandscape_28Filled } from './IcOrigonCallRectangleLandscape_28Filled';
+export { default as IcOrigonCallRectangleLandscape_28Regular } from './IcOrigonCallRectangleLandscape_28Regular';

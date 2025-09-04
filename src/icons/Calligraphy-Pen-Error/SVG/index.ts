@@ -1,2 +1,2 @@
-export { default as IcFluentCalligraphyPenError_20Filled } from './IcFluentCalligraphyPenError_20Filled';
-export { default as IcFluentCalligraphyPenError_20Regular } from './IcFluentCalligraphyPenError_20Regular';
+export { default as IcOrigonCalligraphyPenError_20Filled } from './IcOrigonCalligraphyPenError_20Filled';
+export { default as IcOrigonCalligraphyPenError_20Regular } from './IcOrigonCalligraphyPenError_20Regular';

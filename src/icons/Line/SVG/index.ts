@@ -1,8 +1,8 @@
-export { default as IcFluentLine_20Filled } from './IcFluentLine_20Filled';
-export { default as IcFluentLine_20Regular } from './IcFluentLine_20Regular';
-export { default as IcFluentLine_24Filled } from './IcFluentLine_24Filled';
-export { default as IcFluentLine_24Regular } from './IcFluentLine_24Regular';
-export { default as IcFluentLine_32Filled } from './IcFluentLine_32Filled';
-export { default as IcFluentLine_32Regular } from './IcFluentLine_32Regular';
-export { default as IcFluentLine_48Filled } from './IcFluentLine_48Filled';
-export { default as IcFluentLine_48Regular } from './IcFluentLine_48Regular';
+export { default as IcOrigonLine_20Filled } from './IcOrigonLine_20Filled';
+export { default as IcOrigonLine_20Regular } from './IcOrigonLine_20Regular';
+export { default as IcOrigonLine_24Filled } from './IcOrigonLine_24Filled';
+export { default as IcOrigonLine_24Regular } from './IcOrigonLine_24Regular';
+export { default as IcOrigonLine_32Filled } from './IcOrigonLine_32Filled';
+export { default as IcOrigonLine_32Regular } from './IcOrigonLine_32Regular';
+export { default as IcOrigonLine_48Filled } from './IcOrigonLine_48Filled';
+export { default as IcOrigonLine_48Regular } from './IcOrigonLine_48Regular';

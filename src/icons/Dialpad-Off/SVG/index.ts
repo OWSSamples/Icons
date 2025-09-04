@@ -1,4 +1,4 @@
-export { default as IcFluentDialpadOff_20Filled } from './IcFluentDialpadOff_20Filled';
-export { default as IcFluentDialpadOff_20Regular } from './IcFluentDialpadOff_20Regular';
-export { default as IcFluentDialpadOff_24Filled } from './IcFluentDialpadOff_24Filled';
-export { default as IcFluentDialpadOff_24Regular } from './IcFluentDialpadOff_24Regular';
+export { default as IcOrigonDialpadOff_20Filled } from './IcOrigonDialpadOff_20Filled';
+export { default as IcOrigonDialpadOff_20Regular } from './IcOrigonDialpadOff_20Regular';
+export { default as IcOrigonDialpadOff_24Filled } from './IcOrigonDialpadOff_24Filled';
+export { default as IcOrigonDialpadOff_24Regular } from './IcOrigonDialpadOff_24Regular';

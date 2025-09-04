@@ -1,4 +1,4 @@
-export { default as IcFluentSelectObjectSkew_20Filled } from './IcFluentSelectObjectSkew_20Filled';
-export { default as IcFluentSelectObjectSkew_20Regular } from './IcFluentSelectObjectSkew_20Regular';
-export { default as IcFluentSelectObjectSkew_24Filled } from './IcFluentSelectObjectSkew_24Filled';
-export { default as IcFluentSelectObjectSkew_24Regular } from './IcFluentSelectObjectSkew_24Regular';
+export { default as IcOrigonSelectObjectSkew_20Filled } from './IcOrigonSelectObjectSkew_20Filled';
+export { default as IcOrigonSelectObjectSkew_20Regular } from './IcOrigonSelectObjectSkew_20Regular';
+export { default as IcOrigonSelectObjectSkew_24Filled } from './IcOrigonSelectObjectSkew_24Filled';
+export { default as IcOrigonSelectObjectSkew_24Regular } from './IcOrigonSelectObjectSkew_24Regular';

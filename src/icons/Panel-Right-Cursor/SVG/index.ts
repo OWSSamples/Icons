@@ -1,4 +1,4 @@
-export { default as IcFluentPanelRightCursor_20Filled } from './IcFluentPanelRightCursor_20Filled';
-export { default as IcFluentPanelRightCursor_20Regular } from './IcFluentPanelRightCursor_20Regular';
-export { default as IcFluentPanelRightCursor_24Filled } from './IcFluentPanelRightCursor_24Filled';
-export { default as IcFluentPanelRightCursor_24Regular } from './IcFluentPanelRightCursor_24Regular';
+export { default as IcOrigonPanelRightCursor_20Filled } from './IcOrigonPanelRightCursor_20Filled';
+export { default as IcOrigonPanelRightCursor_20Regular } from './IcOrigonPanelRightCursor_20Regular';
+export { default as IcOrigonPanelRightCursor_24Filled } from './IcOrigonPanelRightCursor_24Filled';
+export { default as IcOrigonPanelRightCursor_24Regular } from './IcOrigonPanelRightCursor_24Regular';

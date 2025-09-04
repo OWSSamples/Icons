@@ -1,4 +1,4 @@
-export { default as IcFluentCursorProhibited_16Filled } from './IcFluentCursorProhibited_16Filled';
-export { default as IcFluentCursorProhibited_16Regular } from './IcFluentCursorProhibited_16Regular';
-export { default as IcFluentCursorProhibited_20Filled } from './IcFluentCursorProhibited_20Filled';
-export { default as IcFluentCursorProhibited_20Regular } from './IcFluentCursorProhibited_20Regular';
+export { default as IcOrigonCursorProhibited_16Filled } from './IcOrigonCursorProhibited_16Filled';
+export { default as IcOrigonCursorProhibited_16Regular } from './IcOrigonCursorProhibited_16Regular';
+export { default as IcOrigonCursorProhibited_20Filled } from './IcOrigonCursorProhibited_20Filled';
+export { default as IcOrigonCursorProhibited_20Regular } from './IcOrigonCursorProhibited_20Regular';

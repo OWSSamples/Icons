@@ -1,8 +1,8 @@
-export { default as IcFluentProhibitedMultiple_16Filled } from './IcFluentProhibitedMultiple_16Filled';
-export { default as IcFluentProhibitedMultiple_16Regular } from './IcFluentProhibitedMultiple_16Regular';
-export { default as IcFluentProhibitedMultiple_20Filled } from './IcFluentProhibitedMultiple_20Filled';
-export { default as IcFluentProhibitedMultiple_20Regular } from './IcFluentProhibitedMultiple_20Regular';
-export { default as IcFluentProhibitedMultiple_24Filled } from './IcFluentProhibitedMultiple_24Filled';
-export { default as IcFluentProhibitedMultiple_24Regular } from './IcFluentProhibitedMultiple_24Regular';
-export { default as IcFluentProhibitedMultiple_28Filled } from './IcFluentProhibitedMultiple_28Filled';
-export { default as IcFluentProhibitedMultiple_28Regular } from './IcFluentProhibitedMultiple_28Regular';
+export { default as IcOrigonProhibitedMultiple_16Filled } from './IcOrigonProhibitedMultiple_16Filled';
+export { default as IcOrigonProhibitedMultiple_16Regular } from './IcOrigonProhibitedMultiple_16Regular';
+export { default as IcOrigonProhibitedMultiple_20Filled } from './IcOrigonProhibitedMultiple_20Filled';
+export { default as IcOrigonProhibitedMultiple_20Regular } from './IcOrigonProhibitedMultiple_20Regular';
+export { default as IcOrigonProhibitedMultiple_24Filled } from './IcOrigonProhibitedMultiple_24Filled';
+export { default as IcOrigonProhibitedMultiple_24Regular } from './IcOrigonProhibitedMultiple_24Regular';
+export { default as IcOrigonProhibitedMultiple_28Filled } from './IcOrigonProhibitedMultiple_28Filled';
+export { default as IcOrigonProhibitedMultiple_28Regular } from './IcOrigonProhibitedMultiple_28Regular';

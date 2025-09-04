@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonPeople_48Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M27.225 27a3.75 3.75 0 0 0-3.75 3.75V31s0 8 10.5 8h.024c10.5 0 10.5-8 10.5-8v-.25A3.75 3.75 0 0 0 40.75 27z"/><path fill="currentColor" fill-opacity=".5" d="M27.225 27a3.75 3.75 0 0 0-3.75 3.75V31s0 8 10.5 8h.024c10.5 0 10.5-8 10.5-8v-.25A3.75 3.75 0 0 0 40.75 27z"/><path fill="currentColor" d="M6.75 27A3.75 3.75 0 0 0 3 30.75V32s0 9 13 9 13-9 13-9v-1.25A3.75 3.75 0 0 0 25.25 27z"/><path fill="currentColor" d="M6.75 27A3.75 3.75 0 0 0 3 30.75V32s0 9 13 9 13-9 13-9v-1.25A3.75 3.75 0 0 0 25.25 27z"/><path fill="currentColor" d="M34 24a6 6 0 1 0 0-12 6 6 0 0 0 0 12"/><path fill="currentColor" d="M16 24a8 8 0 1 0 0-16 8 8 0 0 0 0 16"/><defs><linearGradient id="a" x1="28.474" x2="32.783" y1="28.595" y2="40.65" gradientUnits="userSpaceOnUse"><stop offset=".125" stop-color="#9C6CFE"/><stop offset="1" stop-color="#7A41DC"/></linearGradient><linearGradient id="c" x1="9.183" x2="13.986" y1="28.861" y2="43.103" gradientUnits="userSpaceOnUse"><stop offset=".125" stop-color="#BD96FF"/><stop offset="1" stop-color="#9C6CFE"/></linearGradient><linearGradient id="d" x1="16" x2="22.748" y1="25.333" y2="48.75" gradientUnits="userSpaceOnUse"><stop stop-color="#885EDB" stop-opacity="0"/><stop offset="1" stop-color="#E362F8"/></linearGradient><linearGradient id="e" x1="30.854" x2="36.969" y1="13.595" y2="23.36" gradientUnits="userSpaceOnUse"><stop offset=".125" stop-color="#9C6CFE"/><stop offset="1" stop-color="#7A41DC"/></linearGradient><linearGradient id="f" x1="11.805" x2="19.959" y1="10.127" y2="23.147" gradientUnits="userSpaceOnUse"><stop offset=".125" stop-color="#BD96FF"/><stop offset="1" stop-color="#9C6CFE"/></linearGradient><radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(13.83637 -1.75 1.7749 14.0332 20.808 33)" gradientUnits="userSpaceOnUse"><stop offset=".392" stop-color="#3B148A"/><stop offset="1" stop-color="#3B148A" stop-opacity="0"/></radialGradient></defs>
+  </IconBase>
+);
+
+export default IcOrigonPeople_48Color;

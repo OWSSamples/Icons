@@ -1,4 +1,4 @@
-export { default as IcFluentChatVideo_20Filled } from './IcFluentChatVideo_20Filled';
-export { default as IcFluentChatVideo_20Regular } from './IcFluentChatVideo_20Regular';
-export { default as IcFluentChatVideo_24Filled } from './IcFluentChatVideo_24Filled';
-export { default as IcFluentChatVideo_24Regular } from './IcFluentChatVideo_24Regular';
+export { default as IcOrigonChatVideo_20Filled } from './IcOrigonChatVideo_20Filled';
+export { default as IcOrigonChatVideo_20Regular } from './IcOrigonChatVideo_20Regular';
+export { default as IcOrigonChatVideo_24Filled } from './IcOrigonChatVideo_24Filled';
+export { default as IcOrigonChatVideo_24Regular } from './IcOrigonChatVideo_24Regular';

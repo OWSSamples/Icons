@@ -1,6 +1,6 @@
-export { default as IcFluentLayoutColumnTwoSplitLeft_16Filled } from './IcFluentLayoutColumnTwoSplitLeft_16Filled';
-export { default as IcFluentLayoutColumnTwoSplitLeft_16Regular } from './IcFluentLayoutColumnTwoSplitLeft_16Regular';
-export { default as IcFluentLayoutColumnTwoSplitLeft_20Filled } from './IcFluentLayoutColumnTwoSplitLeft_20Filled';
-export { default as IcFluentLayoutColumnTwoSplitLeft_20Regular } from './IcFluentLayoutColumnTwoSplitLeft_20Regular';
-export { default as IcFluentLayoutColumnTwoSplitLeft_24Filled } from './IcFluentLayoutColumnTwoSplitLeft_24Filled';
-export { default as IcFluentLayoutColumnTwoSplitLeft_24Regular } from './IcFluentLayoutColumnTwoSplitLeft_24Regular';
+export { default as IcOrigonLayoutColumnTwoSplitLeft_16Filled } from './IcOrigonLayoutColumnTwoSplitLeft_16Filled';
+export { default as IcOrigonLayoutColumnTwoSplitLeft_16Regular } from './IcOrigonLayoutColumnTwoSplitLeft_16Regular';
+export { default as IcOrigonLayoutColumnTwoSplitLeft_20Filled } from './IcOrigonLayoutColumnTwoSplitLeft_20Filled';
+export { default as IcOrigonLayoutColumnTwoSplitLeft_20Regular } from './IcOrigonLayoutColumnTwoSplitLeft_20Regular';
+export { default as IcOrigonLayoutColumnTwoSplitLeft_24Filled } from './IcOrigonLayoutColumnTwoSplitLeft_24Filled';
+export { default as IcOrigonLayoutColumnTwoSplitLeft_24Regular } from './IcOrigonLayoutColumnTwoSplitLeft_24Regular';

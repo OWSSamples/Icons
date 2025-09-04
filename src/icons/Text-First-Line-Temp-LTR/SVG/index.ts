@@ -1,4 +1,4 @@
-export { default as IcFluentTextFirstLine_20Filled } from './IcFluentTextFirstLine_20Filled';
-export { default as IcFluentTextFirstLine_20Regular } from './IcFluentTextFirstLine_20Regular';
-export { default as IcFluentTextFirstLine_24Filled } from './IcFluentTextFirstLine_24Filled';
-export { default as IcFluentTextFirstLine_24Regular } from './IcFluentTextFirstLine_24Regular';
+export { default as IcOrigonTextFirstLine_20Filled } from './IcOrigonTextFirstLine_20Filled';
+export { default as IcOrigonTextFirstLine_20Regular } from './IcOrigonTextFirstLine_20Regular';
+export { default as IcOrigonTextFirstLine_24Filled } from './IcOrigonTextFirstLine_24Filled';
+export { default as IcOrigonTextFirstLine_24Regular } from './IcOrigonTextFirstLine_24Regular';

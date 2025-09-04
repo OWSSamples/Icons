@@ -1,8 +1,8 @@
-export { default as IcFluentInprivateAccount_16Filled } from './IcFluentInprivateAccount_16Filled';
-export { default as IcFluentInprivateAccount_16Regular } from './IcFluentInprivateAccount_16Regular';
-export { default as IcFluentInprivateAccount_20Filled } from './IcFluentInprivateAccount_20Filled';
-export { default as IcFluentInprivateAccount_20Regular } from './IcFluentInprivateAccount_20Regular';
-export { default as IcFluentInprivateAccount_24Filled } from './IcFluentInprivateAccount_24Filled';
-export { default as IcFluentInprivateAccount_24Regular } from './IcFluentInprivateAccount_24Regular';
-export { default as IcFluentInprivateAccount_28Filled } from './IcFluentInprivateAccount_28Filled';
-export { default as IcFluentInprivateAccount_28Regular } from './IcFluentInprivateAccount_28Regular';
+export { default as IcOrigonInprivateAccount_16Filled } from './IcOrigonInprivateAccount_16Filled';
+export { default as IcOrigonInprivateAccount_16Regular } from './IcOrigonInprivateAccount_16Regular';
+export { default as IcOrigonInprivateAccount_20Filled } from './IcOrigonInprivateAccount_20Filled';
+export { default as IcOrigonInprivateAccount_20Regular } from './IcOrigonInprivateAccount_20Regular';
+export { default as IcOrigonInprivateAccount_24Filled } from './IcOrigonInprivateAccount_24Filled';
+export { default as IcOrigonInprivateAccount_24Regular } from './IcOrigonInprivateAccount_24Regular';
+export { default as IcOrigonInprivateAccount_28Filled } from './IcOrigonInprivateAccount_28Filled';
+export { default as IcOrigonInprivateAccount_28Regular } from './IcOrigonInprivateAccount_28Regular';

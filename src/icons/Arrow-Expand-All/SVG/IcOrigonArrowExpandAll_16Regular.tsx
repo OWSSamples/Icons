@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonArrowExpandAll_16Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M1 3.5a.5.5 0 0 1 .5-.5h13a.5.5 0 0 1 0 1h-13a.5.5 0 0 1-.5-.5m3.854 9.354 2-2a.5.5 0 0 0-.708-.708L5 11.293V6.5a.5.5 0 0 0-1 0v4.793l-1.146-1.147a.5.5 0 0 0-.708.708l2 2a.5.5 0 0 0 .708 0M8.5 6a.5.5 0 0 0 0 1h6a.5.5 0 0 0 0-1z"/>
+  </IconBase>
+);
+
+export default IcOrigonArrowExpandAll_16Regular;

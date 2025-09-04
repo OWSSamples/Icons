@@ -1,4 +1,4 @@
-export { default as IcFluentImageMultipleOff_16Filled } from './IcFluentImageMultipleOff_16Filled';
-export { default as IcFluentImageMultipleOff_16Regular } from './IcFluentImageMultipleOff_16Regular';
-export { default as IcFluentImageMultipleOff_20Filled } from './IcFluentImageMultipleOff_20Filled';
-export { default as IcFluentImageMultipleOff_20Regular } from './IcFluentImageMultipleOff_20Regular';
+export { default as IcOrigonImageMultipleOff_16Filled } from './IcOrigonImageMultipleOff_16Filled';
+export { default as IcOrigonImageMultipleOff_16Regular } from './IcOrigonImageMultipleOff_16Regular';
+export { default as IcOrigonImageMultipleOff_20Filled } from './IcOrigonImageMultipleOff_20Filled';
+export { default as IcOrigonImageMultipleOff_20Regular } from './IcOrigonImageMultipleOff_20Regular';

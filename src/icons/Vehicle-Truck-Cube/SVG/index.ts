@@ -1,4 +1,4 @@
-export { default as IcFluentVehicleTruckCube_20Filled } from './IcFluentVehicleTruckCube_20Filled';
-export { default as IcFluentVehicleTruckCube_20Regular } from './IcFluentVehicleTruckCube_20Regular';
-export { default as IcFluentVehicleTruckCube_24Filled } from './IcFluentVehicleTruckCube_24Filled';
-export { default as IcFluentVehicleTruckCube_24Regular } from './IcFluentVehicleTruckCube_24Regular';
+export { default as IcOrigonVehicleTruckCube_20Filled } from './IcOrigonVehicleTruckCube_20Filled';
+export { default as IcOrigonVehicleTruckCube_20Regular } from './IcOrigonVehicleTruckCube_20Regular';
+export { default as IcOrigonVehicleTruckCube_24Filled } from './IcOrigonVehicleTruckCube_24Filled';
+export { default as IcOrigonVehicleTruckCube_24Regular } from './IcOrigonVehicleTruckCube_24Regular';

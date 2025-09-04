@@ -1,8 +1,8 @@
-export { default as IcFluentHomeHeart_16Filled } from './IcFluentHomeHeart_16Filled';
-export { default as IcFluentHomeHeart_16Regular } from './IcFluentHomeHeart_16Regular';
-export { default as IcFluentHomeHeart_20Filled } from './IcFluentHomeHeart_20Filled';
-export { default as IcFluentHomeHeart_20Regular } from './IcFluentHomeHeart_20Regular';
-export { default as IcFluentHomeHeart_24Filled } from './IcFluentHomeHeart_24Filled';
-export { default as IcFluentHomeHeart_24Regular } from './IcFluentHomeHeart_24Regular';
-export { default as IcFluentHomeHeart_32Filled } from './IcFluentHomeHeart_32Filled';
-export { default as IcFluentHomeHeart_32Regular } from './IcFluentHomeHeart_32Regular';
+export { default as IcOrigonHomeHeart_16Filled } from './IcOrigonHomeHeart_16Filled';
+export { default as IcOrigonHomeHeart_16Regular } from './IcOrigonHomeHeart_16Regular';
+export { default as IcOrigonHomeHeart_20Filled } from './IcOrigonHomeHeart_20Filled';
+export { default as IcOrigonHomeHeart_20Regular } from './IcOrigonHomeHeart_20Regular';
+export { default as IcOrigonHomeHeart_24Filled } from './IcOrigonHomeHeart_24Filled';
+export { default as IcOrigonHomeHeart_24Regular } from './IcOrigonHomeHeart_24Regular';
+export { default as IcOrigonHomeHeart_32Filled } from './IcOrigonHomeHeart_32Filled';
+export { default as IcOrigonHomeHeart_32Regular } from './IcOrigonHomeHeart_32Regular';

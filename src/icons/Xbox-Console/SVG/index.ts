@@ -1,4 +1,4 @@
-export { default as IcFluentXboxConsole_20Filled } from './IcFluentXboxConsole_20Filled';
-export { default as IcFluentXboxConsole_20Regular } from './IcFluentXboxConsole_20Regular';
-export { default as IcFluentXboxConsole_24Filled } from './IcFluentXboxConsole_24Filled';
-export { default as IcFluentXboxConsole_24Regular } from './IcFluentXboxConsole_24Regular';
+export { default as IcOrigonXboxConsole_20Filled } from './IcOrigonXboxConsole_20Filled';
+export { default as IcOrigonXboxConsole_20Regular } from './IcOrigonXboxConsole_20Regular';
+export { default as IcOrigonXboxConsole_24Filled } from './IcOrigonXboxConsole_24Filled';
+export { default as IcOrigonXboxConsole_24Regular } from './IcOrigonXboxConsole_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentHighlightLink_20Filled } from './IcFluentHighlightLink_20Filled';
-export { default as IcFluentHighlightLink_20Regular } from './IcFluentHighlightLink_20Regular';
+export { default as IcOrigonHighlightLink_20Filled } from './IcOrigonHighlightLink_20Filled';
+export { default as IcOrigonHighlightLink_20Regular } from './IcOrigonHighlightLink_20Regular';

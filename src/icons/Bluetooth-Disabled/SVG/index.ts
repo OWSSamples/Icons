@@ -1,4 +1,4 @@
-export { default as IcFluentBluetoothDisabled_20Filled } from './IcFluentBluetoothDisabled_20Filled';
-export { default as IcFluentBluetoothDisabled_20Regular } from './IcFluentBluetoothDisabled_20Regular';
-export { default as IcFluentBluetoothDisabled_24Filled } from './IcFluentBluetoothDisabled_24Filled';
-export { default as IcFluentBluetoothDisabled_24Regular } from './IcFluentBluetoothDisabled_24Regular';
+export { default as IcOrigonBluetoothDisabled_20Filled } from './IcOrigonBluetoothDisabled_20Filled';
+export { default as IcOrigonBluetoothDisabled_20Regular } from './IcOrigonBluetoothDisabled_20Regular';
+export { default as IcOrigonBluetoothDisabled_24Filled } from './IcOrigonBluetoothDisabled_24Filled';
+export { default as IcOrigonBluetoothDisabled_24Regular } from './IcOrigonBluetoothDisabled_24Regular';

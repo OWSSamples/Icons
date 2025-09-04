@@ -1,2 +1,2 @@
-export { default as IcFluentColumnDoubleCompare_20Filled } from './IcFluentColumnDoubleCompare_20Filled';
-export { default as IcFluentColumnDoubleCompare_20Regular } from './IcFluentColumnDoubleCompare_20Regular';
+export { default as IcOrigonColumnDoubleCompare_20Filled } from './IcOrigonColumnDoubleCompare_20Filled';
+export { default as IcOrigonColumnDoubleCompare_20Regular } from './IcOrigonColumnDoubleCompare_20Regular';

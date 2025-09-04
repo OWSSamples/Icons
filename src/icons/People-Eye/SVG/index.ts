@@ -1,4 +1,4 @@
-export { default as IcFluentPeopleEye_16Filled } from './IcFluentPeopleEye_16Filled';
-export { default as IcFluentPeopleEye_16Regular } from './IcFluentPeopleEye_16Regular';
-export { default as IcFluentPeopleEye_20Filled } from './IcFluentPeopleEye_20Filled';
-export { default as IcFluentPeopleEye_20Regular } from './IcFluentPeopleEye_20Regular';
+export { default as IcOrigonPeopleEye_16Filled } from './IcOrigonPeopleEye_16Filled';
+export { default as IcOrigonPeopleEye_16Regular } from './IcOrigonPeopleEye_16Regular';
+export { default as IcOrigonPeopleEye_20Filled } from './IcOrigonPeopleEye_20Filled';
+export { default as IcOrigonPeopleEye_20Regular } from './IcOrigonPeopleEye_20Regular';

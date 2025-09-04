@@ -1,6 +1,6 @@
-export { default as IcFluentPentagon_20Filled } from './IcFluentPentagon_20Filled';
-export { default as IcFluentPentagon_20Regular } from './IcFluentPentagon_20Regular';
-export { default as IcFluentPentagon_32Filled } from './IcFluentPentagon_32Filled';
-export { default as IcFluentPentagon_32Regular } from './IcFluentPentagon_32Regular';
-export { default as IcFluentPentagon_48Filled } from './IcFluentPentagon_48Filled';
-export { default as IcFluentPentagon_48Regular } from './IcFluentPentagon_48Regular';
+export { default as IcOrigonPentagon_20Filled } from './IcOrigonPentagon_20Filled';
+export { default as IcOrigonPentagon_20Regular } from './IcOrigonPentagon_20Regular';
+export { default as IcOrigonPentagon_32Filled } from './IcOrigonPentagon_32Filled';
+export { default as IcOrigonPentagon_32Regular } from './IcOrigonPentagon_32Regular';
+export { default as IcOrigonPentagon_48Filled } from './IcOrigonPentagon_48Filled';
+export { default as IcOrigonPentagon_48Regular } from './IcOrigonPentagon_48Regular';

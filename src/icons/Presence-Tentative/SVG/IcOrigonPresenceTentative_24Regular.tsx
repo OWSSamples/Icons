@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonPresenceTentative_24Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="M11.678.005C5.303.17.166 5.308 0 11.683zM2.39 19.193a12 12 0 0 1-1.752-3.31L15.878.642a12 12 0 0 1 3.31 1.751zM23.356 8.125 8.12 23.36a12 12 0 0 1-3.312-1.75L21.606 4.813c.746.996 1.34 2.11 1.75 3.312m.635 4.201-11.67 11.67c6.37-.17 11.5-5.301 11.67-11.67"/>
+  </IconBase>
+);
+
+export default IcOrigonPresenceTentative_24Regular;

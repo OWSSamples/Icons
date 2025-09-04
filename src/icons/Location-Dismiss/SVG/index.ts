@@ -1,4 +1,4 @@
-export { default as IcFluentLocationDismiss_20Filled } from './IcFluentLocationDismiss_20Filled';
-export { default as IcFluentLocationDismiss_20Regular } from './IcFluentLocationDismiss_20Regular';
-export { default as IcFluentLocationDismiss_24Filled } from './IcFluentLocationDismiss_24Filled';
-export { default as IcFluentLocationDismiss_24Regular } from './IcFluentLocationDismiss_24Regular';
+export { default as IcOrigonLocationDismiss_20Filled } from './IcOrigonLocationDismiss_20Filled';
+export { default as IcOrigonLocationDismiss_20Regular } from './IcOrigonLocationDismiss_20Regular';
+export { default as IcOrigonLocationDismiss_24Filled } from './IcOrigonLocationDismiss_24Filled';
+export { default as IcOrigonLocationDismiss_24Regular } from './IcOrigonLocationDismiss_24Regular';

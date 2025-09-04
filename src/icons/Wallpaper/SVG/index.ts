@@ -1,4 +1,4 @@
-export { default as IcFluentWallpaper_20Filled } from './IcFluentWallpaper_20Filled';
-export { default as IcFluentWallpaper_20Regular } from './IcFluentWallpaper_20Regular';
-export { default as IcFluentWallpaper_24Filled } from './IcFluentWallpaper_24Filled';
-export { default as IcFluentWallpaper_24Regular } from './IcFluentWallpaper_24Regular';
+export { default as IcOrigonWallpaper_20Filled } from './IcOrigonWallpaper_20Filled';
+export { default as IcOrigonWallpaper_20Regular } from './IcOrigonWallpaper_20Regular';
+export { default as IcOrigonWallpaper_24Filled } from './IcOrigonWallpaper_24Filled';
+export { default as IcOrigonWallpaper_24Regular } from './IcOrigonWallpaper_24Regular';

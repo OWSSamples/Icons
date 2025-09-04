@@ -1,3 +1,3 @@
-export { default as IcFluentLayoutColumnFourFocusLeft_16Filled } from './IcFluentLayoutColumnFourFocusLeft_16Filled';
-export { default as IcFluentLayoutColumnFourFocusLeft_20Filled } from './IcFluentLayoutColumnFourFocusLeft_20Filled';
-export { default as IcFluentLayoutColumnFourFocusLeft_24Filled } from './IcFluentLayoutColumnFourFocusLeft_24Filled';
+export { default as IcOrigonLayoutColumnFourFocusLeft_16Filled } from './IcOrigonLayoutColumnFourFocusLeft_16Filled';
+export { default as IcOrigonLayoutColumnFourFocusLeft_20Filled } from './IcOrigonLayoutColumnFourFocusLeft_20Filled';
+export { default as IcOrigonLayoutColumnFourFocusLeft_24Filled } from './IcOrigonLayoutColumnFourFocusLeft_24Filled';

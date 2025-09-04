@@ -1,4 +1,4 @@
-export { default as IcFluentInkStrokeArrowUpDown_20Filled } from './IcFluentInkStrokeArrowUpDown_20Filled';
-export { default as IcFluentInkStrokeArrowUpDown_20Regular } from './IcFluentInkStrokeArrowUpDown_20Regular';
-export { default as IcFluentInkStrokeArrowUpDown_24Filled } from './IcFluentInkStrokeArrowUpDown_24Filled';
-export { default as IcFluentInkStrokeArrowUpDown_24Regular } from './IcFluentInkStrokeArrowUpDown_24Regular';
+export { default as IcOrigonInkStrokeArrowUpDown_20Filled } from './IcOrigonInkStrokeArrowUpDown_20Filled';
+export { default as IcOrigonInkStrokeArrowUpDown_20Regular } from './IcOrigonInkStrokeArrowUpDown_20Regular';
+export { default as IcOrigonInkStrokeArrowUpDown_24Filled } from './IcOrigonInkStrokeArrowUpDown_24Filled';
+export { default as IcOrigonInkStrokeArrowUpDown_24Regular } from './IcOrigonInkStrokeArrowUpDown_24Regular';

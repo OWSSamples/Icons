@@ -1,4 +1,4 @@
-export { default as IcFluentUmbrella_20Filled } from './IcFluentUmbrella_20Filled';
-export { default as IcFluentUmbrella_20Regular } from './IcFluentUmbrella_20Regular';
-export { default as IcFluentUmbrella_24Filled } from './IcFluentUmbrella_24Filled';
-export { default as IcFluentUmbrella_24Regular } from './IcFluentUmbrella_24Regular';
+export { default as IcOrigonUmbrella_20Filled } from './IcOrigonUmbrella_20Filled';
+export { default as IcOrigonUmbrella_20Regular } from './IcOrigonUmbrella_20Regular';
+export { default as IcOrigonUmbrella_24Filled } from './IcOrigonUmbrella_24Filled';
+export { default as IcOrigonUmbrella_24Regular } from './IcOrigonUmbrella_24Regular';

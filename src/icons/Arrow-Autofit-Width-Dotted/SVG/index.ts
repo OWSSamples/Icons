@@ -1,4 +1,4 @@
-export { default as IcFluentArrowAutofitWidthDotted_20Filled } from './IcFluentArrowAutofitWidthDotted_20Filled';
-export { default as IcFluentArrowAutofitWidthDotted_20Regular } from './IcFluentArrowAutofitWidthDotted_20Regular';
-export { default as IcFluentArrowAutofitWidthDotted_24Filled } from './IcFluentArrowAutofitWidthDotted_24Filled';
-export { default as IcFluentArrowAutofitWidthDotted_24Regular } from './IcFluentArrowAutofitWidthDotted_24Regular';
+export { default as IcOrigonArrowAutofitWidthDotted_20Filled } from './IcOrigonArrowAutofitWidthDotted_20Filled';
+export { default as IcOrigonArrowAutofitWidthDotted_20Regular } from './IcOrigonArrowAutofitWidthDotted_20Regular';
+export { default as IcOrigonArrowAutofitWidthDotted_24Filled } from './IcOrigonArrowAutofitWidthDotted_24Filled';
+export { default as IcOrigonArrowAutofitWidthDotted_24Regular } from './IcOrigonArrowAutofitWidthDotted_24Regular';

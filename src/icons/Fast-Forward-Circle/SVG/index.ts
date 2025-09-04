@@ -1,1 +1,1 @@
-export { default as IcFluentFastForwardCircle_24Color } from './IcFluentFastForwardCircle_24Color';
+export { default as IcOrigonFastForwardCircle_24Color } from './IcOrigonFastForwardCircle_24Color';

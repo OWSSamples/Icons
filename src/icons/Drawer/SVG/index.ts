@@ -1,4 +1,4 @@
-export { default as IcFluentDrawer_20Filled } from './IcFluentDrawer_20Filled';
-export { default as IcFluentDrawer_20Regular } from './IcFluentDrawer_20Regular';
-export { default as IcFluentDrawer_24Filled } from './IcFluentDrawer_24Filled';
-export { default as IcFluentDrawer_24Regular } from './IcFluentDrawer_24Regular';
+export { default as IcOrigonDrawer_20Filled } from './IcOrigonDrawer_20Filled';
+export { default as IcOrigonDrawer_20Regular } from './IcOrigonDrawer_20Regular';
+export { default as IcOrigonDrawer_24Filled } from './IcOrigonDrawer_24Filled';
+export { default as IcOrigonDrawer_24Regular } from './IcOrigonDrawer_24Regular';

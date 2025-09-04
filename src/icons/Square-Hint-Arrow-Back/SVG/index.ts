@@ -1,4 +1,4 @@
-export { default as IcFluentSquareHintArrowBack_16Filled } from './IcFluentSquareHintArrowBack_16Filled';
-export { default as IcFluentSquareHintArrowBack_16Regular } from './IcFluentSquareHintArrowBack_16Regular';
-export { default as IcFluentSquareHintArrowBack_20Filled } from './IcFluentSquareHintArrowBack_20Filled';
-export { default as IcFluentSquareHintArrowBack_20Regular } from './IcFluentSquareHintArrowBack_20Regular';
+export { default as IcOrigonSquareHintArrowBack_16Filled } from './IcOrigonSquareHintArrowBack_16Filled';
+export { default as IcOrigonSquareHintArrowBack_16Regular } from './IcOrigonSquareHintArrowBack_16Regular';
+export { default as IcOrigonSquareHintArrowBack_20Filled } from './IcOrigonSquareHintArrowBack_20Filled';
+export { default as IcOrigonSquareHintArrowBack_20Regular } from './IcOrigonSquareHintArrowBack_20Regular';

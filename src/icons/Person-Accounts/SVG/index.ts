@@ -1,4 +1,4 @@
-export { default as IcFluentPersonAccounts_20Filled } from './IcFluentPersonAccounts_20Filled';
-export { default as IcFluentPersonAccounts_20Regular } from './IcFluentPersonAccounts_20Regular';
-export { default as IcFluentPersonAccounts_24Filled } from './IcFluentPersonAccounts_24Filled';
-export { default as IcFluentPersonAccounts_24Regular } from './IcFluentPersonAccounts_24Regular';
+export { default as IcOrigonPersonAccounts_20Filled } from './IcOrigonPersonAccounts_20Filled';
+export { default as IcOrigonPersonAccounts_20Regular } from './IcOrigonPersonAccounts_20Regular';
+export { default as IcOrigonPersonAccounts_24Filled } from './IcOrigonPersonAccounts_24Filled';
+export { default as IcOrigonPersonAccounts_24Regular } from './IcOrigonPersonAccounts_24Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonStarArrowRightEnd_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M10.898 2.555a1.002 1.002 0 0 0-1.794 0l-1.93 3.894-4.317.625a.994.994 0 0 0-.554 1.698l3.124 3.031-.738 4.28c-.14.814.718 1.434 1.451 1.05l3.052-1.597a5.5 5.5 0 0 1-.19-1.43c0-3.025 2.462-5.477 5.5-5.477.96 0 1.863.245 2.648.676l.549-.533a.994.994 0 0 0-.554-1.698l-4.317-.625zM19 14.5a4.5 4.5 0 1 0-9 0 4.5 4.5 0 0 0 9 0m-4.146 2.354a.5.5 0 0 1-.708-.708L15.293 15H12.5a.5.5 0 0 1 0-1h2.793l-1.147-1.146a.5.5 0 0 1 .708-.708l2 2a.5.5 0 0 1 .146.351v.006a.5.5 0 0 1-.144.348l-.003.003z"/>
+  </IconBase>
+);
+
+export default IcOrigonStarArrowRightEnd_20Filled;

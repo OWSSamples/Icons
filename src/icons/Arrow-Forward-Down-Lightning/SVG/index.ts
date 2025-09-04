@@ -1,4 +1,4 @@
-export { default as IcFluentArrowForwardDownLightning_20Filled } from './IcFluentArrowForwardDownLightning_20Filled';
-export { default as IcFluentArrowForwardDownLightning_20Regular } from './IcFluentArrowForwardDownLightning_20Regular';
-export { default as IcFluentArrowForwardDownLightning_24Filled } from './IcFluentArrowForwardDownLightning_24Filled';
-export { default as IcFluentArrowForwardDownLightning_24Regular } from './IcFluentArrowForwardDownLightning_24Regular';
+export { default as IcOrigonArrowForwardDownLightning_20Filled } from './IcOrigonArrowForwardDownLightning_20Filled';
+export { default as IcOrigonArrowForwardDownLightning_20Regular } from './IcOrigonArrowForwardDownLightning_20Regular';
+export { default as IcOrigonArrowForwardDownLightning_24Filled } from './IcOrigonArrowForwardDownLightning_24Filled';
+export { default as IcOrigonArrowForwardDownLightning_24Regular } from './IcOrigonArrowForwardDownLightning_24Regular';

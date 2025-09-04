@@ -1,4 +1,4 @@
-export { default as IcFluentImageSearch_20Filled } from './IcFluentImageSearch_20Filled';
-export { default as IcFluentImageSearch_20Regular } from './IcFluentImageSearch_20Regular';
-export { default as IcFluentImageSearch_24Filled } from './IcFluentImageSearch_24Filled';
-export { default as IcFluentImageSearch_24Regular } from './IcFluentImageSearch_24Regular';
+export { default as IcOrigonImageSearch_20Filled } from './IcOrigonImageSearch_20Filled';
+export { default as IcOrigonImageSearch_20Regular } from './IcOrigonImageSearch_20Regular';
+export { default as IcOrigonImageSearch_24Filled } from './IcOrigonImageSearch_24Filled';
+export { default as IcOrigonImageSearch_24Regular } from './IcOrigonImageSearch_24Regular';

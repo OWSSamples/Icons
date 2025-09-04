@@ -1,4 +1,4 @@
-export { default as IcFluentPauseSettings_16Filled } from './IcFluentPauseSettings_16Filled';
-export { default as IcFluentPauseSettings_16Regular } from './IcFluentPauseSettings_16Regular';
-export { default as IcFluentPauseSettings_20Filled } from './IcFluentPauseSettings_20Filled';
-export { default as IcFluentPauseSettings_20Regular } from './IcFluentPauseSettings_20Regular';
+export { default as IcOrigonPauseSettings_16Filled } from './IcOrigonPauseSettings_16Filled';
+export { default as IcOrigonPauseSettings_16Regular } from './IcOrigonPauseSettings_16Regular';
+export { default as IcOrigonPauseSettings_20Filled } from './IcOrigonPauseSettings_20Filled';
+export { default as IcOrigonPauseSettings_20Regular } from './IcOrigonPauseSettings_20Regular';

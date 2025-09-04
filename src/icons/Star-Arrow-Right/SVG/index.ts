@@ -1,1 +1,1 @@
-export { default as IcFluentStarArrowRight_32Light } from './IcFluentStarArrowRight_32Light';
+export { default as IcOrigonStarArrowRight_32Light } from './IcOrigonStarArrowRight_32Light';

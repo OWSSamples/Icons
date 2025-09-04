@@ -1,6 +1,6 @@
-export { default as IcFluentTableCellAdd_16Filled } from './IcFluentTableCellAdd_16Filled';
-export { default as IcFluentTableCellAdd_16Regular } from './IcFluentTableCellAdd_16Regular';
-export { default as IcFluentTableCellAdd_20Filled } from './IcFluentTableCellAdd_20Filled';
-export { default as IcFluentTableCellAdd_20Regular } from './IcFluentTableCellAdd_20Regular';
-export { default as IcFluentTableCellAdd_24Filled } from './IcFluentTableCellAdd_24Filled';
-export { default as IcFluentTableCellAdd_24Regular } from './IcFluentTableCellAdd_24Regular';
+export { default as IcOrigonTableCellAdd_16Filled } from './IcOrigonTableCellAdd_16Filled';
+export { default as IcOrigonTableCellAdd_16Regular } from './IcOrigonTableCellAdd_16Regular';
+export { default as IcOrigonTableCellAdd_20Filled } from './IcOrigonTableCellAdd_20Filled';
+export { default as IcOrigonTableCellAdd_20Regular } from './IcOrigonTableCellAdd_20Regular';
+export { default as IcOrigonTableCellAdd_24Filled } from './IcOrigonTableCellAdd_24Filled';
+export { default as IcOrigonTableCellAdd_24Regular } from './IcOrigonTableCellAdd_24Regular';

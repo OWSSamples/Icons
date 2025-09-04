@@ -1,2 +1,2 @@
-export { default as IcFluentCropSparkle_24Filled } from './IcFluentCropSparkle_24Filled';
-export { default as IcFluentCropSparkle_24Regular } from './IcFluentCropSparkle_24Regular';
+export { default as IcOrigonCropSparkle_24Filled } from './IcOrigonCropSparkle_24Filled';
+export { default as IcOrigonCropSparkle_24Regular } from './IcOrigonCropSparkle_24Regular';

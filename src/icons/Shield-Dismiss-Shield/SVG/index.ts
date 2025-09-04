@@ -1,2 +1,2 @@
-export { default as IcFluentShieldDismissShield_20Filled } from './IcFluentShieldDismissShield_20Filled';
-export { default as IcFluentShieldDismissShield_20Regular } from './IcFluentShieldDismissShield_20Regular';
+export { default as IcOrigonShieldDismissShield_20Filled } from './IcOrigonShieldDismissShield_20Filled';
+export { default as IcOrigonShieldDismissShield_20Regular } from './IcOrigonShieldDismissShield_20Regular';

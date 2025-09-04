@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonArrowForwardDownLightning_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M13.611 4.319 16.294 7H12l-.262-.005C8.808 6.906 7 5.274 7 3a.5.5 0 0 0-1 0l.005.208C6.115 6.025 8.479 8 12 8l4.293.001-2.683 2.682-.058.069a.5.5 0 0 0 .765.638l3.55-3.551.055-.072.04-.075.02-.063.016-.086v-.067L18 7.5a.5.5 0 0 0-.012-.104l-.005-.021-.022-.068-.028-.056-.05-.07-3.565-3.57-.07-.057a.5.5 0 0 0-.638.765M2.502 16h1.75l-.59 2.36c-.12.482.463.826.827.486l4.872-4.548A.75.75 0 0 0 8.85 13H7.752l.781-2.342A.5.5 0 0 0 8.06 10H4.586a.5.5 0 0 0-.462.308l-2.083 5a.5.5 0 0 0 .461.692"/>
+  </IconBase>
+);
+
+export default IcOrigonArrowForwardDownLightning_20Regular;

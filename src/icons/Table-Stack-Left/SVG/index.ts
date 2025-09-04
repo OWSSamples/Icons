@@ -1,8 +1,8 @@
-export { default as IcFluentTableStackLeft_16Filled } from './IcFluentTableStackLeft_16Filled';
-export { default as IcFluentTableStackLeft_16Regular } from './IcFluentTableStackLeft_16Regular';
-export { default as IcFluentTableStackLeft_20Filled } from './IcFluentTableStackLeft_20Filled';
-export { default as IcFluentTableStackLeft_20Regular } from './IcFluentTableStackLeft_20Regular';
-export { default as IcFluentTableStackLeft_24Filled } from './IcFluentTableStackLeft_24Filled';
-export { default as IcFluentTableStackLeft_24Regular } from './IcFluentTableStackLeft_24Regular';
-export { default as IcFluentTableStackLeft_28Filled } from './IcFluentTableStackLeft_28Filled';
-export { default as IcFluentTableStackLeft_28Regular } from './IcFluentTableStackLeft_28Regular';
+export { default as IcOrigonTableStackLeft_16Filled } from './IcOrigonTableStackLeft_16Filled';
+export { default as IcOrigonTableStackLeft_16Regular } from './IcOrigonTableStackLeft_16Regular';
+export { default as IcOrigonTableStackLeft_20Filled } from './IcOrigonTableStackLeft_20Filled';
+export { default as IcOrigonTableStackLeft_20Regular } from './IcOrigonTableStackLeft_20Regular';
+export { default as IcOrigonTableStackLeft_24Filled } from './IcOrigonTableStackLeft_24Filled';
+export { default as IcOrigonTableStackLeft_24Regular } from './IcOrigonTableStackLeft_24Regular';
+export { default as IcOrigonTableStackLeft_28Filled } from './IcOrigonTableStackLeft_28Filled';
+export { default as IcOrigonTableStackLeft_28Regular } from './IcOrigonTableStackLeft_28Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentFlowDot_16Filled } from './IcFluentFlowDot_16Filled';
-export { default as IcFluentFlowDot_16Regular } from './IcFluentFlowDot_16Regular';
-export { default as IcFluentFlowDot_20Filled } from './IcFluentFlowDot_20Filled';
-export { default as IcFluentFlowDot_20Regular } from './IcFluentFlowDot_20Regular';
-export { default as IcFluentFlowDot_24Filled } from './IcFluentFlowDot_24Filled';
-export { default as IcFluentFlowDot_24Regular } from './IcFluentFlowDot_24Regular';
+export { default as IcOrigonFlowDot_16Filled } from './IcOrigonFlowDot_16Filled';
+export { default as IcOrigonFlowDot_16Regular } from './IcOrigonFlowDot_16Regular';
+export { default as IcOrigonFlowDot_20Filled } from './IcOrigonFlowDot_20Filled';
+export { default as IcOrigonFlowDot_20Regular } from './IcOrigonFlowDot_20Regular';
+export { default as IcOrigonFlowDot_24Filled } from './IcOrigonFlowDot_24Filled';
+export { default as IcOrigonFlowDot_24Regular } from './IcOrigonFlowDot_24Regular';

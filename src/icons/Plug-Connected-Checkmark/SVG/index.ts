@@ -1,2 +1,2 @@
-export { default as IcFluentPlugConnectedCheckmark_20Filled } from './IcFluentPlugConnectedCheckmark_20Filled';
-export { default as IcFluentPlugConnectedCheckmark_20Regular } from './IcFluentPlugConnectedCheckmark_20Regular';
+export { default as IcOrigonPlugConnectedCheckmark_20Filled } from './IcOrigonPlugConnectedCheckmark_20Filled';
+export { default as IcOrigonPlugConnectedCheckmark_20Regular } from './IcOrigonPlugConnectedCheckmark_20Regular';

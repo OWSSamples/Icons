@@ -1,6 +1,6 @@
-export { default as IcFluentPersonLock_16Filled } from './IcFluentPersonLock_16Filled';
-export { default as IcFluentPersonLock_16Regular } from './IcFluentPersonLock_16Regular';
-export { default as IcFluentPersonLock_20Filled } from './IcFluentPersonLock_20Filled';
-export { default as IcFluentPersonLock_20Regular } from './IcFluentPersonLock_20Regular';
-export { default as IcFluentPersonLock_24Filled } from './IcFluentPersonLock_24Filled';
-export { default as IcFluentPersonLock_24Regular } from './IcFluentPersonLock_24Regular';
+export { default as IcOrigonPersonLock_16Filled } from './IcOrigonPersonLock_16Filled';
+export { default as IcOrigonPersonLock_16Regular } from './IcOrigonPersonLock_16Regular';
+export { default as IcOrigonPersonLock_20Filled } from './IcOrigonPersonLock_20Filled';
+export { default as IcOrigonPersonLock_20Regular } from './IcOrigonPersonLock_20Regular';
+export { default as IcOrigonPersonLock_24Filled } from './IcOrigonPersonLock_24Filled';
+export { default as IcOrigonPersonLock_24Regular } from './IcOrigonPersonLock_24Regular';

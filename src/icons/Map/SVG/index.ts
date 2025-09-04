@@ -1,6 +1,6 @@
-export { default as IcFluentMap_16Filled } from './IcFluentMap_16Filled';
-export { default as IcFluentMap_16Regular } from './IcFluentMap_16Regular';
-export { default as IcFluentMap_20Filled } from './IcFluentMap_20Filled';
-export { default as IcFluentMap_20Regular } from './IcFluentMap_20Regular';
-export { default as IcFluentMap_24Filled } from './IcFluentMap_24Filled';
-export { default as IcFluentMap_24Regular } from './IcFluentMap_24Regular';
+export { default as IcOrigonMap_16Filled } from './IcOrigonMap_16Filled';
+export { default as IcOrigonMap_16Regular } from './IcOrigonMap_16Regular';
+export { default as IcOrigonMap_20Filled } from './IcOrigonMap_20Filled';
+export { default as IcOrigonMap_20Regular } from './IcOrigonMap_20Regular';
+export { default as IcOrigonMap_24Filled } from './IcOrigonMap_24Filled';
+export { default as IcOrigonMap_24Regular } from './IcOrigonMap_24Regular';

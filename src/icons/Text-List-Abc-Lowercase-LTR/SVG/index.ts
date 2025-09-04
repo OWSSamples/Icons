@@ -1,4 +1,4 @@
-export { default as IcFluentTextListAbcLowercaseLtr_20Filled } from './IcFluentTextListAbcLowercaseLtr_20Filled';
-export { default as IcFluentTextListAbcLowercaseLtr_20Regular } from './IcFluentTextListAbcLowercaseLtr_20Regular';
-export { default as IcFluentTextListAbcLowercaseLtr_24Filled } from './IcFluentTextListAbcLowercaseLtr_24Filled';
-export { default as IcFluentTextListAbcLowercaseLtr_24Regular } from './IcFluentTextListAbcLowercaseLtr_24Regular';
+export { default as IcOrigonTextListAbcLowercaseLtr_20Filled } from './IcOrigonTextListAbcLowercaseLtr_20Filled';
+export { default as IcOrigonTextListAbcLowercaseLtr_20Regular } from './IcOrigonTextListAbcLowercaseLtr_20Regular';
+export { default as IcOrigonTextListAbcLowercaseLtr_24Filled } from './IcOrigonTextListAbcLowercaseLtr_24Filled';
+export { default as IcOrigonTextListAbcLowercaseLtr_24Regular } from './IcOrigonTextListAbcLowercaseLtr_24Regular';

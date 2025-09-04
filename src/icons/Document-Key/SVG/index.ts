@@ -1,2 +1,2 @@
-export { default as IcFluentDocumentKey_20Filled } from './IcFluentDocumentKey_20Filled';
-export { default as IcFluentDocumentKey_20Regular } from './IcFluentDocumentKey_20Regular';
+export { default as IcOrigonDocumentKey_20Filled } from './IcOrigonDocumentKey_20Filled';
+export { default as IcOrigonDocumentKey_20Regular } from './IcOrigonDocumentKey_20Regular';

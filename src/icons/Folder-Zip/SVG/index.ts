@@ -1,6 +1,6 @@
-export { default as IcFluentFolderZip_16Filled } from './IcFluentFolderZip_16Filled';
-export { default as IcFluentFolderZip_16Regular } from './IcFluentFolderZip_16Regular';
-export { default as IcFluentFolderZip_20Filled } from './IcFluentFolderZip_20Filled';
-export { default as IcFluentFolderZip_20Regular } from './IcFluentFolderZip_20Regular';
-export { default as IcFluentFolderZip_24Filled } from './IcFluentFolderZip_24Filled';
-export { default as IcFluentFolderZip_24Regular } from './IcFluentFolderZip_24Regular';
+export { default as IcOrigonFolderZip_16Filled } from './IcOrigonFolderZip_16Filled';
+export { default as IcOrigonFolderZip_16Regular } from './IcOrigonFolderZip_16Regular';
+export { default as IcOrigonFolderZip_20Filled } from './IcOrigonFolderZip_20Filled';
+export { default as IcOrigonFolderZip_20Regular } from './IcOrigonFolderZip_20Regular';
+export { default as IcOrigonFolderZip_24Filled } from './IcOrigonFolderZip_24Filled';
+export { default as IcOrigonFolderZip_24Regular } from './IcOrigonFolderZip_24Regular';

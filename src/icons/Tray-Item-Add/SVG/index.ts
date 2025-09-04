@@ -1,4 +1,4 @@
-export { default as IcFluentTrayItemAdd_20Filled } from './IcFluentTrayItemAdd_20Filled';
-export { default as IcFluentTrayItemAdd_20Regular } from './IcFluentTrayItemAdd_20Regular';
-export { default as IcFluentTrayItemAdd_24Filled } from './IcFluentTrayItemAdd_24Filled';
-export { default as IcFluentTrayItemAdd_24Regular } from './IcFluentTrayItemAdd_24Regular';
+export { default as IcOrigonTrayItemAdd_20Filled } from './IcOrigonTrayItemAdd_20Filled';
+export { default as IcOrigonTrayItemAdd_20Regular } from './IcOrigonTrayItemAdd_20Regular';
+export { default as IcOrigonTrayItemAdd_24Filled } from './IcOrigonTrayItemAdd_24Filled';
+export { default as IcOrigonTrayItemAdd_24Regular } from './IcOrigonTrayItemAdd_24Regular';

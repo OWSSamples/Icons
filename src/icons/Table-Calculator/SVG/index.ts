@@ -1,4 +1,4 @@
-export { default as IcFluentTableCalculator_16Filled } from './IcFluentTableCalculator_16Filled';
-export { default as IcFluentTableCalculator_16Regular } from './IcFluentTableCalculator_16Regular';
-export { default as IcFluentTableCalculator_20Filled } from './IcFluentTableCalculator_20Filled';
-export { default as IcFluentTableCalculator_20Regular } from './IcFluentTableCalculator_20Regular';
+export { default as IcOrigonTableCalculator_16Filled } from './IcOrigonTableCalculator_16Filled';
+export { default as IcOrigonTableCalculator_16Regular } from './IcOrigonTableCalculator_16Regular';
+export { default as IcOrigonTableCalculator_20Filled } from './IcOrigonTableCalculator_20Filled';
+export { default as IcOrigonTableCalculator_20Regular } from './IcOrigonTableCalculator_20Regular';

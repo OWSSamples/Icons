@@ -1,4 +1,4 @@
-export { default as IcFluentTextColumnTwo_20Filled } from './IcFluentTextColumnTwo_20Filled';
-export { default as IcFluentTextColumnTwo_20Regular } from './IcFluentTextColumnTwo_20Regular';
-export { default as IcFluentTextColumnTwo_24Filled } from './IcFluentTextColumnTwo_24Filled';
-export { default as IcFluentTextColumnTwo_24Regular } from './IcFluentTextColumnTwo_24Regular';
+export { default as IcOrigonTextColumnTwo_20Filled } from './IcOrigonTextColumnTwo_20Filled';
+export { default as IcOrigonTextColumnTwo_20Regular } from './IcOrigonTextColumnTwo_20Regular';
+export { default as IcOrigonTextColumnTwo_24Filled } from './IcOrigonTextColumnTwo_24Filled';
+export { default as IcOrigonTextColumnTwo_24Regular } from './IcOrigonTextColumnTwo_24Regular';

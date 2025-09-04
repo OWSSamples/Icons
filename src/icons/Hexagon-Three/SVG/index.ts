@@ -1,8 +1,8 @@
-export { default as IcFluentHexagonThree_12Filled } from './IcFluentHexagonThree_12Filled';
-export { default as IcFluentHexagonThree_12Regular } from './IcFluentHexagonThree_12Regular';
-export { default as IcFluentHexagonThree_16Filled } from './IcFluentHexagonThree_16Filled';
-export { default as IcFluentHexagonThree_16Regular } from './IcFluentHexagonThree_16Regular';
-export { default as IcFluentHexagonThree_20Filled } from './IcFluentHexagonThree_20Filled';
-export { default as IcFluentHexagonThree_20Regular } from './IcFluentHexagonThree_20Regular';
-export { default as IcFluentHexagonThree_24Filled } from './IcFluentHexagonThree_24Filled';
-export { default as IcFluentHexagonThree_24Regular } from './IcFluentHexagonThree_24Regular';
+export { default as IcOrigonHexagonThree_12Filled } from './IcOrigonHexagonThree_12Filled';
+export { default as IcOrigonHexagonThree_12Regular } from './IcOrigonHexagonThree_12Regular';
+export { default as IcOrigonHexagonThree_16Filled } from './IcOrigonHexagonThree_16Filled';
+export { default as IcOrigonHexagonThree_16Regular } from './IcOrigonHexagonThree_16Regular';
+export { default as IcOrigonHexagonThree_20Filled } from './IcOrigonHexagonThree_20Filled';
+export { default as IcOrigonHexagonThree_20Regular } from './IcOrigonHexagonThree_20Regular';
+export { default as IcOrigonHexagonThree_24Filled } from './IcOrigonHexagonThree_24Filled';
+export { default as IcOrigonHexagonThree_24Regular } from './IcOrigonHexagonThree_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentEditSettings_20Filled } from './IcFluentEditSettings_20Filled';
-export { default as IcFluentEditSettings_20Regular } from './IcFluentEditSettings_20Regular';
-export { default as IcFluentEditSettings_24Filled } from './IcFluentEditSettings_24Filled';
-export { default as IcFluentEditSettings_24Regular } from './IcFluentEditSettings_24Regular';
+export { default as IcOrigonEditSettings_20Filled } from './IcOrigonEditSettings_20Filled';
+export { default as IcOrigonEditSettings_20Regular } from './IcOrigonEditSettings_20Regular';
+export { default as IcOrigonEditSettings_24Filled } from './IcOrigonEditSettings_24Filled';
+export { default as IcOrigonEditSettings_24Regular } from './IcOrigonEditSettings_24Regular';

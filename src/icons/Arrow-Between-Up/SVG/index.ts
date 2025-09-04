@@ -1,2 +1,2 @@
-export { default as IcFluentArrowBetweenUp_20Filled } from './IcFluentArrowBetweenUp_20Filled';
-export { default as IcFluentArrowBetweenUp_20Regular } from './IcFluentArrowBetweenUp_20Regular';
+export { default as IcOrigonArrowBetweenUp_20Filled } from './IcOrigonArrowBetweenUp_20Filled';
+export { default as IcOrigonArrowBetweenUp_20Regular } from './IcOrigonArrowBetweenUp_20Regular';

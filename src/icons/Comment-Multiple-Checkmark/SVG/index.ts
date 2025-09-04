@@ -1,8 +1,8 @@
-export { default as IcFluentCommentMultipleCheckmark_16Filled } from './IcFluentCommentMultipleCheckmark_16Filled';
-export { default as IcFluentCommentMultipleCheckmark_16Regular } from './IcFluentCommentMultipleCheckmark_16Regular';
-export { default as IcFluentCommentMultipleCheckmark_20Filled } from './IcFluentCommentMultipleCheckmark_20Filled';
-export { default as IcFluentCommentMultipleCheckmark_20Regular } from './IcFluentCommentMultipleCheckmark_20Regular';
-export { default as IcFluentCommentMultipleCheckmark_24Filled } from './IcFluentCommentMultipleCheckmark_24Filled';
-export { default as IcFluentCommentMultipleCheckmark_24Regular } from './IcFluentCommentMultipleCheckmark_24Regular';
-export { default as IcFluentCommentMultipleCheckmark_28Filled } from './IcFluentCommentMultipleCheckmark_28Filled';
-export { default as IcFluentCommentMultipleCheckmark_28Regular } from './IcFluentCommentMultipleCheckmark_28Regular';
+export { default as IcOrigonCommentMultipleCheckmark_16Filled } from './IcOrigonCommentMultipleCheckmark_16Filled';
+export { default as IcOrigonCommentMultipleCheckmark_16Regular } from './IcOrigonCommentMultipleCheckmark_16Regular';
+export { default as IcOrigonCommentMultipleCheckmark_20Filled } from './IcOrigonCommentMultipleCheckmark_20Filled';
+export { default as IcOrigonCommentMultipleCheckmark_20Regular } from './IcOrigonCommentMultipleCheckmark_20Regular';
+export { default as IcOrigonCommentMultipleCheckmark_24Filled } from './IcOrigonCommentMultipleCheckmark_24Filled';
+export { default as IcOrigonCommentMultipleCheckmark_24Regular } from './IcOrigonCommentMultipleCheckmark_24Regular';
+export { default as IcOrigonCommentMultipleCheckmark_28Filled } from './IcOrigonCommentMultipleCheckmark_28Filled';
+export { default as IcOrigonCommentMultipleCheckmark_28Regular } from './IcOrigonCommentMultipleCheckmark_28Regular';

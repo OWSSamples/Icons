@@ -1,2 +1,2 @@
-export { default as IcFluentFlagCheckered_20Filled } from './IcFluentFlagCheckered_20Filled';
-export { default as IcFluentFlagCheckered_20Regular } from './IcFluentFlagCheckered_20Regular';
+export { default as IcOrigonFlagCheckered_20Filled } from './IcOrigonFlagCheckered_20Filled';
+export { default as IcOrigonFlagCheckered_20Regular } from './IcOrigonFlagCheckered_20Regular';

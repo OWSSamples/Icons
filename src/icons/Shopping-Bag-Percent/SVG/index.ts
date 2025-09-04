@@ -1,4 +1,4 @@
-export { default as IcFluentShoppingBagPercent_20Filled } from './IcFluentShoppingBagPercent_20Filled';
-export { default as IcFluentShoppingBagPercent_20Regular } from './IcFluentShoppingBagPercent_20Regular';
-export { default as IcFluentShoppingBagPercent_24Filled } from './IcFluentShoppingBagPercent_24Filled';
-export { default as IcFluentShoppingBagPercent_24Regular } from './IcFluentShoppingBagPercent_24Regular';
+export { default as IcOrigonShoppingBagPercent_20Filled } from './IcOrigonShoppingBagPercent_20Filled';
+export { default as IcOrigonShoppingBagPercent_20Regular } from './IcOrigonShoppingBagPercent_20Regular';
+export { default as IcOrigonShoppingBagPercent_24Filled } from './IcOrigonShoppingBagPercent_24Filled';
+export { default as IcOrigonShoppingBagPercent_24Regular } from './IcOrigonShoppingBagPercent_24Regular';

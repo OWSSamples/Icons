@@ -1,4 +1,4 @@
-export { default as IcFluentTextDirectionHorizontalRtl_20Filled } from './IcFluentTextDirectionHorizontalRtl_20Filled';
-export { default as IcFluentTextDirectionHorizontalRtl_20Regular } from './IcFluentTextDirectionHorizontalRtl_20Regular';
-export { default as IcFluentTextDirectionHorizontalRtl_24Filled } from './IcFluentTextDirectionHorizontalRtl_24Filled';
-export { default as IcFluentTextDirectionHorizontalRtl_24Regular } from './IcFluentTextDirectionHorizontalRtl_24Regular';
+export { default as IcOrigonTextDirectionHorizontalRtl_20Filled } from './IcOrigonTextDirectionHorizontalRtl_20Filled';
+export { default as IcOrigonTextDirectionHorizontalRtl_20Regular } from './IcOrigonTextDirectionHorizontalRtl_20Regular';
+export { default as IcOrigonTextDirectionHorizontalRtl_24Filled } from './IcOrigonTextDirectionHorizontalRtl_24Filled';
+export { default as IcOrigonTextDirectionHorizontalRtl_24Regular } from './IcOrigonTextDirectionHorizontalRtl_24Regular';

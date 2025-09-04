@@ -1,6 +1,6 @@
-export { default as IcFluentCheckmarkStarburst_16Filled } from './IcFluentCheckmarkStarburst_16Filled';
-export { default as IcFluentCheckmarkStarburst_16Regular } from './IcFluentCheckmarkStarburst_16Regular';
-export { default as IcFluentCheckmarkStarburst_20Filled } from './IcFluentCheckmarkStarburst_20Filled';
-export { default as IcFluentCheckmarkStarburst_20Regular } from './IcFluentCheckmarkStarburst_20Regular';
-export { default as IcFluentCheckmarkStarburst_24Filled } from './IcFluentCheckmarkStarburst_24Filled';
-export { default as IcFluentCheckmarkStarburst_24Regular } from './IcFluentCheckmarkStarburst_24Regular';
+export { default as IcOrigonCheckmarkStarburst_16Filled } from './IcOrigonCheckmarkStarburst_16Filled';
+export { default as IcOrigonCheckmarkStarburst_16Regular } from './IcOrigonCheckmarkStarburst_16Regular';
+export { default as IcOrigonCheckmarkStarburst_20Filled } from './IcOrigonCheckmarkStarburst_20Filled';
+export { default as IcOrigonCheckmarkStarburst_20Regular } from './IcOrigonCheckmarkStarburst_20Regular';
+export { default as IcOrigonCheckmarkStarburst_24Filled } from './IcOrigonCheckmarkStarburst_24Filled';
+export { default as IcOrigonCheckmarkStarburst_24Regular } from './IcOrigonCheckmarkStarburst_24Regular';

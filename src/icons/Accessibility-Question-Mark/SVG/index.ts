@@ -1,4 +1,4 @@
-export { default as IcFluentAccessibilityQuestionMark_20Filled } from './IcFluentAccessibilityQuestionMark_20Filled';
-export { default as IcFluentAccessibilityQuestionMark_20Regular } from './IcFluentAccessibilityQuestionMark_20Regular';
-export { default as IcFluentAccessibilityQuestionMark_24Filled } from './IcFluentAccessibilityQuestionMark_24Filled';
-export { default as IcFluentAccessibilityQuestionMark_24Regular } from './IcFluentAccessibilityQuestionMark_24Regular';
+export { default as IcOrigonAccessibilityQuestionMark_20Filled } from './IcOrigonAccessibilityQuestionMark_20Filled';
+export { default as IcOrigonAccessibilityQuestionMark_20Regular } from './IcOrigonAccessibilityQuestionMark_20Regular';
+export { default as IcOrigonAccessibilityQuestionMark_24Filled } from './IcOrigonAccessibilityQuestionMark_24Filled';
+export { default as IcOrigonAccessibilityQuestionMark_24Regular } from './IcOrigonAccessibilityQuestionMark_24Regular';

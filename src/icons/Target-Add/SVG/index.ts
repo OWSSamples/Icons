@@ -1,4 +1,4 @@
-export { default as IcFluentTargetAdd_20Filled } from './IcFluentTargetAdd_20Filled';
-export { default as IcFluentTargetAdd_20Regular } from './IcFluentTargetAdd_20Regular';
-export { default as IcFluentTargetAdd_24Filled } from './IcFluentTargetAdd_24Filled';
-export { default as IcFluentTargetAdd_24Regular } from './IcFluentTargetAdd_24Regular';
+export { default as IcOrigonTargetAdd_20Filled } from './IcOrigonTargetAdd_20Filled';
+export { default as IcOrigonTargetAdd_20Regular } from './IcOrigonTargetAdd_20Regular';
+export { default as IcOrigonTargetAdd_24Filled } from './IcOrigonTargetAdd_24Filled';
+export { default as IcOrigonTargetAdd_24Regular } from './IcOrigonTargetAdd_24Regular';

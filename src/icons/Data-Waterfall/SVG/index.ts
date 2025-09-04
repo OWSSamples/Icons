@@ -1,4 +1,4 @@
-export { default as IcFluentDataWaterfall_20Filled } from './IcFluentDataWaterfall_20Filled';
-export { default as IcFluentDataWaterfall_20Regular } from './IcFluentDataWaterfall_20Regular';
-export { default as IcFluentDataWaterfall_24Filled } from './IcFluentDataWaterfall_24Filled';
-export { default as IcFluentDataWaterfall_24Regular } from './IcFluentDataWaterfall_24Regular';
+export { default as IcOrigonDataWaterfall_20Filled } from './IcOrigonDataWaterfall_20Filled';
+export { default as IcOrigonDataWaterfall_20Regular } from './IcOrigonDataWaterfall_20Regular';
+export { default as IcOrigonDataWaterfall_24Filled } from './IcOrigonDataWaterfall_24Filled';
+export { default as IcOrigonDataWaterfall_24Regular } from './IcOrigonDataWaterfall_24Regular';

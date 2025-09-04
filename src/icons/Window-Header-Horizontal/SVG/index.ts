@@ -1,2 +1,2 @@
-export { default as IcFluentWindowHeaderHorizontal_20Filled } from './IcFluentWindowHeaderHorizontal_20Filled';
-export { default as IcFluentWindowHeaderHorizontal_20Regular } from './IcFluentWindowHeaderHorizontal_20Regular';
+export { default as IcOrigonWindowHeaderHorizontal_20Filled } from './IcOrigonWindowHeaderHorizontal_20Filled';
+export { default as IcOrigonWindowHeaderHorizontal_20Regular } from './IcOrigonWindowHeaderHorizontal_20Regular';

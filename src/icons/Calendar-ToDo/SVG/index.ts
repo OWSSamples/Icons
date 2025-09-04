@@ -1,1 +1,1 @@
-export { default as IcFluentCalendarTodo_32Light } from './IcFluentCalendarTodo_32Light';
+export { default as IcOrigonCalendarTodo_32Light } from './IcOrigonCalendarTodo_32Light';

@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentBulletListClock_20Filled } from './IcFluentDocumentBulletListClock_20Filled';
-export { default as IcFluentDocumentBulletListClock_20Regular } from './IcFluentDocumentBulletListClock_20Regular';
-export { default as IcFluentDocumentBulletListClock_24Filled } from './IcFluentDocumentBulletListClock_24Filled';
-export { default as IcFluentDocumentBulletListClock_24Regular } from './IcFluentDocumentBulletListClock_24Regular';
+export { default as IcOrigonDocumentBulletListClock_20Filled } from './IcOrigonDocumentBulletListClock_20Filled';
+export { default as IcOrigonDocumentBulletListClock_20Regular } from './IcOrigonDocumentBulletListClock_20Regular';
+export { default as IcOrigonDocumentBulletListClock_24Filled } from './IcOrigonDocumentBulletListClock_24Filled';
+export { default as IcOrigonDocumentBulletListClock_24Regular } from './IcOrigonDocumentBulletListClock_24Regular';

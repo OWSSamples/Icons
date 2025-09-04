@@ -1,6 +1,6 @@
-export { default as IcFluentKeyboard_16Filled } from './IcFluentKeyboard_16Filled';
-export { default as IcFluentKeyboard_16Regular } from './IcFluentKeyboard_16Regular';
-export { default as IcFluentKeyboard_20Filled } from './IcFluentKeyboard_20Filled';
-export { default as IcFluentKeyboard_20Regular } from './IcFluentKeyboard_20Regular';
-export { default as IcFluentKeyboard_24Filled } from './IcFluentKeyboard_24Filled';
-export { default as IcFluentKeyboard_24Regular } from './IcFluentKeyboard_24Regular';
+export { default as IcOrigonKeyboard_16Filled } from './IcOrigonKeyboard_16Filled';
+export { default as IcOrigonKeyboard_16Regular } from './IcOrigonKeyboard_16Regular';
+export { default as IcOrigonKeyboard_20Filled } from './IcOrigonKeyboard_20Filled';
+export { default as IcOrigonKeyboard_20Regular } from './IcOrigonKeyboard_20Regular';
+export { default as IcOrigonKeyboard_24Filled } from './IcOrigonKeyboard_24Filled';
+export { default as IcOrigonKeyboard_24Regular } from './IcOrigonKeyboard_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentWeatherSunnyHigh_20Filled } from './IcFluentWeatherSunnyHigh_20Filled';
-export { default as IcFluentWeatherSunnyHigh_20Regular } from './IcFluentWeatherSunnyHigh_20Regular';
-export { default as IcFluentWeatherSunnyHigh_24Filled } from './IcFluentWeatherSunnyHigh_24Filled';
-export { default as IcFluentWeatherSunnyHigh_24Regular } from './IcFluentWeatherSunnyHigh_24Regular';
-export { default as IcFluentWeatherSunnyHigh_48Filled } from './IcFluentWeatherSunnyHigh_48Filled';
-export { default as IcFluentWeatherSunnyHigh_48Regular } from './IcFluentWeatherSunnyHigh_48Regular';
+export { default as IcOrigonWeatherSunnyHigh_20Filled } from './IcOrigonWeatherSunnyHigh_20Filled';
+export { default as IcOrigonWeatherSunnyHigh_20Regular } from './IcOrigonWeatherSunnyHigh_20Regular';
+export { default as IcOrigonWeatherSunnyHigh_24Filled } from './IcOrigonWeatherSunnyHigh_24Filled';
+export { default as IcOrigonWeatherSunnyHigh_24Regular } from './IcOrigonWeatherSunnyHigh_24Regular';
+export { default as IcOrigonWeatherSunnyHigh_48Filled } from './IcOrigonWeatherSunnyHigh_48Filled';
+export { default as IcOrigonWeatherSunnyHigh_48Regular } from './IcOrigonWeatherSunnyHigh_48Regular';

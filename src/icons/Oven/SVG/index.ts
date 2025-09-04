@@ -1,8 +1,8 @@
-export { default as IcFluentOven_20Filled } from './IcFluentOven_20Filled';
-export { default as IcFluentOven_20Regular } from './IcFluentOven_20Regular';
-export { default as IcFluentOven_24Filled } from './IcFluentOven_24Filled';
-export { default as IcFluentOven_24Regular } from './IcFluentOven_24Regular';
-export { default as IcFluentOven_32Filled } from './IcFluentOven_32Filled';
-export { default as IcFluentOven_32Regular } from './IcFluentOven_32Regular';
-export { default as IcFluentOven_48Filled } from './IcFluentOven_48Filled';
-export { default as IcFluentOven_48Regular } from './IcFluentOven_48Regular';
+export { default as IcOrigonOven_20Filled } from './IcOrigonOven_20Filled';
+export { default as IcOrigonOven_20Regular } from './IcOrigonOven_20Regular';
+export { default as IcOrigonOven_24Filled } from './IcOrigonOven_24Filled';
+export { default as IcOrigonOven_24Regular } from './IcOrigonOven_24Regular';
+export { default as IcOrigonOven_32Filled } from './IcOrigonOven_32Filled';
+export { default as IcOrigonOven_32Regular } from './IcOrigonOven_32Regular';
+export { default as IcOrigonOven_48Filled } from './IcOrigonOven_48Filled';
+export { default as IcOrigonOven_48Regular } from './IcOrigonOven_48Regular';

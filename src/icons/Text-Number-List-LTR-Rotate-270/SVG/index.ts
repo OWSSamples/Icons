@@ -1,4 +1,4 @@
-export { default as IcFluentTextNumberListLtrRotate_270_20Filled } from './IcFluentTextNumberListLtrRotate_270_20Filled';
-export { default as IcFluentTextNumberListLtrRotate_270_20Regular } from './IcFluentTextNumberListLtrRotate_270_20Regular';
-export { default as IcFluentTextNumberListLtrRotate_270_24Filled } from './IcFluentTextNumberListLtrRotate_270_24Filled';
-export { default as IcFluentTextNumberListLtrRotate_270_24Regular } from './IcFluentTextNumberListLtrRotate_270_24Regular';
+export { default as IcOrigonTextNumberListLtrRotate_270_20Filled } from './IcOrigonTextNumberListLtrRotate_270_20Filled';
+export { default as IcOrigonTextNumberListLtrRotate_270_20Regular } from './IcOrigonTextNumberListLtrRotate_270_20Regular';
+export { default as IcOrigonTextNumberListLtrRotate_270_24Filled } from './IcOrigonTextNumberListLtrRotate_270_24Filled';
+export { default as IcOrigonTextNumberListLtrRotate_270_24Regular } from './IcOrigonTextNumberListLtrRotate_270_24Regular';

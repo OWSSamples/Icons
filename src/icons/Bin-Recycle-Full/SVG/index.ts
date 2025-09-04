@@ -1,4 +1,4 @@
-export { default as IcFluentBinRecycleFull_20Filled } from './IcFluentBinRecycleFull_20Filled';
-export { default as IcFluentBinRecycleFull_20Regular } from './IcFluentBinRecycleFull_20Regular';
-export { default as IcFluentBinRecycleFull_24Filled } from './IcFluentBinRecycleFull_24Filled';
-export { default as IcFluentBinRecycleFull_24Regular } from './IcFluentBinRecycleFull_24Regular';
+export { default as IcOrigonBinRecycleFull_20Filled } from './IcOrigonBinRecycleFull_20Filled';
+export { default as IcOrigonBinRecycleFull_20Regular } from './IcOrigonBinRecycleFull_20Regular';
+export { default as IcOrigonBinRecycleFull_24Filled } from './IcOrigonBinRecycleFull_24Filled';
+export { default as IcOrigonBinRecycleFull_24Regular } from './IcOrigonBinRecycleFull_24Regular';

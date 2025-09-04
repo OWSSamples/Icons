@@ -1,6 +1,6 @@
-export { default as IcFluentCommentMention_16Filled } from './IcFluentCommentMention_16Filled';
-export { default as IcFluentCommentMention_16Regular } from './IcFluentCommentMention_16Regular';
-export { default as IcFluentCommentMention_20Filled } from './IcFluentCommentMention_20Filled';
-export { default as IcFluentCommentMention_20Regular } from './IcFluentCommentMention_20Regular';
-export { default as IcFluentCommentMention_24Filled } from './IcFluentCommentMention_24Filled';
-export { default as IcFluentCommentMention_24Regular } from './IcFluentCommentMention_24Regular';
+export { default as IcOrigonCommentMention_16Filled } from './IcOrigonCommentMention_16Filled';
+export { default as IcOrigonCommentMention_16Regular } from './IcOrigonCommentMention_16Regular';
+export { default as IcOrigonCommentMention_20Filled } from './IcOrigonCommentMention_20Filled';
+export { default as IcOrigonCommentMention_20Regular } from './IcOrigonCommentMention_20Regular';
+export { default as IcOrigonCommentMention_24Filled } from './IcOrigonCommentMention_24Filled';
+export { default as IcOrigonCommentMention_24Regular } from './IcOrigonCommentMention_24Regular';

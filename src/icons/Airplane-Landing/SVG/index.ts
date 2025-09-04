@@ -1,6 +1,6 @@
-export { default as IcFluentAirplaneLanding_16Filled } from './IcFluentAirplaneLanding_16Filled';
-export { default as IcFluentAirplaneLanding_16Regular } from './IcFluentAirplaneLanding_16Regular';
-export { default as IcFluentAirplaneLanding_20Filled } from './IcFluentAirplaneLanding_20Filled';
-export { default as IcFluentAirplaneLanding_20Regular } from './IcFluentAirplaneLanding_20Regular';
-export { default as IcFluentAirplaneLanding_24Filled } from './IcFluentAirplaneLanding_24Filled';
-export { default as IcFluentAirplaneLanding_24Regular } from './IcFluentAirplaneLanding_24Regular';
+export { default as IcOrigonAirplaneLanding_16Filled } from './IcOrigonAirplaneLanding_16Filled';
+export { default as IcOrigonAirplaneLanding_16Regular } from './IcOrigonAirplaneLanding_16Regular';
+export { default as IcOrigonAirplaneLanding_20Filled } from './IcOrigonAirplaneLanding_20Filled';
+export { default as IcOrigonAirplaneLanding_20Regular } from './IcOrigonAirplaneLanding_20Regular';
+export { default as IcOrigonAirplaneLanding_24Filled } from './IcOrigonAirplaneLanding_24Filled';
+export { default as IcOrigonAirplaneLanding_24Regular } from './IcOrigonAirplaneLanding_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentBookGlobe_20Filled } from './IcFluentBookGlobe_20Filled';
-export { default as IcFluentBookGlobe_20Regular } from './IcFluentBookGlobe_20Regular';
-export { default as IcFluentBookGlobe_24Filled } from './IcFluentBookGlobe_24Filled';
-export { default as IcFluentBookGlobe_24Regular } from './IcFluentBookGlobe_24Regular';
+export { default as IcOrigonBookGlobe_20Filled } from './IcOrigonBookGlobe_20Filled';
+export { default as IcOrigonBookGlobe_20Regular } from './IcOrigonBookGlobe_20Regular';
+export { default as IcOrigonBookGlobe_24Filled } from './IcOrigonBookGlobe_24Filled';
+export { default as IcOrigonBookGlobe_24Regular } from './IcOrigonBookGlobe_24Regular';

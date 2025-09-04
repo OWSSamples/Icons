@@ -1,2 +1,2 @@
-export { default as IcFluentDatabasePlugConnected_20Filled } from './IcFluentDatabasePlugConnected_20Filled';
-export { default as IcFluentDatabasePlugConnected_20Regular } from './IcFluentDatabasePlugConnected_20Regular';
+export { default as IcOrigonDatabasePlugConnected_20Filled } from './IcOrigonDatabasePlugConnected_20Filled';
+export { default as IcOrigonDatabasePlugConnected_20Regular } from './IcOrigonDatabasePlugConnected_20Regular';

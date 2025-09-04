@@ -1,4 +1,4 @@
-export { default as IcFluentBoxMultiple_20Filled } from './IcFluentBoxMultiple_20Filled';
-export { default as IcFluentBoxMultiple_20Regular } from './IcFluentBoxMultiple_20Regular';
-export { default as IcFluentBoxMultiple_24Filled } from './IcFluentBoxMultiple_24Filled';
-export { default as IcFluentBoxMultiple_24Regular } from './IcFluentBoxMultiple_24Regular';
+export { default as IcOrigonBoxMultiple_20Filled } from './IcOrigonBoxMultiple_20Filled';
+export { default as IcOrigonBoxMultiple_20Regular } from './IcOrigonBoxMultiple_20Regular';
+export { default as IcOrigonBoxMultiple_24Filled } from './IcOrigonBoxMultiple_24Filled';
+export { default as IcOrigonBoxMultiple_24Regular } from './IcOrigonBoxMultiple_24Regular';

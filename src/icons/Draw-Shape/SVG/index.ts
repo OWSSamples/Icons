@@ -1,4 +1,4 @@
-export { default as IcFluentDrawShape_20Filled } from './IcFluentDrawShape_20Filled';
-export { default as IcFluentDrawShape_20Regular } from './IcFluentDrawShape_20Regular';
-export { default as IcFluentDrawShape_24Filled } from './IcFluentDrawShape_24Filled';
-export { default as IcFluentDrawShape_24Regular } from './IcFluentDrawShape_24Regular';
+export { default as IcOrigonDrawShape_20Filled } from './IcOrigonDrawShape_20Filled';
+export { default as IcOrigonDrawShape_20Regular } from './IcOrigonDrawShape_20Regular';
+export { default as IcOrigonDrawShape_24Filled } from './IcOrigonDrawShape_24Filled';
+export { default as IcOrigonDrawShape_24Regular } from './IcOrigonDrawShape_24Regular';

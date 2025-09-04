@@ -1,6 +1,6 @@
-export { default as IcFluentWeatherHaze_20Filled } from './IcFluentWeatherHaze_20Filled';
-export { default as IcFluentWeatherHaze_20Regular } from './IcFluentWeatherHaze_20Regular';
-export { default as IcFluentWeatherHaze_24Filled } from './IcFluentWeatherHaze_24Filled';
-export { default as IcFluentWeatherHaze_24Regular } from './IcFluentWeatherHaze_24Regular';
-export { default as IcFluentWeatherHaze_48Filled } from './IcFluentWeatherHaze_48Filled';
-export { default as IcFluentWeatherHaze_48Regular } from './IcFluentWeatherHaze_48Regular';
+export { default as IcOrigonWeatherHaze_20Filled } from './IcOrigonWeatherHaze_20Filled';
+export { default as IcOrigonWeatherHaze_20Regular } from './IcOrigonWeatherHaze_20Regular';
+export { default as IcOrigonWeatherHaze_24Filled } from './IcOrigonWeatherHaze_24Filled';
+export { default as IcOrigonWeatherHaze_24Regular } from './IcOrigonWeatherHaze_24Regular';
+export { default as IcOrigonWeatherHaze_48Filled } from './IcOrigonWeatherHaze_48Filled';
+export { default as IcOrigonWeatherHaze_48Regular } from './IcOrigonWeatherHaze_48Regular';

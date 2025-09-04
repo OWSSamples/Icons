@@ -1,6 +1,6 @@
-export { default as IcFluentCheckboxIndeterminate_16Filled } from './IcFluentCheckboxIndeterminate_16Filled';
-export { default as IcFluentCheckboxIndeterminate_16Regular } from './IcFluentCheckboxIndeterminate_16Regular';
-export { default as IcFluentCheckboxIndeterminate_20Filled } from './IcFluentCheckboxIndeterminate_20Filled';
-export { default as IcFluentCheckboxIndeterminate_20Regular } from './IcFluentCheckboxIndeterminate_20Regular';
-export { default as IcFluentCheckboxIndeterminate_24Filled } from './IcFluentCheckboxIndeterminate_24Filled';
-export { default as IcFluentCheckboxIndeterminate_24Regular } from './IcFluentCheckboxIndeterminate_24Regular';
+export { default as IcOrigonCheckboxIndeterminate_16Filled } from './IcOrigonCheckboxIndeterminate_16Filled';
+export { default as IcOrigonCheckboxIndeterminate_16Regular } from './IcOrigonCheckboxIndeterminate_16Regular';
+export { default as IcOrigonCheckboxIndeterminate_20Filled } from './IcOrigonCheckboxIndeterminate_20Filled';
+export { default as IcOrigonCheckboxIndeterminate_20Regular } from './IcOrigonCheckboxIndeterminate_20Regular';
+export { default as IcOrigonCheckboxIndeterminate_24Filled } from './IcOrigonCheckboxIndeterminate_24Filled';
+export { default as IcOrigonCheckboxIndeterminate_24Regular } from './IcOrigonCheckboxIndeterminate_24Regular';

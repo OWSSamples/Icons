@@ -1,2 +1,2 @@
-export { default as IcFluentSplitHint_20Filled } from './IcFluentSplitHint_20Filled';
-export { default as IcFluentSplitHint_20Regular } from './IcFluentSplitHint_20Regular';
+export { default as IcOrigonSplitHint_20Filled } from './IcOrigonSplitHint_20Filled';
+export { default as IcOrigonSplitHint_20Regular } from './IcOrigonSplitHint_20Regular';

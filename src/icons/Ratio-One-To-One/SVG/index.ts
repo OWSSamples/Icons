@@ -1,4 +1,4 @@
-export { default as IcFluentRatioOneToOne_20Filled } from './IcFluentRatioOneToOne_20Filled';
-export { default as IcFluentRatioOneToOne_20Regular } from './IcFluentRatioOneToOne_20Regular';
-export { default as IcFluentRatioOneToOne_24Filled } from './IcFluentRatioOneToOne_24Filled';
-export { default as IcFluentRatioOneToOne_24Regular } from './IcFluentRatioOneToOne_24Regular';
+export { default as IcOrigonRatioOneToOne_20Filled } from './IcOrigonRatioOneToOne_20Filled';
+export { default as IcOrigonRatioOneToOne_20Regular } from './IcOrigonRatioOneToOne_20Regular';
+export { default as IcOrigonRatioOneToOne_24Filled } from './IcOrigonRatioOneToOne_24Filled';
+export { default as IcOrigonRatioOneToOne_24Regular } from './IcOrigonRatioOneToOne_24Regular';

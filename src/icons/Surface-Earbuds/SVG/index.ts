@@ -1,4 +1,4 @@
-export { default as IcFluentSurfaceEarbuds_20Filled } from './IcFluentSurfaceEarbuds_20Filled';
-export { default as IcFluentSurfaceEarbuds_20Regular } from './IcFluentSurfaceEarbuds_20Regular';
-export { default as IcFluentSurfaceEarbuds_24Filled } from './IcFluentSurfaceEarbuds_24Filled';
-export { default as IcFluentSurfaceEarbuds_24Regular } from './IcFluentSurfaceEarbuds_24Regular';
+export { default as IcOrigonSurfaceEarbuds_20Filled } from './IcOrigonSurfaceEarbuds_20Filled';
+export { default as IcOrigonSurfaceEarbuds_20Regular } from './IcOrigonSurfaceEarbuds_20Regular';
+export { default as IcOrigonSurfaceEarbuds_24Filled } from './IcOrigonSurfaceEarbuds_24Filled';
+export { default as IcOrigonSurfaceEarbuds_24Regular } from './IcOrigonSurfaceEarbuds_24Regular';

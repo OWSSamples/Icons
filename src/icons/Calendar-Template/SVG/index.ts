@@ -1,6 +1,6 @@
-export { default as IcFluentCalendarTemplate_20Filled } from './IcFluentCalendarTemplate_20Filled';
-export { default as IcFluentCalendarTemplate_20Regular } from './IcFluentCalendarTemplate_20Regular';
-export { default as IcFluentCalendarTemplate_24Filled } from './IcFluentCalendarTemplate_24Filled';
-export { default as IcFluentCalendarTemplate_24Regular } from './IcFluentCalendarTemplate_24Regular';
-export { default as IcFluentCalendarTemplate_32Filled } from './IcFluentCalendarTemplate_32Filled';
-export { default as IcFluentCalendarTemplate_32Regular } from './IcFluentCalendarTemplate_32Regular';
+export { default as IcOrigonCalendarTemplate_20Filled } from './IcOrigonCalendarTemplate_20Filled';
+export { default as IcOrigonCalendarTemplate_20Regular } from './IcOrigonCalendarTemplate_20Regular';
+export { default as IcOrigonCalendarTemplate_24Filled } from './IcOrigonCalendarTemplate_24Filled';
+export { default as IcOrigonCalendarTemplate_24Regular } from './IcOrigonCalendarTemplate_24Regular';
+export { default as IcOrigonCalendarTemplate_32Filled } from './IcOrigonCalendarTemplate_32Filled';
+export { default as IcOrigonCalendarTemplate_32Regular } from './IcOrigonCalendarTemplate_32Regular';

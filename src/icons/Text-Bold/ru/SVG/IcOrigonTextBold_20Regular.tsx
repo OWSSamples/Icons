@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../../IconBase';
+import { IconProps } from '../../../../types';
+
+const IcOrigonTextBold_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M9.75 2.75c.69 0 1.25.56 1.25 1.25v4.573l3.745-5.066a1.25 1.25 0 0 1 2.01 1.486L13.055 10l3.7 5.007a1.25 1.25 0 1 1-2.01 1.486L11 11.427V16a1.25 1.25 0 0 1-2.5 0v-4.642l-4.286 5.188a1.25 1.25 0 1 1-1.928-1.592L6.38 10 2.286 5.046a1.25 1.25 0 1 1 1.928-1.592L8.5 8.643V4c0-.69.56-1.25 1.25-1.25"/>
+  </IconBase>
+);
+
+export default IcOrigonTextBold_20Regular;

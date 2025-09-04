@@ -1,6 +1,6 @@
-export { default as IcFluentPanelLeftKey_16Filled } from './IcFluentPanelLeftKey_16Filled';
-export { default as IcFluentPanelLeftKey_16Regular } from './IcFluentPanelLeftKey_16Regular';
-export { default as IcFluentPanelLeftKey_20Filled } from './IcFluentPanelLeftKey_20Filled';
-export { default as IcFluentPanelLeftKey_20Regular } from './IcFluentPanelLeftKey_20Regular';
-export { default as IcFluentPanelLeftKey_24Filled } from './IcFluentPanelLeftKey_24Filled';
-export { default as IcFluentPanelLeftKey_24Regular } from './IcFluentPanelLeftKey_24Regular';
+export { default as IcOrigonPanelLeftKey_16Filled } from './IcOrigonPanelLeftKey_16Filled';
+export { default as IcOrigonPanelLeftKey_16Regular } from './IcOrigonPanelLeftKey_16Regular';
+export { default as IcOrigonPanelLeftKey_20Filled } from './IcOrigonPanelLeftKey_20Filled';
+export { default as IcOrigonPanelLeftKey_20Regular } from './IcOrigonPanelLeftKey_20Regular';
+export { default as IcOrigonPanelLeftKey_24Filled } from './IcOrigonPanelLeftKey_24Filled';
+export { default as IcOrigonPanelLeftKey_24Regular } from './IcOrigonPanelLeftKey_24Regular';

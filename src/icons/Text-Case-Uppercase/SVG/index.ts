@@ -1,6 +1,6 @@
-export { default as IcFluentTextCaseUppercase_16Filled } from './IcFluentTextCaseUppercase_16Filled';
-export { default as IcFluentTextCaseUppercase_16Regular } from './IcFluentTextCaseUppercase_16Regular';
-export { default as IcFluentTextCaseUppercase_20Filled } from './IcFluentTextCaseUppercase_20Filled';
-export { default as IcFluentTextCaseUppercase_20Regular } from './IcFluentTextCaseUppercase_20Regular';
-export { default as IcFluentTextCaseUppercase_24Filled } from './IcFluentTextCaseUppercase_24Filled';
-export { default as IcFluentTextCaseUppercase_24Regular } from './IcFluentTextCaseUppercase_24Regular';
+export { default as IcOrigonTextCaseUppercase_16Filled } from './IcOrigonTextCaseUppercase_16Filled';
+export { default as IcOrigonTextCaseUppercase_16Regular } from './IcOrigonTextCaseUppercase_16Regular';
+export { default as IcOrigonTextCaseUppercase_20Filled } from './IcOrigonTextCaseUppercase_20Filled';
+export { default as IcOrigonTextCaseUppercase_20Regular } from './IcOrigonTextCaseUppercase_20Regular';
+export { default as IcOrigonTextCaseUppercase_24Filled } from './IcOrigonTextCaseUppercase_24Filled';
+export { default as IcOrigonTextCaseUppercase_24Regular } from './IcOrigonTextCaseUppercase_24Regular';

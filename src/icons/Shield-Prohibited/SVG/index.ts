@@ -1,4 +1,4 @@
-export { default as IcFluentShieldProhibited_20Filled } from './IcFluentShieldProhibited_20Filled';
-export { default as IcFluentShieldProhibited_20Regular } from './IcFluentShieldProhibited_20Regular';
-export { default as IcFluentShieldProhibited_24Filled } from './IcFluentShieldProhibited_24Filled';
-export { default as IcFluentShieldProhibited_24Regular } from './IcFluentShieldProhibited_24Regular';
+export { default as IcOrigonShieldProhibited_20Filled } from './IcOrigonShieldProhibited_20Filled';
+export { default as IcOrigonShieldProhibited_20Regular } from './IcOrigonShieldProhibited_20Regular';
+export { default as IcOrigonShieldProhibited_24Filled } from './IcOrigonShieldProhibited_24Filled';
+export { default as IcOrigonShieldProhibited_24Regular } from './IcOrigonShieldProhibited_24Regular';

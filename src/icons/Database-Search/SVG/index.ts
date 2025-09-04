@@ -1,6 +1,6 @@
-export { default as IcFluentDatabaseSearch_20Filled } from './IcFluentDatabaseSearch_20Filled';
-export { default as IcFluentDatabaseSearch_20Regular } from './IcFluentDatabaseSearch_20Regular';
-export { default as IcFluentDatabaseSearch_24Filled } from './IcFluentDatabaseSearch_24Filled';
-export { default as IcFluentDatabaseSearch_24Regular } from './IcFluentDatabaseSearch_24Regular';
-export { default as IcFluentDatabaseSearch_32Filled } from './IcFluentDatabaseSearch_32Filled';
-export { default as IcFluentDatabaseSearch_32Regular } from './IcFluentDatabaseSearch_32Regular';
+export { default as IcOrigonDatabaseSearch_20Filled } from './IcOrigonDatabaseSearch_20Filled';
+export { default as IcOrigonDatabaseSearch_20Regular } from './IcOrigonDatabaseSearch_20Regular';
+export { default as IcOrigonDatabaseSearch_24Filled } from './IcOrigonDatabaseSearch_24Filled';
+export { default as IcOrigonDatabaseSearch_24Regular } from './IcOrigonDatabaseSearch_24Regular';
+export { default as IcOrigonDatabaseSearch_32Filled } from './IcOrigonDatabaseSearch_32Filled';
+export { default as IcOrigonDatabaseSearch_32Regular } from './IcOrigonDatabaseSearch_32Regular';

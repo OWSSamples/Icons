@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentToolbox_20Filled } from './IcFluentDocumentToolbox_20Filled';
-export { default as IcFluentDocumentToolbox_20Regular } from './IcFluentDocumentToolbox_20Regular';
-export { default as IcFluentDocumentToolbox_24Filled } from './IcFluentDocumentToolbox_24Filled';
-export { default as IcFluentDocumentToolbox_24Regular } from './IcFluentDocumentToolbox_24Regular';
+export { default as IcOrigonDocumentToolbox_20Filled } from './IcOrigonDocumentToolbox_20Filled';
+export { default as IcOrigonDocumentToolbox_20Regular } from './IcOrigonDocumentToolbox_20Regular';
+export { default as IcOrigonDocumentToolbox_24Filled } from './IcOrigonDocumentToolbox_24Filled';
+export { default as IcOrigonDocumentToolbox_24Regular } from './IcOrigonDocumentToolbox_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentKeyboardLayoutSplit_20Filled } from './IcFluentKeyboardLayoutSplit_20Filled';
-export { default as IcFluentKeyboardLayoutSplit_20Regular } from './IcFluentKeyboardLayoutSplit_20Regular';
-export { default as IcFluentKeyboardLayoutSplit_24Filled } from './IcFluentKeyboardLayoutSplit_24Filled';
-export { default as IcFluentKeyboardLayoutSplit_24Regular } from './IcFluentKeyboardLayoutSplit_24Regular';
+export { default as IcOrigonKeyboardLayoutSplit_20Filled } from './IcOrigonKeyboardLayoutSplit_20Filled';
+export { default as IcOrigonKeyboardLayoutSplit_20Regular } from './IcOrigonKeyboardLayoutSplit_20Regular';
+export { default as IcOrigonKeyboardLayoutSplit_24Filled } from './IcOrigonKeyboardLayoutSplit_24Filled';
+export { default as IcOrigonKeyboardLayoutSplit_24Regular } from './IcOrigonKeyboardLayoutSplit_24Regular';

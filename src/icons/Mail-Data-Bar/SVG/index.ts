@@ -1,6 +1,6 @@
-export { default as IcFluentMailDataBar_16Filled } from './IcFluentMailDataBar_16Filled';
-export { default as IcFluentMailDataBar_16Regular } from './IcFluentMailDataBar_16Regular';
-export { default as IcFluentMailDataBar_20Filled } from './IcFluentMailDataBar_20Filled';
-export { default as IcFluentMailDataBar_20Regular } from './IcFluentMailDataBar_20Regular';
-export { default as IcFluentMailDataBar_24Filled } from './IcFluentMailDataBar_24Filled';
-export { default as IcFluentMailDataBar_24Regular } from './IcFluentMailDataBar_24Regular';
+export { default as IcOrigonMailDataBar_16Filled } from './IcOrigonMailDataBar_16Filled';
+export { default as IcOrigonMailDataBar_16Regular } from './IcOrigonMailDataBar_16Regular';
+export { default as IcOrigonMailDataBar_20Filled } from './IcOrigonMailDataBar_20Filled';
+export { default as IcOrigonMailDataBar_20Regular } from './IcOrigonMailDataBar_20Regular';
+export { default as IcOrigonMailDataBar_24Filled } from './IcOrigonMailDataBar_24Filled';
+export { default as IcOrigonMailDataBar_24Regular } from './IcOrigonMailDataBar_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentSquareHintApps_20Filled } from './IcFluentSquareHintApps_20Filled';
-export { default as IcFluentSquareHintApps_20Regular } from './IcFluentSquareHintApps_20Regular';
-export { default as IcFluentSquareHintApps_24Filled } from './IcFluentSquareHintApps_24Filled';
-export { default as IcFluentSquareHintApps_24Regular } from './IcFluentSquareHintApps_24Regular';
+export { default as IcOrigonSquareHintApps_20Filled } from './IcOrigonSquareHintApps_20Filled';
+export { default as IcOrigonSquareHintApps_20Regular } from './IcOrigonSquareHintApps_20Regular';
+export { default as IcOrigonSquareHintApps_24Filled } from './IcOrigonSquareHintApps_24Filled';
+export { default as IcOrigonSquareHintApps_24Regular } from './IcOrigonSquareHintApps_24Regular';

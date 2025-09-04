@@ -1,8 +1,8 @@
-export { default as IcFluentTableCellEdit_16Filled } from './IcFluentTableCellEdit_16Filled';
-export { default as IcFluentTableCellEdit_16Regular } from './IcFluentTableCellEdit_16Regular';
-export { default as IcFluentTableCellEdit_20Filled } from './IcFluentTableCellEdit_20Filled';
-export { default as IcFluentTableCellEdit_20Regular } from './IcFluentTableCellEdit_20Regular';
-export { default as IcFluentTableCellEdit_24Filled } from './IcFluentTableCellEdit_24Filled';
-export { default as IcFluentTableCellEdit_24Regular } from './IcFluentTableCellEdit_24Regular';
-export { default as IcFluentTableCellEdit_28Filled } from './IcFluentTableCellEdit_28Filled';
-export { default as IcFluentTableCellEdit_28Regular } from './IcFluentTableCellEdit_28Regular';
+export { default as IcOrigonTableCellEdit_16Filled } from './IcOrigonTableCellEdit_16Filled';
+export { default as IcOrigonTableCellEdit_16Regular } from './IcOrigonTableCellEdit_16Regular';
+export { default as IcOrigonTableCellEdit_20Filled } from './IcOrigonTableCellEdit_20Filled';
+export { default as IcOrigonTableCellEdit_20Regular } from './IcOrigonTableCellEdit_20Regular';
+export { default as IcOrigonTableCellEdit_24Filled } from './IcOrigonTableCellEdit_24Filled';
+export { default as IcOrigonTableCellEdit_24Regular } from './IcOrigonTableCellEdit_24Regular';
+export { default as IcOrigonTableCellEdit_28Filled } from './IcOrigonTableCellEdit_28Filled';
+export { default as IcOrigonTableCellEdit_28Regular } from './IcOrigonTableCellEdit_28Regular';

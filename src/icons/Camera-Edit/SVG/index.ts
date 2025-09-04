@@ -1,2 +1,2 @@
-export { default as IcFluentCameraEdit_20Filled } from './IcFluentCameraEdit_20Filled';
-export { default as IcFluentCameraEdit_20Regular } from './IcFluentCameraEdit_20Regular';
+export { default as IcOrigonCameraEdit_20Filled } from './IcOrigonCameraEdit_20Filled';
+export { default as IcOrigonCameraEdit_20Regular } from './IcOrigonCameraEdit_20Regular';

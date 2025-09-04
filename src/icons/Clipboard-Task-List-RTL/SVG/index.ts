@@ -1,4 +1,4 @@
-export { default as IcFluentClipboardTaskListRtl_20Filled } from './IcFluentClipboardTaskListRtl_20Filled';
-export { default as IcFluentClipboardTaskListRtl_20Regular } from './IcFluentClipboardTaskListRtl_20Regular';
-export { default as IcFluentClipboardTaskListRtl_24Filled } from './IcFluentClipboardTaskListRtl_24Filled';
-export { default as IcFluentClipboardTaskListRtl_24Regular } from './IcFluentClipboardTaskListRtl_24Regular';
+export { default as IcOrigonClipboardTaskListRtl_20Filled } from './IcOrigonClipboardTaskListRtl_20Filled';
+export { default as IcOrigonClipboardTaskListRtl_20Regular } from './IcOrigonClipboardTaskListRtl_20Regular';
+export { default as IcOrigonClipboardTaskListRtl_24Filled } from './IcOrigonClipboardTaskListRtl_24Filled';
+export { default as IcOrigonClipboardTaskListRtl_24Regular } from './IcOrigonClipboardTaskListRtl_24Regular';

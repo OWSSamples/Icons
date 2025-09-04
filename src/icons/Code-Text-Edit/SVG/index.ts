@@ -1,2 +1,2 @@
-export { default as IcFluentCodeTextEdit_20Filled } from './IcFluentCodeTextEdit_20Filled';
-export { default as IcFluentCodeTextEdit_20Regular } from './IcFluentCodeTextEdit_20Regular';
+export { default as IcOrigonCodeTextEdit_20Filled } from './IcOrigonCodeTextEdit_20Filled';
+export { default as IcOrigonCodeTextEdit_20Regular } from './IcOrigonCodeTextEdit_20Regular';

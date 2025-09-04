@@ -1,4 +1,4 @@
-export { default as IcFluentVehicleTruckBag_20Filled } from './IcFluentVehicleTruckBag_20Filled';
-export { default as IcFluentVehicleTruckBag_20Regular } from './IcFluentVehicleTruckBag_20Regular';
-export { default as IcFluentVehicleTruckBag_24Filled } from './IcFluentVehicleTruckBag_24Filled';
-export { default as IcFluentVehicleTruckBag_24Regular } from './IcFluentVehicleTruckBag_24Regular';
+export { default as IcOrigonVehicleTruckBag_20Filled } from './IcOrigonVehicleTruckBag_20Filled';
+export { default as IcOrigonVehicleTruckBag_20Regular } from './IcOrigonVehicleTruckBag_20Regular';
+export { default as IcOrigonVehicleTruckBag_24Filled } from './IcOrigonVehicleTruckBag_24Filled';
+export { default as IcOrigonVehicleTruckBag_24Regular } from './IcOrigonVehicleTruckBag_24Regular';

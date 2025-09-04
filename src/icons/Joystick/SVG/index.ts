@@ -1,2 +1,2 @@
-export { default as IcFluentJoystick_20Filled } from './IcFluentJoystick_20Filled';
-export { default as IcFluentJoystick_20Regular } from './IcFluentJoystick_20Regular';
+export { default as IcOrigonJoystick_20Filled } from './IcOrigonJoystick_20Filled';
+export { default as IcOrigonJoystick_20Regular } from './IcOrigonJoystick_20Regular';

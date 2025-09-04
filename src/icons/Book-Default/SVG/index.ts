@@ -1,3 +1,3 @@
-export { default as IcFluentBookDefault_20Filled } from './IcFluentBookDefault_20Filled';
-export { default as IcFluentBookDefault_28Filled } from './IcFluentBookDefault_28Filled';
-export { default as IcFluentBookDefault_28Regular } from './IcFluentBookDefault_28Regular';
+export { default as IcOrigonBookDefault_20Filled } from './IcOrigonBookDefault_20Filled';
+export { default as IcOrigonBookDefault_28Filled } from './IcOrigonBookDefault_28Filled';
+export { default as IcOrigonBookDefault_28Regular } from './IcOrigonBookDefault_28Regular';

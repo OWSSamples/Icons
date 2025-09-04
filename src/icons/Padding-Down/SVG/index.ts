@@ -1,4 +1,4 @@
-export { default as IcFluentPaddingDown_20Filled } from './IcFluentPaddingDown_20Filled';
-export { default as IcFluentPaddingDown_20Regular } from './IcFluentPaddingDown_20Regular';
-export { default as IcFluentPaddingDown_24Filled } from './IcFluentPaddingDown_24Filled';
-export { default as IcFluentPaddingDown_24Regular } from './IcFluentPaddingDown_24Regular';
+export { default as IcOrigonPaddingDown_20Filled } from './IcOrigonPaddingDown_20Filled';
+export { default as IcOrigonPaddingDown_20Regular } from './IcOrigonPaddingDown_20Regular';
+export { default as IcOrigonPaddingDown_24Filled } from './IcOrigonPaddingDown_24Filled';
+export { default as IcOrigonPaddingDown_24Regular } from './IcOrigonPaddingDown_24Regular';

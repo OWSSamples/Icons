@@ -1,8 +1,8 @@
-export { default as IcFluentDocumentTarget_16Filled } from './IcFluentDocumentTarget_16Filled';
-export { default as IcFluentDocumentTarget_16Regular } from './IcFluentDocumentTarget_16Regular';
-export { default as IcFluentDocumentTarget_20Filled } from './IcFluentDocumentTarget_20Filled';
-export { default as IcFluentDocumentTarget_20Regular } from './IcFluentDocumentTarget_20Regular';
-export { default as IcFluentDocumentTarget_24Filled } from './IcFluentDocumentTarget_24Filled';
-export { default as IcFluentDocumentTarget_24Regular } from './IcFluentDocumentTarget_24Regular';
-export { default as IcFluentDocumentTarget_32Filled } from './IcFluentDocumentTarget_32Filled';
-export { default as IcFluentDocumentTarget_32Regular } from './IcFluentDocumentTarget_32Regular';
+export { default as IcOrigonDocumentTarget_16Filled } from './IcOrigonDocumentTarget_16Filled';
+export { default as IcOrigonDocumentTarget_16Regular } from './IcOrigonDocumentTarget_16Regular';
+export { default as IcOrigonDocumentTarget_20Filled } from './IcOrigonDocumentTarget_20Filled';
+export { default as IcOrigonDocumentTarget_20Regular } from './IcOrigonDocumentTarget_20Regular';
+export { default as IcOrigonDocumentTarget_24Filled } from './IcOrigonDocumentTarget_24Filled';
+export { default as IcOrigonDocumentTarget_24Regular } from './IcOrigonDocumentTarget_24Regular';
+export { default as IcOrigonDocumentTarget_32Filled } from './IcOrigonDocumentTarget_32Filled';
+export { default as IcOrigonDocumentTarget_32Regular } from './IcOrigonDocumentTarget_32Regular';

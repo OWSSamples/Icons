@@ -1,4 +1,4 @@
-export { default as IcFluentNotePin_16Filled } from './IcFluentNotePin_16Filled';
-export { default as IcFluentNotePin_16Regular } from './IcFluentNotePin_16Regular';
-export { default as IcFluentNotePin_20Filled } from './IcFluentNotePin_20Filled';
-export { default as IcFluentNotePin_20Regular } from './IcFluentNotePin_20Regular';
+export { default as IcOrigonNotePin_16Filled } from './IcOrigonNotePin_16Filled';
+export { default as IcOrigonNotePin_16Regular } from './IcOrigonNotePin_16Regular';
+export { default as IcOrigonNotePin_20Filled } from './IcOrigonNotePin_20Filled';
+export { default as IcOrigonNotePin_20Regular } from './IcOrigonNotePin_20Regular';

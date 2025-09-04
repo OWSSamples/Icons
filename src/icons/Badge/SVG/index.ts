@@ -1,4 +1,4 @@
-export { default as IcFluentBadge_20Filled } from './IcFluentBadge_20Filled';
-export { default as IcFluentBadge_20Regular } from './IcFluentBadge_20Regular';
-export { default as IcFluentBadge_24Filled } from './IcFluentBadge_24Filled';
-export { default as IcFluentBadge_24Regular } from './IcFluentBadge_24Regular';
+export { default as IcOrigonBadge_20Filled } from './IcOrigonBadge_20Filled';
+export { default as IcOrigonBadge_20Regular } from './IcOrigonBadge_20Regular';
+export { default as IcOrigonBadge_24Filled } from './IcOrigonBadge_24Filled';
+export { default as IcOrigonBadge_24Regular } from './IcOrigonBadge_24Regular';

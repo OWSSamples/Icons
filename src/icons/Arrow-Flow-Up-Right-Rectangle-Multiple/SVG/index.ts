@@ -1,4 +1,4 @@
-export { default as IcFluentArrowFlowUpRightRectangleMultiple_20Filled } from './IcFluentArrowFlowUpRightRectangleMultiple_20Filled';
-export { default as IcFluentArrowFlowUpRightRectangleMultiple_20Regular } from './IcFluentArrowFlowUpRightRectangleMultiple_20Regular';
-export { default as IcFluentArrowFlowUpRightRectangleMultiple_24Filled } from './IcFluentArrowFlowUpRightRectangleMultiple_24Filled';
-export { default as IcFluentArrowFlowUpRightRectangleMultiple_24Regular } from './IcFluentArrowFlowUpRightRectangleMultiple_24Regular';
+export { default as IcOrigonArrowFlowUpRightRectangleMultiple_20Filled } from './IcOrigonArrowFlowUpRightRectangleMultiple_20Filled';
+export { default as IcOrigonArrowFlowUpRightRectangleMultiple_20Regular } from './IcOrigonArrowFlowUpRightRectangleMultiple_20Regular';
+export { default as IcOrigonArrowFlowUpRightRectangleMultiple_24Filled } from './IcOrigonArrowFlowUpRightRectangleMultiple_24Filled';
+export { default as IcOrigonArrowFlowUpRightRectangleMultiple_24Regular } from './IcOrigonArrowFlowUpRightRectangleMultiple_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentDecimalArrowLeft_20Filled } from './IcFluentDecimalArrowLeft_20Filled';
-export { default as IcFluentDecimalArrowLeft_20Regular } from './IcFluentDecimalArrowLeft_20Regular';
-export { default as IcFluentDecimalArrowLeft_24Filled } from './IcFluentDecimalArrowLeft_24Filled';
-export { default as IcFluentDecimalArrowLeft_24Regular } from './IcFluentDecimalArrowLeft_24Regular';
+export { default as IcOrigonDecimalArrowLeft_20Filled } from './IcOrigonDecimalArrowLeft_20Filled';
+export { default as IcOrigonDecimalArrowLeft_20Regular } from './IcOrigonDecimalArrowLeft_20Regular';
+export { default as IcOrigonDecimalArrowLeft_24Filled } from './IcOrigonDecimalArrowLeft_24Filled';
+export { default as IcOrigonDecimalArrowLeft_24Regular } from './IcOrigonDecimalArrowLeft_24Regular';

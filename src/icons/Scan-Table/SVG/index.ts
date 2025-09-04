@@ -1,4 +1,4 @@
-export { default as IcFluentScanTable_20Filled } from './IcFluentScanTable_20Filled';
-export { default as IcFluentScanTable_20Regular } from './IcFluentScanTable_20Regular';
-export { default as IcFluentScanTable_24Filled } from './IcFluentScanTable_24Filled';
-export { default as IcFluentScanTable_24Regular } from './IcFluentScanTable_24Regular';
+export { default as IcOrigonScanTable_20Filled } from './IcOrigonScanTable_20Filled';
+export { default as IcOrigonScanTable_20Regular } from './IcOrigonScanTable_20Regular';
+export { default as IcOrigonScanTable_24Filled } from './IcOrigonScanTable_24Filled';
+export { default as IcOrigonScanTable_24Regular } from './IcOrigonScanTable_24Regular';

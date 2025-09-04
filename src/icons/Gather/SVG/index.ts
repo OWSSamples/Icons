@@ -1,2 +1,2 @@
-export { default as IcFluentGather_20Filled } from './IcFluentGather_20Filled';
-export { default as IcFluentGather_20Regular } from './IcFluentGather_20Regular';
+export { default as IcOrigonGather_20Filled } from './IcOrigonGather_20Filled';
+export { default as IcOrigonGather_20Regular } from './IcOrigonGather_20Regular';

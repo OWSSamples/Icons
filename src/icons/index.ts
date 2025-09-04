@@ -1179,7 +1179,7 @@ export * as FlowDot from './Flow-Dot';
 export * as FlowSparkle from './Flow-Sparkle';
 export * as Flowchart from './Flowchart';
 export * as FlowchartCircle from './Flowchart-Circle';
-export * as Fluent from './Fluent';
+export * as Origon from './Origon';
 export * as Fluid from './Fluid';
 export * as Folder from './Folder';
 export * as FolderAdd from './Folder-Add';

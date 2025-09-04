@@ -1,6 +1,6 @@
-export { default as IcFluentCompassTrueNorth_16Filled } from './IcFluentCompassTrueNorth_16Filled';
-export { default as IcFluentCompassTrueNorth_16Regular } from './IcFluentCompassTrueNorth_16Regular';
-export { default as IcFluentCompassTrueNorth_20Filled } from './IcFluentCompassTrueNorth_20Filled';
-export { default as IcFluentCompassTrueNorth_20Regular } from './IcFluentCompassTrueNorth_20Regular';
-export { default as IcFluentCompassTrueNorth_24Filled } from './IcFluentCompassTrueNorth_24Filled';
-export { default as IcFluentCompassTrueNorth_24Regular } from './IcFluentCompassTrueNorth_24Regular';
+export { default as IcOrigonCompassTrueNorth_16Filled } from './IcOrigonCompassTrueNorth_16Filled';
+export { default as IcOrigonCompassTrueNorth_16Regular } from './IcOrigonCompassTrueNorth_16Regular';
+export { default as IcOrigonCompassTrueNorth_20Filled } from './IcOrigonCompassTrueNorth_20Filled';
+export { default as IcOrigonCompassTrueNorth_20Regular } from './IcOrigonCompassTrueNorth_20Regular';
+export { default as IcOrigonCompassTrueNorth_24Filled } from './IcOrigonCompassTrueNorth_24Filled';
+export { default as IcOrigonCompassTrueNorth_24Regular } from './IcOrigonCompassTrueNorth_24Regular';

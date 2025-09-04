@@ -1,2 +1,2 @@
-export { default as IcFluentTableCopy_20Filled } from './IcFluentTableCopy_20Filled';
-export { default as IcFluentTableCopy_20Regular } from './IcFluentTableCopy_20Regular';
+export { default as IcOrigonTableCopy_20Filled } from './IcOrigonTableCopy_20Filled';
+export { default as IcOrigonTableCopy_20Regular } from './IcOrigonTableCopy_20Regular';

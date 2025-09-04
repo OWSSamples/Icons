@@ -1,6 +1,6 @@
-export { default as IcFluentCommunication_16Filled } from './IcFluentCommunication_16Filled';
-export { default as IcFluentCommunication_16Regular } from './IcFluentCommunication_16Regular';
-export { default as IcFluentCommunication_20Filled } from './IcFluentCommunication_20Filled';
-export { default as IcFluentCommunication_20Regular } from './IcFluentCommunication_20Regular';
-export { default as IcFluentCommunication_24Filled } from './IcFluentCommunication_24Filled';
-export { default as IcFluentCommunication_24Regular } from './IcFluentCommunication_24Regular';
+export { default as IcOrigonCommunication_16Filled } from './IcOrigonCommunication_16Filled';
+export { default as IcOrigonCommunication_16Regular } from './IcOrigonCommunication_16Regular';
+export { default as IcOrigonCommunication_20Filled } from './IcOrigonCommunication_20Filled';
+export { default as IcOrigonCommunication_20Regular } from './IcOrigonCommunication_20Regular';
+export { default as IcOrigonCommunication_24Filled } from './IcOrigonCommunication_24Filled';
+export { default as IcOrigonCommunication_24Regular } from './IcOrigonCommunication_24Regular';

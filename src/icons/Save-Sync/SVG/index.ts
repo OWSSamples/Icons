@@ -1,2 +1,2 @@
-export { default as IcFluentSaveSync_20Filled } from './IcFluentSaveSync_20Filled';
-export { default as IcFluentSaveSync_20Regular } from './IcFluentSaveSync_20Regular';
+export { default as IcOrigonSaveSync_20Filled } from './IcOrigonSaveSync_20Filled';
+export { default as IcOrigonSaveSync_20Regular } from './IcOrigonSaveSync_20Regular';

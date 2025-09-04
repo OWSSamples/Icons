@@ -1,4 +1,4 @@
-export { default as IcFluentRoad_20Filled } from './IcFluentRoad_20Filled';
-export { default as IcFluentRoad_20Regular } from './IcFluentRoad_20Regular';
-export { default as IcFluentRoad_24Filled } from './IcFluentRoad_24Filled';
-export { default as IcFluentRoad_24Regular } from './IcFluentRoad_24Regular';
+export { default as IcOrigonRoad_20Filled } from './IcOrigonRoad_20Filled';
+export { default as IcOrigonRoad_20Regular } from './IcOrigonRoad_20Regular';
+export { default as IcOrigonRoad_24Filled } from './IcOrigonRoad_24Filled';
+export { default as IcOrigonRoad_24Regular } from './IcOrigonRoad_24Regular';

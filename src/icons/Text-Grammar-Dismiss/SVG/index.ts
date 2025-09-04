@@ -1,4 +1,4 @@
-export { default as IcFluentTextGrammarDismiss_20Filled } from './IcFluentTextGrammarDismiss_20Filled';
-export { default as IcFluentTextGrammarDismiss_20Regular } from './IcFluentTextGrammarDismiss_20Regular';
-export { default as IcFluentTextGrammarDismiss_24Filled } from './IcFluentTextGrammarDismiss_24Filled';
-export { default as IcFluentTextGrammarDismiss_24Regular } from './IcFluentTextGrammarDismiss_24Regular';
+export { default as IcOrigonTextGrammarDismiss_20Filled } from './IcOrigonTextGrammarDismiss_20Filled';
+export { default as IcOrigonTextGrammarDismiss_20Regular } from './IcOrigonTextGrammarDismiss_20Regular';
+export { default as IcOrigonTextGrammarDismiss_24Filled } from './IcOrigonTextGrammarDismiss_24Filled';
+export { default as IcOrigonTextGrammarDismiss_24Regular } from './IcOrigonTextGrammarDismiss_24Regular';

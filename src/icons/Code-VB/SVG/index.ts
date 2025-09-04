@@ -1,2 +1,2 @@
-export { default as IcFluentCodeVb_16Filled } from './IcFluentCodeVb_16Filled';
-export { default as IcFluentCodeVb_16Regular } from './IcFluentCodeVb_16Regular';
+export { default as IcOrigonCodeVb_16Filled } from './IcOrigonCodeVb_16Filled';
+export { default as IcOrigonCodeVb_16Regular } from './IcOrigonCodeVb_16Regular';

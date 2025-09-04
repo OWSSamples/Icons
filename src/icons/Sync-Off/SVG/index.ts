@@ -1,4 +1,4 @@
-export { default as IcFluentSyncOff_16Filled } from './IcFluentSyncOff_16Filled';
-export { default as IcFluentSyncOff_16Regular } from './IcFluentSyncOff_16Regular';
-export { default as IcFluentSyncOff_20Filled } from './IcFluentSyncOff_20Filled';
-export { default as IcFluentSyncOff_20Regular } from './IcFluentSyncOff_20Regular';
+export { default as IcOrigonSyncOff_16Filled } from './IcOrigonSyncOff_16Filled';
+export { default as IcOrigonSyncOff_16Regular } from './IcOrigonSyncOff_16Regular';
+export { default as IcOrigonSyncOff_20Filled } from './IcOrigonSyncOff_20Filled';
+export { default as IcOrigonSyncOff_20Regular } from './IcOrigonSyncOff_20Regular';

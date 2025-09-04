@@ -1,4 +1,4 @@
-export { default as IcFluentProductionCheckmark_20Filled } from './IcFluentProductionCheckmark_20Filled';
-export { default as IcFluentProductionCheckmark_20Regular } from './IcFluentProductionCheckmark_20Regular';
-export { default as IcFluentProductionCheckmark_24Filled } from './IcFluentProductionCheckmark_24Filled';
-export { default as IcFluentProductionCheckmark_24Regular } from './IcFluentProductionCheckmark_24Regular';
+export { default as IcOrigonProductionCheckmark_20Filled } from './IcOrigonProductionCheckmark_20Filled';
+export { default as IcOrigonProductionCheckmark_20Regular } from './IcOrigonProductionCheckmark_20Regular';
+export { default as IcOrigonProductionCheckmark_24Filled } from './IcOrigonProductionCheckmark_24Filled';
+export { default as IcOrigonProductionCheckmark_24Regular } from './IcOrigonProductionCheckmark_24Regular';

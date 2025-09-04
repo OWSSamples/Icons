@@ -1,4 +1,4 @@
-export { default as IcFluentImageArrowCounterclockwise_20Filled } from './IcFluentImageArrowCounterclockwise_20Filled';
-export { default as IcFluentImageArrowCounterclockwise_20Regular } from './IcFluentImageArrowCounterclockwise_20Regular';
-export { default as IcFluentImageArrowCounterclockwise_24Filled } from './IcFluentImageArrowCounterclockwise_24Filled';
-export { default as IcFluentImageArrowCounterclockwise_24Regular } from './IcFluentImageArrowCounterclockwise_24Regular';
+export { default as IcOrigonImageArrowCounterclockwise_20Filled } from './IcOrigonImageArrowCounterclockwise_20Filled';
+export { default as IcOrigonImageArrowCounterclockwise_20Regular } from './IcOrigonImageArrowCounterclockwise_20Regular';
+export { default as IcOrigonImageArrowCounterclockwise_24Filled } from './IcOrigonImageArrowCounterclockwise_24Filled';
+export { default as IcOrigonImageArrowCounterclockwise_24Regular } from './IcOrigonImageArrowCounterclockwise_24Regular';

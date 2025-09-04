@@ -1,4 +1,4 @@
-export { default as IcFluentTextAlignDistributed_20Filled } from './IcFluentTextAlignDistributed_20Filled';
-export { default as IcFluentTextAlignDistributed_20Regular } from './IcFluentTextAlignDistributed_20Regular';
-export { default as IcFluentTextAlignDistributed_24Filled } from './IcFluentTextAlignDistributed_24Filled';
-export { default as IcFluentTextAlignDistributed_24Regular } from './IcFluentTextAlignDistributed_24Regular';
+export { default as IcOrigonTextAlignDistributed_20Filled } from './IcOrigonTextAlignDistributed_20Filled';
+export { default as IcOrigonTextAlignDistributed_20Regular } from './IcOrigonTextAlignDistributed_20Regular';
+export { default as IcOrigonTextAlignDistributed_24Filled } from './IcOrigonTextAlignDistributed_24Filled';
+export { default as IcOrigonTextAlignDistributed_24Regular } from './IcOrigonTextAlignDistributed_24Regular';

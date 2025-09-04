@@ -1,4 +1,4 @@
-export { default as IcFluentCircleEdit_20Filled } from './IcFluentCircleEdit_20Filled';
-export { default as IcFluentCircleEdit_20Regular } from './IcFluentCircleEdit_20Regular';
-export { default as IcFluentCircleEdit_24Filled } from './IcFluentCircleEdit_24Filled';
-export { default as IcFluentCircleEdit_24Regular } from './IcFluentCircleEdit_24Regular';
+export { default as IcOrigonCircleEdit_20Filled } from './IcOrigonCircleEdit_20Filled';
+export { default as IcOrigonCircleEdit_20Regular } from './IcOrigonCircleEdit_20Regular';
+export { default as IcOrigonCircleEdit_24Filled } from './IcOrigonCircleEdit_24Filled';
+export { default as IcOrigonCircleEdit_24Regular } from './IcOrigonCircleEdit_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentFormSparkle_20Filled } from './IcFluentFormSparkle_20Filled';
-export { default as IcFluentFormSparkle_20Regular } from './IcFluentFormSparkle_20Regular';
+export { default as IcOrigonFormSparkle_20Filled } from './IcOrigonFormSparkle_20Filled';
+export { default as IcOrigonFormSparkle_20Regular } from './IcOrigonFormSparkle_20Regular';

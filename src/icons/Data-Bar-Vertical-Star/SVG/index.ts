@@ -1,8 +1,8 @@
-export { default as IcFluentDataBarVerticalStar_16Filled } from './IcFluentDataBarVerticalStar_16Filled';
-export { default as IcFluentDataBarVerticalStar_16Regular } from './IcFluentDataBarVerticalStar_16Regular';
-export { default as IcFluentDataBarVerticalStar_20Filled } from './IcFluentDataBarVerticalStar_20Filled';
-export { default as IcFluentDataBarVerticalStar_20Regular } from './IcFluentDataBarVerticalStar_20Regular';
-export { default as IcFluentDataBarVerticalStar_24Filled } from './IcFluentDataBarVerticalStar_24Filled';
-export { default as IcFluentDataBarVerticalStar_24Regular } from './IcFluentDataBarVerticalStar_24Regular';
-export { default as IcFluentDataBarVerticalStar_32Filled } from './IcFluentDataBarVerticalStar_32Filled';
-export { default as IcFluentDataBarVerticalStar_32Regular } from './IcFluentDataBarVerticalStar_32Regular';
+export { default as IcOrigonDataBarVerticalStar_16Filled } from './IcOrigonDataBarVerticalStar_16Filled';
+export { default as IcOrigonDataBarVerticalStar_16Regular } from './IcOrigonDataBarVerticalStar_16Regular';
+export { default as IcOrigonDataBarVerticalStar_20Filled } from './IcOrigonDataBarVerticalStar_20Filled';
+export { default as IcOrigonDataBarVerticalStar_20Regular } from './IcOrigonDataBarVerticalStar_20Regular';
+export { default as IcOrigonDataBarVerticalStar_24Filled } from './IcOrigonDataBarVerticalStar_24Filled';
+export { default as IcOrigonDataBarVerticalStar_24Regular } from './IcOrigonDataBarVerticalStar_24Regular';
+export { default as IcOrigonDataBarVerticalStar_32Filled } from './IcOrigonDataBarVerticalStar_32Filled';
+export { default as IcOrigonDataBarVerticalStar_32Regular } from './IcOrigonDataBarVerticalStar_32Regular';

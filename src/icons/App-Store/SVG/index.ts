@@ -1,2 +1,2 @@
-export { default as IcFluentAppStore_24Filled } from './IcFluentAppStore_24Filled';
-export { default as IcFluentAppStore_24Regular } from './IcFluentAppStore_24Regular';
+export { default as IcOrigonAppStore_24Filled } from './IcOrigonAppStore_24Filled';
+export { default as IcOrigonAppStore_24Regular } from './IcOrigonAppStore_24Regular';

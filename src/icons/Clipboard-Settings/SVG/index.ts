@@ -1,4 +1,4 @@
-export { default as IcFluentClipboardSettings_20Filled } from './IcFluentClipboardSettings_20Filled';
-export { default as IcFluentClipboardSettings_20Regular } from './IcFluentClipboardSettings_20Regular';
-export { default as IcFluentClipboardSettings_24Filled } from './IcFluentClipboardSettings_24Filled';
-export { default as IcFluentClipboardSettings_24Regular } from './IcFluentClipboardSettings_24Regular';
+export { default as IcOrigonClipboardSettings_20Filled } from './IcOrigonClipboardSettings_20Filled';
+export { default as IcOrigonClipboardSettings_20Regular } from './IcOrigonClipboardSettings_20Regular';
+export { default as IcOrigonClipboardSettings_24Filled } from './IcOrigonClipboardSettings_24Filled';
+export { default as IcOrigonClipboardSettings_24Regular } from './IcOrigonClipboardSettings_24Regular';

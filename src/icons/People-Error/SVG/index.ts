@@ -1,6 +1,6 @@
-export { default as IcFluentPeopleError_16Filled } from './IcFluentPeopleError_16Filled';
-export { default as IcFluentPeopleError_16Regular } from './IcFluentPeopleError_16Regular';
-export { default as IcFluentPeopleError_20Filled } from './IcFluentPeopleError_20Filled';
-export { default as IcFluentPeopleError_20Regular } from './IcFluentPeopleError_20Regular';
-export { default as IcFluentPeopleError_24Filled } from './IcFluentPeopleError_24Filled';
-export { default as IcFluentPeopleError_24Regular } from './IcFluentPeopleError_24Regular';
+export { default as IcOrigonPeopleError_16Filled } from './IcOrigonPeopleError_16Filled';
+export { default as IcOrigonPeopleError_16Regular } from './IcOrigonPeopleError_16Regular';
+export { default as IcOrigonPeopleError_20Filled } from './IcOrigonPeopleError_20Filled';
+export { default as IcOrigonPeopleError_20Regular } from './IcOrigonPeopleError_20Regular';
+export { default as IcOrigonPeopleError_24Filled } from './IcOrigonPeopleError_24Filled';
+export { default as IcOrigonPeopleError_24Regular } from './IcOrigonPeopleError_24Regular';

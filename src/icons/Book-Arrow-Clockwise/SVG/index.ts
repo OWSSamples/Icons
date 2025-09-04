@@ -1,4 +1,4 @@
-export { default as IcFluentBookArrowClockwise_20Filled } from './IcFluentBookArrowClockwise_20Filled';
-export { default as IcFluentBookArrowClockwise_20Regular } from './IcFluentBookArrowClockwise_20Regular';
-export { default as IcFluentBookArrowClockwise_24Filled } from './IcFluentBookArrowClockwise_24Filled';
-export { default as IcFluentBookArrowClockwise_24Regular } from './IcFluentBookArrowClockwise_24Regular';
+export { default as IcOrigonBookArrowClockwise_20Filled } from './IcOrigonBookArrowClockwise_20Filled';
+export { default as IcOrigonBookArrowClockwise_20Regular } from './IcOrigonBookArrowClockwise_20Regular';
+export { default as IcOrigonBookArrowClockwise_24Filled } from './IcOrigonBookArrowClockwise_24Filled';
+export { default as IcOrigonBookArrowClockwise_24Regular } from './IcOrigonBookArrowClockwise_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentEngine_20Filled } from './IcFluentEngine_20Filled';
-export { default as IcFluentEngine_20Regular } from './IcFluentEngine_20Regular';
-export { default as IcFluentEngine_24Filled } from './IcFluentEngine_24Filled';
-export { default as IcFluentEngine_24Regular } from './IcFluentEngine_24Regular';
+export { default as IcOrigonEngine_20Filled } from './IcOrigonEngine_20Filled';
+export { default as IcOrigonEngine_20Regular } from './IcOrigonEngine_20Regular';
+export { default as IcOrigonEngine_24Filled } from './IcOrigonEngine_24Filled';
+export { default as IcOrigonEngine_24Regular } from './IcOrigonEngine_24Regular';

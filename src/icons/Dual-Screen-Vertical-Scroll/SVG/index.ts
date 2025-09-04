@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenVerticalScroll_20Filled } from './IcFluentDualScreenVerticalScroll_20Filled';
-export { default as IcFluentDualScreenVerticalScroll_20Regular } from './IcFluentDualScreenVerticalScroll_20Regular';
-export { default as IcFluentDualScreenVerticalScroll_24Filled } from './IcFluentDualScreenVerticalScroll_24Filled';
-export { default as IcFluentDualScreenVerticalScroll_24Regular } from './IcFluentDualScreenVerticalScroll_24Regular';
+export { default as IcOrigonDualScreenVerticalScroll_20Filled } from './IcOrigonDualScreenVerticalScroll_20Filled';
+export { default as IcOrigonDualScreenVerticalScroll_20Regular } from './IcOrigonDualScreenVerticalScroll_20Regular';
+export { default as IcOrigonDualScreenVerticalScroll_24Filled } from './IcOrigonDualScreenVerticalScroll_24Filled';
+export { default as IcOrigonDualScreenVerticalScroll_24Regular } from './IcOrigonDualScreenVerticalScroll_24Regular';

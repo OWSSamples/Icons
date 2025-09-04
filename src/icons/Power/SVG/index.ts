@@ -1,6 +1,6 @@
-export { default as IcFluentPower_20Filled } from './IcFluentPower_20Filled';
-export { default as IcFluentPower_20Regular } from './IcFluentPower_20Regular';
-export { default as IcFluentPower_24Filled } from './IcFluentPower_24Filled';
-export { default as IcFluentPower_24Regular } from './IcFluentPower_24Regular';
-export { default as IcFluentPower_28Filled } from './IcFluentPower_28Filled';
-export { default as IcFluentPower_28Regular } from './IcFluentPower_28Regular';
+export { default as IcOrigonPower_20Filled } from './IcOrigonPower_20Filled';
+export { default as IcOrigonPower_20Regular } from './IcOrigonPower_20Regular';
+export { default as IcOrigonPower_24Filled } from './IcOrigonPower_24Filled';
+export { default as IcOrigonPower_24Regular } from './IcOrigonPower_24Regular';
+export { default as IcOrigonPower_28Filled } from './IcOrigonPower_28Filled';
+export { default as IcOrigonPower_28Regular } from './IcOrigonPower_28Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentCalligraphyPen_20Filled } from './IcFluentCalligraphyPen_20Filled';
-export { default as IcFluentCalligraphyPen_20Regular } from './IcFluentCalligraphyPen_20Regular';
-export { default as IcFluentCalligraphyPen_24Filled } from './IcFluentCalligraphyPen_24Filled';
-export { default as IcFluentCalligraphyPen_24Regular } from './IcFluentCalligraphyPen_24Regular';
+export { default as IcOrigonCalligraphyPen_20Filled } from './IcOrigonCalligraphyPen_20Filled';
+export { default as IcOrigonCalligraphyPen_20Regular } from './IcOrigonCalligraphyPen_20Regular';
+export { default as IcOrigonCalligraphyPen_24Filled } from './IcOrigonCalligraphyPen_24Filled';
+export { default as IcOrigonCalligraphyPen_24Regular } from './IcOrigonCalligraphyPen_24Regular';

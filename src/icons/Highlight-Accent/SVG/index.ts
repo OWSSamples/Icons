@@ -1,3 +1,3 @@
-export { default as IcFluentHighlightAccent_16Filled } from './IcFluentHighlightAccent_16Filled';
-export { default as IcFluentHighlightAccent_20Filled } from './IcFluentHighlightAccent_20Filled';
-export { default as IcFluentHighlightAccent_24Filled } from './IcFluentHighlightAccent_24Filled';
+export { default as IcOrigonHighlightAccent_16Filled } from './IcOrigonHighlightAccent_16Filled';
+export { default as IcOrigonHighlightAccent_20Filled } from './IcOrigonHighlightAccent_20Filled';
+export { default as IcOrigonHighlightAccent_24Filled } from './IcOrigonHighlightAccent_24Filled';

@@ -1,6 +1,6 @@
-export { default as IcFluentTextStrikethrough_16Filled } from './IcFluentTextStrikethrough_16Filled';
-export { default as IcFluentTextStrikethrough_16Regular } from './IcFluentTextStrikethrough_16Regular';
-export { default as IcFluentTextStrikethrough_20Filled } from './IcFluentTextStrikethrough_20Filled';
-export { default as IcFluentTextStrikethrough_20Regular } from './IcFluentTextStrikethrough_20Regular';
-export { default as IcFluentTextStrikethrough_24Filled } from './IcFluentTextStrikethrough_24Filled';
-export { default as IcFluentTextStrikethrough_24Regular } from './IcFluentTextStrikethrough_24Regular';
+export { default as IcOrigonTextStrikethrough_16Filled } from './IcOrigonTextStrikethrough_16Filled';
+export { default as IcOrigonTextStrikethrough_16Regular } from './IcOrigonTextStrikethrough_16Regular';
+export { default as IcOrigonTextStrikethrough_20Filled } from './IcOrigonTextStrikethrough_20Filled';
+export { default as IcOrigonTextStrikethrough_20Regular } from './IcOrigonTextStrikethrough_20Regular';
+export { default as IcOrigonTextStrikethrough_24Filled } from './IcOrigonTextStrikethrough_24Filled';
+export { default as IcOrigonTextStrikethrough_24Regular } from './IcOrigonTextStrikethrough_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentFolderLightning_16Filled } from './IcFluentFolderLightning_16Filled';
-export { default as IcFluentFolderLightning_16Regular } from './IcFluentFolderLightning_16Regular';
-export { default as IcFluentFolderLightning_20Filled } from './IcFluentFolderLightning_20Filled';
-export { default as IcFluentFolderLightning_20Regular } from './IcFluentFolderLightning_20Regular';
-export { default as IcFluentFolderLightning_24Filled } from './IcFluentFolderLightning_24Filled';
-export { default as IcFluentFolderLightning_24Regular } from './IcFluentFolderLightning_24Regular';
+export { default as IcOrigonFolderLightning_16Filled } from './IcOrigonFolderLightning_16Filled';
+export { default as IcOrigonFolderLightning_16Regular } from './IcOrigonFolderLightning_16Regular';
+export { default as IcOrigonFolderLightning_20Filled } from './IcOrigonFolderLightning_20Filled';
+export { default as IcOrigonFolderLightning_20Regular } from './IcOrigonFolderLightning_20Regular';
+export { default as IcOrigonFolderLightning_24Filled } from './IcOrigonFolderLightning_24Filled';
+export { default as IcOrigonFolderLightning_24Regular } from './IcOrigonFolderLightning_24Regular';

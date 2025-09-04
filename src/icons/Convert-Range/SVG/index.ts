@@ -1,4 +1,4 @@
-export { default as IcFluentConvertRange_20Filled } from './IcFluentConvertRange_20Filled';
-export { default as IcFluentConvertRange_20Regular } from './IcFluentConvertRange_20Regular';
-export { default as IcFluentConvertRange_24Filled } from './IcFluentConvertRange_24Filled';
-export { default as IcFluentConvertRange_24Regular } from './IcFluentConvertRange_24Regular';
+export { default as IcOrigonConvertRange_20Filled } from './IcOrigonConvertRange_20Filled';
+export { default as IcOrigonConvertRange_20Regular } from './IcOrigonConvertRange_20Regular';
+export { default as IcOrigonConvertRange_24Filled } from './IcOrigonConvertRange_24Filled';
+export { default as IcOrigonConvertRange_24Regular } from './IcOrigonConvertRange_24Regular';

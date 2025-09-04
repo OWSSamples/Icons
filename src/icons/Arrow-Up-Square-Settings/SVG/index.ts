@@ -1,2 +1,2 @@
-export { default as IcFluentArrowUpSquareSettings_24Filled } from './IcFluentArrowUpSquareSettings_24Filled';
-export { default as IcFluentArrowUpSquareSettings_24Regular } from './IcFluentArrowUpSquareSettings_24Regular';
+export { default as IcOrigonArrowUpSquareSettings_24Filled } from './IcOrigonArrowUpSquareSettings_24Filled';
+export { default as IcOrigonArrowUpSquareSettings_24Regular } from './IcOrigonArrowUpSquareSettings_24Regular';

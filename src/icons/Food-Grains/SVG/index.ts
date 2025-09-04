@@ -1,4 +1,4 @@
-export { default as IcFluentFoodGrains_20Filled } from './IcFluentFoodGrains_20Filled';
-export { default as IcFluentFoodGrains_20Regular } from './IcFluentFoodGrains_20Regular';
-export { default as IcFluentFoodGrains_24Filled } from './IcFluentFoodGrains_24Filled';
-export { default as IcFluentFoodGrains_24Regular } from './IcFluentFoodGrains_24Regular';
+export { default as IcOrigonFoodGrains_20Filled } from './IcOrigonFoodGrains_20Filled';
+export { default as IcOrigonFoodGrains_20Regular } from './IcOrigonFoodGrains_20Regular';
+export { default as IcOrigonFoodGrains_24Filled } from './IcOrigonFoodGrains_24Filled';
+export { default as IcOrigonFoodGrains_24Regular } from './IcOrigonFoodGrains_24Regular';

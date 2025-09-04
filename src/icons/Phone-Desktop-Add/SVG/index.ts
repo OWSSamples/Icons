@@ -1,2 +1,2 @@
-export { default as IcFluentPhoneDesktopAdd_20Filled } from './IcFluentPhoneDesktopAdd_20Filled';
-export { default as IcFluentPhoneDesktopAdd_20Regular } from './IcFluentPhoneDesktopAdd_20Regular';
+export { default as IcOrigonPhoneDesktopAdd_20Filled } from './IcOrigonPhoneDesktopAdd_20Filled';
+export { default as IcOrigonPhoneDesktopAdd_20Regular } from './IcOrigonPhoneDesktopAdd_20Regular';

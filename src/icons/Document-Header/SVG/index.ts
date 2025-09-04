@@ -1,6 +1,6 @@
-export { default as IcFluentDocumentHeader_16Filled } from './IcFluentDocumentHeader_16Filled';
-export { default as IcFluentDocumentHeader_16Regular } from './IcFluentDocumentHeader_16Regular';
-export { default as IcFluentDocumentHeader_20Filled } from './IcFluentDocumentHeader_20Filled';
-export { default as IcFluentDocumentHeader_20Regular } from './IcFluentDocumentHeader_20Regular';
-export { default as IcFluentDocumentHeader_24Filled } from './IcFluentDocumentHeader_24Filled';
-export { default as IcFluentDocumentHeader_24Regular } from './IcFluentDocumentHeader_24Regular';
+export { default as IcOrigonDocumentHeader_16Filled } from './IcOrigonDocumentHeader_16Filled';
+export { default as IcOrigonDocumentHeader_16Regular } from './IcOrigonDocumentHeader_16Regular';
+export { default as IcOrigonDocumentHeader_20Filled } from './IcOrigonDocumentHeader_20Filled';
+export { default as IcOrigonDocumentHeader_20Regular } from './IcOrigonDocumentHeader_20Regular';
+export { default as IcOrigonDocumentHeader_24Filled } from './IcOrigonDocumentHeader_24Filled';
+export { default as IcOrigonDocumentHeader_24Regular } from './IcOrigonDocumentHeader_24Regular';

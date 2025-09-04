@@ -1,4 +1,4 @@
-export { default as IcFluentCircleHighlight_20Filled } from './IcFluentCircleHighlight_20Filled';
-export { default as IcFluentCircleHighlight_20Regular } from './IcFluentCircleHighlight_20Regular';
-export { default as IcFluentCircleHighlight_24Filled } from './IcFluentCircleHighlight_24Filled';
-export { default as IcFluentCircleHighlight_24Regular } from './IcFluentCircleHighlight_24Regular';
+export { default as IcOrigonCircleHighlight_20Filled } from './IcOrigonCircleHighlight_20Filled';
+export { default as IcOrigonCircleHighlight_20Regular } from './IcOrigonCircleHighlight_20Regular';
+export { default as IcOrigonCircleHighlight_24Filled } from './IcOrigonCircleHighlight_24Filled';
+export { default as IcOrigonCircleHighlight_24Regular } from './IcOrigonCircleHighlight_24Regular';

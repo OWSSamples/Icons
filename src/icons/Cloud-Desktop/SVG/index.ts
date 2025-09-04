@@ -1,4 +1,4 @@
-export { default as IcFluentCloudDesktop_20Filled } from './IcFluentCloudDesktop_20Filled';
-export { default as IcFluentCloudDesktop_20Regular } from './IcFluentCloudDesktop_20Regular';
-export { default as IcFluentCloudDesktop_24Filled } from './IcFluentCloudDesktop_24Filled';
-export { default as IcFluentCloudDesktop_24Regular } from './IcFluentCloudDesktop_24Regular';
+export { default as IcOrigonCloudDesktop_20Filled } from './IcOrigonCloudDesktop_20Filled';
+export { default as IcOrigonCloudDesktop_20Regular } from './IcOrigonCloudDesktop_20Regular';
+export { default as IcOrigonCloudDesktop_24Filled } from './IcOrigonCloudDesktop_24Filled';
+export { default as IcOrigonCloudDesktop_24Regular } from './IcOrigonCloudDesktop_24Regular';

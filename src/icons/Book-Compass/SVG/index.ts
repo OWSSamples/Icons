@@ -1,4 +1,4 @@
-export { default as IcFluentBookCompass_20Filled } from './IcFluentBookCompass_20Filled';
-export { default as IcFluentBookCompass_20Regular } from './IcFluentBookCompass_20Regular';
-export { default as IcFluentBookCompass_24Filled } from './IcFluentBookCompass_24Filled';
-export { default as IcFluentBookCompass_24Regular } from './IcFluentBookCompass_24Regular';
+export { default as IcOrigonBookCompass_20Filled } from './IcOrigonBookCompass_20Filled';
+export { default as IcOrigonBookCompass_20Regular } from './IcOrigonBookCompass_20Regular';
+export { default as IcOrigonBookCompass_24Filled } from './IcOrigonBookCompass_24Filled';
+export { default as IcOrigonBookCompass_24Regular } from './IcOrigonBookCompass_24Regular';

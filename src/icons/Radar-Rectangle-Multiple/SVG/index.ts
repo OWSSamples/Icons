@@ -1,2 +1,2 @@
-export { default as IcFluentRadarRectangleMultiple_20Filled } from './IcFluentRadarRectangleMultiple_20Filled';
-export { default as IcFluentRadarRectangleMultiple_20Regular } from './IcFluentRadarRectangleMultiple_20Regular';
+export { default as IcOrigonRadarRectangleMultiple_20Filled } from './IcOrigonRadarRectangleMultiple_20Filled';
+export { default as IcOrigonRadarRectangleMultiple_20Regular } from './IcOrigonRadarRectangleMultiple_20Regular';

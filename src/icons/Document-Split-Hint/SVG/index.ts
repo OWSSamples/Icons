@@ -1,6 +1,6 @@
-export { default as IcFluentDocumentSplitHint_16Filled } from './IcFluentDocumentSplitHint_16Filled';
-export { default as IcFluentDocumentSplitHint_16Regular } from './IcFluentDocumentSplitHint_16Regular';
-export { default as IcFluentDocumentSplitHint_20Filled } from './IcFluentDocumentSplitHint_20Filled';
-export { default as IcFluentDocumentSplitHint_20Regular } from './IcFluentDocumentSplitHint_20Regular';
-export { default as IcFluentDocumentSplitHint_24Filled } from './IcFluentDocumentSplitHint_24Filled';
-export { default as IcFluentDocumentSplitHint_24Regular } from './IcFluentDocumentSplitHint_24Regular';
+export { default as IcOrigonDocumentSplitHint_16Filled } from './IcOrigonDocumentSplitHint_16Filled';
+export { default as IcOrigonDocumentSplitHint_16Regular } from './IcOrigonDocumentSplitHint_16Regular';
+export { default as IcOrigonDocumentSplitHint_20Filled } from './IcOrigonDocumentSplitHint_20Filled';
+export { default as IcOrigonDocumentSplitHint_20Regular } from './IcOrigonDocumentSplitHint_20Regular';
+export { default as IcOrigonDocumentSplitHint_24Filled } from './IcOrigonDocumentSplitHint_24Filled';
+export { default as IcOrigonDocumentSplitHint_24Regular } from './IcOrigonDocumentSplitHint_24Regular';

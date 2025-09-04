@@ -1,4 +1,4 @@
-export { default as IcFluentBeakerOff_20Filled } from './IcFluentBeakerOff_20Filled';
-export { default as IcFluentBeakerOff_20Regular } from './IcFluentBeakerOff_20Regular';
-export { default as IcFluentBeakerOff_32Filled } from './IcFluentBeakerOff_32Filled';
-export { default as IcFluentBeakerOff_32Regular } from './IcFluentBeakerOff_32Regular';
+export { default as IcOrigonBeakerOff_20Filled } from './IcOrigonBeakerOff_20Filled';
+export { default as IcOrigonBeakerOff_20Regular } from './IcOrigonBeakerOff_20Regular';
+export { default as IcOrigonBeakerOff_32Filled } from './IcOrigonBeakerOff_32Filled';
+export { default as IcOrigonBeakerOff_32Regular } from './IcOrigonBeakerOff_32Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentCheckboxCheckedSync_16Filled } from './IcFluentCheckboxCheckedSync_16Filled';
-export { default as IcFluentCheckboxCheckedSync_16Regular } from './IcFluentCheckboxCheckedSync_16Regular';
-export { default as IcFluentCheckboxCheckedSync_20Filled } from './IcFluentCheckboxCheckedSync_20Filled';
-export { default as IcFluentCheckboxCheckedSync_20Regular } from './IcFluentCheckboxCheckedSync_20Regular';
+export { default as IcOrigonCheckboxCheckedSync_16Filled } from './IcOrigonCheckboxCheckedSync_16Filled';
+export { default as IcOrigonCheckboxCheckedSync_16Regular } from './IcOrigonCheckboxCheckedSync_16Regular';
+export { default as IcOrigonCheckboxCheckedSync_20Filled } from './IcOrigonCheckboxCheckedSync_20Filled';
+export { default as IcOrigonCheckboxCheckedSync_20Regular } from './IcOrigonCheckboxCheckedSync_20Regular';

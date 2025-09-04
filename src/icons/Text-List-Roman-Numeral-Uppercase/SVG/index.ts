@@ -1,4 +1,4 @@
-export { default as IcFluentTextListRomanNumeralUppercase_20Filled } from './IcFluentTextListRomanNumeralUppercase_20Filled';
-export { default as IcFluentTextListRomanNumeralUppercase_20Regular } from './IcFluentTextListRomanNumeralUppercase_20Regular';
-export { default as IcFluentTextListRomanNumeralUppercase_24Filled } from './IcFluentTextListRomanNumeralUppercase_24Filled';
-export { default as IcFluentTextListRomanNumeralUppercase_24Regular } from './IcFluentTextListRomanNumeralUppercase_24Regular';
+export { default as IcOrigonTextListRomanNumeralUppercase_20Filled } from './IcOrigonTextListRomanNumeralUppercase_20Filled';
+export { default as IcOrigonTextListRomanNumeralUppercase_20Regular } from './IcOrigonTextListRomanNumeralUppercase_20Regular';
+export { default as IcOrigonTextListRomanNumeralUppercase_24Filled } from './IcOrigonTextListRomanNumeralUppercase_24Filled';
+export { default as IcOrigonTextListRomanNumeralUppercase_24Regular } from './IcOrigonTextListRomanNumeralUppercase_24Regular';

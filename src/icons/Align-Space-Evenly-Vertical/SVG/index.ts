@@ -1,4 +1,4 @@
-export { default as IcFluentAlignSpaceEvenlyVertical_20Filled } from './IcFluentAlignSpaceEvenlyVertical_20Filled';
-export { default as IcFluentAlignSpaceEvenlyVertical_20Regular } from './IcFluentAlignSpaceEvenlyVertical_20Regular';
-export { default as IcFluentAlignSpaceEvenlyVertical_24Filled } from './IcFluentAlignSpaceEvenlyVertical_24Filled';
-export { default as IcFluentAlignSpaceEvenlyVertical_24Regular } from './IcFluentAlignSpaceEvenlyVertical_24Regular';
+export { default as IcOrigonAlignSpaceEvenlyVertical_20Filled } from './IcOrigonAlignSpaceEvenlyVertical_20Filled';
+export { default as IcOrigonAlignSpaceEvenlyVertical_20Regular } from './IcOrigonAlignSpaceEvenlyVertical_20Regular';
+export { default as IcOrigonAlignSpaceEvenlyVertical_24Filled } from './IcOrigonAlignSpaceEvenlyVertical_24Filled';
+export { default as IcOrigonAlignSpaceEvenlyVertical_24Regular } from './IcOrigonAlignSpaceEvenlyVertical_24Regular';

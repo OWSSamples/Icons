@@ -1,4 +1,4 @@
-export { default as IcFluentEraserMedium_20Filled } from './IcFluentEraserMedium_20Filled';
-export { default as IcFluentEraserMedium_20Regular } from './IcFluentEraserMedium_20Regular';
-export { default as IcFluentEraserMedium_24Filled } from './IcFluentEraserMedium_24Filled';
-export { default as IcFluentEraserMedium_24Regular } from './IcFluentEraserMedium_24Regular';
+export { default as IcOrigonEraserMedium_20Filled } from './IcOrigonEraserMedium_20Filled';
+export { default as IcOrigonEraserMedium_20Regular } from './IcOrigonEraserMedium_20Regular';
+export { default as IcOrigonEraserMedium_24Filled } from './IcOrigonEraserMedium_24Filled';
+export { default as IcOrigonEraserMedium_24Regular } from './IcOrigonEraserMedium_24Regular';

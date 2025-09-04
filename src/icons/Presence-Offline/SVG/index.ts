@@ -1,5 +1,5 @@
-export { default as IcFluentPresenceOffline_10Regular } from './IcFluentPresenceOffline_10Regular';
-export { default as IcFluentPresenceOffline_12Regular } from './IcFluentPresenceOffline_12Regular';
-export { default as IcFluentPresenceOffline_16Regular } from './IcFluentPresenceOffline_16Regular';
-export { default as IcFluentPresenceOffline_20Regular } from './IcFluentPresenceOffline_20Regular';
-export { default as IcFluentPresenceOffline_24Regular } from './IcFluentPresenceOffline_24Regular';
+export { default as IcOrigonPresenceOffline_10Regular } from './IcOrigonPresenceOffline_10Regular';
+export { default as IcOrigonPresenceOffline_12Regular } from './IcOrigonPresenceOffline_12Regular';
+export { default as IcOrigonPresenceOffline_16Regular } from './IcOrigonPresenceOffline_16Regular';
+export { default as IcOrigonPresenceOffline_20Regular } from './IcOrigonPresenceOffline_20Regular';
+export { default as IcOrigonPresenceOffline_24Regular } from './IcOrigonPresenceOffline_24Regular';

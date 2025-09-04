@@ -1,4 +1,4 @@
-export { default as IcFluentPhoneScreenTime_20Filled } from './IcFluentPhoneScreenTime_20Filled';
-export { default as IcFluentPhoneScreenTime_20Regular } from './IcFluentPhoneScreenTime_20Regular';
-export { default as IcFluentPhoneScreenTime_24Filled } from './IcFluentPhoneScreenTime_24Filled';
-export { default as IcFluentPhoneScreenTime_24Regular } from './IcFluentPhoneScreenTime_24Regular';
+export { default as IcOrigonPhoneScreenTime_20Filled } from './IcOrigonPhoneScreenTime_20Filled';
+export { default as IcOrigonPhoneScreenTime_20Regular } from './IcOrigonPhoneScreenTime_20Regular';
+export { default as IcOrigonPhoneScreenTime_24Filled } from './IcOrigonPhoneScreenTime_24Filled';
+export { default as IcOrigonPhoneScreenTime_24Regular } from './IcOrigonPhoneScreenTime_24Regular';

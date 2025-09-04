@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonStarHalf_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M10 2.342a.99.99 0 0 0-.896.557l-1.93 3.912-4.317.627a1 1 0 0 0-.554 1.706l3.124 3.044-.738 4.3a1 1 0 0 0 1.451 1.054l3.86-2.03z"/>
+  </IconBase>
+);
+
+export default IcOrigonStarHalf_20Filled;

@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentQueue_20Filled } from './IcFluentDocumentQueue_20Filled';
-export { default as IcFluentDocumentQueue_20Regular } from './IcFluentDocumentQueue_20Regular';
-export { default as IcFluentDocumentQueue_24Filled } from './IcFluentDocumentQueue_24Filled';
-export { default as IcFluentDocumentQueue_24Regular } from './IcFluentDocumentQueue_24Regular';
+export { default as IcOrigonDocumentQueue_20Filled } from './IcOrigonDocumentQueue_20Filled';
+export { default as IcOrigonDocumentQueue_20Regular } from './IcOrigonDocumentQueue_20Regular';
+export { default as IcOrigonDocumentQueue_24Filled } from './IcOrigonDocumentQueue_24Filled';
+export { default as IcOrigonDocumentQueue_24Regular } from './IcOrigonDocumentQueue_24Regular';

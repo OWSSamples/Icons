@@ -1,6 +1,6 @@
-export { default as IcFluentWhiteboardOff_16Filled } from './IcFluentWhiteboardOff_16Filled';
-export { default as IcFluentWhiteboardOff_16Regular } from './IcFluentWhiteboardOff_16Regular';
-export { default as IcFluentWhiteboardOff_20Filled } from './IcFluentWhiteboardOff_20Filled';
-export { default as IcFluentWhiteboardOff_20Regular } from './IcFluentWhiteboardOff_20Regular';
-export { default as IcFluentWhiteboardOff_24Filled } from './IcFluentWhiteboardOff_24Filled';
-export { default as IcFluentWhiteboardOff_24Regular } from './IcFluentWhiteboardOff_24Regular';
+export { default as IcOrigonWhiteboardOff_16Filled } from './IcOrigonWhiteboardOff_16Filled';
+export { default as IcOrigonWhiteboardOff_16Regular } from './IcOrigonWhiteboardOff_16Regular';
+export { default as IcOrigonWhiteboardOff_20Filled } from './IcOrigonWhiteboardOff_20Filled';
+export { default as IcOrigonWhiteboardOff_20Regular } from './IcOrigonWhiteboardOff_20Regular';
+export { default as IcOrigonWhiteboardOff_24Filled } from './IcOrigonWhiteboardOff_24Filled';
+export { default as IcOrigonWhiteboardOff_24Regular } from './IcOrigonWhiteboardOff_24Regular';

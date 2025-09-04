@@ -1,2 +1,2 @@
-export { default as IcFluentRadar_20Filled } from './IcFluentRadar_20Filled';
-export { default as IcFluentRadar_20Regular } from './IcFluentRadar_20Regular';
+export { default as IcOrigonRadar_20Filled } from './IcOrigonRadar_20Filled';
+export { default as IcOrigonRadar_20Regular } from './IcOrigonRadar_20Regular';

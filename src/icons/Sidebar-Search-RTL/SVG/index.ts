@@ -1,2 +1,2 @@
-export { default as IcFluentSidebarSearchRtl_20Filled } from './IcFluentSidebarSearchRtl_20Filled';
-export { default as IcFluentSidebarSearchRtl_20Regular } from './IcFluentSidebarSearchRtl_20Regular';
+export { default as IcOrigonSidebarSearchRtl_20Filled } from './IcOrigonSidebarSearchRtl_20Filled';
+export { default as IcOrigonSidebarSearchRtl_20Regular } from './IcOrigonSidebarSearchRtl_20Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonReadingList_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M3.5 5.497a1.002 1.002 0 0 1 1.837-.555.75.75 0 0 0 1.248-.832A2.502 2.502 0 1 0 4.597 8h10.677a.75.75 0 0 0 0-1.5H4.597l-.048.001-.047-.001A1 1 0 0 1 3.5 5.497M9.748 4a.75.75 0 0 0 0 1.5h7.5a.75.75 0 0 0 0-1.5zM5.75 9a.75.75 0 0 0 0 1.5h11.5a.75.75 0 1 0 0-1.5zM2 12.25a.75.75 0 0 1 .75-.75h12.5a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1-.75-.75M5.75 14a.75.75 0 0 0 0 1.5h11.498a.75.75 0 1 0 0-1.5z"/>
+  </IconBase>
+);
+
+export default IcOrigonReadingList_20Filled;

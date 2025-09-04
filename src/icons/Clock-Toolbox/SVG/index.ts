@@ -1,6 +1,6 @@
-export { default as IcFluentClockToolbox_20Filled } from './IcFluentClockToolbox_20Filled';
-export { default as IcFluentClockToolbox_20Regular } from './IcFluentClockToolbox_20Regular';
-export { default as IcFluentClockToolbox_24Filled } from './IcFluentClockToolbox_24Filled';
-export { default as IcFluentClockToolbox_24Regular } from './IcFluentClockToolbox_24Regular';
-export { default as IcFluentClockToolbox_32Filled } from './IcFluentClockToolbox_32Filled';
-export { default as IcFluentClockToolbox_32Regular } from './IcFluentClockToolbox_32Regular';
+export { default as IcOrigonClockToolbox_20Filled } from './IcOrigonClockToolbox_20Filled';
+export { default as IcOrigonClockToolbox_20Regular } from './IcOrigonClockToolbox_20Regular';
+export { default as IcOrigonClockToolbox_24Filled } from './IcOrigonClockToolbox_24Filled';
+export { default as IcOrigonClockToolbox_24Regular } from './IcOrigonClockToolbox_24Regular';
+export { default as IcOrigonClockToolbox_32Filled } from './IcOrigonClockToolbox_32Filled';
+export { default as IcOrigonClockToolbox_32Regular } from './IcOrigonClockToolbox_32Regular';

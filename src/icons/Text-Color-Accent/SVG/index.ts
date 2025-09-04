@@ -1,3 +1,3 @@
-export { default as IcFluentTextColorAccent_16Filled } from './IcFluentTextColorAccent_16Filled';
-export { default as IcFluentTextColorAccent_20Filled } from './IcFluentTextColorAccent_20Filled';
-export { default as IcFluentTextColorAccent_24Filled } from './IcFluentTextColorAccent_24Filled';
+export { default as IcOrigonTextColorAccent_16Filled } from './IcOrigonTextColorAccent_16Filled';
+export { default as IcOrigonTextColorAccent_20Filled } from './IcOrigonTextColorAccent_20Filled';
+export { default as IcOrigonTextColorAccent_24Filled } from './IcOrigonTextColorAccent_24Filled';

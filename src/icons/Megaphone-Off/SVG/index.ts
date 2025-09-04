@@ -1,8 +1,8 @@
-export { default as IcFluentMegaphoneOff_16Filled } from './IcFluentMegaphoneOff_16Filled';
-export { default as IcFluentMegaphoneOff_16Regular } from './IcFluentMegaphoneOff_16Regular';
-export { default as IcFluentMegaphoneOff_20Filled } from './IcFluentMegaphoneOff_20Filled';
-export { default as IcFluentMegaphoneOff_20Regular } from './IcFluentMegaphoneOff_20Regular';
-export { default as IcFluentMegaphoneOff_24Filled } from './IcFluentMegaphoneOff_24Filled';
-export { default as IcFluentMegaphoneOff_24Regular } from './IcFluentMegaphoneOff_24Regular';
-export { default as IcFluentMegaphoneOff_28Filled } from './IcFluentMegaphoneOff_28Filled';
-export { default as IcFluentMegaphoneOff_28Regular } from './IcFluentMegaphoneOff_28Regular';
+export { default as IcOrigonMegaphoneOff_16Filled } from './IcOrigonMegaphoneOff_16Filled';
+export { default as IcOrigonMegaphoneOff_16Regular } from './IcOrigonMegaphoneOff_16Regular';
+export { default as IcOrigonMegaphoneOff_20Filled } from './IcOrigonMegaphoneOff_20Filled';
+export { default as IcOrigonMegaphoneOff_20Regular } from './IcOrigonMegaphoneOff_20Regular';
+export { default as IcOrigonMegaphoneOff_24Filled } from './IcOrigonMegaphoneOff_24Filled';
+export { default as IcOrigonMegaphoneOff_24Regular } from './IcOrigonMegaphoneOff_24Regular';
+export { default as IcOrigonMegaphoneOff_28Filled } from './IcOrigonMegaphoneOff_28Filled';
+export { default as IcOrigonMegaphoneOff_28Regular } from './IcOrigonMegaphoneOff_28Regular';

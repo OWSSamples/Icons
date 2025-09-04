@@ -1,8 +1,8 @@
-export { default as IcFluentPersonSquare_16Filled } from './IcFluentPersonSquare_16Filled';
-export { default as IcFluentPersonSquare_16Regular } from './IcFluentPersonSquare_16Regular';
-export { default as IcFluentPersonSquare_20Filled } from './IcFluentPersonSquare_20Filled';
-export { default as IcFluentPersonSquare_20Regular } from './IcFluentPersonSquare_20Regular';
-export { default as IcFluentPersonSquare_24Filled } from './IcFluentPersonSquare_24Filled';
-export { default as IcFluentPersonSquare_24Regular } from './IcFluentPersonSquare_24Regular';
-export { default as IcFluentPersonSquare_32Filled } from './IcFluentPersonSquare_32Filled';
-export { default as IcFluentPersonSquare_32Regular } from './IcFluentPersonSquare_32Regular';
+export { default as IcOrigonPersonSquare_16Filled } from './IcOrigonPersonSquare_16Filled';
+export { default as IcOrigonPersonSquare_16Regular } from './IcOrigonPersonSquare_16Regular';
+export { default as IcOrigonPersonSquare_20Filled } from './IcOrigonPersonSquare_20Filled';
+export { default as IcOrigonPersonSquare_20Regular } from './IcOrigonPersonSquare_20Regular';
+export { default as IcOrigonPersonSquare_24Filled } from './IcOrigonPersonSquare_24Filled';
+export { default as IcOrigonPersonSquare_24Regular } from './IcOrigonPersonSquare_24Regular';
+export { default as IcOrigonPersonSquare_32Filled } from './IcOrigonPersonSquare_32Filled';
+export { default as IcOrigonPersonSquare_32Regular } from './IcOrigonPersonSquare_32Regular';

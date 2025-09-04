@@ -1,2 +1,2 @@
-export { default as IcFluentPasswordReset_48Filled } from './IcFluentPasswordReset_48Filled';
-export { default as IcFluentPasswordReset_48Regular } from './IcFluentPasswordReset_48Regular';
+export { default as IcOrigonPasswordReset_48Filled } from './IcOrigonPasswordReset_48Filled';
+export { default as IcOrigonPasswordReset_48Regular } from './IcOrigonPasswordReset_48Regular';

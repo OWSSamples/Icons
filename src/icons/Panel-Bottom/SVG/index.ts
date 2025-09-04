@@ -1,2 +1,2 @@
-export { default as IcFluentPanelBottom_20Filled } from './IcFluentPanelBottom_20Filled';
-export { default as IcFluentPanelBottom_20Regular } from './IcFluentPanelBottom_20Regular';
+export { default as IcOrigonPanelBottom_20Filled } from './IcOrigonPanelBottom_20Filled';
+export { default as IcOrigonPanelBottom_20Regular } from './IcOrigonPanelBottom_20Regular';

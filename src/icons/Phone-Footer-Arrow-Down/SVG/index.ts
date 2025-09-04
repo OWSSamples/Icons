@@ -1,4 +1,4 @@
-export { default as IcFluentPhoneFooterArrowDown_20Filled } from './IcFluentPhoneFooterArrowDown_20Filled';
-export { default as IcFluentPhoneFooterArrowDown_20Regular } from './IcFluentPhoneFooterArrowDown_20Regular';
-export { default as IcFluentPhoneFooterArrowDown_24Filled } from './IcFluentPhoneFooterArrowDown_24Filled';
-export { default as IcFluentPhoneFooterArrowDown_24Regular } from './IcFluentPhoneFooterArrowDown_24Regular';
+export { default as IcOrigonPhoneFooterArrowDown_20Filled } from './IcOrigonPhoneFooterArrowDown_20Filled';
+export { default as IcOrigonPhoneFooterArrowDown_20Regular } from './IcOrigonPhoneFooterArrowDown_20Regular';
+export { default as IcOrigonPhoneFooterArrowDown_24Filled } from './IcOrigonPhoneFooterArrowDown_24Filled';
+export { default as IcOrigonPhoneFooterArrowDown_24Regular } from './IcOrigonPhoneFooterArrowDown_24Regular';

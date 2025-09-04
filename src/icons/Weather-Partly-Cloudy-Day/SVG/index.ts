@@ -1,8 +1,8 @@
-export { default as IcFluentWeatherPartlyCloudyDay_16Filled } from './IcFluentWeatherPartlyCloudyDay_16Filled';
-export { default as IcFluentWeatherPartlyCloudyDay_16Regular } from './IcFluentWeatherPartlyCloudyDay_16Regular';
-export { default as IcFluentWeatherPartlyCloudyDay_20Filled } from './IcFluentWeatherPartlyCloudyDay_20Filled';
-export { default as IcFluentWeatherPartlyCloudyDay_20Regular } from './IcFluentWeatherPartlyCloudyDay_20Regular';
-export { default as IcFluentWeatherPartlyCloudyDay_24Filled } from './IcFluentWeatherPartlyCloudyDay_24Filled';
-export { default as IcFluentWeatherPartlyCloudyDay_24Regular } from './IcFluentWeatherPartlyCloudyDay_24Regular';
-export { default as IcFluentWeatherPartlyCloudyDay_48Filled } from './IcFluentWeatherPartlyCloudyDay_48Filled';
-export { default as IcFluentWeatherPartlyCloudyDay_48Regular } from './IcFluentWeatherPartlyCloudyDay_48Regular';
+export { default as IcOrigonWeatherPartlyCloudyDay_16Filled } from './IcOrigonWeatherPartlyCloudyDay_16Filled';
+export { default as IcOrigonWeatherPartlyCloudyDay_16Regular } from './IcOrigonWeatherPartlyCloudyDay_16Regular';
+export { default as IcOrigonWeatherPartlyCloudyDay_20Filled } from './IcOrigonWeatherPartlyCloudyDay_20Filled';
+export { default as IcOrigonWeatherPartlyCloudyDay_20Regular } from './IcOrigonWeatherPartlyCloudyDay_20Regular';
+export { default as IcOrigonWeatherPartlyCloudyDay_24Filled } from './IcOrigonWeatherPartlyCloudyDay_24Filled';
+export { default as IcOrigonWeatherPartlyCloudyDay_24Regular } from './IcOrigonWeatherPartlyCloudyDay_24Regular';
+export { default as IcOrigonWeatherPartlyCloudyDay_48Filled } from './IcOrigonWeatherPartlyCloudyDay_48Filled';
+export { default as IcOrigonWeatherPartlyCloudyDay_48Regular } from './IcOrigonWeatherPartlyCloudyDay_48Regular';

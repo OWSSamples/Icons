@@ -1,3 +1,3 @@
-export { default as IcFluentPanelLeftDefault_28Filled } from './IcFluentPanelLeftDefault_28Filled';
-export { default as IcFluentPanelLeftDefault_28Regular } from './IcFluentPanelLeftDefault_28Regular';
-export { default as IcFluentPanelLeftDefault_32Light } from './IcFluentPanelLeftDefault_32Light';
+export { default as IcOrigonPanelLeftDefault_28Filled } from './IcOrigonPanelLeftDefault_28Filled';
+export { default as IcOrigonPanelLeftDefault_28Regular } from './IcOrigonPanelLeftDefault_28Regular';
+export { default as IcOrigonPanelLeftDefault_32Light } from './IcOrigonPanelLeftDefault_32Light';

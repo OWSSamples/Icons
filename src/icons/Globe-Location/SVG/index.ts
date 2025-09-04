@@ -1,4 +1,4 @@
-export { default as IcFluentGlobeLocation_20Filled } from './IcFluentGlobeLocation_20Filled';
-export { default as IcFluentGlobeLocation_20Regular } from './IcFluentGlobeLocation_20Regular';
-export { default as IcFluentGlobeLocation_24Filled } from './IcFluentGlobeLocation_24Filled';
-export { default as IcFluentGlobeLocation_24Regular } from './IcFluentGlobeLocation_24Regular';
+export { default as IcOrigonGlobeLocation_20Filled } from './IcOrigonGlobeLocation_20Filled';
+export { default as IcOrigonGlobeLocation_20Regular } from './IcOrigonGlobeLocation_20Regular';
+export { default as IcOrigonGlobeLocation_24Filled } from './IcOrigonGlobeLocation_24Filled';
+export { default as IcOrigonGlobeLocation_24Regular } from './IcOrigonGlobeLocation_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentResizeImage_20Filled } from './IcFluentResizeImage_20Filled';
-export { default as IcFluentResizeImage_20Regular } from './IcFluentResizeImage_20Regular';
-export { default as IcFluentResizeImage_24Filled } from './IcFluentResizeImage_24Filled';
-export { default as IcFluentResizeImage_24Regular } from './IcFluentResizeImage_24Regular';
+export { default as IcOrigonResizeImage_20Filled } from './IcOrigonResizeImage_20Filled';
+export { default as IcOrigonResizeImage_20Regular } from './IcOrigonResizeImage_20Regular';
+export { default as IcOrigonResizeImage_24Filled } from './IcOrigonResizeImage_24Filled';
+export { default as IcOrigonResizeImage_24Regular } from './IcOrigonResizeImage_24Regular';

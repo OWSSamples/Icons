@@ -1,4 +1,4 @@
-export { default as IcFluentSettingsCogMultiple_20Filled } from './IcFluentSettingsCogMultiple_20Filled';
-export { default as IcFluentSettingsCogMultiple_20Regular } from './IcFluentSettingsCogMultiple_20Regular';
-export { default as IcFluentSettingsCogMultiple_24Filled } from './IcFluentSettingsCogMultiple_24Filled';
-export { default as IcFluentSettingsCogMultiple_24Regular } from './IcFluentSettingsCogMultiple_24Regular';
+export { default as IcOrigonSettingsCogMultiple_20Filled } from './IcOrigonSettingsCogMultiple_20Filled';
+export { default as IcOrigonSettingsCogMultiple_20Regular } from './IcOrigonSettingsCogMultiple_20Regular';
+export { default as IcOrigonSettingsCogMultiple_24Filled } from './IcOrigonSettingsCogMultiple_24Filled';
+export { default as IcOrigonSettingsCogMultiple_24Regular } from './IcOrigonSettingsCogMultiple_24Regular';

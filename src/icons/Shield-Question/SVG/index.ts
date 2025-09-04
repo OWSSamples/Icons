@@ -1,8 +1,8 @@
-export { default as IcFluentShieldQuestion_16Filled } from './IcFluentShieldQuestion_16Filled';
-export { default as IcFluentShieldQuestion_16Regular } from './IcFluentShieldQuestion_16Regular';
-export { default as IcFluentShieldQuestion_20Filled } from './IcFluentShieldQuestion_20Filled';
-export { default as IcFluentShieldQuestion_20Regular } from './IcFluentShieldQuestion_20Regular';
-export { default as IcFluentShieldQuestion_24Filled } from './IcFluentShieldQuestion_24Filled';
-export { default as IcFluentShieldQuestion_24Regular } from './IcFluentShieldQuestion_24Regular';
-export { default as IcFluentShieldQuestion_32Filled } from './IcFluentShieldQuestion_32Filled';
-export { default as IcFluentShieldQuestion_32Regular } from './IcFluentShieldQuestion_32Regular';
+export { default as IcOrigonShieldQuestion_16Filled } from './IcOrigonShieldQuestion_16Filled';
+export { default as IcOrigonShieldQuestion_16Regular } from './IcOrigonShieldQuestion_16Regular';
+export { default as IcOrigonShieldQuestion_20Filled } from './IcOrigonShieldQuestion_20Filled';
+export { default as IcOrigonShieldQuestion_20Regular } from './IcOrigonShieldQuestion_20Regular';
+export { default as IcOrigonShieldQuestion_24Filled } from './IcOrigonShieldQuestion_24Filled';
+export { default as IcOrigonShieldQuestion_24Regular } from './IcOrigonShieldQuestion_24Regular';
+export { default as IcOrigonShieldQuestion_32Filled } from './IcOrigonShieldQuestion_32Filled';
+export { default as IcOrigonShieldQuestion_32Regular } from './IcOrigonShieldQuestion_32Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentRectangleLandscapeHintCopy_16Filled } from './IcFluentRectangleLandscapeHintCopy_16Filled';
-export { default as IcFluentRectangleLandscapeHintCopy_16Regular } from './IcFluentRectangleLandscapeHintCopy_16Regular';
-export { default as IcFluentRectangleLandscapeHintCopy_20Filled } from './IcFluentRectangleLandscapeHintCopy_20Filled';
-export { default as IcFluentRectangleLandscapeHintCopy_20Regular } from './IcFluentRectangleLandscapeHintCopy_20Regular';
-export { default as IcFluentRectangleLandscapeHintCopy_24Filled } from './IcFluentRectangleLandscapeHintCopy_24Filled';
-export { default as IcFluentRectangleLandscapeHintCopy_24Regular } from './IcFluentRectangleLandscapeHintCopy_24Regular';
+export { default as IcOrigonRectangleLandscapeHintCopy_16Filled } from './IcOrigonRectangleLandscapeHintCopy_16Filled';
+export { default as IcOrigonRectangleLandscapeHintCopy_16Regular } from './IcOrigonRectangleLandscapeHintCopy_16Regular';
+export { default as IcOrigonRectangleLandscapeHintCopy_20Filled } from './IcOrigonRectangleLandscapeHintCopy_20Filled';
+export { default as IcOrigonRectangleLandscapeHintCopy_20Regular } from './IcOrigonRectangleLandscapeHintCopy_20Regular';
+export { default as IcOrigonRectangleLandscapeHintCopy_24Filled } from './IcOrigonRectangleLandscapeHintCopy_24Filled';
+export { default as IcOrigonRectangleLandscapeHintCopy_24Regular } from './IcOrigonRectangleLandscapeHintCopy_24Regular';

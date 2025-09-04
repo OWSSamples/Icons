@@ -1,4 +1,4 @@
-export { default as IcFluentArrowStepOver_16Filled } from './IcFluentArrowStepOver_16Filled';
-export { default as IcFluentArrowStepOver_16Regular } from './IcFluentArrowStepOver_16Regular';
-export { default as IcFluentArrowStepOver_20Filled } from './IcFluentArrowStepOver_20Filled';
-export { default as IcFluentArrowStepOver_20Regular } from './IcFluentArrowStepOver_20Regular';
+export { default as IcOrigonArrowStepOver_16Filled } from './IcOrigonArrowStepOver_16Filled';
+export { default as IcOrigonArrowStepOver_16Regular } from './IcOrigonArrowStepOver_16Regular';
+export { default as IcOrigonArrowStepOver_20Filled } from './IcOrigonArrowStepOver_20Filled';
+export { default as IcOrigonArrowStepOver_20Regular } from './IcOrigonArrowStepOver_20Regular';

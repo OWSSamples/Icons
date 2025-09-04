@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonBookmark_32Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M10.2 3A4.2 4.2 0 0 0 6 7.2V28a1 1 0 0 0 1.585.81L16 22.735l8.415 6.077A1 1 0 0 0 26 28V7.2A4.2 4.2 0 0 0 21.8 3z"/><defs><linearGradient id="a" x1="6" x2="19.973" y1="5.205" y2="23.42" gradientUnits="userSpaceOnUse"><stop stop-color="#F97DBD"/><stop offset="1" stop-color="#D7257D"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcOrigonBookmark_32Color;

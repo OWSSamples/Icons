@@ -1,2 +1,2 @@
-export { default as IcFluentIosChevronRight_20Filled } from './IcFluentIosChevronRight_20Filled';
-export { default as IcFluentIosChevronRight_20Regular } from './IcFluentIosChevronRight_20Regular';
+export { default as IcOrigonIosChevronRight_20Filled } from './IcOrigonIosChevronRight_20Filled';
+export { default as IcOrigonIosChevronRight_20Regular } from './IcOrigonIosChevronRight_20Regular';

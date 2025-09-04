@@ -1,3 +1,3 @@
-export { default as IcFluentLayoutRowThreeFocusTop_16Filled } from './IcFluentLayoutRowThreeFocusTop_16Filled';
-export { default as IcFluentLayoutRowThreeFocusTop_20Filled } from './IcFluentLayoutRowThreeFocusTop_20Filled';
-export { default as IcFluentLayoutRowThreeFocusTop_24Filled } from './IcFluentLayoutRowThreeFocusTop_24Filled';
+export { default as IcOrigonLayoutRowThreeFocusTop_16Filled } from './IcOrigonLayoutRowThreeFocusTop_16Filled';
+export { default as IcOrigonLayoutRowThreeFocusTop_20Filled } from './IcOrigonLayoutRowThreeFocusTop_20Filled';
+export { default as IcOrigonLayoutRowThreeFocusTop_24Filled } from './IcOrigonLayoutRowThreeFocusTop_24Filled';

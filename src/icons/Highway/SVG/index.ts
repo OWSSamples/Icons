@@ -1,4 +1,4 @@
-export { default as IcFluentHighway_20Filled } from './IcFluentHighway_20Filled';
-export { default as IcFluentHighway_20Regular } from './IcFluentHighway_20Regular';
-export { default as IcFluentHighway_24Filled } from './IcFluentHighway_24Filled';
-export { default as IcFluentHighway_24Regular } from './IcFluentHighway_24Regular';
+export { default as IcOrigonHighway_20Filled } from './IcOrigonHighway_20Filled';
+export { default as IcOrigonHighway_20Regular } from './IcOrigonHighway_20Regular';
+export { default as IcOrigonHighway_24Filled } from './IcOrigonHighway_24Filled';
+export { default as IcOrigonHighway_24Regular } from './IcOrigonHighway_24Regular';

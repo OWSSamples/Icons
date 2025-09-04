@@ -1,6 +1,6 @@
-export { default as IcFluentCalculator_16Filled } from './IcFluentCalculator_16Filled';
-export { default as IcFluentCalculator_16Regular } from './IcFluentCalculator_16Regular';
-export { default as IcFluentCalculator_20Filled } from './IcFluentCalculator_20Filled';
-export { default as IcFluentCalculator_20Regular } from './IcFluentCalculator_20Regular';
-export { default as IcFluentCalculator_24Filled } from './IcFluentCalculator_24Filled';
-export { default as IcFluentCalculator_24Regular } from './IcFluentCalculator_24Regular';
+export { default as IcOrigonCalculator_16Filled } from './IcOrigonCalculator_16Filled';
+export { default as IcOrigonCalculator_16Regular } from './IcOrigonCalculator_16Regular';
+export { default as IcOrigonCalculator_20Filled } from './IcOrigonCalculator_20Filled';
+export { default as IcOrigonCalculator_20Regular } from './IcOrigonCalculator_20Regular';
+export { default as IcOrigonCalculator_24Filled } from './IcOrigonCalculator_24Filled';
+export { default as IcOrigonCalculator_24Regular } from './IcOrigonCalculator_24Regular';

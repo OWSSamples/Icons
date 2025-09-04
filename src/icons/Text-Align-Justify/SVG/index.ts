@@ -1,4 +1,4 @@
-export { default as IcFluentTextAlignJustify_20Filled } from './IcFluentTextAlignJustify_20Filled';
-export { default as IcFluentTextAlignJustify_20Regular } from './IcFluentTextAlignJustify_20Regular';
-export { default as IcFluentTextAlignJustify_24Filled } from './IcFluentTextAlignJustify_24Filled';
-export { default as IcFluentTextAlignJustify_24Regular } from './IcFluentTextAlignJustify_24Regular';
+export { default as IcOrigonTextAlignJustify_20Filled } from './IcOrigonTextAlignJustify_20Filled';
+export { default as IcOrigonTextAlignJustify_20Regular } from './IcOrigonTextAlignJustify_20Regular';
+export { default as IcOrigonTextAlignJustify_24Filled } from './IcOrigonTextAlignJustify_24Filled';
+export { default as IcOrigonTextAlignJustify_24Regular } from './IcOrigonTextAlignJustify_24Regular';

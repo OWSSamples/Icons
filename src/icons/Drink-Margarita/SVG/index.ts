@@ -1,6 +1,6 @@
-export { default as IcFluentDrinkMargarita_16Filled } from './IcFluentDrinkMargarita_16Filled';
-export { default as IcFluentDrinkMargarita_16Regular } from './IcFluentDrinkMargarita_16Regular';
-export { default as IcFluentDrinkMargarita_20Filled } from './IcFluentDrinkMargarita_20Filled';
-export { default as IcFluentDrinkMargarita_20Regular } from './IcFluentDrinkMargarita_20Regular';
-export { default as IcFluentDrinkMargarita_24Filled } from './IcFluentDrinkMargarita_24Filled';
-export { default as IcFluentDrinkMargarita_24Regular } from './IcFluentDrinkMargarita_24Regular';
+export { default as IcOrigonDrinkMargarita_16Filled } from './IcOrigonDrinkMargarita_16Filled';
+export { default as IcOrigonDrinkMargarita_16Regular } from './IcOrigonDrinkMargarita_16Regular';
+export { default as IcOrigonDrinkMargarita_20Filled } from './IcOrigonDrinkMargarita_20Filled';
+export { default as IcOrigonDrinkMargarita_20Regular } from './IcOrigonDrinkMargarita_20Regular';
+export { default as IcOrigonDrinkMargarita_24Filled } from './IcOrigonDrinkMargarita_24Filled';
+export { default as IcOrigonDrinkMargarita_24Regular } from './IcOrigonDrinkMargarita_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentClipboardPulse_20Filled } from './IcFluentClipboardPulse_20Filled';
-export { default as IcFluentClipboardPulse_20Regular } from './IcFluentClipboardPulse_20Regular';
-export { default as IcFluentClipboardPulse_24Filled } from './IcFluentClipboardPulse_24Filled';
-export { default as IcFluentClipboardPulse_24Regular } from './IcFluentClipboardPulse_24Regular';
+export { default as IcOrigonClipboardPulse_20Filled } from './IcOrigonClipboardPulse_20Filled';
+export { default as IcOrigonClipboardPulse_20Regular } from './IcOrigonClipboardPulse_20Regular';
+export { default as IcOrigonClipboardPulse_24Filled } from './IcOrigonClipboardPulse_24Filled';
+export { default as IcOrigonClipboardPulse_24Regular } from './IcOrigonClipboardPulse_24Regular';

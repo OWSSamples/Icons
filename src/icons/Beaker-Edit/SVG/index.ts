@@ -1,4 +1,4 @@
-export { default as IcFluentBeakerEdit_20Filled } from './IcFluentBeakerEdit_20Filled';
-export { default as IcFluentBeakerEdit_20Regular } from './IcFluentBeakerEdit_20Regular';
-export { default as IcFluentBeakerEdit_24Filled } from './IcFluentBeakerEdit_24Filled';
-export { default as IcFluentBeakerEdit_24Regular } from './IcFluentBeakerEdit_24Regular';
+export { default as IcOrigonBeakerEdit_20Filled } from './IcOrigonBeakerEdit_20Filled';
+export { default as IcOrigonBeakerEdit_20Regular } from './IcOrigonBeakerEdit_20Regular';
+export { default as IcOrigonBeakerEdit_24Filled } from './IcOrigonBeakerEdit_24Filled';
+export { default as IcOrigonBeakerEdit_24Regular } from './IcOrigonBeakerEdit_24Regular';

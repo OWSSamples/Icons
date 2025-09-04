@@ -1,4 +1,4 @@
-export { default as IcFluentPaintBrushSparkle_20Filled } from './IcFluentPaintBrushSparkle_20Filled';
-export { default as IcFluentPaintBrushSparkle_20Regular } from './IcFluentPaintBrushSparkle_20Regular';
-export { default as IcFluentPaintBrushSparkle_24Filled } from './IcFluentPaintBrushSparkle_24Filled';
-export { default as IcFluentPaintBrushSparkle_24Regular } from './IcFluentPaintBrushSparkle_24Regular';
+export { default as IcOrigonPaintBrushSparkle_20Filled } from './IcOrigonPaintBrushSparkle_20Filled';
+export { default as IcOrigonPaintBrushSparkle_20Regular } from './IcOrigonPaintBrushSparkle_20Regular';
+export { default as IcOrigonPaintBrushSparkle_24Filled } from './IcOrigonPaintBrushSparkle_24Filled';
+export { default as IcOrigonPaintBrushSparkle_24Regular } from './IcOrigonPaintBrushSparkle_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentRecycle_20Filled } from './IcFluentRecycle_20Filled';
-export { default as IcFluentRecycle_20Regular } from './IcFluentRecycle_20Regular';
-export { default as IcFluentRecycle_32Filled } from './IcFluentRecycle_32Filled';
-export { default as IcFluentRecycle_32Regular } from './IcFluentRecycle_32Regular';
+export { default as IcOrigonRecycle_20Filled } from './IcOrigonRecycle_20Filled';
+export { default as IcOrigonRecycle_20Regular } from './IcOrigonRecycle_20Regular';
+export { default as IcOrigonRecycle_32Filled } from './IcOrigonRecycle_32Filled';
+export { default as IcOrigonRecycle_32Regular } from './IcOrigonRecycle_32Regular';

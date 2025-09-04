@@ -1,4 +1,4 @@
-export { default as IcFluentTextEffectsSparkle_20Filled } from './IcFluentTextEffectsSparkle_20Filled';
-export { default as IcFluentTextEffectsSparkle_20Regular } from './IcFluentTextEffectsSparkle_20Regular';
-export { default as IcFluentTextEffectsSparkle_24Filled } from './IcFluentTextEffectsSparkle_24Filled';
-export { default as IcFluentTextEffectsSparkle_24Regular } from './IcFluentTextEffectsSparkle_24Regular';
+export { default as IcOrigonTextEffectsSparkle_20Filled } from './IcOrigonTextEffectsSparkle_20Filled';
+export { default as IcOrigonTextEffectsSparkle_20Regular } from './IcOrigonTextEffectsSparkle_20Regular';
+export { default as IcOrigonTextEffectsSparkle_24Filled } from './IcOrigonTextEffectsSparkle_24Filled';
+export { default as IcOrigonTextEffectsSparkle_24Regular } from './IcOrigonTextEffectsSparkle_24Regular';

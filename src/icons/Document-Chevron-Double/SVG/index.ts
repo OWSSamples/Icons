@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentChevronDouble_20Filled } from './IcFluentDocumentChevronDouble_20Filled';
-export { default as IcFluentDocumentChevronDouble_20Regular } from './IcFluentDocumentChevronDouble_20Regular';
-export { default as IcFluentDocumentChevronDouble_24Filled } from './IcFluentDocumentChevronDouble_24Filled';
-export { default as IcFluentDocumentChevronDouble_24Regular } from './IcFluentDocumentChevronDouble_24Regular';
+export { default as IcOrigonDocumentChevronDouble_20Filled } from './IcOrigonDocumentChevronDouble_20Filled';
+export { default as IcOrigonDocumentChevronDouble_20Regular } from './IcOrigonDocumentChevronDouble_20Regular';
+export { default as IcOrigonDocumentChevronDouble_24Filled } from './IcOrigonDocumentChevronDouble_24Filled';
+export { default as IcOrigonDocumentChevronDouble_24Regular } from './IcOrigonDocumentChevronDouble_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentTabDesktopArrowLeft_20Filled } from './IcFluentTabDesktopArrowLeft_20Filled';
-export { default as IcFluentTabDesktopArrowLeft_20Regular } from './IcFluentTabDesktopArrowLeft_20Regular';
+export { default as IcOrigonTabDesktopArrowLeft_20Filled } from './IcOrigonTabDesktopArrowLeft_20Filled';
+export { default as IcOrigonTabDesktopArrowLeft_20Regular } from './IcOrigonTabDesktopArrowLeft_20Regular';

@@ -1,5 +1,5 @@
-export { default as IcFluentPanelLeftFocusRight_16Filled } from './IcFluentPanelLeftFocusRight_16Filled';
-export { default as IcFluentPanelLeftFocusRight_20Filled } from './IcFluentPanelLeftFocusRight_20Filled';
-export { default as IcFluentPanelLeftFocusRight_24Filled } from './IcFluentPanelLeftFocusRight_24Filled';
-export { default as IcFluentPanelLeftFocusRight_28Filled } from './IcFluentPanelLeftFocusRight_28Filled';
-export { default as IcFluentPanelLeftFocusRight_32Light } from './IcFluentPanelLeftFocusRight_32Light';
+export { default as IcOrigonPanelLeftFocusRight_16Filled } from './IcOrigonPanelLeftFocusRight_16Filled';
+export { default as IcOrigonPanelLeftFocusRight_20Filled } from './IcOrigonPanelLeftFocusRight_20Filled';
+export { default as IcOrigonPanelLeftFocusRight_24Filled } from './IcOrigonPanelLeftFocusRight_24Filled';
+export { default as IcOrigonPanelLeftFocusRight_28Filled } from './IcOrigonPanelLeftFocusRight_28Filled';
+export { default as IcOrigonPanelLeftFocusRight_32Light } from './IcOrigonPanelLeftFocusRight_32Light';

@@ -1,2 +1,2 @@
-export { default as IcFluentSprayCan_16Filled } from './IcFluentSprayCan_16Filled';
-export { default as IcFluentSprayCan_16Regular } from './IcFluentSprayCan_16Regular';
+export { default as IcOrigonSprayCan_16Filled } from './IcOrigonSprayCan_16Filled';
+export { default as IcOrigonSprayCan_16Regular } from './IcOrigonSprayCan_16Regular';

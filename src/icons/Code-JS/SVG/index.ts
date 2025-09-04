@@ -1,2 +1,2 @@
-export { default as IcFluentCodeJs_16Filled } from './IcFluentCodeJs_16Filled';
-export { default as IcFluentCodeJs_16Regular } from './IcFluentCodeJs_16Regular';
+export { default as IcOrigonCodeJs_16Filled } from './IcOrigonCodeJs_16Filled';
+export { default as IcOrigonCodeJs_16Regular } from './IcOrigonCodeJs_16Regular';

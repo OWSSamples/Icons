@@ -1,6 +1,6 @@
-export { default as IcFluentCurrencyDollarRupee_16Filled } from './IcFluentCurrencyDollarRupee_16Filled';
-export { default as IcFluentCurrencyDollarRupee_16Regular } from './IcFluentCurrencyDollarRupee_16Regular';
-export { default as IcFluentCurrencyDollarRupee_20Filled } from './IcFluentCurrencyDollarRupee_20Filled';
-export { default as IcFluentCurrencyDollarRupee_20Regular } from './IcFluentCurrencyDollarRupee_20Regular';
-export { default as IcFluentCurrencyDollarRupee_24Filled } from './IcFluentCurrencyDollarRupee_24Filled';
-export { default as IcFluentCurrencyDollarRupee_24Regular } from './IcFluentCurrencyDollarRupee_24Regular';
+export { default as IcOrigonCurrencyDollarRupee_16Filled } from './IcOrigonCurrencyDollarRupee_16Filled';
+export { default as IcOrigonCurrencyDollarRupee_16Regular } from './IcOrigonCurrencyDollarRupee_16Regular';
+export { default as IcOrigonCurrencyDollarRupee_20Filled } from './IcOrigonCurrencyDollarRupee_20Filled';
+export { default as IcOrigonCurrencyDollarRupee_20Regular } from './IcOrigonCurrencyDollarRupee_20Regular';
+export { default as IcOrigonCurrencyDollarRupee_24Filled } from './IcOrigonCurrencyDollarRupee_24Filled';
+export { default as IcOrigonCurrencyDollarRupee_24Regular } from './IcOrigonCurrencyDollarRupee_24Regular';

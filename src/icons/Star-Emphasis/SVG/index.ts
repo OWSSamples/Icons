@@ -1,8 +1,8 @@
-export { default as IcFluentStarEmphasis_16Filled } from './IcFluentStarEmphasis_16Filled';
-export { default as IcFluentStarEmphasis_16Regular } from './IcFluentStarEmphasis_16Regular';
-export { default as IcFluentStarEmphasis_20Filled } from './IcFluentStarEmphasis_20Filled';
-export { default as IcFluentStarEmphasis_20Regular } from './IcFluentStarEmphasis_20Regular';
-export { default as IcFluentStarEmphasis_24Filled } from './IcFluentStarEmphasis_24Filled';
-export { default as IcFluentStarEmphasis_24Regular } from './IcFluentStarEmphasis_24Regular';
-export { default as IcFluentStarEmphasis_32Filled } from './IcFluentStarEmphasis_32Filled';
-export { default as IcFluentStarEmphasis_32Regular } from './IcFluentStarEmphasis_32Regular';
+export { default as IcOrigonStarEmphasis_16Filled } from './IcOrigonStarEmphasis_16Filled';
+export { default as IcOrigonStarEmphasis_16Regular } from './IcOrigonStarEmphasis_16Regular';
+export { default as IcOrigonStarEmphasis_20Filled } from './IcOrigonStarEmphasis_20Filled';
+export { default as IcOrigonStarEmphasis_20Regular } from './IcOrigonStarEmphasis_20Regular';
+export { default as IcOrigonStarEmphasis_24Filled } from './IcOrigonStarEmphasis_24Filled';
+export { default as IcOrigonStarEmphasis_24Regular } from './IcOrigonStarEmphasis_24Regular';
+export { default as IcOrigonStarEmphasis_32Filled } from './IcOrigonStarEmphasis_32Filled';
+export { default as IcOrigonStarEmphasis_32Regular } from './IcOrigonStarEmphasis_32Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentSquaresNested_20Filled } from './IcFluentSquaresNested_20Filled';
-export { default as IcFluentSquaresNested_20Regular } from './IcFluentSquaresNested_20Regular';
+export { default as IcOrigonSquaresNested_20Filled } from './IcOrigonSquaresNested_20Filled';
+export { default as IcOrigonSquaresNested_20Regular } from './IcOrigonSquaresNested_20Regular';

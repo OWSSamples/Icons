@@ -1,8 +1,8 @@
-export { default as IcFluentTabDesktop_16Filled } from './IcFluentTabDesktop_16Filled';
-export { default as IcFluentTabDesktop_16Regular } from './IcFluentTabDesktop_16Regular';
-export { default as IcFluentTabDesktop_20Filled } from './IcFluentTabDesktop_20Filled';
-export { default as IcFluentTabDesktop_20Regular } from './IcFluentTabDesktop_20Regular';
-export { default as IcFluentTabDesktop_24Filled } from './IcFluentTabDesktop_24Filled';
-export { default as IcFluentTabDesktop_24Regular } from './IcFluentTabDesktop_24Regular';
-export { default as IcFluentTabDesktop_28Filled } from './IcFluentTabDesktop_28Filled';
-export { default as IcFluentTabDesktop_28Regular } from './IcFluentTabDesktop_28Regular';
+export { default as IcOrigonTabDesktop_16Filled } from './IcOrigonTabDesktop_16Filled';
+export { default as IcOrigonTabDesktop_16Regular } from './IcOrigonTabDesktop_16Regular';
+export { default as IcOrigonTabDesktop_20Filled } from './IcOrigonTabDesktop_20Filled';
+export { default as IcOrigonTabDesktop_20Regular } from './IcOrigonTabDesktop_20Regular';
+export { default as IcOrigonTabDesktop_24Filled } from './IcOrigonTabDesktop_24Filled';
+export { default as IcOrigonTabDesktop_24Regular } from './IcOrigonTabDesktop_24Regular';
+export { default as IcOrigonTabDesktop_28Filled } from './IcOrigonTabDesktop_28Filled';
+export { default as IcOrigonTabDesktop_28Regular } from './IcOrigonTabDesktop_28Regular';

@@ -1,7 +1,7 @@
-export { default as IcFluentLasso_20Filled } from './IcFluentLasso_20Filled';
-export { default as IcFluentLasso_20Regular } from './IcFluentLasso_20Regular';
-export { default as IcFluentLasso_24Filled } from './IcFluentLasso_24Filled';
-export { default as IcFluentLasso_24Regular } from './IcFluentLasso_24Regular';
-export { default as IcFluentLasso_28Filled } from './IcFluentLasso_28Filled';
-export { default as IcFluentLasso_28Regular } from './IcFluentLasso_28Regular';
-export { default as IcFluentLasso_32Light } from './IcFluentLasso_32Light';
+export { default as IcOrigonLasso_20Filled } from './IcOrigonLasso_20Filled';
+export { default as IcOrigonLasso_20Regular } from './IcOrigonLasso_20Regular';
+export { default as IcOrigonLasso_24Filled } from './IcOrigonLasso_24Filled';
+export { default as IcOrigonLasso_24Regular } from './IcOrigonLasso_24Regular';
+export { default as IcOrigonLasso_28Filled } from './IcOrigonLasso_28Filled';
+export { default as IcOrigonLasso_28Regular } from './IcOrigonLasso_28Regular';
+export { default as IcOrigonLasso_32Light } from './IcOrigonLasso_32Light';

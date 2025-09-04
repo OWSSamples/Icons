@@ -1,4 +1,4 @@
-export { default as IcFluentKeyReset_20Filled } from './IcFluentKeyReset_20Filled';
-export { default as IcFluentKeyReset_20Regular } from './IcFluentKeyReset_20Regular';
-export { default as IcFluentKeyReset_24Filled } from './IcFluentKeyReset_24Filled';
-export { default as IcFluentKeyReset_24Regular } from './IcFluentKeyReset_24Regular';
+export { default as IcOrigonKeyReset_20Filled } from './IcOrigonKeyReset_20Filled';
+export { default as IcOrigonKeyReset_20Regular } from './IcOrigonKeyReset_20Regular';
+export { default as IcOrigonKeyReset_24Filled } from './IcOrigonKeyReset_24Filled';
+export { default as IcOrigonKeyReset_24Regular } from './IcOrigonKeyReset_24Regular';

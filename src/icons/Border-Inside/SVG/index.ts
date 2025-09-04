@@ -1,6 +1,6 @@
-export { default as IcFluentBorderInside_16Filled } from './IcFluentBorderInside_16Filled';
-export { default as IcFluentBorderInside_16Regular } from './IcFluentBorderInside_16Regular';
-export { default as IcFluentBorderInside_20Filled } from './IcFluentBorderInside_20Filled';
-export { default as IcFluentBorderInside_20Regular } from './IcFluentBorderInside_20Regular';
-export { default as IcFluentBorderInside_24Filled } from './IcFluentBorderInside_24Filled';
-export { default as IcFluentBorderInside_24Regular } from './IcFluentBorderInside_24Regular';
+export { default as IcOrigonBorderInside_16Filled } from './IcOrigonBorderInside_16Filled';
+export { default as IcOrigonBorderInside_16Regular } from './IcOrigonBorderInside_16Regular';
+export { default as IcOrigonBorderInside_20Filled } from './IcOrigonBorderInside_20Filled';
+export { default as IcOrigonBorderInside_20Regular } from './IcOrigonBorderInside_20Regular';
+export { default as IcOrigonBorderInside_24Filled } from './IcOrigonBorderInside_24Filled';
+export { default as IcOrigonBorderInside_24Regular } from './IcOrigonBorderInside_24Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonCommunication_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M3.5 11a6.5 6.5 0 1 1 11.101 4.591.75.75 0 1 0 1.062 1.06 8 8 0 1 0-11.326 0A.75.75 0 0 0 5.4 15.59 6.48 6.48 0 0 1 3.5 11m3 0a3.5 3.5 0 1 1 5.98 2.47.75.75 0 1 0 1.062 1.06 5 5 0 1 0-7.083 0 .75.75 0 0 0 1.062-1.06A3.5 3.5 0 0 1 6.5 11M10 9a2 2 0 1 0 0 4 2 2 0 0 0 0-4"/>
+  </IconBase>
+);
+
+export default IcOrigonCommunication_20Filled;

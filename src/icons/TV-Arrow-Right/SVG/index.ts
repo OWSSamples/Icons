@@ -1,2 +1,2 @@
-export { default as IcFluentTvArrowRight_20Filled } from './IcFluentTvArrowRight_20Filled';
-export { default as IcFluentTvArrowRight_20Regular } from './IcFluentTvArrowRight_20Regular';
+export { default as IcOrigonTvArrowRight_20Filled } from './IcOrigonTvArrowRight_20Filled';
+export { default as IcOrigonTvArrowRight_20Regular } from './IcOrigonTvArrowRight_20Regular';

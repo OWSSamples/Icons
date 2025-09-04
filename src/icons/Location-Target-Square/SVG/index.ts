@@ -1,8 +1,8 @@
-export { default as IcFluentLocationTargetSquare_16Filled } from './IcFluentLocationTargetSquare_16Filled';
-export { default as IcFluentLocationTargetSquare_16Regular } from './IcFluentLocationTargetSquare_16Regular';
-export { default as IcFluentLocationTargetSquare_20Filled } from './IcFluentLocationTargetSquare_20Filled';
-export { default as IcFluentLocationTargetSquare_20Regular } from './IcFluentLocationTargetSquare_20Regular';
-export { default as IcFluentLocationTargetSquare_24Filled } from './IcFluentLocationTargetSquare_24Filled';
-export { default as IcFluentLocationTargetSquare_24Regular } from './IcFluentLocationTargetSquare_24Regular';
-export { default as IcFluentLocationTargetSquare_32Filled } from './IcFluentLocationTargetSquare_32Filled';
-export { default as IcFluentLocationTargetSquare_32Regular } from './IcFluentLocationTargetSquare_32Regular';
+export { default as IcOrigonLocationTargetSquare_16Filled } from './IcOrigonLocationTargetSquare_16Filled';
+export { default as IcOrigonLocationTargetSquare_16Regular } from './IcOrigonLocationTargetSquare_16Regular';
+export { default as IcOrigonLocationTargetSquare_20Filled } from './IcOrigonLocationTargetSquare_20Filled';
+export { default as IcOrigonLocationTargetSquare_20Regular } from './IcOrigonLocationTargetSquare_20Regular';
+export { default as IcOrigonLocationTargetSquare_24Filled } from './IcOrigonLocationTargetSquare_24Filled';
+export { default as IcOrigonLocationTargetSquare_24Regular } from './IcOrigonLocationTargetSquare_24Regular';
+export { default as IcOrigonLocationTargetSquare_32Filled } from './IcOrigonLocationTargetSquare_32Filled';
+export { default as IcOrigonLocationTargetSquare_32Regular } from './IcOrigonLocationTargetSquare_32Regular';

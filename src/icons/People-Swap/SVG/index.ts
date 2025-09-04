@@ -1,8 +1,8 @@
-export { default as IcFluentPeopleSwap_16Filled } from './IcFluentPeopleSwap_16Filled';
-export { default as IcFluentPeopleSwap_16Regular } from './IcFluentPeopleSwap_16Regular';
-export { default as IcFluentPeopleSwap_20Filled } from './IcFluentPeopleSwap_20Filled';
-export { default as IcFluentPeopleSwap_20Regular } from './IcFluentPeopleSwap_20Regular';
-export { default as IcFluentPeopleSwap_24Filled } from './IcFluentPeopleSwap_24Filled';
-export { default as IcFluentPeopleSwap_24Regular } from './IcFluentPeopleSwap_24Regular';
-export { default as IcFluentPeopleSwap_28Filled } from './IcFluentPeopleSwap_28Filled';
-export { default as IcFluentPeopleSwap_28Regular } from './IcFluentPeopleSwap_28Regular';
+export { default as IcOrigonPeopleSwap_16Filled } from './IcOrigonPeopleSwap_16Filled';
+export { default as IcOrigonPeopleSwap_16Regular } from './IcOrigonPeopleSwap_16Regular';
+export { default as IcOrigonPeopleSwap_20Filled } from './IcOrigonPeopleSwap_20Filled';
+export { default as IcOrigonPeopleSwap_20Regular } from './IcOrigonPeopleSwap_20Regular';
+export { default as IcOrigonPeopleSwap_24Filled } from './IcOrigonPeopleSwap_24Filled';
+export { default as IcOrigonPeopleSwap_24Regular } from './IcOrigonPeopleSwap_24Regular';
+export { default as IcOrigonPeopleSwap_28Filled } from './IcOrigonPeopleSwap_28Filled';
+export { default as IcOrigonPeopleSwap_28Regular } from './IcOrigonPeopleSwap_28Regular';

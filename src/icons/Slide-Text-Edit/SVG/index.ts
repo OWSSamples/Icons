@@ -1,8 +1,8 @@
-export { default as IcFluentSlideTextEdit_16Filled } from './IcFluentSlideTextEdit_16Filled';
-export { default as IcFluentSlideTextEdit_16Regular } from './IcFluentSlideTextEdit_16Regular';
-export { default as IcFluentSlideTextEdit_20Filled } from './IcFluentSlideTextEdit_20Filled';
-export { default as IcFluentSlideTextEdit_20Regular } from './IcFluentSlideTextEdit_20Regular';
-export { default as IcFluentSlideTextEdit_24Filled } from './IcFluentSlideTextEdit_24Filled';
-export { default as IcFluentSlideTextEdit_24Regular } from './IcFluentSlideTextEdit_24Regular';
-export { default as IcFluentSlideTextEdit_28Filled } from './IcFluentSlideTextEdit_28Filled';
-export { default as IcFluentSlideTextEdit_28Regular } from './IcFluentSlideTextEdit_28Regular';
+export { default as IcOrigonSlideTextEdit_16Filled } from './IcOrigonSlideTextEdit_16Filled';
+export { default as IcOrigonSlideTextEdit_16Regular } from './IcOrigonSlideTextEdit_16Regular';
+export { default as IcOrigonSlideTextEdit_20Filled } from './IcOrigonSlideTextEdit_20Filled';
+export { default as IcOrigonSlideTextEdit_20Regular } from './IcOrigonSlideTextEdit_20Regular';
+export { default as IcOrigonSlideTextEdit_24Filled } from './IcOrigonSlideTextEdit_24Filled';
+export { default as IcOrigonSlideTextEdit_24Regular } from './IcOrigonSlideTextEdit_24Regular';
+export { default as IcOrigonSlideTextEdit_28Filled } from './IcOrigonSlideTextEdit_28Filled';
+export { default as IcOrigonSlideTextEdit_28Regular } from './IcOrigonSlideTextEdit_28Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentTabDesktopBottom_20Filled } from './IcFluentTabDesktopBottom_20Filled';
-export { default as IcFluentTabDesktopBottom_20Regular } from './IcFluentTabDesktopBottom_20Regular';
-export { default as IcFluentTabDesktopBottom_24Filled } from './IcFluentTabDesktopBottom_24Filled';
-export { default as IcFluentTabDesktopBottom_24Regular } from './IcFluentTabDesktopBottom_24Regular';
+export { default as IcOrigonTabDesktopBottom_20Filled } from './IcOrigonTabDesktopBottom_20Filled';
+export { default as IcOrigonTabDesktopBottom_20Regular } from './IcOrigonTabDesktopBottom_20Regular';
+export { default as IcOrigonTabDesktopBottom_24Filled } from './IcOrigonTabDesktopBottom_24Filled';
+export { default as IcOrigonTabDesktopBottom_24Regular } from './IcOrigonTabDesktopBottom_24Regular';

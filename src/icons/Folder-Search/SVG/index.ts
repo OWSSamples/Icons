@@ -1,6 +1,6 @@
-export { default as IcFluentFolderSearch_16Filled } from './IcFluentFolderSearch_16Filled';
-export { default as IcFluentFolderSearch_16Regular } from './IcFluentFolderSearch_16Regular';
-export { default as IcFluentFolderSearch_20Filled } from './IcFluentFolderSearch_20Filled';
-export { default as IcFluentFolderSearch_20Regular } from './IcFluentFolderSearch_20Regular';
-export { default as IcFluentFolderSearch_24Filled } from './IcFluentFolderSearch_24Filled';
-export { default as IcFluentFolderSearch_24Regular } from './IcFluentFolderSearch_24Regular';
+export { default as IcOrigonFolderSearch_16Filled } from './IcOrigonFolderSearch_16Filled';
+export { default as IcOrigonFolderSearch_16Regular } from './IcOrigonFolderSearch_16Regular';
+export { default as IcOrigonFolderSearch_20Filled } from './IcOrigonFolderSearch_20Filled';
+export { default as IcOrigonFolderSearch_20Regular } from './IcOrigonFolderSearch_20Regular';
+export { default as IcOrigonFolderSearch_24Filled } from './IcOrigonFolderSearch_24Filled';
+export { default as IcOrigonFolderSearch_24Regular } from './IcOrigonFolderSearch_24Regular';

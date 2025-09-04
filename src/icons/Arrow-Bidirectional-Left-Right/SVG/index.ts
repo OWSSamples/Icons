@@ -1,8 +1,8 @@
-export { default as IcFluentArrowBidirectionalLeftRight_16Filled } from './IcFluentArrowBidirectionalLeftRight_16Filled';
-export { default as IcFluentArrowBidirectionalLeftRight_16Regular } from './IcFluentArrowBidirectionalLeftRight_16Regular';
-export { default as IcFluentArrowBidirectionalLeftRight_20Filled } from './IcFluentArrowBidirectionalLeftRight_20Filled';
-export { default as IcFluentArrowBidirectionalLeftRight_20Regular } from './IcFluentArrowBidirectionalLeftRight_20Regular';
-export { default as IcFluentArrowBidirectionalLeftRight_24Filled } from './IcFluentArrowBidirectionalLeftRight_24Filled';
-export { default as IcFluentArrowBidirectionalLeftRight_24Regular } from './IcFluentArrowBidirectionalLeftRight_24Regular';
-export { default as IcFluentArrowBidirectionalLeftRight_28Filled } from './IcFluentArrowBidirectionalLeftRight_28Filled';
-export { default as IcFluentArrowBidirectionalLeftRight_28Regular } from './IcFluentArrowBidirectionalLeftRight_28Regular';
+export { default as IcOrigonArrowBidirectionalLeftRight_16Filled } from './IcOrigonArrowBidirectionalLeftRight_16Filled';
+export { default as IcOrigonArrowBidirectionalLeftRight_16Regular } from './IcOrigonArrowBidirectionalLeftRight_16Regular';
+export { default as IcOrigonArrowBidirectionalLeftRight_20Filled } from './IcOrigonArrowBidirectionalLeftRight_20Filled';
+export { default as IcOrigonArrowBidirectionalLeftRight_20Regular } from './IcOrigonArrowBidirectionalLeftRight_20Regular';
+export { default as IcOrigonArrowBidirectionalLeftRight_24Filled } from './IcOrigonArrowBidirectionalLeftRight_24Filled';
+export { default as IcOrigonArrowBidirectionalLeftRight_24Regular } from './IcOrigonArrowBidirectionalLeftRight_24Regular';
+export { default as IcOrigonArrowBidirectionalLeftRight_28Filled } from './IcOrigonArrowBidirectionalLeftRight_28Filled';
+export { default as IcOrigonArrowBidirectionalLeftRight_28Regular } from './IcOrigonArrowBidirectionalLeftRight_28Regular';

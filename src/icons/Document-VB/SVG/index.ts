@@ -1,2 +1,2 @@
-export { default as IcFluentDocumentVb_16Filled } from './IcFluentDocumentVb_16Filled';
-export { default as IcFluentDocumentVb_16Regular } from './IcFluentDocumentVb_16Regular';
+export { default as IcOrigonDocumentVb_16Filled } from './IcOrigonDocumentVb_16Filled';
+export { default as IcOrigonDocumentVb_16Regular } from './IcOrigonDocumentVb_16Regular';

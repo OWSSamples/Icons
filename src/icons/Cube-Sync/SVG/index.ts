@@ -1,4 +1,4 @@
-export { default as IcFluentCubeSync_20Filled } from './IcFluentCubeSync_20Filled';
-export { default as IcFluentCubeSync_20Regular } from './IcFluentCubeSync_20Regular';
-export { default as IcFluentCubeSync_24Filled } from './IcFluentCubeSync_24Filled';
-export { default as IcFluentCubeSync_24Regular } from './IcFluentCubeSync_24Regular';
+export { default as IcOrigonCubeSync_20Filled } from './IcOrigonCubeSync_20Filled';
+export { default as IcOrigonCubeSync_20Regular } from './IcOrigonCubeSync_20Regular';
+export { default as IcOrigonCubeSync_24Filled } from './IcOrigonCubeSync_24Filled';
+export { default as IcOrigonCubeSync_24Regular } from './IcOrigonCubeSync_24Regular';

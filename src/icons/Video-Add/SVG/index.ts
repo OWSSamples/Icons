@@ -1,4 +1,4 @@
-export { default as IcFluentVideoAdd_20Filled } from './IcFluentVideoAdd_20Filled';
-export { default as IcFluentVideoAdd_20Regular } from './IcFluentVideoAdd_20Regular';
-export { default as IcFluentVideoAdd_24Filled } from './IcFluentVideoAdd_24Filled';
-export { default as IcFluentVideoAdd_24Regular } from './IcFluentVideoAdd_24Regular';
+export { default as IcOrigonVideoAdd_20Filled } from './IcOrigonVideoAdd_20Filled';
+export { default as IcOrigonVideoAdd_20Regular } from './IcOrigonVideoAdd_20Regular';
+export { default as IcOrigonVideoAdd_24Filled } from './IcOrigonVideoAdd_24Filled';
+export { default as IcOrigonVideoAdd_24Regular } from './IcOrigonVideoAdd_24Regular';

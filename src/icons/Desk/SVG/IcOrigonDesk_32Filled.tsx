@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonDesk_32Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M5.25 4A3.25 3.25 0 0 0 2 7.25V10h26v17a1 1 0 1 0 2 0V7.25A3.25 3.25 0 0 0 26.75 4zM16 12H2v11.5A4.5 4.5 0 0 0 6.5 28h5a4.5 4.5 0 0 0 4.5-4.5zM6 17a1 1 0 0 1 1-1h4a1 1 0 1 1 0 2H7a1 1 0 0 1-1-1"/>
+  </IconBase>
+);
+
+export default IcOrigonDesk_32Filled;

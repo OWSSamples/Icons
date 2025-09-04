@@ -1,4 +1,4 @@
-export { default as IcFluentScaleFill_20Filled } from './IcFluentScaleFill_20Filled';
-export { default as IcFluentScaleFill_20Regular } from './IcFluentScaleFill_20Regular';
-export { default as IcFluentScaleFill_24Filled } from './IcFluentScaleFill_24Filled';
-export { default as IcFluentScaleFill_24Regular } from './IcFluentScaleFill_24Regular';
+export { default as IcOrigonScaleFill_20Filled } from './IcOrigonScaleFill_20Filled';
+export { default as IcOrigonScaleFill_20Regular } from './IcOrigonScaleFill_20Regular';
+export { default as IcOrigonScaleFill_24Filled } from './IcOrigonScaleFill_24Filled';
+export { default as IcOrigonScaleFill_24Regular } from './IcOrigonScaleFill_24Regular';

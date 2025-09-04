@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenClosedAlert_20Filled } from './IcFluentDualScreenClosedAlert_20Filled';
-export { default as IcFluentDualScreenClosedAlert_20Regular } from './IcFluentDualScreenClosedAlert_20Regular';
-export { default as IcFluentDualScreenClosedAlert_24Filled } from './IcFluentDualScreenClosedAlert_24Filled';
-export { default as IcFluentDualScreenClosedAlert_24Regular } from './IcFluentDualScreenClosedAlert_24Regular';
+export { default as IcOrigonDualScreenClosedAlert_20Filled } from './IcOrigonDualScreenClosedAlert_20Filled';
+export { default as IcOrigonDualScreenClosedAlert_20Regular } from './IcOrigonDualScreenClosedAlert_20Regular';
+export { default as IcOrigonDualScreenClosedAlert_24Filled } from './IcOrigonDualScreenClosedAlert_24Filled';
+export { default as IcOrigonDualScreenClosedAlert_24Regular } from './IcOrigonDualScreenClosedAlert_24Regular';

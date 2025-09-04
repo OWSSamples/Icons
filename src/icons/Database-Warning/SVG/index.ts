@@ -1,2 +1,2 @@
-export { default as IcFluentDatabaseWarning_20Filled } from './IcFluentDatabaseWarning_20Filled';
-export { default as IcFluentDatabaseWarning_20Regular } from './IcFluentDatabaseWarning_20Regular';
+export { default as IcOrigonDatabaseWarning_20Filled } from './IcOrigonDatabaseWarning_20Filled';
+export { default as IcOrigonDatabaseWarning_20Regular } from './IcOrigonDatabaseWarning_20Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentTargetSparkle_16Filled } from './IcFluentTargetSparkle_16Filled';
-export { default as IcFluentTargetSparkle_16Regular } from './IcFluentTargetSparkle_16Regular';
-export { default as IcFluentTargetSparkle_20Filled } from './IcFluentTargetSparkle_20Filled';
-export { default as IcFluentTargetSparkle_20Regular } from './IcFluentTargetSparkle_20Regular';
-export { default as IcFluentTargetSparkle_24Filled } from './IcFluentTargetSparkle_24Filled';
-export { default as IcFluentTargetSparkle_24Regular } from './IcFluentTargetSparkle_24Regular';
+export { default as IcOrigonTargetSparkle_16Filled } from './IcOrigonTargetSparkle_16Filled';
+export { default as IcOrigonTargetSparkle_16Regular } from './IcOrigonTargetSparkle_16Regular';
+export { default as IcOrigonTargetSparkle_20Filled } from './IcOrigonTargetSparkle_20Filled';
+export { default as IcOrigonTargetSparkle_20Regular } from './IcOrigonTargetSparkle_20Regular';
+export { default as IcOrigonTargetSparkle_24Filled } from './IcOrigonTargetSparkle_24Filled';
+export { default as IcOrigonTargetSparkle_24Regular } from './IcOrigonTargetSparkle_24Regular';

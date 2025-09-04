@@ -1,6 +1,6 @@
-export { default as IcFluentLocationArrowUp_16Filled } from './IcFluentLocationArrowUp_16Filled';
-export { default as IcFluentLocationArrowUp_16Regular } from './IcFluentLocationArrowUp_16Regular';
-export { default as IcFluentLocationArrowUp_20Filled } from './IcFluentLocationArrowUp_20Filled';
-export { default as IcFluentLocationArrowUp_20Regular } from './IcFluentLocationArrowUp_20Regular';
-export { default as IcFluentLocationArrowUp_48Filled } from './IcFluentLocationArrowUp_48Filled';
-export { default as IcFluentLocationArrowUp_48Regular } from './IcFluentLocationArrowUp_48Regular';
+export { default as IcOrigonLocationArrowUp_16Filled } from './IcOrigonLocationArrowUp_16Filled';
+export { default as IcOrigonLocationArrowUp_16Regular } from './IcOrigonLocationArrowUp_16Regular';
+export { default as IcOrigonLocationArrowUp_20Filled } from './IcOrigonLocationArrowUp_20Filled';
+export { default as IcOrigonLocationArrowUp_20Regular } from './IcOrigonLocationArrowUp_20Regular';
+export { default as IcOrigonLocationArrowUp_48Filled } from './IcOrigonLocationArrowUp_48Filled';
+export { default as IcOrigonLocationArrowUp_48Regular } from './IcOrigonLocationArrowUp_48Regular';

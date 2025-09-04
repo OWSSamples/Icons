@@ -1,2 +1,2 @@
-export { default as IcFluentTextAdd_20Filled } from './IcFluentTextAdd_20Filled';
-export { default as IcFluentTextAdd_20Regular } from './IcFluentTextAdd_20Regular';
+export { default as IcOrigonTextAdd_20Filled } from './IcOrigonTextAdd_20Filled';
+export { default as IcOrigonTextAdd_20Regular } from './IcOrigonTextAdd_20Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentCaretLeft_12Filled } from './IcFluentCaretLeft_12Filled';
-export { default as IcFluentCaretLeft_12Regular } from './IcFluentCaretLeft_12Regular';
-export { default as IcFluentCaretLeft_16Filled } from './IcFluentCaretLeft_16Filled';
-export { default as IcFluentCaretLeft_16Regular } from './IcFluentCaretLeft_16Regular';
-export { default as IcFluentCaretLeft_20Filled } from './IcFluentCaretLeft_20Filled';
-export { default as IcFluentCaretLeft_20Regular } from './IcFluentCaretLeft_20Regular';
-export { default as IcFluentCaretLeft_24Filled } from './IcFluentCaretLeft_24Filled';
-export { default as IcFluentCaretLeft_24Regular } from './IcFluentCaretLeft_24Regular';
+export { default as IcOrigonCaretLeft_12Filled } from './IcOrigonCaretLeft_12Filled';
+export { default as IcOrigonCaretLeft_12Regular } from './IcOrigonCaretLeft_12Regular';
+export { default as IcOrigonCaretLeft_16Filled } from './IcOrigonCaretLeft_16Filled';
+export { default as IcOrigonCaretLeft_16Regular } from './IcOrigonCaretLeft_16Regular';
+export { default as IcOrigonCaretLeft_20Filled } from './IcOrigonCaretLeft_20Filled';
+export { default as IcOrigonCaretLeft_20Regular } from './IcOrigonCaretLeft_20Regular';
+export { default as IcOrigonCaretLeft_24Filled } from './IcOrigonCaretLeft_24Filled';
+export { default as IcOrigonCaretLeft_24Regular } from './IcOrigonCaretLeft_24Regular';

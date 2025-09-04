@@ -1,4 +1,4 @@
-export { default as IcFluentDrag_20Filled } from './IcFluentDrag_20Filled';
-export { default as IcFluentDrag_20Regular } from './IcFluentDrag_20Regular';
-export { default as IcFluentDrag_24Filled } from './IcFluentDrag_24Filled';
-export { default as IcFluentDrag_24Regular } from './IcFluentDrag_24Regular';
+export { default as IcOrigonDrag_20Filled } from './IcOrigonDrag_20Filled';
+export { default as IcOrigonDrag_20Regular } from './IcOrigonDrag_20Regular';
+export { default as IcOrigonDrag_24Filled } from './IcOrigonDrag_24Filled';
+export { default as IcOrigonDrag_24Regular } from './IcOrigonDrag_24Regular';

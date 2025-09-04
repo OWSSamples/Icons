@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonCheckmarkCircle_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M10 2a8 8 0 1 1 0 16 8 8 0 0 1 0-16m3.358 5.646a.5.5 0 0 0-.637-.057l-.07.057L9 11.298 7.354 9.651l-.07-.058a.5.5 0 0 0-.695.696l.057.07 2 2 .07.057a.5.5 0 0 0 .568 0l.07-.058 4.004-4.004.058-.07a.5.5 0 0 0-.058-.638"/>
+  </IconBase>
+);
+
+export default IcOrigonCheckmarkCircle_20Filled;

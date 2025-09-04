@@ -1,8 +1,8 @@
-export { default as IcFluentKey_16Filled } from './IcFluentKey_16Filled';
-export { default as IcFluentKey_16Regular } from './IcFluentKey_16Regular';
-export { default as IcFluentKey_20Filled } from './IcFluentKey_20Filled';
-export { default as IcFluentKey_20Regular } from './IcFluentKey_20Regular';
-export { default as IcFluentKey_24Filled } from './IcFluentKey_24Filled';
-export { default as IcFluentKey_24Regular } from './IcFluentKey_24Regular';
-export { default as IcFluentKey_32Filled } from './IcFluentKey_32Filled';
-export { default as IcFluentKey_32Regular } from './IcFluentKey_32Regular';
+export { default as IcOrigonKey_16Filled } from './IcOrigonKey_16Filled';
+export { default as IcOrigonKey_16Regular } from './IcOrigonKey_16Regular';
+export { default as IcOrigonKey_20Filled } from './IcOrigonKey_20Filled';
+export { default as IcOrigonKey_20Regular } from './IcOrigonKey_20Regular';
+export { default as IcOrigonKey_24Filled } from './IcOrigonKey_24Filled';
+export { default as IcOrigonKey_24Regular } from './IcOrigonKey_24Regular';
+export { default as IcOrigonKey_32Filled } from './IcOrigonKey_32Filled';
+export { default as IcOrigonKey_32Regular } from './IcOrigonKey_32Regular';

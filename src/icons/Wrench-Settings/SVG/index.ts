@@ -1,4 +1,4 @@
-export { default as IcFluentWrenchSettings_20Filled } from './IcFluentWrenchSettings_20Filled';
-export { default as IcFluentWrenchSettings_20Regular } from './IcFluentWrenchSettings_20Regular';
-export { default as IcFluentWrenchSettings_24Filled } from './IcFluentWrenchSettings_24Filled';
-export { default as IcFluentWrenchSettings_24Regular } from './IcFluentWrenchSettings_24Regular';
+export { default as IcOrigonWrenchSettings_20Filled } from './IcOrigonWrenchSettings_20Filled';
+export { default as IcOrigonWrenchSettings_20Regular } from './IcOrigonWrenchSettings_20Regular';
+export { default as IcOrigonWrenchSettings_24Filled } from './IcOrigonWrenchSettings_24Filled';
+export { default as IcOrigonWrenchSettings_24Regular } from './IcOrigonWrenchSettings_24Regular';

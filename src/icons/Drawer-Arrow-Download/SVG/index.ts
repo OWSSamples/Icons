@@ -1,4 +1,4 @@
-export { default as IcFluentDrawerArrowDownload_20Filled } from './IcFluentDrawerArrowDownload_20Filled';
-export { default as IcFluentDrawerArrowDownload_20Regular } from './IcFluentDrawerArrowDownload_20Regular';
-export { default as IcFluentDrawerArrowDownload_24Filled } from './IcFluentDrawerArrowDownload_24Filled';
-export { default as IcFluentDrawerArrowDownload_24Regular } from './IcFluentDrawerArrowDownload_24Regular';
+export { default as IcOrigonDrawerArrowDownload_20Filled } from './IcOrigonDrawerArrowDownload_20Filled';
+export { default as IcOrigonDrawerArrowDownload_20Regular } from './IcOrigonDrawerArrowDownload_20Regular';
+export { default as IcOrigonDrawerArrowDownload_24Filled } from './IcOrigonDrawerArrowDownload_24Filled';
+export { default as IcOrigonDrawerArrowDownload_24Regular } from './IcOrigonDrawerArrowDownload_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentTextFont_16Filled } from './IcFluentTextFont_16Filled';
-export { default as IcFluentTextFont_16Regular } from './IcFluentTextFont_16Regular';
-export { default as IcFluentTextFont_20Filled } from './IcFluentTextFont_20Filled';
-export { default as IcFluentTextFont_20Regular } from './IcFluentTextFont_20Regular';
-export { default as IcFluentTextFont_24Filled } from './IcFluentTextFont_24Filled';
-export { default as IcFluentTextFont_24Regular } from './IcFluentTextFont_24Regular';
+export { default as IcOrigonTextFont_16Filled } from './IcOrigonTextFont_16Filled';
+export { default as IcOrigonTextFont_16Regular } from './IcOrigonTextFont_16Regular';
+export { default as IcOrigonTextFont_20Filled } from './IcOrigonTextFont_20Filled';
+export { default as IcOrigonTextFont_20Regular } from './IcOrigonTextFont_20Regular';
+export { default as IcOrigonTextFont_24Filled } from './IcOrigonTextFont_24Filled';
+export { default as IcOrigonTextFont_24Regular } from './IcOrigonTextFont_24Regular';

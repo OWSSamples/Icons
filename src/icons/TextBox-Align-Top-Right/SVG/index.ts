@@ -1,6 +1,6 @@
-export { default as IcFluentTextboxAlignTopRight_16Filled } from './IcFluentTextboxAlignTopRight_16Filled';
-export { default as IcFluentTextboxAlignTopRight_16Regular } from './IcFluentTextboxAlignTopRight_16Regular';
-export { default as IcFluentTextboxAlignTopRight_20Filled } from './IcFluentTextboxAlignTopRight_20Filled';
-export { default as IcFluentTextboxAlignTopRight_20Regular } from './IcFluentTextboxAlignTopRight_20Regular';
-export { default as IcFluentTextboxAlignTopRight_24Filled } from './IcFluentTextboxAlignTopRight_24Filled';
-export { default as IcFluentTextboxAlignTopRight_24Regular } from './IcFluentTextboxAlignTopRight_24Regular';
+export { default as IcOrigonTextboxAlignTopRight_16Filled } from './IcOrigonTextboxAlignTopRight_16Filled';
+export { default as IcOrigonTextboxAlignTopRight_16Regular } from './IcOrigonTextboxAlignTopRight_16Regular';
+export { default as IcOrigonTextboxAlignTopRight_20Filled } from './IcOrigonTextboxAlignTopRight_20Filled';
+export { default as IcOrigonTextboxAlignTopRight_20Regular } from './IcOrigonTextboxAlignTopRight_20Regular';
+export { default as IcOrigonTextboxAlignTopRight_24Filled } from './IcOrigonTextboxAlignTopRight_24Filled';
+export { default as IcOrigonTextboxAlignTopRight_24Regular } from './IcOrigonTextboxAlignTopRight_24Regular';

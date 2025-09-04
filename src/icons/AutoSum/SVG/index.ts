@@ -1,6 +1,6 @@
-export { default as IcFluentAutosum_16Filled } from './IcFluentAutosum_16Filled';
-export { default as IcFluentAutosum_16Regular } from './IcFluentAutosum_16Regular';
-export { default as IcFluentAutosum_20Filled } from './IcFluentAutosum_20Filled';
-export { default as IcFluentAutosum_20Regular } from './IcFluentAutosum_20Regular';
-export { default as IcFluentAutosum_24Filled } from './IcFluentAutosum_24Filled';
-export { default as IcFluentAutosum_24Regular } from './IcFluentAutosum_24Regular';
+export { default as IcOrigonAutosum_16Filled } from './IcOrigonAutosum_16Filled';
+export { default as IcOrigonAutosum_16Regular } from './IcOrigonAutosum_16Regular';
+export { default as IcOrigonAutosum_20Filled } from './IcOrigonAutosum_20Filled';
+export { default as IcOrigonAutosum_20Regular } from './IcOrigonAutosum_20Regular';
+export { default as IcOrigonAutosum_24Filled } from './IcOrigonAutosum_24Filled';
+export { default as IcOrigonAutosum_24Regular } from './IcOrigonAutosum_24Regular';

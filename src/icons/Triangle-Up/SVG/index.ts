@@ -1,2 +1,2 @@
-export { default as IcFluentTriangleUp_20Filled } from './IcFluentTriangleUp_20Filled';
-export { default as IcFluentTriangleUp_20Regular } from './IcFluentTriangleUp_20Regular';
+export { default as IcOrigonTriangleUp_20Filled } from './IcOrigonTriangleUp_20Filled';
+export { default as IcOrigonTriangleUp_20Regular } from './IcOrigonTriangleUp_20Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentCameraSwitch_20Filled } from './IcFluentCameraSwitch_20Filled';
-export { default as IcFluentCameraSwitch_20Regular } from './IcFluentCameraSwitch_20Regular';
-export { default as IcFluentCameraSwitch_24Filled } from './IcFluentCameraSwitch_24Filled';
-export { default as IcFluentCameraSwitch_24Regular } from './IcFluentCameraSwitch_24Regular';
+export { default as IcOrigonCameraSwitch_20Filled } from './IcOrigonCameraSwitch_20Filled';
+export { default as IcOrigonCameraSwitch_20Regular } from './IcOrigonCameraSwitch_20Regular';
+export { default as IcOrigonCameraSwitch_24Filled } from './IcOrigonCameraSwitch_24Filled';
+export { default as IcOrigonCameraSwitch_24Regular } from './IcOrigonCameraSwitch_24Regular';

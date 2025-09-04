@@ -1,1 +1,1 @@
-export { default as IcFluentStamp_32Light } from './IcFluentStamp_32Light';
+export { default as IcOrigonStamp_32Light } from './IcOrigonStamp_32Light';

@@ -1,4 +1,4 @@
-export { default as IcFluentCheckmarkSquare_20Filled } from './IcFluentCheckmarkSquare_20Filled';
-export { default as IcFluentCheckmarkSquare_20Regular } from './IcFluentCheckmarkSquare_20Regular';
-export { default as IcFluentCheckmarkSquare_24Filled } from './IcFluentCheckmarkSquare_24Filled';
-export { default as IcFluentCheckmarkSquare_24Regular } from './IcFluentCheckmarkSquare_24Regular';
+export { default as IcOrigonCheckmarkSquare_20Filled } from './IcOrigonCheckmarkSquare_20Filled';
+export { default as IcOrigonCheckmarkSquare_20Regular } from './IcOrigonCheckmarkSquare_20Regular';
+export { default as IcOrigonCheckmarkSquare_24Filled } from './IcOrigonCheckmarkSquare_24Filled';
+export { default as IcOrigonCheckmarkSquare_24Regular } from './IcOrigonCheckmarkSquare_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentPageBottomLeft_20Filled } from './IcFluentDocumentPageBottomLeft_20Filled';
-export { default as IcFluentDocumentPageBottomLeft_20Regular } from './IcFluentDocumentPageBottomLeft_20Regular';
-export { default as IcFluentDocumentPageBottomLeft_24Filled } from './IcFluentDocumentPageBottomLeft_24Filled';
-export { default as IcFluentDocumentPageBottomLeft_24Regular } from './IcFluentDocumentPageBottomLeft_24Regular';
+export { default as IcOrigonDocumentPageBottomLeft_20Filled } from './IcOrigonDocumentPageBottomLeft_20Filled';
+export { default as IcOrigonDocumentPageBottomLeft_20Regular } from './IcOrigonDocumentPageBottomLeft_20Regular';
+export { default as IcOrigonDocumentPageBottomLeft_24Filled } from './IcOrigonDocumentPageBottomLeft_24Filled';
+export { default as IcOrigonDocumentPageBottomLeft_24Regular } from './IcOrigonDocumentPageBottomLeft_24Regular';

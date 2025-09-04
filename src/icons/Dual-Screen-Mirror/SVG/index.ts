@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenMirror_20Filled } from './IcFluentDualScreenMirror_20Filled';
-export { default as IcFluentDualScreenMirror_20Regular } from './IcFluentDualScreenMirror_20Regular';
-export { default as IcFluentDualScreenMirror_24Filled } from './IcFluentDualScreenMirror_24Filled';
-export { default as IcFluentDualScreenMirror_24Regular } from './IcFluentDualScreenMirror_24Regular';
+export { default as IcOrigonDualScreenMirror_20Filled } from './IcOrigonDualScreenMirror_20Filled';
+export { default as IcOrigonDualScreenMirror_20Regular } from './IcOrigonDualScreenMirror_20Regular';
+export { default as IcOrigonDualScreenMirror_24Filled } from './IcOrigonDualScreenMirror_24Filled';
+export { default as IcOrigonDualScreenMirror_24Regular } from './IcOrigonDualScreenMirror_24Regular';

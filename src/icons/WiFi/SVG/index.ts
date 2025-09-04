@@ -1,2 +1,2 @@
-export { default as IcFluentWifi_20Color } from './IcFluentWifi_20Color';
-export { default as IcFluentWifi_24Color } from './IcFluentWifi_24Color';
+export { default as IcOrigonWifi_20Color } from './IcOrigonWifi_20Color';
+export { default as IcOrigonWifi_24Color } from './IcOrigonWifi_24Color';

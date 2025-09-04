@@ -1,2 +1,2 @@
-export { default as IcFluentWindowAdPerson_20Filled } from './IcFluentWindowAdPerson_20Filled';
-export { default as IcFluentWindowAdPerson_20Regular } from './IcFluentWindowAdPerson_20Regular';
+export { default as IcOrigonWindowAdPerson_20Filled } from './IcOrigonWindowAdPerson_20Filled';
+export { default as IcOrigonWindowAdPerson_20Regular } from './IcOrigonWindowAdPerson_20Regular';

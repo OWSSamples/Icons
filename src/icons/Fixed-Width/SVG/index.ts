@@ -1,4 +1,4 @@
-export { default as IcFluentFixedWidth_20Filled } from './IcFluentFixedWidth_20Filled';
-export { default as IcFluentFixedWidth_20Regular } from './IcFluentFixedWidth_20Regular';
-export { default as IcFluentFixedWidth_24Filled } from './IcFluentFixedWidth_24Filled';
-export { default as IcFluentFixedWidth_24Regular } from './IcFluentFixedWidth_24Regular';
+export { default as IcOrigonFixedWidth_20Filled } from './IcOrigonFixedWidth_20Filled';
+export { default as IcOrigonFixedWidth_20Regular } from './IcOrigonFixedWidth_20Regular';
+export { default as IcOrigonFixedWidth_24Filled } from './IcOrigonFixedWidth_24Filled';
+export { default as IcOrigonFixedWidth_24Regular } from './IcOrigonFixedWidth_24Regular';

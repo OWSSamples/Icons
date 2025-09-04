@@ -1,8 +1,8 @@
-export { default as IcFluentMailInboxCheckmark_16Filled } from './IcFluentMailInboxCheckmark_16Filled';
-export { default as IcFluentMailInboxCheckmark_16Regular } from './IcFluentMailInboxCheckmark_16Regular';
-export { default as IcFluentMailInboxCheckmark_20Filled } from './IcFluentMailInboxCheckmark_20Filled';
-export { default as IcFluentMailInboxCheckmark_20Regular } from './IcFluentMailInboxCheckmark_20Regular';
-export { default as IcFluentMailInboxCheckmark_24Filled } from './IcFluentMailInboxCheckmark_24Filled';
-export { default as IcFluentMailInboxCheckmark_24Regular } from './IcFluentMailInboxCheckmark_24Regular';
-export { default as IcFluentMailInboxCheckmark_28Filled } from './IcFluentMailInboxCheckmark_28Filled';
-export { default as IcFluentMailInboxCheckmark_28Regular } from './IcFluentMailInboxCheckmark_28Regular';
+export { default as IcOrigonMailInboxCheckmark_16Filled } from './IcOrigonMailInboxCheckmark_16Filled';
+export { default as IcOrigonMailInboxCheckmark_16Regular } from './IcOrigonMailInboxCheckmark_16Regular';
+export { default as IcOrigonMailInboxCheckmark_20Filled } from './IcOrigonMailInboxCheckmark_20Filled';
+export { default as IcOrigonMailInboxCheckmark_20Regular } from './IcOrigonMailInboxCheckmark_20Regular';
+export { default as IcOrigonMailInboxCheckmark_24Filled } from './IcOrigonMailInboxCheckmark_24Filled';
+export { default as IcOrigonMailInboxCheckmark_24Regular } from './IcOrigonMailInboxCheckmark_24Regular';
+export { default as IcOrigonMailInboxCheckmark_28Filled } from './IcOrigonMailInboxCheckmark_28Filled';
+export { default as IcOrigonMailInboxCheckmark_28Regular } from './IcOrigonMailInboxCheckmark_28Regular';

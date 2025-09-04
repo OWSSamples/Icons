@@ -1,6 +1,6 @@
-export { default as IcFluentLayoutRowFour_16Filled } from './IcFluentLayoutRowFour_16Filled';
-export { default as IcFluentLayoutRowFour_16Regular } from './IcFluentLayoutRowFour_16Regular';
-export { default as IcFluentLayoutRowFour_20Filled } from './IcFluentLayoutRowFour_20Filled';
-export { default as IcFluentLayoutRowFour_20Regular } from './IcFluentLayoutRowFour_20Regular';
-export { default as IcFluentLayoutRowFour_24Filled } from './IcFluentLayoutRowFour_24Filled';
-export { default as IcFluentLayoutRowFour_24Regular } from './IcFluentLayoutRowFour_24Regular';
+export { default as IcOrigonLayoutRowFour_16Filled } from './IcOrigonLayoutRowFour_16Filled';
+export { default as IcOrigonLayoutRowFour_16Regular } from './IcOrigonLayoutRowFour_16Regular';
+export { default as IcOrigonLayoutRowFour_20Filled } from './IcOrigonLayoutRowFour_20Filled';
+export { default as IcOrigonLayoutRowFour_20Regular } from './IcOrigonLayoutRowFour_20Regular';
+export { default as IcOrigonLayoutRowFour_24Filled } from './IcOrigonLayoutRowFour_24Filled';
+export { default as IcOrigonLayoutRowFour_24Regular } from './IcOrigonLayoutRowFour_24Regular';

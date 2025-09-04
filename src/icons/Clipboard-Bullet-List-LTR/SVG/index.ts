@@ -1,4 +1,4 @@
-export { default as IcFluentClipboardBulletListLtr_16Filled } from './IcFluentClipboardBulletListLtr_16Filled';
-export { default as IcFluentClipboardBulletListLtr_16Regular } from './IcFluentClipboardBulletListLtr_16Regular';
-export { default as IcFluentClipboardBulletListLtr_20Filled } from './IcFluentClipboardBulletListLtr_20Filled';
-export { default as IcFluentClipboardBulletListLtr_20Regular } from './IcFluentClipboardBulletListLtr_20Regular';
+export { default as IcOrigonClipboardBulletListLtr_16Filled } from './IcOrigonClipboardBulletListLtr_16Filled';
+export { default as IcOrigonClipboardBulletListLtr_16Regular } from './IcOrigonClipboardBulletListLtr_16Regular';
+export { default as IcOrigonClipboardBulletListLtr_20Filled } from './IcOrigonClipboardBulletListLtr_20Filled';
+export { default as IcOrigonClipboardBulletListLtr_20Regular } from './IcOrigonClipboardBulletListLtr_20Regular';

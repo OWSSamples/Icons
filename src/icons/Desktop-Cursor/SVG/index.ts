@@ -1,8 +1,8 @@
-export { default as IcFluentDesktopCursor_16Filled } from './IcFluentDesktopCursor_16Filled';
-export { default as IcFluentDesktopCursor_16Regular } from './IcFluentDesktopCursor_16Regular';
-export { default as IcFluentDesktopCursor_20Filled } from './IcFluentDesktopCursor_20Filled';
-export { default as IcFluentDesktopCursor_20Regular } from './IcFluentDesktopCursor_20Regular';
-export { default as IcFluentDesktopCursor_24Filled } from './IcFluentDesktopCursor_24Filled';
-export { default as IcFluentDesktopCursor_24Regular } from './IcFluentDesktopCursor_24Regular';
-export { default as IcFluentDesktopCursor_28Filled } from './IcFluentDesktopCursor_28Filled';
-export { default as IcFluentDesktopCursor_28Regular } from './IcFluentDesktopCursor_28Regular';
+export { default as IcOrigonDesktopCursor_16Filled } from './IcOrigonDesktopCursor_16Filled';
+export { default as IcOrigonDesktopCursor_16Regular } from './IcOrigonDesktopCursor_16Regular';
+export { default as IcOrigonDesktopCursor_20Filled } from './IcOrigonDesktopCursor_20Filled';
+export { default as IcOrigonDesktopCursor_20Regular } from './IcOrigonDesktopCursor_20Regular';
+export { default as IcOrigonDesktopCursor_24Filled } from './IcOrigonDesktopCursor_24Filled';
+export { default as IcOrigonDesktopCursor_24Regular } from './IcOrigonDesktopCursor_24Regular';
+export { default as IcOrigonDesktopCursor_28Filled } from './IcOrigonDesktopCursor_28Filled';
+export { default as IcOrigonDesktopCursor_28Regular } from './IcOrigonDesktopCursor_28Regular';

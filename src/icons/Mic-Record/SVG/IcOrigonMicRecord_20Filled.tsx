@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonMicRecord_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M4.5 10a.5.5 0 0 0-1 0 5.5 5.5 0 0 0 5 5.478V17.5a.5.5 0 0 0 1 0v-.706A5.5 5.5 0 0 1 9 14.5 4.5 4.5 0 0 1 4.5 10M12 5v4.6a5.5 5.5 0 0 0-2.79 3.393Q9.104 13 9 13a3 3 0 0 1-3-3V5a3 3 0 0 1 6 0m5 9.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0m2 0a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0m-8 0a3.5 3.5 0 1 0 7 0 3.5 3.5 0 0 0-7 0"/>
+  </IconBase>
+);
+
+export default IcOrigonMicRecord_20Filled;

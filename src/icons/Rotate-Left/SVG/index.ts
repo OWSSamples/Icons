@@ -1,5 +1,5 @@
-export { default as IcFluentRotateLeft_20Filled } from './IcFluentRotateLeft_20Filled';
-export { default as IcFluentRotateLeft_20Regular } from './IcFluentRotateLeft_20Regular';
-export { default as IcFluentRotateLeft_24Filled } from './IcFluentRotateLeft_24Filled';
-export { default as IcFluentRotateLeft_24Regular } from './IcFluentRotateLeft_24Regular';
-export { default as IcFluentRotateLeft_32Light } from './IcFluentRotateLeft_32Light';
+export { default as IcOrigonRotateLeft_20Filled } from './IcOrigonRotateLeft_20Filled';
+export { default as IcOrigonRotateLeft_20Regular } from './IcOrigonRotateLeft_20Regular';
+export { default as IcOrigonRotateLeft_24Filled } from './IcOrigonRotateLeft_24Filled';
+export { default as IcOrigonRotateLeft_24Regular } from './IcOrigonRotateLeft_24Regular';
+export { default as IcOrigonRotateLeft_32Light } from './IcOrigonRotateLeft_32Light';

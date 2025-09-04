@@ -1,4 +1,4 @@
-export { default as IcFluentTaskListSquareAdd_20Filled } from './IcFluentTaskListSquareAdd_20Filled';
-export { default as IcFluentTaskListSquareAdd_20Regular } from './IcFluentTaskListSquareAdd_20Regular';
-export { default as IcFluentTaskListSquareAdd_24Filled } from './IcFluentTaskListSquareAdd_24Filled';
-export { default as IcFluentTaskListSquareAdd_24Regular } from './IcFluentTaskListSquareAdd_24Regular';
+export { default as IcOrigonTaskListSquareAdd_20Filled } from './IcOrigonTaskListSquareAdd_20Filled';
+export { default as IcOrigonTaskListSquareAdd_20Regular } from './IcOrigonTaskListSquareAdd_20Regular';
+export { default as IcOrigonTaskListSquareAdd_24Filled } from './IcOrigonTaskListSquareAdd_24Filled';
+export { default as IcOrigonTaskListSquareAdd_24Regular } from './IcOrigonTaskListSquareAdd_24Regular';

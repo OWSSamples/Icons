@@ -1,4 +1,4 @@
-export { default as IcFluentViewDesktopMobile_20Filled } from './IcFluentViewDesktopMobile_20Filled';
-export { default as IcFluentViewDesktopMobile_20Regular } from './IcFluentViewDesktopMobile_20Regular';
-export { default as IcFluentViewDesktopMobile_24Filled } from './IcFluentViewDesktopMobile_24Filled';
-export { default as IcFluentViewDesktopMobile_24Regular } from './IcFluentViewDesktopMobile_24Regular';
+export { default as IcOrigonViewDesktopMobile_20Filled } from './IcOrigonViewDesktopMobile_20Filled';
+export { default as IcOrigonViewDesktopMobile_20Regular } from './IcOrigonViewDesktopMobile_20Regular';
+export { default as IcOrigonViewDesktopMobile_24Filled } from './IcOrigonViewDesktopMobile_24Filled';
+export { default as IcOrigonViewDesktopMobile_24Regular } from './IcOrigonViewDesktopMobile_24Regular';

@@ -1,5 +1,5 @@
-export { default as IcFluentArrowSquare_20Color } from './IcFluentArrowSquare_20Color';
-export { default as IcFluentArrowSquare_24Color } from './IcFluentArrowSquare_24Color';
-export { default as IcFluentArrowSquare_32Color } from './IcFluentArrowSquare_32Color';
-export { default as IcFluentArrowSquare_32Filled } from './IcFluentArrowSquare_32Filled';
-export { default as IcFluentArrowSquare_32Regular } from './IcFluentArrowSquare_32Regular';
+export { default as IcOrigonArrowSquare_20Color } from './IcOrigonArrowSquare_20Color';
+export { default as IcOrigonArrowSquare_24Color } from './IcOrigonArrowSquare_24Color';
+export { default as IcOrigonArrowSquare_32Color } from './IcOrigonArrowSquare_32Color';
+export { default as IcOrigonArrowSquare_32Filled } from './IcOrigonArrowSquare_32Filled';
+export { default as IcOrigonArrowSquare_32Regular } from './IcOrigonArrowSquare_32Regular';

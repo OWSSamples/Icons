@@ -1,4 +1,4 @@
-export { default as IcFluentTextBulletListSquareShield_20Filled } from './IcFluentTextBulletListSquareShield_20Filled';
-export { default as IcFluentTextBulletListSquareShield_20Regular } from './IcFluentTextBulletListSquareShield_20Regular';
-export { default as IcFluentTextBulletListSquareShield_48Filled } from './IcFluentTextBulletListSquareShield_48Filled';
-export { default as IcFluentTextBulletListSquareShield_48Regular } from './IcFluentTextBulletListSquareShield_48Regular';
+export { default as IcOrigonTextBulletListSquareShield_20Filled } from './IcOrigonTextBulletListSquareShield_20Filled';
+export { default as IcOrigonTextBulletListSquareShield_20Regular } from './IcOrigonTextBulletListSquareShield_20Regular';
+export { default as IcOrigonTextBulletListSquareShield_48Filled } from './IcOrigonTextBulletListSquareShield_48Filled';
+export { default as IcOrigonTextBulletListSquareShield_48Regular } from './IcOrigonTextBulletListSquareShield_48Regular';

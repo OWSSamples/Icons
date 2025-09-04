@@ -1,4 +1,4 @@
-export { default as IcFluentAppsSettings_16Filled } from './IcFluentAppsSettings_16Filled';
-export { default as IcFluentAppsSettings_16Regular } from './IcFluentAppsSettings_16Regular';
-export { default as IcFluentAppsSettings_20Filled } from './IcFluentAppsSettings_20Filled';
-export { default as IcFluentAppsSettings_20Regular } from './IcFluentAppsSettings_20Regular';
+export { default as IcOrigonAppsSettings_16Filled } from './IcOrigonAppsSettings_16Filled';
+export { default as IcOrigonAppsSettings_16Regular } from './IcOrigonAppsSettings_16Regular';
+export { default as IcOrigonAppsSettings_20Filled } from './IcOrigonAppsSettings_20Filled';
+export { default as IcOrigonAppsSettings_20Regular } from './IcOrigonAppsSettings_20Regular';

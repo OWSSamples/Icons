@@ -1,2 +1,2 @@
-export { default as IcFluentPhoneMultipleSettings_24Filled } from './IcFluentPhoneMultipleSettings_24Filled';
-export { default as IcFluentPhoneMultipleSettings_24Regular } from './IcFluentPhoneMultipleSettings_24Regular';
+export { default as IcOrigonPhoneMultipleSettings_24Filled } from './IcOrigonPhoneMultipleSettings_24Filled';
+export { default as IcOrigonPhoneMultipleSettings_24Regular } from './IcOrigonPhoneMultipleSettings_24Regular';

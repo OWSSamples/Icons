@@ -1,6 +1,6 @@
-export { default as IcFluentTextNumberListLtr_16Filled } from './IcFluentTextNumberListLtr_16Filled';
-export { default as IcFluentTextNumberListLtr_16Regular } from './IcFluentTextNumberListLtr_16Regular';
-export { default as IcFluentTextNumberListLtr_20Filled } from './IcFluentTextNumberListLtr_20Filled';
-export { default as IcFluentTextNumberListLtr_20Regular } from './IcFluentTextNumberListLtr_20Regular';
-export { default as IcFluentTextNumberListLtr_24Filled } from './IcFluentTextNumberListLtr_24Filled';
-export { default as IcFluentTextNumberListLtr_24Regular } from './IcFluentTextNumberListLtr_24Regular';
+export { default as IcOrigonTextNumberListLtr_16Filled } from './IcOrigonTextNumberListLtr_16Filled';
+export { default as IcOrigonTextNumberListLtr_16Regular } from './IcOrigonTextNumberListLtr_16Regular';
+export { default as IcOrigonTextNumberListLtr_20Filled } from './IcOrigonTextNumberListLtr_20Filled';
+export { default as IcOrigonTextNumberListLtr_20Regular } from './IcOrigonTextNumberListLtr_20Regular';
+export { default as IcOrigonTextNumberListLtr_24Filled } from './IcOrigonTextNumberListLtr_24Filled';
+export { default as IcOrigonTextNumberListLtr_24Regular } from './IcOrigonTextNumberListLtr_24Regular';

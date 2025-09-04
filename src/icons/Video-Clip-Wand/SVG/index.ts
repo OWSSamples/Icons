@@ -1,6 +1,6 @@
-export { default as IcFluentVideoClipWand_16Filled } from './IcFluentVideoClipWand_16Filled';
-export { default as IcFluentVideoClipWand_16Regular } from './IcFluentVideoClipWand_16Regular';
-export { default as IcFluentVideoClipWand_20Filled } from './IcFluentVideoClipWand_20Filled';
-export { default as IcFluentVideoClipWand_20Regular } from './IcFluentVideoClipWand_20Regular';
-export { default as IcFluentVideoClipWand_24Filled } from './IcFluentVideoClipWand_24Filled';
-export { default as IcFluentVideoClipWand_24Regular } from './IcFluentVideoClipWand_24Regular';
+export { default as IcOrigonVideoClipWand_16Filled } from './IcOrigonVideoClipWand_16Filled';
+export { default as IcOrigonVideoClipWand_16Regular } from './IcOrigonVideoClipWand_16Regular';
+export { default as IcOrigonVideoClipWand_20Filled } from './IcOrigonVideoClipWand_20Filled';
+export { default as IcOrigonVideoClipWand_20Regular } from './IcOrigonVideoClipWand_20Regular';
+export { default as IcOrigonVideoClipWand_24Filled } from './IcOrigonVideoClipWand_24Filled';
+export { default as IcOrigonVideoClipWand_24Regular } from './IcOrigonVideoClipWand_24Regular';

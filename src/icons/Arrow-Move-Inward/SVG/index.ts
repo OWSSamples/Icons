@@ -1,2 +1,2 @@
-export { default as IcFluentArrowMoveInward_20Filled } from './IcFluentArrowMoveInward_20Filled';
-export { default as IcFluentArrowMoveInward_20Regular } from './IcFluentArrowMoveInward_20Regular';
+export { default as IcOrigonArrowMoveInward_20Filled } from './IcOrigonArrowMoveInward_20Filled';
+export { default as IcOrigonArrowMoveInward_20Regular } from './IcOrigonArrowMoveInward_20Regular';

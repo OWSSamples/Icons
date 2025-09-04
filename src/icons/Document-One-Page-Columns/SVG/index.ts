@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentOnePageColumns_20Filled } from './IcFluentDocumentOnePageColumns_20Filled';
-export { default as IcFluentDocumentOnePageColumns_20Regular } from './IcFluentDocumentOnePageColumns_20Regular';
-export { default as IcFluentDocumentOnePageColumns_24Filled } from './IcFluentDocumentOnePageColumns_24Filled';
-export { default as IcFluentDocumentOnePageColumns_24Regular } from './IcFluentDocumentOnePageColumns_24Regular';
+export { default as IcOrigonDocumentOnePageColumns_20Filled } from './IcOrigonDocumentOnePageColumns_20Filled';
+export { default as IcOrigonDocumentOnePageColumns_20Regular } from './IcOrigonDocumentOnePageColumns_20Regular';
+export { default as IcOrigonDocumentOnePageColumns_24Filled } from './IcOrigonDocumentOnePageColumns_24Filled';
+export { default as IcOrigonDocumentOnePageColumns_24Regular } from './IcOrigonDocumentOnePageColumns_24Regular';

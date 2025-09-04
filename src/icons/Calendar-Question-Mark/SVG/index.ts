@@ -1,6 +1,6 @@
-export { default as IcFluentCalendarQuestionMark_16Filled } from './IcFluentCalendarQuestionMark_16Filled';
-export { default as IcFluentCalendarQuestionMark_16Regular } from './IcFluentCalendarQuestionMark_16Regular';
-export { default as IcFluentCalendarQuestionMark_20Filled } from './IcFluentCalendarQuestionMark_20Filled';
-export { default as IcFluentCalendarQuestionMark_20Regular } from './IcFluentCalendarQuestionMark_20Regular';
-export { default as IcFluentCalendarQuestionMark_24Filled } from './IcFluentCalendarQuestionMark_24Filled';
-export { default as IcFluentCalendarQuestionMark_24Regular } from './IcFluentCalendarQuestionMark_24Regular';
+export { default as IcOrigonCalendarQuestionMark_16Filled } from './IcOrigonCalendarQuestionMark_16Filled';
+export { default as IcOrigonCalendarQuestionMark_16Regular } from './IcOrigonCalendarQuestionMark_16Regular';
+export { default as IcOrigonCalendarQuestionMark_20Filled } from './IcOrigonCalendarQuestionMark_20Filled';
+export { default as IcOrigonCalendarQuestionMark_20Regular } from './IcOrigonCalendarQuestionMark_20Regular';
+export { default as IcOrigonCalendarQuestionMark_24Filled } from './IcOrigonCalendarQuestionMark_24Filled';
+export { default as IcOrigonCalendarQuestionMark_24Regular } from './IcOrigonCalendarQuestionMark_24Regular';

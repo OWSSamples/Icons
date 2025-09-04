@@ -1,6 +1,6 @@
-export { default as IcFluentPreviewLink_16Filled } from './IcFluentPreviewLink_16Filled';
-export { default as IcFluentPreviewLink_16Regular } from './IcFluentPreviewLink_16Regular';
-export { default as IcFluentPreviewLink_20Filled } from './IcFluentPreviewLink_20Filled';
-export { default as IcFluentPreviewLink_20Regular } from './IcFluentPreviewLink_20Regular';
-export { default as IcFluentPreviewLink_24Filled } from './IcFluentPreviewLink_24Filled';
-export { default as IcFluentPreviewLink_24Regular } from './IcFluentPreviewLink_24Regular';
+export { default as IcOrigonPreviewLink_16Filled } from './IcOrigonPreviewLink_16Filled';
+export { default as IcOrigonPreviewLink_16Regular } from './IcOrigonPreviewLink_16Regular';
+export { default as IcOrigonPreviewLink_20Filled } from './IcOrigonPreviewLink_20Filled';
+export { default as IcOrigonPreviewLink_20Regular } from './IcOrigonPreviewLink_20Regular';
+export { default as IcOrigonPreviewLink_24Filled } from './IcOrigonPreviewLink_24Filled';
+export { default as IcOrigonPreviewLink_24Regular } from './IcOrigonPreviewLink_24Regular';

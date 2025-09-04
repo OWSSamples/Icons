@@ -1,8 +1,8 @@
-export { default as IcFluentBalloon_12Filled } from './IcFluentBalloon_12Filled';
-export { default as IcFluentBalloon_12Regular } from './IcFluentBalloon_12Regular';
-export { default as IcFluentBalloon_16Filled } from './IcFluentBalloon_16Filled';
-export { default as IcFluentBalloon_16Regular } from './IcFluentBalloon_16Regular';
-export { default as IcFluentBalloon_20Filled } from './IcFluentBalloon_20Filled';
-export { default as IcFluentBalloon_20Regular } from './IcFluentBalloon_20Regular';
-export { default as IcFluentBalloon_24Filled } from './IcFluentBalloon_24Filled';
-export { default as IcFluentBalloon_24Regular } from './IcFluentBalloon_24Regular';
+export { default as IcOrigonBalloon_12Filled } from './IcOrigonBalloon_12Filled';
+export { default as IcOrigonBalloon_12Regular } from './IcOrigonBalloon_12Regular';
+export { default as IcOrigonBalloon_16Filled } from './IcOrigonBalloon_16Filled';
+export { default as IcOrigonBalloon_16Regular } from './IcOrigonBalloon_16Regular';
+export { default as IcOrigonBalloon_20Filled } from './IcOrigonBalloon_20Filled';
+export { default as IcOrigonBalloon_20Regular } from './IcOrigonBalloon_20Regular';
+export { default as IcOrigonBalloon_24Filled } from './IcOrigonBalloon_24Filled';
+export { default as IcOrigonBalloon_24Regular } from './IcOrigonBalloon_24Regular';

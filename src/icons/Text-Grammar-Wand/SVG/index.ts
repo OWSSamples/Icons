@@ -1,6 +1,6 @@
-export { default as IcFluentTextGrammarWand_16Filled } from './IcFluentTextGrammarWand_16Filled';
-export { default as IcFluentTextGrammarWand_16Regular } from './IcFluentTextGrammarWand_16Regular';
-export { default as IcFluentTextGrammarWand_20Filled } from './IcFluentTextGrammarWand_20Filled';
-export { default as IcFluentTextGrammarWand_20Regular } from './IcFluentTextGrammarWand_20Regular';
-export { default as IcFluentTextGrammarWand_24Filled } from './IcFluentTextGrammarWand_24Filled';
-export { default as IcFluentTextGrammarWand_24Regular } from './IcFluentTextGrammarWand_24Regular';
+export { default as IcOrigonTextGrammarWand_16Filled } from './IcOrigonTextGrammarWand_16Filled';
+export { default as IcOrigonTextGrammarWand_16Regular } from './IcOrigonTextGrammarWand_16Regular';
+export { default as IcOrigonTextGrammarWand_20Filled } from './IcOrigonTextGrammarWand_20Filled';
+export { default as IcOrigonTextGrammarWand_20Regular } from './IcOrigonTextGrammarWand_20Regular';
+export { default as IcOrigonTextGrammarWand_24Filled } from './IcOrigonTextGrammarWand_24Filled';
+export { default as IcOrigonTextGrammarWand_24Regular } from './IcOrigonTextGrammarWand_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentBluetoothConnected_20Filled } from './IcFluentBluetoothConnected_20Filled';
-export { default as IcFluentBluetoothConnected_20Regular } from './IcFluentBluetoothConnected_20Regular';
-export { default as IcFluentBluetoothConnected_24Filled } from './IcFluentBluetoothConnected_24Filled';
-export { default as IcFluentBluetoothConnected_24Regular } from './IcFluentBluetoothConnected_24Regular';
+export { default as IcOrigonBluetoothConnected_20Filled } from './IcOrigonBluetoothConnected_20Filled';
+export { default as IcOrigonBluetoothConnected_20Regular } from './IcOrigonBluetoothConnected_20Regular';
+export { default as IcOrigonBluetoothConnected_24Filled } from './IcOrigonBluetoothConnected_24Filled';
+export { default as IcOrigonBluetoothConnected_24Regular } from './IcOrigonBluetoothConnected_24Regular';

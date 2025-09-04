@@ -1,4 +1,4 @@
-export { default as IcFluentArrowWrap_20Filled } from './IcFluentArrowWrap_20Filled';
-export { default as IcFluentArrowWrap_20Regular } from './IcFluentArrowWrap_20Regular';
-export { default as IcFluentArrowWrap_32Filled } from './IcFluentArrowWrap_32Filled';
-export { default as IcFluentArrowWrap_32Regular } from './IcFluentArrowWrap_32Regular';
+export { default as IcOrigonArrowWrap_20Filled } from './IcOrigonArrowWrap_20Filled';
+export { default as IcOrigonArrowWrap_20Regular } from './IcOrigonArrowWrap_20Regular';
+export { default as IcOrigonArrowWrap_32Filled } from './IcOrigonArrowWrap_32Filled';
+export { default as IcOrigonArrowWrap_32Regular } from './IcOrigonArrowWrap_32Regular';

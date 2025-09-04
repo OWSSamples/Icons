@@ -1,6 +1,6 @@
-export { default as IcFluentCheckmarkUnderlineCircle_16Filled } from './IcFluentCheckmarkUnderlineCircle_16Filled';
-export { default as IcFluentCheckmarkUnderlineCircle_16Regular } from './IcFluentCheckmarkUnderlineCircle_16Regular';
-export { default as IcFluentCheckmarkUnderlineCircle_20Filled } from './IcFluentCheckmarkUnderlineCircle_20Filled';
-export { default as IcFluentCheckmarkUnderlineCircle_20Regular } from './IcFluentCheckmarkUnderlineCircle_20Regular';
-export { default as IcFluentCheckmarkUnderlineCircle_24Filled } from './IcFluentCheckmarkUnderlineCircle_24Filled';
-export { default as IcFluentCheckmarkUnderlineCircle_24Regular } from './IcFluentCheckmarkUnderlineCircle_24Regular';
+export { default as IcOrigonCheckmarkUnderlineCircle_16Filled } from './IcOrigonCheckmarkUnderlineCircle_16Filled';
+export { default as IcOrigonCheckmarkUnderlineCircle_16Regular } from './IcOrigonCheckmarkUnderlineCircle_16Regular';
+export { default as IcOrigonCheckmarkUnderlineCircle_20Filled } from './IcOrigonCheckmarkUnderlineCircle_20Filled';
+export { default as IcOrigonCheckmarkUnderlineCircle_20Regular } from './IcOrigonCheckmarkUnderlineCircle_20Regular';
+export { default as IcOrigonCheckmarkUnderlineCircle_24Filled } from './IcOrigonCheckmarkUnderlineCircle_24Filled';
+export { default as IcOrigonCheckmarkUnderlineCircle_24Regular } from './IcOrigonCheckmarkUnderlineCircle_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentScratchpad_20Filled } from './IcFluentScratchpad_20Filled';
-export { default as IcFluentScratchpad_20Regular } from './IcFluentScratchpad_20Regular';
-export { default as IcFluentScratchpad_24Filled } from './IcFluentScratchpad_24Filled';
-export { default as IcFluentScratchpad_24Regular } from './IcFluentScratchpad_24Regular';
+export { default as IcOrigonScratchpad_20Filled } from './IcOrigonScratchpad_20Filled';
+export { default as IcOrigonScratchpad_20Regular } from './IcOrigonScratchpad_20Regular';
+export { default as IcOrigonScratchpad_24Filled } from './IcOrigonScratchpad_24Filled';
+export { default as IcOrigonScratchpad_24Regular } from './IcOrigonScratchpad_24Regular';

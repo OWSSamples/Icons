@@ -1,2 +1,2 @@
-export { default as IcFluentColumnArrowRight_20Filled } from './IcFluentColumnArrowRight_20Filled';
-export { default as IcFluentColumnArrowRight_20Regular } from './IcFluentColumnArrowRight_20Regular';
+export { default as IcOrigonColumnArrowRight_20Filled } from './IcOrigonColumnArrowRight_20Filled';
+export { default as IcOrigonColumnArrowRight_20Regular } from './IcOrigonColumnArrowRight_20Regular';

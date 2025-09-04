@@ -1,8 +1,8 @@
-export { default as IcFluentTableSwitch_16Filled } from './IcFluentTableSwitch_16Filled';
-export { default as IcFluentTableSwitch_16Regular } from './IcFluentTableSwitch_16Regular';
-export { default as IcFluentTableSwitch_20Filled } from './IcFluentTableSwitch_20Filled';
-export { default as IcFluentTableSwitch_20Regular } from './IcFluentTableSwitch_20Regular';
-export { default as IcFluentTableSwitch_24Filled } from './IcFluentTableSwitch_24Filled';
-export { default as IcFluentTableSwitch_24Regular } from './IcFluentTableSwitch_24Regular';
-export { default as IcFluentTableSwitch_28Filled } from './IcFluentTableSwitch_28Filled';
-export { default as IcFluentTableSwitch_28Regular } from './IcFluentTableSwitch_28Regular';
+export { default as IcOrigonTableSwitch_16Filled } from './IcOrigonTableSwitch_16Filled';
+export { default as IcOrigonTableSwitch_16Regular } from './IcOrigonTableSwitch_16Regular';
+export { default as IcOrigonTableSwitch_20Filled } from './IcOrigonTableSwitch_20Filled';
+export { default as IcOrigonTableSwitch_20Regular } from './IcOrigonTableSwitch_20Regular';
+export { default as IcOrigonTableSwitch_24Filled } from './IcOrigonTableSwitch_24Filled';
+export { default as IcOrigonTableSwitch_24Regular } from './IcOrigonTableSwitch_24Regular';
+export { default as IcOrigonTableSwitch_28Filled } from './IcOrigonTableSwitch_28Filled';
+export { default as IcOrigonTableSwitch_28Regular } from './IcOrigonTableSwitch_28Regular';

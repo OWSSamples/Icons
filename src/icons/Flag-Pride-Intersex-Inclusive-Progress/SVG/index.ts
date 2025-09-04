@@ -1,6 +1,6 @@
-export { default as IcFluentFlagPrideIntersexInclusiveProgress_16Filled } from './IcFluentFlagPrideIntersexInclusiveProgress_16Filled';
-export { default as IcFluentFlagPrideIntersexInclusiveProgress_20Filled } from './IcFluentFlagPrideIntersexInclusiveProgress_20Filled';
-export { default as IcFluentFlagPrideIntersexInclusiveProgress_24Filled } from './IcFluentFlagPrideIntersexInclusiveProgress_24Filled';
-export { default as IcFluentFlagPrideIntersexInclusiveProgress_28Filled } from './IcFluentFlagPrideIntersexInclusiveProgress_28Filled';
-export { default as IcFluentFlagPrideIntersexInclusiveProgress_32Filled } from './IcFluentFlagPrideIntersexInclusiveProgress_32Filled';
-export { default as IcFluentFlagPrideIntersexInclusiveProgress_48Filled } from './IcFluentFlagPrideIntersexInclusiveProgress_48Filled';
+export { default as IcOrigonFlagPrideIntersexInclusiveProgress_16Filled } from './IcOrigonFlagPrideIntersexInclusiveProgress_16Filled';
+export { default as IcOrigonFlagPrideIntersexInclusiveProgress_20Filled } from './IcOrigonFlagPrideIntersexInclusiveProgress_20Filled';
+export { default as IcOrigonFlagPrideIntersexInclusiveProgress_24Filled } from './IcOrigonFlagPrideIntersexInclusiveProgress_24Filled';
+export { default as IcOrigonFlagPrideIntersexInclusiveProgress_28Filled } from './IcOrigonFlagPrideIntersexInclusiveProgress_28Filled';
+export { default as IcOrigonFlagPrideIntersexInclusiveProgress_32Filled } from './IcOrigonFlagPrideIntersexInclusiveProgress_32Filled';
+export { default as IcOrigonFlagPrideIntersexInclusiveProgress_48Filled } from './IcOrigonFlagPrideIntersexInclusiveProgress_48Filled';

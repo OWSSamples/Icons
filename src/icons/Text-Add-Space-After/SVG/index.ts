@@ -1,4 +1,4 @@
-export { default as IcFluentTextAddSpaceAfter_20Filled } from './IcFluentTextAddSpaceAfter_20Filled';
-export { default as IcFluentTextAddSpaceAfter_20Regular } from './IcFluentTextAddSpaceAfter_20Regular';
-export { default as IcFluentTextAddSpaceAfter_24Filled } from './IcFluentTextAddSpaceAfter_24Filled';
-export { default as IcFluentTextAddSpaceAfter_24Regular } from './IcFluentTextAddSpaceAfter_24Regular';
+export { default as IcOrigonTextAddSpaceAfter_20Filled } from './IcOrigonTextAddSpaceAfter_20Filled';
+export { default as IcOrigonTextAddSpaceAfter_20Regular } from './IcOrigonTextAddSpaceAfter_20Regular';
+export { default as IcOrigonTextAddSpaceAfter_24Filled } from './IcOrigonTextAddSpaceAfter_24Filled';
+export { default as IcOrigonTextAddSpaceAfter_24Regular } from './IcOrigonTextAddSpaceAfter_24Regular';

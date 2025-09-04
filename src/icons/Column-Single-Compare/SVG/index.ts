@@ -1,4 +1,4 @@
-export { default as IcFluentColumnSingleCompare_16Filled } from './IcFluentColumnSingleCompare_16Filled';
-export { default as IcFluentColumnSingleCompare_16Regular } from './IcFluentColumnSingleCompare_16Regular';
-export { default as IcFluentColumnSingleCompare_20Filled } from './IcFluentColumnSingleCompare_20Filled';
-export { default as IcFluentColumnSingleCompare_20Regular } from './IcFluentColumnSingleCompare_20Regular';
+export { default as IcOrigonColumnSingleCompare_16Filled } from './IcOrigonColumnSingleCompare_16Filled';
+export { default as IcOrigonColumnSingleCompare_16Regular } from './IcOrigonColumnSingleCompare_16Regular';
+export { default as IcOrigonColumnSingleCompare_20Filled } from './IcOrigonColumnSingleCompare_20Filled';
+export { default as IcOrigonColumnSingleCompare_20Regular } from './IcOrigonColumnSingleCompare_20Regular';

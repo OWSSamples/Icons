@@ -1,2 +1,2 @@
-export { default as IcFluentHeartPulseWarning_20Filled } from './IcFluentHeartPulseWarning_20Filled';
-export { default as IcFluentHeartPulseWarning_20Regular } from './IcFluentHeartPulseWarning_20Regular';
+export { default as IcOrigonHeartPulseWarning_20Filled } from './IcOrigonHeartPulseWarning_20Filled';
+export { default as IcOrigonHeartPulseWarning_20Regular } from './IcOrigonHeartPulseWarning_20Regular';

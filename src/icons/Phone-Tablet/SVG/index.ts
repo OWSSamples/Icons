@@ -1,4 +1,4 @@
-export { default as IcFluentPhoneTablet_20Filled } from './IcFluentPhoneTablet_20Filled';
-export { default as IcFluentPhoneTablet_20Regular } from './IcFluentPhoneTablet_20Regular';
-export { default as IcFluentPhoneTablet_24Filled } from './IcFluentPhoneTablet_24Filled';
-export { default as IcFluentPhoneTablet_24Regular } from './IcFluentPhoneTablet_24Regular';
+export { default as IcOrigonPhoneTablet_20Filled } from './IcOrigonPhoneTablet_20Filled';
+export { default as IcOrigonPhoneTablet_20Regular } from './IcOrigonPhoneTablet_20Regular';
+export { default as IcOrigonPhoneTablet_24Filled } from './IcOrigonPhoneTablet_24Filled';
+export { default as IcOrigonPhoneTablet_24Regular } from './IcOrigonPhoneTablet_24Regular';

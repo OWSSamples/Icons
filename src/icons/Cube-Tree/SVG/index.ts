@@ -1,4 +1,4 @@
-export { default as IcFluentCubeTree_20Filled } from './IcFluentCubeTree_20Filled';
-export { default as IcFluentCubeTree_20Regular } from './IcFluentCubeTree_20Regular';
-export { default as IcFluentCubeTree_24Filled } from './IcFluentCubeTree_24Filled';
-export { default as IcFluentCubeTree_24Regular } from './IcFluentCubeTree_24Regular';
+export { default as IcOrigonCubeTree_20Filled } from './IcOrigonCubeTree_20Filled';
+export { default as IcOrigonCubeTree_20Regular } from './IcOrigonCubeTree_20Regular';
+export { default as IcOrigonCubeTree_24Filled } from './IcOrigonCubeTree_24Filled';
+export { default as IcOrigonCubeTree_24Regular } from './IcOrigonCubeTree_24Regular';

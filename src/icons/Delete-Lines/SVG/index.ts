@@ -1,2 +1,2 @@
-export { default as IcFluentDeleteLines_20Filled } from './IcFluentDeleteLines_20Filled';
-export { default as IcFluentDeleteLines_20Regular } from './IcFluentDeleteLines_20Regular';
+export { default as IcOrigonDeleteLines_20Filled } from './IcOrigonDeleteLines_20Filled';
+export { default as IcOrigonDeleteLines_20Regular } from './IcOrigonDeleteLines_20Regular';

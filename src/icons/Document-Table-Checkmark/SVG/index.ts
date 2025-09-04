@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentTableCheckmark_20Filled } from './IcFluentDocumentTableCheckmark_20Filled';
-export { default as IcFluentDocumentTableCheckmark_20Regular } from './IcFluentDocumentTableCheckmark_20Regular';
-export { default as IcFluentDocumentTableCheckmark_24Filled } from './IcFluentDocumentTableCheckmark_24Filled';
-export { default as IcFluentDocumentTableCheckmark_24Regular } from './IcFluentDocumentTableCheckmark_24Regular';
+export { default as IcOrigonDocumentTableCheckmark_20Filled } from './IcOrigonDocumentTableCheckmark_20Filled';
+export { default as IcOrigonDocumentTableCheckmark_20Regular } from './IcOrigonDocumentTableCheckmark_20Regular';
+export { default as IcOrigonDocumentTableCheckmark_24Filled } from './IcOrigonDocumentTableCheckmark_24Filled';
+export { default as IcOrigonDocumentTableCheckmark_24Regular } from './IcOrigonDocumentTableCheckmark_24Regular';

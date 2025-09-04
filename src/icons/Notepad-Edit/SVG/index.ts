@@ -1,4 +1,4 @@
-export { default as IcFluentNotepadEdit_16Filled } from './IcFluentNotepadEdit_16Filled';
-export { default as IcFluentNotepadEdit_16Regular } from './IcFluentNotepadEdit_16Regular';
-export { default as IcFluentNotepadEdit_20Filled } from './IcFluentNotepadEdit_20Filled';
-export { default as IcFluentNotepadEdit_20Regular } from './IcFluentNotepadEdit_20Regular';
+export { default as IcOrigonNotepadEdit_16Filled } from './IcOrigonNotepadEdit_16Filled';
+export { default as IcOrigonNotepadEdit_16Regular } from './IcOrigonNotepadEdit_16Regular';
+export { default as IcOrigonNotepadEdit_20Filled } from './IcOrigonNotepadEdit_20Filled';
+export { default as IcOrigonNotepadEdit_20Regular } from './IcOrigonNotepadEdit_20Regular';

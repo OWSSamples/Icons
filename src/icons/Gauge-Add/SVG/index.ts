@@ -1,2 +1,2 @@
-export { default as IcFluentGaugeAdd_20Filled } from './IcFluentGaugeAdd_20Filled';
-export { default as IcFluentGaugeAdd_20Regular } from './IcFluentGaugeAdd_20Regular';
+export { default as IcOrigonGaugeAdd_20Filled } from './IcOrigonGaugeAdd_20Filled';
+export { default as IcOrigonGaugeAdd_20Regular } from './IcOrigonGaugeAdd_20Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentEyeTrackingOff_16Filled } from './IcFluentEyeTrackingOff_16Filled';
-export { default as IcFluentEyeTrackingOff_16Regular } from './IcFluentEyeTrackingOff_16Regular';
-export { default as IcFluentEyeTrackingOff_20Filled } from './IcFluentEyeTrackingOff_20Filled';
-export { default as IcFluentEyeTrackingOff_20Regular } from './IcFluentEyeTrackingOff_20Regular';
-export { default as IcFluentEyeTrackingOff_24Filled } from './IcFluentEyeTrackingOff_24Filled';
-export { default as IcFluentEyeTrackingOff_24Regular } from './IcFluentEyeTrackingOff_24Regular';
+export { default as IcOrigonEyeTrackingOff_16Filled } from './IcOrigonEyeTrackingOff_16Filled';
+export { default as IcOrigonEyeTrackingOff_16Regular } from './IcOrigonEyeTrackingOff_16Regular';
+export { default as IcOrigonEyeTrackingOff_20Filled } from './IcOrigonEyeTrackingOff_20Filled';
+export { default as IcOrigonEyeTrackingOff_20Regular } from './IcOrigonEyeTrackingOff_20Regular';
+export { default as IcOrigonEyeTrackingOff_24Filled } from './IcOrigonEyeTrackingOff_24Filled';
+export { default as IcOrigonEyeTrackingOff_24Regular } from './IcOrigonEyeTrackingOff_24Regular';

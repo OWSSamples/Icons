@@ -1,2 +1,2 @@
-export { default as IcFluentMailBriefcase_48Filled } from './IcFluentMailBriefcase_48Filled';
-export { default as IcFluentMailBriefcase_48Regular } from './IcFluentMailBriefcase_48Regular';
+export { default as IcOrigonMailBriefcase_48Filled } from './IcOrigonMailBriefcase_48Filled';
+export { default as IcOrigonMailBriefcase_48Regular } from './IcOrigonMailBriefcase_48Regular';

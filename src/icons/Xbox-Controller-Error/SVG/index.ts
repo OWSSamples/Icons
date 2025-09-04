@@ -1,8 +1,8 @@
-export { default as IcFluentXboxControllerError_20Filled } from './IcFluentXboxControllerError_20Filled';
-export { default as IcFluentXboxControllerError_20Regular } from './IcFluentXboxControllerError_20Regular';
-export { default as IcFluentXboxControllerError_24Filled } from './IcFluentXboxControllerError_24Filled';
-export { default as IcFluentXboxControllerError_24Regular } from './IcFluentXboxControllerError_24Regular';
-export { default as IcFluentXboxControllerError_32Filled } from './IcFluentXboxControllerError_32Filled';
-export { default as IcFluentXboxControllerError_32Regular } from './IcFluentXboxControllerError_32Regular';
-export { default as IcFluentXboxControllerError_48Filled } from './IcFluentXboxControllerError_48Filled';
-export { default as IcFluentXboxControllerError_48Regular } from './IcFluentXboxControllerError_48Regular';
+export { default as IcOrigonXboxControllerError_20Filled } from './IcOrigonXboxControllerError_20Filled';
+export { default as IcOrigonXboxControllerError_20Regular } from './IcOrigonXboxControllerError_20Regular';
+export { default as IcOrigonXboxControllerError_24Filled } from './IcOrigonXboxControllerError_24Filled';
+export { default as IcOrigonXboxControllerError_24Regular } from './IcOrigonXboxControllerError_24Regular';
+export { default as IcOrigonXboxControllerError_32Filled } from './IcOrigonXboxControllerError_32Filled';
+export { default as IcOrigonXboxControllerError_32Regular } from './IcOrigonXboxControllerError_32Regular';
+export { default as IcOrigonXboxControllerError_48Filled } from './IcOrigonXboxControllerError_48Filled';
+export { default as IcOrigonXboxControllerError_48Regular } from './IcOrigonXboxControllerError_48Regular';

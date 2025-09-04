@@ -1,4 +1,4 @@
-export { default as IcFluentMoneyCalculator_20Filled } from './IcFluentMoneyCalculator_20Filled';
-export { default as IcFluentMoneyCalculator_20Regular } from './IcFluentMoneyCalculator_20Regular';
-export { default as IcFluentMoneyCalculator_24Filled } from './IcFluentMoneyCalculator_24Filled';
-export { default as IcFluentMoneyCalculator_24Regular } from './IcFluentMoneyCalculator_24Regular';
+export { default as IcOrigonMoneyCalculator_20Filled } from './IcOrigonMoneyCalculator_20Filled';
+export { default as IcOrigonMoneyCalculator_20Regular } from './IcOrigonMoneyCalculator_20Regular';
+export { default as IcOrigonMoneyCalculator_24Filled } from './IcOrigonMoneyCalculator_24Filled';
+export { default as IcOrigonMoneyCalculator_24Regular } from './IcOrigonMoneyCalculator_24Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonArrowUpRightDashes_32Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 32 32">
+    <path fill="currentColor" d="M15.25 3a1.25 1.25 0 1 0 0 2.5h9.482l-3.366 3.366a1.25 1.25 0 0 0 1.768 1.768L26.5 7.268v9.482a1.25 1.25 0 1 0 2.5 0V4.25C29 3.56 28.44 3 27.75 3zm-4.616 20.134a1.25 1.25 0 0 0-1.768-1.768l-5.5 5.5a1.25 1.25 0 0 0 1.768 1.768zm9-10.768a1.25 1.25 0 0 1 0 1.768l-5.5 5.5a1.25 1.25 0 0 1-1.768-1.768l5.5-5.5a1.25 1.25 0 0 1 1.768 0"/>
+  </IconBase>
+);
+
+export default IcOrigonArrowUpRightDashes_32Filled;

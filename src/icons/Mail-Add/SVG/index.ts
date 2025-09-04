@@ -1,6 +1,6 @@
-export { default as IcFluentMailAdd_16Filled } from './IcFluentMailAdd_16Filled';
-export { default as IcFluentMailAdd_16Regular } from './IcFluentMailAdd_16Regular';
-export { default as IcFluentMailAdd_20Filled } from './IcFluentMailAdd_20Filled';
-export { default as IcFluentMailAdd_20Regular } from './IcFluentMailAdd_20Regular';
-export { default as IcFluentMailAdd_24Filled } from './IcFluentMailAdd_24Filled';
-export { default as IcFluentMailAdd_24Regular } from './IcFluentMailAdd_24Regular';
+export { default as IcOrigonMailAdd_16Filled } from './IcOrigonMailAdd_16Filled';
+export { default as IcOrigonMailAdd_16Regular } from './IcOrigonMailAdd_16Regular';
+export { default as IcOrigonMailAdd_20Filled } from './IcOrigonMailAdd_20Filled';
+export { default as IcOrigonMailAdd_20Regular } from './IcOrigonMailAdd_20Regular';
+export { default as IcOrigonMailAdd_24Filled } from './IcOrigonMailAdd_24Filled';
+export { default as IcOrigonMailAdd_24Regular } from './IcOrigonMailAdd_24Regular';

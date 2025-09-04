@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentPercent_20Filled } from './IcFluentDocumentPercent_20Filled';
-export { default as IcFluentDocumentPercent_20Regular } from './IcFluentDocumentPercent_20Regular';
-export { default as IcFluentDocumentPercent_24Filled } from './IcFluentDocumentPercent_24Filled';
-export { default as IcFluentDocumentPercent_24Regular } from './IcFluentDocumentPercent_24Regular';
+export { default as IcOrigonDocumentPercent_20Filled } from './IcOrigonDocumentPercent_20Filled';
+export { default as IcOrigonDocumentPercent_20Regular } from './IcOrigonDocumentPercent_20Regular';
+export { default as IcOrigonDocumentPercent_24Filled } from './IcOrigonDocumentPercent_24Filled';
+export { default as IcOrigonDocumentPercent_24Regular } from './IcOrigonDocumentPercent_24Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentCircleImage_16Filled } from './IcFluentCircleImage_16Filled';
-export { default as IcFluentCircleImage_16Regular } from './IcFluentCircleImage_16Regular';
-export { default as IcFluentCircleImage_20Filled } from './IcFluentCircleImage_20Filled';
-export { default as IcFluentCircleImage_20Regular } from './IcFluentCircleImage_20Regular';
-export { default as IcFluentCircleImage_24Filled } from './IcFluentCircleImage_24Filled';
-export { default as IcFluentCircleImage_24Regular } from './IcFluentCircleImage_24Regular';
-export { default as IcFluentCircleImage_28Filled } from './IcFluentCircleImage_28Filled';
-export { default as IcFluentCircleImage_28Regular } from './IcFluentCircleImage_28Regular';
+export { default as IcOrigonCircleImage_16Filled } from './IcOrigonCircleImage_16Filled';
+export { default as IcOrigonCircleImage_16Regular } from './IcOrigonCircleImage_16Regular';
+export { default as IcOrigonCircleImage_20Filled } from './IcOrigonCircleImage_20Filled';
+export { default as IcOrigonCircleImage_20Regular } from './IcOrigonCircleImage_20Regular';
+export { default as IcOrigonCircleImage_24Filled } from './IcOrigonCircleImage_24Filled';
+export { default as IcOrigonCircleImage_24Regular } from './IcOrigonCircleImage_24Regular';
+export { default as IcOrigonCircleImage_28Filled } from './IcOrigonCircleImage_28Filled';
+export { default as IcOrigonCircleImage_28Regular } from './IcOrigonCircleImage_28Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentTagQuestionMark_16Filled } from './IcFluentTagQuestionMark_16Filled';
-export { default as IcFluentTagQuestionMark_16Regular } from './IcFluentTagQuestionMark_16Regular';
-export { default as IcFluentTagQuestionMark_20Filled } from './IcFluentTagQuestionMark_20Filled';
-export { default as IcFluentTagQuestionMark_20Regular } from './IcFluentTagQuestionMark_20Regular';
-export { default as IcFluentTagQuestionMark_24Filled } from './IcFluentTagQuestionMark_24Filled';
-export { default as IcFluentTagQuestionMark_24Regular } from './IcFluentTagQuestionMark_24Regular';
-export { default as IcFluentTagQuestionMark_32Filled } from './IcFluentTagQuestionMark_32Filled';
-export { default as IcFluentTagQuestionMark_32Regular } from './IcFluentTagQuestionMark_32Regular';
+export { default as IcOrigonTagQuestionMark_16Filled } from './IcOrigonTagQuestionMark_16Filled';
+export { default as IcOrigonTagQuestionMark_16Regular } from './IcOrigonTagQuestionMark_16Regular';
+export { default as IcOrigonTagQuestionMark_20Filled } from './IcOrigonTagQuestionMark_20Filled';
+export { default as IcOrigonTagQuestionMark_20Regular } from './IcOrigonTagQuestionMark_20Regular';
+export { default as IcOrigonTagQuestionMark_24Filled } from './IcOrigonTagQuestionMark_24Filled';
+export { default as IcOrigonTagQuestionMark_24Regular } from './IcOrigonTagQuestionMark_24Regular';
+export { default as IcOrigonTagQuestionMark_32Filled } from './IcOrigonTagQuestionMark_32Filled';
+export { default as IcOrigonTagQuestionMark_32Regular } from './IcOrigonTagQuestionMark_32Regular';

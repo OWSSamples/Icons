@@ -1,6 +1,6 @@
-export { default as IcFluentCollections_16Filled } from './IcFluentCollections_16Filled';
-export { default as IcFluentCollections_16Regular } from './IcFluentCollections_16Regular';
-export { default as IcFluentCollections_20Filled } from './IcFluentCollections_20Filled';
-export { default as IcFluentCollections_20Regular } from './IcFluentCollections_20Regular';
-export { default as IcFluentCollections_24Filled } from './IcFluentCollections_24Filled';
-export { default as IcFluentCollections_24Regular } from './IcFluentCollections_24Regular';
+export { default as IcOrigonCollections_16Filled } from './IcOrigonCollections_16Filled';
+export { default as IcOrigonCollections_16Regular } from './IcOrigonCollections_16Regular';
+export { default as IcOrigonCollections_20Filled } from './IcOrigonCollections_20Filled';
+export { default as IcOrigonCollections_20Regular } from './IcOrigonCollections_20Regular';
+export { default as IcOrigonCollections_24Filled } from './IcOrigonCollections_24Filled';
+export { default as IcOrigonCollections_24Regular } from './IcOrigonCollections_24Regular';

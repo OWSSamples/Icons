@@ -1,6 +1,6 @@
-export { default as IcFluentOrg_16Color } from './IcFluentOrg_16Color';
-export { default as IcFluentOrg_20Color } from './IcFluentOrg_20Color';
-export { default as IcFluentOrg_24Color } from './IcFluentOrg_24Color';
-export { default as IcFluentOrg_28Color } from './IcFluentOrg_28Color';
-export { default as IcFluentOrg_32Color } from './IcFluentOrg_32Color';
-export { default as IcFluentOrg_48Color } from './IcFluentOrg_48Color';
+export { default as IcOrigonOrg_16Color } from './IcOrigonOrg_16Color';
+export { default as IcOrigonOrg_20Color } from './IcOrigonOrg_20Color';
+export { default as IcOrigonOrg_24Color } from './IcOrigonOrg_24Color';
+export { default as IcOrigonOrg_28Color } from './IcOrigonOrg_28Color';
+export { default as IcOrigonOrg_32Color } from './IcOrigonOrg_32Color';
+export { default as IcOrigonOrg_48Color } from './IcOrigonOrg_48Color';

@@ -1,2 +1,2 @@
-export { default as IcFluentAlignSpaceAroundVertical_20Filled } from './IcFluentAlignSpaceAroundVertical_20Filled';
-export { default as IcFluentAlignSpaceAroundVertical_20Regular } from './IcFluentAlignSpaceAroundVertical_20Regular';
+export { default as IcOrigonAlignSpaceAroundVertical_20Filled } from './IcOrigonAlignSpaceAroundVertical_20Filled';
+export { default as IcOrigonAlignSpaceAroundVertical_20Regular } from './IcOrigonAlignSpaceAroundVertical_20Regular';

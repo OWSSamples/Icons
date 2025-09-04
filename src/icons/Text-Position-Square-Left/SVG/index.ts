@@ -1,6 +1,6 @@
-export { default as IcFluentTextPositionSquareLeft_16Filled } from './IcFluentTextPositionSquareLeft_16Filled';
-export { default as IcFluentTextPositionSquareLeft_16Regular } from './IcFluentTextPositionSquareLeft_16Regular';
-export { default as IcFluentTextPositionSquareLeft_20Filled } from './IcFluentTextPositionSquareLeft_20Filled';
-export { default as IcFluentTextPositionSquareLeft_20Regular } from './IcFluentTextPositionSquareLeft_20Regular';
-export { default as IcFluentTextPositionSquareLeft_24Filled } from './IcFluentTextPositionSquareLeft_24Filled';
-export { default as IcFluentTextPositionSquareLeft_24Regular } from './IcFluentTextPositionSquareLeft_24Regular';
+export { default as IcOrigonTextPositionSquareLeft_16Filled } from './IcOrigonTextPositionSquareLeft_16Filled';
+export { default as IcOrigonTextPositionSquareLeft_16Regular } from './IcOrigonTextPositionSquareLeft_16Regular';
+export { default as IcOrigonTextPositionSquareLeft_20Filled } from './IcOrigonTextPositionSquareLeft_20Filled';
+export { default as IcOrigonTextPositionSquareLeft_20Regular } from './IcOrigonTextPositionSquareLeft_20Regular';
+export { default as IcOrigonTextPositionSquareLeft_24Filled } from './IcOrigonTextPositionSquareLeft_24Filled';
+export { default as IcOrigonTextPositionSquareLeft_24Regular } from './IcOrigonTextPositionSquareLeft_24Regular';

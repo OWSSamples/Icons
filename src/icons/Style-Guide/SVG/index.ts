@@ -1,4 +1,4 @@
-export { default as IcFluentStyleGuide_20Filled } from './IcFluentStyleGuide_20Filled';
-export { default as IcFluentStyleGuide_20Regular } from './IcFluentStyleGuide_20Regular';
-export { default as IcFluentStyleGuide_24Filled } from './IcFluentStyleGuide_24Filled';
-export { default as IcFluentStyleGuide_24Regular } from './IcFluentStyleGuide_24Regular';
+export { default as IcOrigonStyleGuide_20Filled } from './IcOrigonStyleGuide_20Filled';
+export { default as IcOrigonStyleGuide_20Regular } from './IcOrigonStyleGuide_20Regular';
+export { default as IcOrigonStyleGuide_24Filled } from './IcOrigonStyleGuide_24Filled';
+export { default as IcOrigonStyleGuide_24Regular } from './IcOrigonStyleGuide_24Regular';

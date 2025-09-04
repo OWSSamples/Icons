@@ -1,4 +1,4 @@
-export { default as IcFluentAlignStretchHorizontal_16Filled } from './IcFluentAlignStretchHorizontal_16Filled';
-export { default as IcFluentAlignStretchHorizontal_16Regular } from './IcFluentAlignStretchHorizontal_16Regular';
-export { default as IcFluentAlignStretchHorizontal_20Filled } from './IcFluentAlignStretchHorizontal_20Filled';
-export { default as IcFluentAlignStretchHorizontal_20Regular } from './IcFluentAlignStretchHorizontal_20Regular';
+export { default as IcOrigonAlignStretchHorizontal_16Filled } from './IcOrigonAlignStretchHorizontal_16Filled';
+export { default as IcOrigonAlignStretchHorizontal_16Regular } from './IcOrigonAlignStretchHorizontal_16Regular';
+export { default as IcOrigonAlignStretchHorizontal_20Filled } from './IcOrigonAlignStretchHorizontal_20Filled';
+export { default as IcOrigonAlignStretchHorizontal_20Regular } from './IcOrigonAlignStretchHorizontal_20Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonFlagPrideProgress_48Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M9 8h30v4.5H9z"/><path fill="currentColor" d="M9 12h30v4.5H9z"/><path fill="currentColor" d="M9 16h30v3.5H9z"/><path fill="currentColor" d="M9 19h30v4.5H9z"/><path fill="currentColor" d="M9 23h30v4.5H9z"/><path fill="currentColor" d="M9 27h30v4H9z"/><path fill="currentColor" d="M25.5 19 14 7.5H8v24h5z"/><path fill="currentColor" d="M21.5 19 10 7.5H8v24h1z"/><path fill="currentColor" d="M18.5 19 8.5 9v20z"/><path fill="currentColor" d="m15.5 19-7-7v14z"/><path fill="currentColor" d="M8.25 6C7.56 6 7 6.56 7 7.25v33.5a1.25 1.25 0 1 0 2.5 0V33h30.25c.69 0 1.25-.56 1.25-1.25V7.25C41 6.56 40.44 6 39.75 6zm4.981 24.5H9.5v-22h4.731l10.5 10.5zm3.536 0 10.616-10.616a1.25 1.25 0 0 0 0-1.768L17.767 8.5H38.5v22z"/>
+  </IconBase>
+);
+
+export default IcOrigonFlagPrideProgress_48Filled;

@@ -1,2 +1,2 @@
-export { default as IcFluentBriefcasePerson_24Filled } from './IcFluentBriefcasePerson_24Filled';
-export { default as IcFluentBriefcasePerson_24Regular } from './IcFluentBriefcasePerson_24Regular';
+export { default as IcOrigonBriefcasePerson_24Filled } from './IcOrigonBriefcasePerson_24Filled';
+export { default as IcOrigonBriefcasePerson_24Regular } from './IcOrigonBriefcasePerson_24Regular';

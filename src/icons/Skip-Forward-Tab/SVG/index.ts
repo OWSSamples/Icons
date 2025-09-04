@@ -1,4 +1,4 @@
-export { default as IcFluentSkipForwardTab_20Filled } from './IcFluentSkipForwardTab_20Filled';
-export { default as IcFluentSkipForwardTab_20Regular } from './IcFluentSkipForwardTab_20Regular';
-export { default as IcFluentSkipForwardTab_24Filled } from './IcFluentSkipForwardTab_24Filled';
-export { default as IcFluentSkipForwardTab_24Regular } from './IcFluentSkipForwardTab_24Regular';
+export { default as IcOrigonSkipForwardTab_20Filled } from './IcOrigonSkipForwardTab_20Filled';
+export { default as IcOrigonSkipForwardTab_20Regular } from './IcOrigonSkipForwardTab_20Regular';
+export { default as IcOrigonSkipForwardTab_24Filled } from './IcOrigonSkipForwardTab_24Filled';
+export { default as IcOrigonSkipForwardTab_24Regular } from './IcOrigonSkipForwardTab_24Regular';

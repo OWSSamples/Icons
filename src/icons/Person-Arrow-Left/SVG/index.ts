@@ -1,6 +1,6 @@
-export { default as IcFluentPersonArrowLeft_16Filled } from './IcFluentPersonArrowLeft_16Filled';
-export { default as IcFluentPersonArrowLeft_16Regular } from './IcFluentPersonArrowLeft_16Regular';
-export { default as IcFluentPersonArrowLeft_20Filled } from './IcFluentPersonArrowLeft_20Filled';
-export { default as IcFluentPersonArrowLeft_20Regular } from './IcFluentPersonArrowLeft_20Regular';
-export { default as IcFluentPersonArrowLeft_24Filled } from './IcFluentPersonArrowLeft_24Filled';
-export { default as IcFluentPersonArrowLeft_24Regular } from './IcFluentPersonArrowLeft_24Regular';
+export { default as IcOrigonPersonArrowLeft_16Filled } from './IcOrigonPersonArrowLeft_16Filled';
+export { default as IcOrigonPersonArrowLeft_16Regular } from './IcOrigonPersonArrowLeft_16Regular';
+export { default as IcOrigonPersonArrowLeft_20Filled } from './IcOrigonPersonArrowLeft_20Filled';
+export { default as IcOrigonPersonArrowLeft_20Regular } from './IcOrigonPersonArrowLeft_20Regular';
+export { default as IcOrigonPersonArrowLeft_24Filled } from './IcOrigonPersonArrowLeft_24Filled';
+export { default as IcOrigonPersonArrowLeft_24Regular } from './IcOrigonPersonArrowLeft_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentCommentNote_24Filled } from './IcFluentCommentNote_24Filled';
-export { default as IcFluentCommentNote_24Regular } from './IcFluentCommentNote_24Regular';
+export { default as IcOrigonCommentNote_24Filled } from './IcOrigonCommentNote_24Filled';
+export { default as IcOrigonCommentNote_24Regular } from './IcOrigonCommentNote_24Regular';

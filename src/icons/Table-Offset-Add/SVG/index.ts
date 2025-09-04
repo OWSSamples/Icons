@@ -1,4 +1,4 @@
-export { default as IcFluentTableOffsetAdd_20Filled } from './IcFluentTableOffsetAdd_20Filled';
-export { default as IcFluentTableOffsetAdd_20Regular } from './IcFluentTableOffsetAdd_20Regular';
-export { default as IcFluentTableOffsetAdd_24Filled } from './IcFluentTableOffsetAdd_24Filled';
-export { default as IcFluentTableOffsetAdd_24Regular } from './IcFluentTableOffsetAdd_24Regular';
+export { default as IcOrigonTableOffsetAdd_20Filled } from './IcOrigonTableOffsetAdd_20Filled';
+export { default as IcOrigonTableOffsetAdd_20Regular } from './IcOrigonTableOffsetAdd_20Regular';
+export { default as IcOrigonTableOffsetAdd_24Filled } from './IcOrigonTableOffsetAdd_24Filled';
+export { default as IcOrigonTableOffsetAdd_24Regular } from './IcOrigonTableOffsetAdd_24Regular';

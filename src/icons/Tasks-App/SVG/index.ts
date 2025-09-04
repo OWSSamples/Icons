@@ -1,6 +1,6 @@
-export { default as IcFluentTasksApp_20Filled } from './IcFluentTasksApp_20Filled';
-export { default as IcFluentTasksApp_20Regular } from './IcFluentTasksApp_20Regular';
-export { default as IcFluentTasksApp_24Filled } from './IcFluentTasksApp_24Filled';
-export { default as IcFluentTasksApp_24Regular } from './IcFluentTasksApp_24Regular';
-export { default as IcFluentTasksApp_28Filled } from './IcFluentTasksApp_28Filled';
-export { default as IcFluentTasksApp_28Regular } from './IcFluentTasksApp_28Regular';
+export { default as IcOrigonTasksApp_20Filled } from './IcOrigonTasksApp_20Filled';
+export { default as IcOrigonTasksApp_20Regular } from './IcOrigonTasksApp_20Regular';
+export { default as IcOrigonTasksApp_24Filled } from './IcOrigonTasksApp_24Filled';
+export { default as IcOrigonTasksApp_24Regular } from './IcOrigonTasksApp_24Regular';
+export { default as IcOrigonTasksApp_28Filled } from './IcOrigonTasksApp_28Filled';
+export { default as IcOrigonTasksApp_28Regular } from './IcOrigonTasksApp_28Regular';

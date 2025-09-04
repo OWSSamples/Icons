@@ -1,2 +1,2 @@
-export { default as IcFluentFolderBriefcase_20Filled } from './IcFluentFolderBriefcase_20Filled';
-export { default as IcFluentFolderBriefcase_20Regular } from './IcFluentFolderBriefcase_20Regular';
+export { default as IcOrigonFolderBriefcase_20Filled } from './IcOrigonFolderBriefcase_20Filled';
+export { default as IcOrigonFolderBriefcase_20Regular } from './IcOrigonFolderBriefcase_20Regular';

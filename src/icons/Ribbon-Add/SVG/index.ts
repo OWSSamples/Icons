@@ -1,4 +1,4 @@
-export { default as IcFluentRibbonAdd_20Filled } from './IcFluentRibbonAdd_20Filled';
-export { default as IcFluentRibbonAdd_20Regular } from './IcFluentRibbonAdd_20Regular';
-export { default as IcFluentRibbonAdd_24Filled } from './IcFluentRibbonAdd_24Filled';
-export { default as IcFluentRibbonAdd_24Regular } from './IcFluentRibbonAdd_24Regular';
+export { default as IcOrigonRibbonAdd_20Filled } from './IcOrigonRibbonAdd_20Filled';
+export { default as IcOrigonRibbonAdd_20Regular } from './IcOrigonRibbonAdd_20Regular';
+export { default as IcOrigonRibbonAdd_24Filled } from './IcOrigonRibbonAdd_24Filled';
+export { default as IcOrigonRibbonAdd_24Regular } from './IcOrigonRibbonAdd_24Regular';

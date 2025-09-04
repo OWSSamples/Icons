@@ -1,6 +1,6 @@
-export { default as IcFluentReOrderDotsHorizontal_16Filled } from './IcFluentReOrderDotsHorizontal_16Filled';
-export { default as IcFluentReOrderDotsHorizontal_16Regular } from './IcFluentReOrderDotsHorizontal_16Regular';
-export { default as IcFluentReOrderDotsHorizontal_20Filled } from './IcFluentReOrderDotsHorizontal_20Filled';
-export { default as IcFluentReOrderDotsHorizontal_20Regular } from './IcFluentReOrderDotsHorizontal_20Regular';
-export { default as IcFluentReOrderDotsHorizontal_24Filled } from './IcFluentReOrderDotsHorizontal_24Filled';
-export { default as IcFluentReOrderDotsHorizontal_24Regular } from './IcFluentReOrderDotsHorizontal_24Regular';
+export { default as IcOrigonReOrderDotsHorizontal_16Filled } from './IcOrigonReOrderDotsHorizontal_16Filled';
+export { default as IcOrigonReOrderDotsHorizontal_16Regular } from './IcOrigonReOrderDotsHorizontal_16Regular';
+export { default as IcOrigonReOrderDotsHorizontal_20Filled } from './IcOrigonReOrderDotsHorizontal_20Filled';
+export { default as IcOrigonReOrderDotsHorizontal_20Regular } from './IcOrigonReOrderDotsHorizontal_20Regular';
+export { default as IcOrigonReOrderDotsHorizontal_24Filled } from './IcOrigonReOrderDotsHorizontal_24Filled';
+export { default as IcOrigonReOrderDotsHorizontal_24Regular } from './IcOrigonReOrderDotsHorizontal_24Regular';

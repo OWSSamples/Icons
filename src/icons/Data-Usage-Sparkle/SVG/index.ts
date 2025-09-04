@@ -1,4 +1,4 @@
-export { default as IcFluentDataUsageSparkle_20Filled } from './IcFluentDataUsageSparkle_20Filled';
-export { default as IcFluentDataUsageSparkle_20Regular } from './IcFluentDataUsageSparkle_20Regular';
-export { default as IcFluentDataUsageSparkle_24Filled } from './IcFluentDataUsageSparkle_24Filled';
-export { default as IcFluentDataUsageSparkle_24Regular } from './IcFluentDataUsageSparkle_24Regular';
+export { default as IcOrigonDataUsageSparkle_20Filled } from './IcOrigonDataUsageSparkle_20Filled';
+export { default as IcOrigonDataUsageSparkle_20Regular } from './IcOrigonDataUsageSparkle_20Regular';
+export { default as IcOrigonDataUsageSparkle_24Filled } from './IcOrigonDataUsageSparkle_24Filled';
+export { default as IcOrigonDataUsageSparkle_24Regular } from './IcOrigonDataUsageSparkle_24Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentRectangleLandscapeSyncOff_16Filled } from './IcFluentRectangleLandscapeSyncOff_16Filled';
-export { default as IcFluentRectangleLandscapeSyncOff_16Regular } from './IcFluentRectangleLandscapeSyncOff_16Regular';
-export { default as IcFluentRectangleLandscapeSyncOff_20Filled } from './IcFluentRectangleLandscapeSyncOff_20Filled';
-export { default as IcFluentRectangleLandscapeSyncOff_20Regular } from './IcFluentRectangleLandscapeSyncOff_20Regular';
-export { default as IcFluentRectangleLandscapeSyncOff_24Filled } from './IcFluentRectangleLandscapeSyncOff_24Filled';
-export { default as IcFluentRectangleLandscapeSyncOff_24Regular } from './IcFluentRectangleLandscapeSyncOff_24Regular';
-export { default as IcFluentRectangleLandscapeSyncOff_28Filled } from './IcFluentRectangleLandscapeSyncOff_28Filled';
-export { default as IcFluentRectangleLandscapeSyncOff_28Regular } from './IcFluentRectangleLandscapeSyncOff_28Regular';
+export { default as IcOrigonRectangleLandscapeSyncOff_16Filled } from './IcOrigonRectangleLandscapeSyncOff_16Filled';
+export { default as IcOrigonRectangleLandscapeSyncOff_16Regular } from './IcOrigonRectangleLandscapeSyncOff_16Regular';
+export { default as IcOrigonRectangleLandscapeSyncOff_20Filled } from './IcOrigonRectangleLandscapeSyncOff_20Filled';
+export { default as IcOrigonRectangleLandscapeSyncOff_20Regular } from './IcOrigonRectangleLandscapeSyncOff_20Regular';
+export { default as IcOrigonRectangleLandscapeSyncOff_24Filled } from './IcOrigonRectangleLandscapeSyncOff_24Filled';
+export { default as IcOrigonRectangleLandscapeSyncOff_24Regular } from './IcOrigonRectangleLandscapeSyncOff_24Regular';
+export { default as IcOrigonRectangleLandscapeSyncOff_28Filled } from './IcOrigonRectangleLandscapeSyncOff_28Filled';
+export { default as IcOrigonRectangleLandscapeSyncOff_28Regular } from './IcOrigonRectangleLandscapeSyncOff_28Regular';

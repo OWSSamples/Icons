@@ -1,4 +1,4 @@
-export { default as IcFluentShiftsDay_20Filled } from './IcFluentShiftsDay_20Filled';
-export { default as IcFluentShiftsDay_20Regular } from './IcFluentShiftsDay_20Regular';
-export { default as IcFluentShiftsDay_24Filled } from './IcFluentShiftsDay_24Filled';
-export { default as IcFluentShiftsDay_24Regular } from './IcFluentShiftsDay_24Regular';
+export { default as IcOrigonShiftsDay_20Filled } from './IcOrigonShiftsDay_20Filled';
+export { default as IcOrigonShiftsDay_20Regular } from './IcOrigonShiftsDay_20Regular';
+export { default as IcOrigonShiftsDay_24Filled } from './IcOrigonShiftsDay_24Filled';
+export { default as IcOrigonShiftsDay_24Regular } from './IcOrigonShiftsDay_24Regular';

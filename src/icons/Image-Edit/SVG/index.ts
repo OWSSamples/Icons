@@ -1,6 +1,6 @@
-export { default as IcFluentImageEdit_16Filled } from './IcFluentImageEdit_16Filled';
-export { default as IcFluentImageEdit_16Regular } from './IcFluentImageEdit_16Regular';
-export { default as IcFluentImageEdit_20Filled } from './IcFluentImageEdit_20Filled';
-export { default as IcFluentImageEdit_20Regular } from './IcFluentImageEdit_20Regular';
-export { default as IcFluentImageEdit_24Filled } from './IcFluentImageEdit_24Filled';
-export { default as IcFluentImageEdit_24Regular } from './IcFluentImageEdit_24Regular';
+export { default as IcOrigonImageEdit_16Filled } from './IcOrigonImageEdit_16Filled';
+export { default as IcOrigonImageEdit_16Regular } from './IcOrigonImageEdit_16Regular';
+export { default as IcOrigonImageEdit_20Filled } from './IcOrigonImageEdit_20Filled';
+export { default as IcOrigonImageEdit_20Regular } from './IcOrigonImageEdit_20Regular';
+export { default as IcOrigonImageEdit_24Filled } from './IcOrigonImageEdit_24Filled';
+export { default as IcOrigonImageEdit_24Regular } from './IcOrigonImageEdit_24Regular';

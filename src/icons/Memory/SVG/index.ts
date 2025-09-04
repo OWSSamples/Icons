@@ -1,2 +1,2 @@
-export { default as IcFluentMemory_16Filled } from './IcFluentMemory_16Filled';
-export { default as IcFluentMemory_16Regular } from './IcFluentMemory_16Regular';
+export { default as IcOrigonMemory_16Filled } from './IcOrigonMemory_16Filled';
+export { default as IcOrigonMemory_16Regular } from './IcOrigonMemory_16Regular';

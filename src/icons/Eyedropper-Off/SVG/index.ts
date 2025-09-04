@@ -1,4 +1,4 @@
-export { default as IcFluentEyedropperOff_20Filled } from './IcFluentEyedropperOff_20Filled';
-export { default as IcFluentEyedropperOff_20Regular } from './IcFluentEyedropperOff_20Regular';
-export { default as IcFluentEyedropperOff_24Filled } from './IcFluentEyedropperOff_24Filled';
-export { default as IcFluentEyedropperOff_24Regular } from './IcFluentEyedropperOff_24Regular';
+export { default as IcOrigonEyedropperOff_20Filled } from './IcOrigonEyedropperOff_20Filled';
+export { default as IcOrigonEyedropperOff_20Regular } from './IcOrigonEyedropperOff_20Regular';
+export { default as IcOrigonEyedropperOff_24Filled } from './IcOrigonEyedropperOff_24Filled';
+export { default as IcOrigonEyedropperOff_24Regular } from './IcOrigonEyedropperOff_24Regular';

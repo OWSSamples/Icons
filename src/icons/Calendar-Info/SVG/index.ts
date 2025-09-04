@@ -1,4 +1,4 @@
-export { default as IcFluentCalendarInfo_16Filled } from './IcFluentCalendarInfo_16Filled';
-export { default as IcFluentCalendarInfo_16Regular } from './IcFluentCalendarInfo_16Regular';
-export { default as IcFluentCalendarInfo_20Filled } from './IcFluentCalendarInfo_20Filled';
-export { default as IcFluentCalendarInfo_20Regular } from './IcFluentCalendarInfo_20Regular';
+export { default as IcOrigonCalendarInfo_16Filled } from './IcOrigonCalendarInfo_16Filled';
+export { default as IcOrigonCalendarInfo_16Regular } from './IcOrigonCalendarInfo_16Regular';
+export { default as IcOrigonCalendarInfo_20Filled } from './IcOrigonCalendarInfo_20Filled';
+export { default as IcOrigonCalendarInfo_20Regular } from './IcOrigonCalendarInfo_20Regular';

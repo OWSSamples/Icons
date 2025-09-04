@@ -1,5 +1,5 @@
-export { default as IcFluentLayoutColumnTwoFocusLeft_16Filled } from './IcFluentLayoutColumnTwoFocusLeft_16Filled';
-export { default as IcFluentLayoutColumnTwoFocusLeft_20Filled } from './IcFluentLayoutColumnTwoFocusLeft_20Filled';
-export { default as IcFluentLayoutColumnTwoFocusLeft_24Filled } from './IcFluentLayoutColumnTwoFocusLeft_24Filled';
-export { default as IcFluentLayoutColumnTwoFocusLeft_32Filled } from './IcFluentLayoutColumnTwoFocusLeft_32Filled';
-export { default as IcFluentLayoutColumnTwoFocusLeft_32Light } from './IcFluentLayoutColumnTwoFocusLeft_32Light';
+export { default as IcOrigonLayoutColumnTwoFocusLeft_16Filled } from './IcOrigonLayoutColumnTwoFocusLeft_16Filled';
+export { default as IcOrigonLayoutColumnTwoFocusLeft_20Filled } from './IcOrigonLayoutColumnTwoFocusLeft_20Filled';
+export { default as IcOrigonLayoutColumnTwoFocusLeft_24Filled } from './IcOrigonLayoutColumnTwoFocusLeft_24Filled';
+export { default as IcOrigonLayoutColumnTwoFocusLeft_32Filled } from './IcOrigonLayoutColumnTwoFocusLeft_32Filled';
+export { default as IcOrigonLayoutColumnTwoFocusLeft_32Light } from './IcOrigonLayoutColumnTwoFocusLeft_32Light';

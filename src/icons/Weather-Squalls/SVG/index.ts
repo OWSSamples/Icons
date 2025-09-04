@@ -1,6 +1,6 @@
-export { default as IcFluentWeatherSqualls_20Filled } from './IcFluentWeatherSqualls_20Filled';
-export { default as IcFluentWeatherSqualls_20Regular } from './IcFluentWeatherSqualls_20Regular';
-export { default as IcFluentWeatherSqualls_24Filled } from './IcFluentWeatherSqualls_24Filled';
-export { default as IcFluentWeatherSqualls_24Regular } from './IcFluentWeatherSqualls_24Regular';
-export { default as IcFluentWeatherSqualls_48Filled } from './IcFluentWeatherSqualls_48Filled';
-export { default as IcFluentWeatherSqualls_48Regular } from './IcFluentWeatherSqualls_48Regular';
+export { default as IcOrigonWeatherSqualls_20Filled } from './IcOrigonWeatherSqualls_20Filled';
+export { default as IcOrigonWeatherSqualls_20Regular } from './IcOrigonWeatherSqualls_20Regular';
+export { default as IcOrigonWeatherSqualls_24Filled } from './IcOrigonWeatherSqualls_24Filled';
+export { default as IcOrigonWeatherSqualls_24Regular } from './IcOrigonWeatherSqualls_24Regular';
+export { default as IcOrigonWeatherSqualls_48Filled } from './IcOrigonWeatherSqualls_48Filled';
+export { default as IcOrigonWeatherSqualls_48Regular } from './IcOrigonWeatherSqualls_48Regular';

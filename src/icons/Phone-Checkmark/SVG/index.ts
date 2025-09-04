@@ -1,4 +1,4 @@
-export { default as IcFluentPhoneCheckmark_16Filled } from './IcFluentPhoneCheckmark_16Filled';
-export { default as IcFluentPhoneCheckmark_16Regular } from './IcFluentPhoneCheckmark_16Regular';
-export { default as IcFluentPhoneCheckmark_20Filled } from './IcFluentPhoneCheckmark_20Filled';
-export { default as IcFluentPhoneCheckmark_20Regular } from './IcFluentPhoneCheckmark_20Regular';
+export { default as IcOrigonPhoneCheckmark_16Filled } from './IcOrigonPhoneCheckmark_16Filled';
+export { default as IcOrigonPhoneCheckmark_16Regular } from './IcOrigonPhoneCheckmark_16Regular';
+export { default as IcOrigonPhoneCheckmark_20Filled } from './IcOrigonPhoneCheckmark_20Filled';
+export { default as IcOrigonPhoneCheckmark_20Regular } from './IcOrigonPhoneCheckmark_20Regular';

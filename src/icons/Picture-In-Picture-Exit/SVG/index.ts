@@ -1,6 +1,6 @@
-export { default as IcFluentPictureInPictureExit_16Filled } from './IcFluentPictureInPictureExit_16Filled';
-export { default as IcFluentPictureInPictureExit_16Regular } from './IcFluentPictureInPictureExit_16Regular';
-export { default as IcFluentPictureInPictureExit_20Filled } from './IcFluentPictureInPictureExit_20Filled';
-export { default as IcFluentPictureInPictureExit_20Regular } from './IcFluentPictureInPictureExit_20Regular';
-export { default as IcFluentPictureInPictureExit_24Filled } from './IcFluentPictureInPictureExit_24Filled';
-export { default as IcFluentPictureInPictureExit_24Regular } from './IcFluentPictureInPictureExit_24Regular';
+export { default as IcOrigonPictureInPictureExit_16Filled } from './IcOrigonPictureInPictureExit_16Filled';
+export { default as IcOrigonPictureInPictureExit_16Regular } from './IcOrigonPictureInPictureExit_16Regular';
+export { default as IcOrigonPictureInPictureExit_20Filled } from './IcOrigonPictureInPictureExit_20Filled';
+export { default as IcOrigonPictureInPictureExit_20Regular } from './IcOrigonPictureInPictureExit_20Regular';
+export { default as IcOrigonPictureInPictureExit_24Filled } from './IcOrigonPictureInPictureExit_24Filled';
+export { default as IcOrigonPictureInPictureExit_24Regular } from './IcOrigonPictureInPictureExit_24Regular';

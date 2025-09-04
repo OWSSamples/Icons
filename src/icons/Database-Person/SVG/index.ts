@@ -1,4 +1,4 @@
-export { default as IcFluentDatabasePerson_20Filled } from './IcFluentDatabasePerson_20Filled';
-export { default as IcFluentDatabasePerson_20Regular } from './IcFluentDatabasePerson_20Regular';
-export { default as IcFluentDatabasePerson_24Filled } from './IcFluentDatabasePerson_24Filled';
-export { default as IcFluentDatabasePerson_24Regular } from './IcFluentDatabasePerson_24Regular';
+export { default as IcOrigonDatabasePerson_20Filled } from './IcOrigonDatabasePerson_20Filled';
+export { default as IcOrigonDatabasePerson_20Regular } from './IcOrigonDatabasePerson_20Regular';
+export { default as IcOrigonDatabasePerson_24Filled } from './IcOrigonDatabasePerson_24Filled';
+export { default as IcOrigonDatabasePerson_24Regular } from './IcOrigonDatabasePerson_24Regular';

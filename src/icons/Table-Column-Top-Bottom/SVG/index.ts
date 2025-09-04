@@ -1,8 +1,8 @@
-export { default as IcFluentTableColumnTopBottom_16Filled } from './IcFluentTableColumnTopBottom_16Filled';
-export { default as IcFluentTableColumnTopBottom_16Regular } from './IcFluentTableColumnTopBottom_16Regular';
-export { default as IcFluentTableColumnTopBottom_20Filled } from './IcFluentTableColumnTopBottom_20Filled';
-export { default as IcFluentTableColumnTopBottom_20Regular } from './IcFluentTableColumnTopBottom_20Regular';
-export { default as IcFluentTableColumnTopBottom_24Filled } from './IcFluentTableColumnTopBottom_24Filled';
-export { default as IcFluentTableColumnTopBottom_24Regular } from './IcFluentTableColumnTopBottom_24Regular';
-export { default as IcFluentTableColumnTopBottom_28Filled } from './IcFluentTableColumnTopBottom_28Filled';
-export { default as IcFluentTableColumnTopBottom_28Regular } from './IcFluentTableColumnTopBottom_28Regular';
+export { default as IcOrigonTableColumnTopBottom_16Filled } from './IcOrigonTableColumnTopBottom_16Filled';
+export { default as IcOrigonTableColumnTopBottom_16Regular } from './IcOrigonTableColumnTopBottom_16Regular';
+export { default as IcOrigonTableColumnTopBottom_20Filled } from './IcOrigonTableColumnTopBottom_20Filled';
+export { default as IcOrigonTableColumnTopBottom_20Regular } from './IcOrigonTableColumnTopBottom_20Regular';
+export { default as IcOrigonTableColumnTopBottom_24Filled } from './IcOrigonTableColumnTopBottom_24Filled';
+export { default as IcOrigonTableColumnTopBottom_24Regular } from './IcOrigonTableColumnTopBottom_24Regular';
+export { default as IcOrigonTableColumnTopBottom_28Filled } from './IcOrigonTableColumnTopBottom_28Filled';
+export { default as IcOrigonTableColumnTopBottom_28Regular } from './IcOrigonTableColumnTopBottom_28Regular';

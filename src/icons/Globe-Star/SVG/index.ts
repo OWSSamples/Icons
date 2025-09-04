@@ -1,4 +1,4 @@
-export { default as IcFluentGlobeStar_16Filled } from './IcFluentGlobeStar_16Filled';
-export { default as IcFluentGlobeStar_16Regular } from './IcFluentGlobeStar_16Regular';
-export { default as IcFluentGlobeStar_20Filled } from './IcFluentGlobeStar_20Filled';
-export { default as IcFluentGlobeStar_20Regular } from './IcFluentGlobeStar_20Regular';
+export { default as IcOrigonGlobeStar_16Filled } from './IcOrigonGlobeStar_16Filled';
+export { default as IcOrigonGlobeStar_16Regular } from './IcOrigonGlobeStar_16Regular';
+export { default as IcOrigonGlobeStar_20Filled } from './IcOrigonGlobeStar_20Filled';
+export { default as IcOrigonGlobeStar_20Regular } from './IcOrigonGlobeStar_20Regular';

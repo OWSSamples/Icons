@@ -1,4 +1,4 @@
-export { default as IcFluentPhoneVerticalScroll_20Filled } from './IcFluentPhoneVerticalScroll_20Filled';
-export { default as IcFluentPhoneVerticalScroll_20Regular } from './IcFluentPhoneVerticalScroll_20Regular';
-export { default as IcFluentPhoneVerticalScroll_24Filled } from './IcFluentPhoneVerticalScroll_24Filled';
-export { default as IcFluentPhoneVerticalScroll_24Regular } from './IcFluentPhoneVerticalScroll_24Regular';
+export { default as IcOrigonPhoneVerticalScroll_20Filled } from './IcOrigonPhoneVerticalScroll_20Filled';
+export { default as IcOrigonPhoneVerticalScroll_20Regular } from './IcOrigonPhoneVerticalScroll_20Regular';
+export { default as IcOrigonPhoneVerticalScroll_24Filled } from './IcOrigonPhoneVerticalScroll_24Filled';
+export { default as IcOrigonPhoneVerticalScroll_24Regular } from './IcOrigonPhoneVerticalScroll_24Regular';

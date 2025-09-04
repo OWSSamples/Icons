@@ -1,4 +1,4 @@
-export { default as IcFluentGlobeSearch_20Filled } from './IcFluentGlobeSearch_20Filled';
-export { default as IcFluentGlobeSearch_20Regular } from './IcFluentGlobeSearch_20Regular';
-export { default as IcFluentGlobeSearch_24Filled } from './IcFluentGlobeSearch_24Filled';
-export { default as IcFluentGlobeSearch_24Regular } from './IcFluentGlobeSearch_24Regular';
+export { default as IcOrigonGlobeSearch_20Filled } from './IcOrigonGlobeSearch_20Filled';
+export { default as IcOrigonGlobeSearch_20Regular } from './IcOrigonGlobeSearch_20Regular';
+export { default as IcOrigonGlobeSearch_24Filled } from './IcOrigonGlobeSearch_24Filled';
+export { default as IcOrigonGlobeSearch_24Regular } from './IcOrigonGlobeSearch_24Regular';

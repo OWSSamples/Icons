@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentMultipleProhibited_20Filled } from './IcFluentDocumentMultipleProhibited_20Filled';
-export { default as IcFluentDocumentMultipleProhibited_20Regular } from './IcFluentDocumentMultipleProhibited_20Regular';
-export { default as IcFluentDocumentMultipleProhibited_24Filled } from './IcFluentDocumentMultipleProhibited_24Filled';
-export { default as IcFluentDocumentMultipleProhibited_24Regular } from './IcFluentDocumentMultipleProhibited_24Regular';
+export { default as IcOrigonDocumentMultipleProhibited_20Filled } from './IcOrigonDocumentMultipleProhibited_20Filled';
+export { default as IcOrigonDocumentMultipleProhibited_20Regular } from './IcOrigonDocumentMultipleProhibited_20Regular';
+export { default as IcOrigonDocumentMultipleProhibited_24Filled } from './IcOrigonDocumentMultipleProhibited_24Filled';
+export { default as IcOrigonDocumentMultipleProhibited_24Regular } from './IcOrigonDocumentMultipleProhibited_24Regular';

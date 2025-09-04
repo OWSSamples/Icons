@@ -1,4 +1,4 @@
-export { default as IcFluentTextUnderlineDouble_20Filled } from './IcFluentTextUnderlineDouble_20Filled';
-export { default as IcFluentTextUnderlineDouble_20Regular } from './IcFluentTextUnderlineDouble_20Regular';
-export { default as IcFluentTextUnderlineDouble_24Filled } from './IcFluentTextUnderlineDouble_24Filled';
-export { default as IcFluentTextUnderlineDouble_24Regular } from './IcFluentTextUnderlineDouble_24Regular';
+export { default as IcOrigonTextUnderlineDouble_20Filled } from './IcOrigonTextUnderlineDouble_20Filled';
+export { default as IcOrigonTextUnderlineDouble_20Regular } from './IcOrigonTextUnderlineDouble_20Regular';
+export { default as IcOrigonTextUnderlineDouble_24Filled } from './IcOrigonTextUnderlineDouble_24Filled';
+export { default as IcOrigonTextUnderlineDouble_24Regular } from './IcOrigonTextUnderlineDouble_24Regular';

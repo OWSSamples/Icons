@@ -1,6 +1,6 @@
-export { default as IcFluentLaptopBriefcase_20Filled } from './IcFluentLaptopBriefcase_20Filled';
-export { default as IcFluentLaptopBriefcase_20Regular } from './IcFluentLaptopBriefcase_20Regular';
-export { default as IcFluentLaptopBriefcase_24Filled } from './IcFluentLaptopBriefcase_24Filled';
-export { default as IcFluentLaptopBriefcase_24Regular } from './IcFluentLaptopBriefcase_24Regular';
-export { default as IcFluentLaptopBriefcase_32Filled } from './IcFluentLaptopBriefcase_32Filled';
-export { default as IcFluentLaptopBriefcase_32Regular } from './IcFluentLaptopBriefcase_32Regular';
+export { default as IcOrigonLaptopBriefcase_20Filled } from './IcOrigonLaptopBriefcase_20Filled';
+export { default as IcOrigonLaptopBriefcase_20Regular } from './IcOrigonLaptopBriefcase_20Regular';
+export { default as IcOrigonLaptopBriefcase_24Filled } from './IcOrigonLaptopBriefcase_24Filled';
+export { default as IcOrigonLaptopBriefcase_24Regular } from './IcOrigonLaptopBriefcase_24Regular';
+export { default as IcOrigonLaptopBriefcase_32Filled } from './IcOrigonLaptopBriefcase_32Filled';
+export { default as IcOrigonLaptopBriefcase_32Regular } from './IcOrigonLaptopBriefcase_32Regular';

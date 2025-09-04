@@ -1,2 +1,2 @@
-export { default as IcFluentTextAbcUnderlineDouble_32Filled } from './IcFluentTextAbcUnderlineDouble_32Filled';
-export { default as IcFluentTextAbcUnderlineDouble_32Regular } from './IcFluentTextAbcUnderlineDouble_32Regular';
+export { default as IcOrigonTextAbcUnderlineDouble_32Filled } from './IcOrigonTextAbcUnderlineDouble_32Filled';
+export { default as IcOrigonTextAbcUnderlineDouble_32Regular } from './IcOrigonTextAbcUnderlineDouble_32Regular';

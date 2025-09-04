@@ -1,2 +1,2 @@
-export { default as IcFluentSearchShield_20Filled } from './IcFluentSearchShield_20Filled';
-export { default as IcFluentSearchShield_20Regular } from './IcFluentSearchShield_20Regular';
+export { default as IcOrigonSearchShield_20Filled } from './IcOrigonSearchShield_20Filled';
+export { default as IcOrigonSearchShield_20Regular } from './IcOrigonSearchShield_20Regular';

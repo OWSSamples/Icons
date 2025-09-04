@@ -1,6 +1,6 @@
-export { default as IcFluentTabDesktopMultipleSparkle_16Filled } from './IcFluentTabDesktopMultipleSparkle_16Filled';
-export { default as IcFluentTabDesktopMultipleSparkle_16Regular } from './IcFluentTabDesktopMultipleSparkle_16Regular';
-export { default as IcFluentTabDesktopMultipleSparkle_20Filled } from './IcFluentTabDesktopMultipleSparkle_20Filled';
-export { default as IcFluentTabDesktopMultipleSparkle_20Regular } from './IcFluentTabDesktopMultipleSparkle_20Regular';
-export { default as IcFluentTabDesktopMultipleSparkle_24Filled } from './IcFluentTabDesktopMultipleSparkle_24Filled';
-export { default as IcFluentTabDesktopMultipleSparkle_24Regular } from './IcFluentTabDesktopMultipleSparkle_24Regular';
+export { default as IcOrigonTabDesktopMultipleSparkle_16Filled } from './IcOrigonTabDesktopMultipleSparkle_16Filled';
+export { default as IcOrigonTabDesktopMultipleSparkle_16Regular } from './IcOrigonTabDesktopMultipleSparkle_16Regular';
+export { default as IcOrigonTabDesktopMultipleSparkle_20Filled } from './IcOrigonTabDesktopMultipleSparkle_20Filled';
+export { default as IcOrigonTabDesktopMultipleSparkle_20Regular } from './IcOrigonTabDesktopMultipleSparkle_20Regular';
+export { default as IcOrigonTabDesktopMultipleSparkle_24Filled } from './IcOrigonTabDesktopMultipleSparkle_24Filled';
+export { default as IcOrigonTabDesktopMultipleSparkle_24Regular } from './IcOrigonTabDesktopMultipleSparkle_24Regular';

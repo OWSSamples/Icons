@@ -1,4 +1,4 @@
-export { default as IcFluentTextWordCount_20Filled } from './IcFluentTextWordCount_20Filled';
-export { default as IcFluentTextWordCount_20Regular } from './IcFluentTextWordCount_20Regular';
-export { default as IcFluentTextWordCount_24Filled } from './IcFluentTextWordCount_24Filled';
-export { default as IcFluentTextWordCount_24Regular } from './IcFluentTextWordCount_24Regular';
+export { default as IcOrigonTextWordCount_20Filled } from './IcOrigonTextWordCount_20Filled';
+export { default as IcOrigonTextWordCount_20Regular } from './IcOrigonTextWordCount_20Regular';
+export { default as IcOrigonTextWordCount_24Filled } from './IcOrigonTextWordCount_24Filled';
+export { default as IcOrigonTextWordCount_24Regular } from './IcOrigonTextWordCount_24Regular';

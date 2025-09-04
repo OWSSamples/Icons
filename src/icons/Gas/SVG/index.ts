@@ -1,4 +1,4 @@
-export { default as IcFluentGas_20Filled } from './IcFluentGas_20Filled';
-export { default as IcFluentGas_20Regular } from './IcFluentGas_20Regular';
-export { default as IcFluentGas_24Filled } from './IcFluentGas_24Filled';
-export { default as IcFluentGas_24Regular } from './IcFluentGas_24Regular';
+export { default as IcOrigonGas_20Filled } from './IcOrigonGas_20Filled';
+export { default as IcOrigonGas_20Regular } from './IcOrigonGas_20Regular';
+export { default as IcOrigonGas_24Filled } from './IcOrigonGas_24Filled';
+export { default as IcOrigonGas_24Regular } from './IcOrigonGas_24Regular';

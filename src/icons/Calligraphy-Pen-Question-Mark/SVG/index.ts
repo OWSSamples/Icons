@@ -1,2 +1,2 @@
-export { default as IcFluentCalligraphyPenQuestionMark_20Filled } from './IcFluentCalligraphyPenQuestionMark_20Filled';
-export { default as IcFluentCalligraphyPenQuestionMark_20Regular } from './IcFluentCalligraphyPenQuestionMark_20Regular';
+export { default as IcOrigonCalligraphyPenQuestionMark_20Filled } from './IcOrigonCalligraphyPenQuestionMark_20Filled';
+export { default as IcOrigonCalligraphyPenQuestionMark_20Regular } from './IcOrigonCalligraphyPenQuestionMark_20Regular';

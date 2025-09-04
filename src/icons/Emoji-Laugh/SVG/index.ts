@@ -1,6 +1,6 @@
-export { default as IcFluentEmojiLaugh_16Filled } from './IcFluentEmojiLaugh_16Filled';
-export { default as IcFluentEmojiLaugh_16Regular } from './IcFluentEmojiLaugh_16Regular';
-export { default as IcFluentEmojiLaugh_20Filled } from './IcFluentEmojiLaugh_20Filled';
-export { default as IcFluentEmojiLaugh_20Regular } from './IcFluentEmojiLaugh_20Regular';
-export { default as IcFluentEmojiLaugh_24Filled } from './IcFluentEmojiLaugh_24Filled';
-export { default as IcFluentEmojiLaugh_24Regular } from './IcFluentEmojiLaugh_24Regular';
+export { default as IcOrigonEmojiLaugh_16Filled } from './IcOrigonEmojiLaugh_16Filled';
+export { default as IcOrigonEmojiLaugh_16Regular } from './IcOrigonEmojiLaugh_16Regular';
+export { default as IcOrigonEmojiLaugh_20Filled } from './IcOrigonEmojiLaugh_20Filled';
+export { default as IcOrigonEmojiLaugh_20Regular } from './IcOrigonEmojiLaugh_20Regular';
+export { default as IcOrigonEmojiLaugh_24Filled } from './IcOrigonEmojiLaugh_24Filled';
+export { default as IcOrigonEmojiLaugh_24Regular } from './IcOrigonEmojiLaugh_24Regular';

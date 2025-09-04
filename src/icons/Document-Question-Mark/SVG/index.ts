@@ -1,6 +1,6 @@
-export { default as IcFluentDocumentQuestionMark_16Filled } from './IcFluentDocumentQuestionMark_16Filled';
-export { default as IcFluentDocumentQuestionMark_16Regular } from './IcFluentDocumentQuestionMark_16Regular';
-export { default as IcFluentDocumentQuestionMark_20Filled } from './IcFluentDocumentQuestionMark_20Filled';
-export { default as IcFluentDocumentQuestionMark_20Regular } from './IcFluentDocumentQuestionMark_20Regular';
-export { default as IcFluentDocumentQuestionMark_24Filled } from './IcFluentDocumentQuestionMark_24Filled';
-export { default as IcFluentDocumentQuestionMark_24Regular } from './IcFluentDocumentQuestionMark_24Regular';
+export { default as IcOrigonDocumentQuestionMark_16Filled } from './IcOrigonDocumentQuestionMark_16Filled';
+export { default as IcOrigonDocumentQuestionMark_16Regular } from './IcOrigonDocumentQuestionMark_16Regular';
+export { default as IcOrigonDocumentQuestionMark_20Filled } from './IcOrigonDocumentQuestionMark_20Filled';
+export { default as IcOrigonDocumentQuestionMark_20Regular } from './IcOrigonDocumentQuestionMark_20Regular';
+export { default as IcOrigonDocumentQuestionMark_24Filled } from './IcOrigonDocumentQuestionMark_24Filled';
+export { default as IcOrigonDocumentQuestionMark_24Regular } from './IcOrigonDocumentQuestionMark_24Regular';

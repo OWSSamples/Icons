@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenVibrate_20Filled } from './IcFluentDualScreenVibrate_20Filled';
-export { default as IcFluentDualScreenVibrate_20Regular } from './IcFluentDualScreenVibrate_20Regular';
-export { default as IcFluentDualScreenVibrate_24Filled } from './IcFluentDualScreenVibrate_24Filled';
-export { default as IcFluentDualScreenVibrate_24Regular } from './IcFluentDualScreenVibrate_24Regular';
+export { default as IcOrigonDualScreenVibrate_20Filled } from './IcOrigonDualScreenVibrate_20Filled';
+export { default as IcOrigonDualScreenVibrate_20Regular } from './IcOrigonDualScreenVibrate_20Regular';
+export { default as IcOrigonDualScreenVibrate_24Filled } from './IcOrigonDualScreenVibrate_24Filled';
+export { default as IcOrigonDualScreenVibrate_24Regular } from './IcOrigonDualScreenVibrate_24Regular';

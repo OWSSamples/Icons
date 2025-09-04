@@ -1,4 +1,4 @@
-export { default as IcFluentPhonePageHeader_20Filled } from './IcFluentPhonePageHeader_20Filled';
-export { default as IcFluentPhonePageHeader_20Regular } from './IcFluentPhonePageHeader_20Regular';
-export { default as IcFluentPhonePageHeader_24Filled } from './IcFluentPhonePageHeader_24Filled';
-export { default as IcFluentPhonePageHeader_24Regular } from './IcFluentPhonePageHeader_24Regular';
+export { default as IcOrigonPhonePageHeader_20Filled } from './IcOrigonPhonePageHeader_20Filled';
+export { default as IcOrigonPhonePageHeader_20Regular } from './IcOrigonPhonePageHeader_20Regular';
+export { default as IcOrigonPhonePageHeader_24Filled } from './IcOrigonPhonePageHeader_24Filled';
+export { default as IcOrigonPhonePageHeader_24Regular } from './IcOrigonPhonePageHeader_24Regular';

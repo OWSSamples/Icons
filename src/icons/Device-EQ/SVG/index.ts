@@ -1,6 +1,6 @@
-export { default as IcFluentDeviceEq_16Filled } from './IcFluentDeviceEq_16Filled';
-export { default as IcFluentDeviceEq_16Regular } from './IcFluentDeviceEq_16Regular';
-export { default as IcFluentDeviceEq_20Filled } from './IcFluentDeviceEq_20Filled';
-export { default as IcFluentDeviceEq_20Regular } from './IcFluentDeviceEq_20Regular';
-export { default as IcFluentDeviceEq_24Filled } from './IcFluentDeviceEq_24Filled';
-export { default as IcFluentDeviceEq_24Regular } from './IcFluentDeviceEq_24Regular';
+export { default as IcOrigonDeviceEq_16Filled } from './IcOrigonDeviceEq_16Filled';
+export { default as IcOrigonDeviceEq_16Regular } from './IcOrigonDeviceEq_16Regular';
+export { default as IcOrigonDeviceEq_20Filled } from './IcOrigonDeviceEq_20Filled';
+export { default as IcOrigonDeviceEq_20Regular } from './IcOrigonDeviceEq_20Regular';
+export { default as IcOrigonDeviceEq_24Filled } from './IcOrigonDeviceEq_24Filled';
+export { default as IcOrigonDeviceEq_24Regular } from './IcOrigonDeviceEq_24Regular';

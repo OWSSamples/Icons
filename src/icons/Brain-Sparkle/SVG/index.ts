@@ -1,2 +1,2 @@
-export { default as IcFluentBrainSparkle_20Filled } from './IcFluentBrainSparkle_20Filled';
-export { default as IcFluentBrainSparkle_20Regular } from './IcFluentBrainSparkle_20Regular';
+export { default as IcOrigonBrainSparkle_20Filled } from './IcOrigonBrainSparkle_20Filled';
+export { default as IcOrigonBrainSparkle_20Regular } from './IcOrigonBrainSparkle_20Regular';

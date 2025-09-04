@@ -1,6 +1,6 @@
-export { default as IcFluentDesktopSync_16Filled } from './IcFluentDesktopSync_16Filled';
-export { default as IcFluentDesktopSync_16Regular } from './IcFluentDesktopSync_16Regular';
-export { default as IcFluentDesktopSync_20Filled } from './IcFluentDesktopSync_20Filled';
-export { default as IcFluentDesktopSync_20Regular } from './IcFluentDesktopSync_20Regular';
-export { default as IcFluentDesktopSync_24Filled } from './IcFluentDesktopSync_24Filled';
-export { default as IcFluentDesktopSync_24Regular } from './IcFluentDesktopSync_24Regular';
+export { default as IcOrigonDesktopSync_16Filled } from './IcOrigonDesktopSync_16Filled';
+export { default as IcOrigonDesktopSync_16Regular } from './IcOrigonDesktopSync_16Regular';
+export { default as IcOrigonDesktopSync_20Filled } from './IcOrigonDesktopSync_20Filled';
+export { default as IcOrigonDesktopSync_20Regular } from './IcOrigonDesktopSync_20Regular';
+export { default as IcOrigonDesktopSync_24Filled } from './IcOrigonDesktopSync_24Filled';
+export { default as IcOrigonDesktopSync_24Regular } from './IcOrigonDesktopSync_24Regular';

@@ -1,3 +1,3 @@
-export { default as IcFluentLayoutColumnTwoSplitRightFocusBottomRight_16Filled } from './IcFluentLayoutColumnTwoSplitRightFocusBottomRight_16Filled';
-export { default as IcFluentLayoutColumnTwoSplitRightFocusBottomRight_20Filled } from './IcFluentLayoutColumnTwoSplitRightFocusBottomRight_20Filled';
-export { default as IcFluentLayoutColumnTwoSplitRightFocusBottomRight_24Filled } from './IcFluentLayoutColumnTwoSplitRightFocusBottomRight_24Filled';
+export { default as IcOrigonLayoutColumnTwoSplitRightFocusBottomRight_16Filled } from './IcOrigonLayoutColumnTwoSplitRightFocusBottomRight_16Filled';
+export { default as IcOrigonLayoutColumnTwoSplitRightFocusBottomRight_20Filled } from './IcOrigonLayoutColumnTwoSplitRightFocusBottomRight_20Filled';
+export { default as IcOrigonLayoutColumnTwoSplitRightFocusBottomRight_24Filled } from './IcOrigonLayoutColumnTwoSplitRightFocusBottomRight_24Filled';

@@ -1,4 +1,4 @@
-export { default as IcFluentPredictions_20Filled } from './IcFluentPredictions_20Filled';
-export { default as IcFluentPredictions_20Regular } from './IcFluentPredictions_20Regular';
-export { default as IcFluentPredictions_24Filled } from './IcFluentPredictions_24Filled';
-export { default as IcFluentPredictions_24Regular } from './IcFluentPredictions_24Regular';
+export { default as IcOrigonPredictions_20Filled } from './IcOrigonPredictions_20Filled';
+export { default as IcOrigonPredictions_20Regular } from './IcOrigonPredictions_20Regular';
+export { default as IcOrigonPredictions_24Filled } from './IcOrigonPredictions_24Filled';
+export { default as IcOrigonPredictions_24Regular } from './IcOrigonPredictions_24Regular';

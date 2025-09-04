@@ -1,2 +1,2 @@
-export { default as IcFluentBoardGames_20Filled } from './IcFluentBoardGames_20Filled';
-export { default as IcFluentBoardGames_20Regular } from './IcFluentBoardGames_20Regular';
+export { default as IcOrigonBoardGames_20Filled } from './IcOrigonBoardGames_20Filled';
+export { default as IcOrigonBoardGames_20Regular } from './IcOrigonBoardGames_20Regular';

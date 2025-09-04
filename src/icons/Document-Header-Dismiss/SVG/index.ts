@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentHeaderDismiss_20Filled } from './IcFluentDocumentHeaderDismiss_20Filled';
-export { default as IcFluentDocumentHeaderDismiss_20Regular } from './IcFluentDocumentHeaderDismiss_20Regular';
-export { default as IcFluentDocumentHeaderDismiss_24Filled } from './IcFluentDocumentHeaderDismiss_24Filled';
-export { default as IcFluentDocumentHeaderDismiss_24Regular } from './IcFluentDocumentHeaderDismiss_24Regular';
+export { default as IcOrigonDocumentHeaderDismiss_20Filled } from './IcOrigonDocumentHeaderDismiss_20Filled';
+export { default as IcOrigonDocumentHeaderDismiss_20Regular } from './IcOrigonDocumentHeaderDismiss_20Regular';
+export { default as IcOrigonDocumentHeaderDismiss_24Filled } from './IcOrigonDocumentHeaderDismiss_24Filled';
+export { default as IcOrigonDocumentHeaderDismiss_24Regular } from './IcOrigonDocumentHeaderDismiss_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentCellularOff_20Filled } from './IcFluentCellularOff_20Filled';
-export { default as IcFluentCellularOff_20Regular } from './IcFluentCellularOff_20Regular';
-export { default as IcFluentCellularOff_24Filled } from './IcFluentCellularOff_24Filled';
-export { default as IcFluentCellularOff_24Regular } from './IcFluentCellularOff_24Regular';
+export { default as IcOrigonCellularOff_20Filled } from './IcOrigonCellularOff_20Filled';
+export { default as IcOrigonCellularOff_20Regular } from './IcOrigonCellularOff_20Regular';
+export { default as IcOrigonCellularOff_24Filled } from './IcOrigonCellularOff_24Filled';
+export { default as IcOrigonCellularOff_24Regular } from './IcOrigonCellularOff_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentSlideContent_24Filled } from './IcFluentSlideContent_24Filled';
-export { default as IcFluentSlideContent_24Regular } from './IcFluentSlideContent_24Regular';
+export { default as IcOrigonSlideContent_24Filled } from './IcOrigonSlideContent_24Filled';
+export { default as IcOrigonSlideContent_24Regular } from './IcOrigonSlideContent_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentCheckmarkCircleSquare_16Filled } from './IcFluentCheckmarkCircleSquare_16Filled';
-export { default as IcFluentCheckmarkCircleSquare_16Regular } from './IcFluentCheckmarkCircleSquare_16Regular';
-export { default as IcFluentCheckmarkCircleSquare_20Filled } from './IcFluentCheckmarkCircleSquare_20Filled';
-export { default as IcFluentCheckmarkCircleSquare_20Regular } from './IcFluentCheckmarkCircleSquare_20Regular';
-export { default as IcFluentCheckmarkCircleSquare_24Filled } from './IcFluentCheckmarkCircleSquare_24Filled';
-export { default as IcFluentCheckmarkCircleSquare_24Regular } from './IcFluentCheckmarkCircleSquare_24Regular';
+export { default as IcOrigonCheckmarkCircleSquare_16Filled } from './IcOrigonCheckmarkCircleSquare_16Filled';
+export { default as IcOrigonCheckmarkCircleSquare_16Regular } from './IcOrigonCheckmarkCircleSquare_16Regular';
+export { default as IcOrigonCheckmarkCircleSquare_20Filled } from './IcOrigonCheckmarkCircleSquare_20Filled';
+export { default as IcOrigonCheckmarkCircleSquare_20Regular } from './IcOrigonCheckmarkCircleSquare_20Regular';
+export { default as IcOrigonCheckmarkCircleSquare_24Filled } from './IcOrigonCheckmarkCircleSquare_24Filled';
+export { default as IcOrigonCheckmarkCircleSquare_24Regular } from './IcOrigonCheckmarkCircleSquare_24Regular';

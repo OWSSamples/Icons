@@ -1,4 +1,4 @@
-export { default as IcFluentTaskListRtl_20Filled } from './IcFluentTaskListRtl_20Filled';
-export { default as IcFluentTaskListRtl_20Regular } from './IcFluentTaskListRtl_20Regular';
-export { default as IcFluentTaskListRtl_24Filled } from './IcFluentTaskListRtl_24Filled';
-export { default as IcFluentTaskListRtl_24Regular } from './IcFluentTaskListRtl_24Regular';
+export { default as IcOrigonTaskListRtl_20Filled } from './IcOrigonTaskListRtl_20Filled';
+export { default as IcOrigonTaskListRtl_20Regular } from './IcOrigonTaskListRtl_20Regular';
+export { default as IcOrigonTaskListRtl_24Filled } from './IcOrigonTaskListRtl_24Filled';
+export { default as IcOrigonTaskListRtl_24Regular } from './IcOrigonTaskListRtl_24Regular';

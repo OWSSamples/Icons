@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonPuzzlePiece_20Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M11 2a2 2 0 0 0-2 2H6.5A1.5 1.5 0 0 0 5 5.5V8a2 2 0 1 0 0 4v2.5A1.5 1.5 0 0 0 6.5 16H9a2 2 0 1 0 4 0h2.5a1.5 1.5 0 0 0 1.5-1.5V12h-1a2 2 0 1 1 0-4h1V5.5A1.5 1.5 0 0 0 15.5 4H13a2 2 0 0 0-2-2"/><path fill="currentColor" fill-opacity=".7" d="M11 2a2 2 0 0 0-2 2H6.5A1.5 1.5 0 0 0 5 5.5V8a2 2 0 1 0 0 4v2.5A1.5 1.5 0 0 0 6.5 16H9a2 2 0 1 0 4 0h2.5a1.5 1.5 0 0 0 1.5-1.5V12h-1a2 2 0 1 1 0-4h1V5.5A1.5 1.5 0 0 0 15.5 4H13a2 2 0 0 0-2-2"/><defs><linearGradient id="a" x1="5.333" x2="14.028" y1="1.111" y2="18.017" gradientUnits="userSpaceOnUse"><stop stop-color="#1EC8B0"/><stop offset="1" stop-color="#2764E7"/></linearGradient><linearGradient id="b" x1="12.167" x2="15.748" y1="3.965" y2="19.535" gradientUnits="userSpaceOnUse"><stop offset=".533" stop-color="#FF6CE8" stop-opacity="0"/><stop offset="1" stop-color="#FF6CE8"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcOrigonPuzzlePiece_20Color;

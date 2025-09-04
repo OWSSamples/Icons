@@ -1,6 +1,6 @@
-export { default as IcFluentGlobeSync_16Filled } from './IcFluentGlobeSync_16Filled';
-export { default as IcFluentGlobeSync_16Regular } from './IcFluentGlobeSync_16Regular';
-export { default as IcFluentGlobeSync_20Filled } from './IcFluentGlobeSync_20Filled';
-export { default as IcFluentGlobeSync_20Regular } from './IcFluentGlobeSync_20Regular';
-export { default as IcFluentGlobeSync_24Filled } from './IcFluentGlobeSync_24Filled';
-export { default as IcFluentGlobeSync_24Regular } from './IcFluentGlobeSync_24Regular';
+export { default as IcOrigonGlobeSync_16Filled } from './IcOrigonGlobeSync_16Filled';
+export { default as IcOrigonGlobeSync_16Regular } from './IcOrigonGlobeSync_16Regular';
+export { default as IcOrigonGlobeSync_20Filled } from './IcOrigonGlobeSync_20Filled';
+export { default as IcOrigonGlobeSync_20Regular } from './IcOrigonGlobeSync_20Regular';
+export { default as IcOrigonGlobeSync_24Filled } from './IcOrigonGlobeSync_24Filled';
+export { default as IcOrigonGlobeSync_24Regular } from './IcOrigonGlobeSync_24Regular';

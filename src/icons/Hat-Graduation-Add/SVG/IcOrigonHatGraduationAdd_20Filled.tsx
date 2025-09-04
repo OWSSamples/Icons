@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonHatGraduationAdd_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M19 5.5a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0m-4-2a.5.5 0 0 0-1 0V5h-1.5a.5.5 0 0 0 0 1H14v1.5a.5.5 0 0 0 1 0V6h1.5a.5.5 0 0 0 0-1H15zm-3.506 9.099 2.792-1.603a5.5 5.5 0 0 1-4.702-7.964c-.374.052-.74.175-1.078.369l-7.244 4.16A.5.5 0 0 0 1 8v5.5a.5.5 0 1 0 1 0V8.864l6.506 3.735a3 3 0 0 0 2.988 0M4 14.499v-3.334l4.008 2.301a4 4 0 0 0 3.984 0L16 11.165V14.5a.5.5 0 0 1-.146.354l-.002.001-.002.002-.007.007-.023.022-.08.074a6 6 0 0 1-.301.248 8 8 0 0 1-1.141.733A9.1 9.1 0 0 1 10 17a9.1 9.1 0 0 1-4.298-1.059 8 8 0 0 1-1.14-.733 6 6 0 0 1-.382-.322l-.023-.022A.5.5 0 0 1 4 14.5"/>
+  </IconBase>
+);
+
+export default IcOrigonHatGraduationAdd_20Filled;

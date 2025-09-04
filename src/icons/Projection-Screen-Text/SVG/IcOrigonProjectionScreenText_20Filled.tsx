@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonProjectionScreenText_20Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M1 3.5A1.5 1.5 0 0 1 2.5 2h15a1.5 1.5 0 0 1 .5 2.915V12a3 3 0 0 1-3 3h-4.5v2h3a.5.5 0 0 1 0 1h-7a.5.5 0 0 1 0-1h3v-2H5a3 3 0 0 1-3-3V4.915A1.5 1.5 0 0 1 1 3.5M7.5 7a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1zM6 9.5a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7a.5.5 0 0 0-.5.5M7.5 11a.5.5 0 0 0 0 1h5a.5.5 0 0 0 0-1z"/>
+  </IconBase>
+);
+
+export default IcOrigonProjectionScreenText_20Filled;

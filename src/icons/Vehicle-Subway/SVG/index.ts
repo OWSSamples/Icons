@@ -1,6 +1,6 @@
-export { default as IcFluentVehicleSubway_16Filled } from './IcFluentVehicleSubway_16Filled';
-export { default as IcFluentVehicleSubway_16Regular } from './IcFluentVehicleSubway_16Regular';
-export { default as IcFluentVehicleSubway_20Filled } from './IcFluentVehicleSubway_20Filled';
-export { default as IcFluentVehicleSubway_20Regular } from './IcFluentVehicleSubway_20Regular';
-export { default as IcFluentVehicleSubway_24Filled } from './IcFluentVehicleSubway_24Filled';
-export { default as IcFluentVehicleSubway_24Regular } from './IcFluentVehicleSubway_24Regular';
+export { default as IcOrigonVehicleSubway_16Filled } from './IcOrigonVehicleSubway_16Filled';
+export { default as IcOrigonVehicleSubway_16Regular } from './IcOrigonVehicleSubway_16Regular';
+export { default as IcOrigonVehicleSubway_20Filled } from './IcOrigonVehicleSubway_20Filled';
+export { default as IcOrigonVehicleSubway_20Regular } from './IcOrigonVehicleSubway_20Regular';
+export { default as IcOrigonVehicleSubway_24Filled } from './IcOrigonVehicleSubway_24Filled';
+export { default as IcOrigonVehicleSubway_24Regular } from './IcOrigonVehicleSubway_24Regular';

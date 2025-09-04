@@ -1,6 +1,6 @@
-export { default as IcFluentHomeCheckmark_16Filled } from './IcFluentHomeCheckmark_16Filled';
-export { default as IcFluentHomeCheckmark_16Regular } from './IcFluentHomeCheckmark_16Regular';
-export { default as IcFluentHomeCheckmark_20Filled } from './IcFluentHomeCheckmark_20Filled';
-export { default as IcFluentHomeCheckmark_20Regular } from './IcFluentHomeCheckmark_20Regular';
-export { default as IcFluentHomeCheckmark_24Filled } from './IcFluentHomeCheckmark_24Filled';
-export { default as IcFluentHomeCheckmark_24Regular } from './IcFluentHomeCheckmark_24Regular';
+export { default as IcOrigonHomeCheckmark_16Filled } from './IcOrigonHomeCheckmark_16Filled';
+export { default as IcOrigonHomeCheckmark_16Regular } from './IcOrigonHomeCheckmark_16Regular';
+export { default as IcOrigonHomeCheckmark_20Filled } from './IcOrigonHomeCheckmark_20Filled';
+export { default as IcOrigonHomeCheckmark_20Regular } from './IcOrigonHomeCheckmark_20Regular';
+export { default as IcOrigonHomeCheckmark_24Filled } from './IcOrigonHomeCheckmark_24Filled';
+export { default as IcOrigonHomeCheckmark_24Regular } from './IcOrigonHomeCheckmark_24Regular';

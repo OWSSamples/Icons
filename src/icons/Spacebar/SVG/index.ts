@@ -1,4 +1,4 @@
-export { default as IcFluentSpacebar_20Filled } from './IcFluentSpacebar_20Filled';
-export { default as IcFluentSpacebar_20Regular } from './IcFluentSpacebar_20Regular';
-export { default as IcFluentSpacebar_24Filled } from './IcFluentSpacebar_24Filled';
-export { default as IcFluentSpacebar_24Regular } from './IcFluentSpacebar_24Regular';
+export { default as IcOrigonSpacebar_20Filled } from './IcOrigonSpacebar_20Filled';
+export { default as IcOrigonSpacebar_20Regular } from './IcOrigonSpacebar_20Regular';
+export { default as IcOrigonSpacebar_24Filled } from './IcOrigonSpacebar_24Filled';
+export { default as IcOrigonSpacebar_24Regular } from './IcOrigonSpacebar_24Regular';

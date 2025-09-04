@@ -1,4 +1,4 @@
-export { default as IcFluentPhoneUpdateCheckmark_20Filled } from './IcFluentPhoneUpdateCheckmark_20Filled';
-export { default as IcFluentPhoneUpdateCheckmark_20Regular } from './IcFluentPhoneUpdateCheckmark_20Regular';
-export { default as IcFluentPhoneUpdateCheckmark_24Filled } from './IcFluentPhoneUpdateCheckmark_24Filled';
-export { default as IcFluentPhoneUpdateCheckmark_24Regular } from './IcFluentPhoneUpdateCheckmark_24Regular';
+export { default as IcOrigonPhoneUpdateCheckmark_20Filled } from './IcOrigonPhoneUpdateCheckmark_20Filled';
+export { default as IcOrigonPhoneUpdateCheckmark_20Regular } from './IcOrigonPhoneUpdateCheckmark_20Regular';
+export { default as IcOrigonPhoneUpdateCheckmark_24Filled } from './IcOrigonPhoneUpdateCheckmark_24Filled';
+export { default as IcOrigonPhoneUpdateCheckmark_24Regular } from './IcOrigonPhoneUpdateCheckmark_24Regular';

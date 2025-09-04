@@ -1,4 +1,4 @@
-export { default as IcFluentNotebookSubsection_20Filled } from './IcFluentNotebookSubsection_20Filled';
-export { default as IcFluentNotebookSubsection_20Regular } from './IcFluentNotebookSubsection_20Regular';
-export { default as IcFluentNotebookSubsection_24Filled } from './IcFluentNotebookSubsection_24Filled';
-export { default as IcFluentNotebookSubsection_24Regular } from './IcFluentNotebookSubsection_24Regular';
+export { default as IcOrigonNotebookSubsection_20Filled } from './IcOrigonNotebookSubsection_20Filled';
+export { default as IcOrigonNotebookSubsection_20Regular } from './IcOrigonNotebookSubsection_20Regular';
+export { default as IcOrigonNotebookSubsection_24Filled } from './IcOrigonNotebookSubsection_24Filled';
+export { default as IcOrigonNotebookSubsection_24Regular } from './IcOrigonNotebookSubsection_24Regular';

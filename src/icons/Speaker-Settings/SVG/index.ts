@@ -1,6 +1,6 @@
-export { default as IcFluentSpeakerSettings_20Filled } from './IcFluentSpeakerSettings_20Filled';
-export { default as IcFluentSpeakerSettings_20Regular } from './IcFluentSpeakerSettings_20Regular';
-export { default as IcFluentSpeakerSettings_24Filled } from './IcFluentSpeakerSettings_24Filled';
-export { default as IcFluentSpeakerSettings_24Regular } from './IcFluentSpeakerSettings_24Regular';
-export { default as IcFluentSpeakerSettings_28Filled } from './IcFluentSpeakerSettings_28Filled';
-export { default as IcFluentSpeakerSettings_28Regular } from './IcFluentSpeakerSettings_28Regular';
+export { default as IcOrigonSpeakerSettings_20Filled } from './IcOrigonSpeakerSettings_20Filled';
+export { default as IcOrigonSpeakerSettings_20Regular } from './IcOrigonSpeakerSettings_20Regular';
+export { default as IcOrigonSpeakerSettings_24Filled } from './IcOrigonSpeakerSettings_24Filled';
+export { default as IcOrigonSpeakerSettings_24Regular } from './IcOrigonSpeakerSettings_24Regular';
+export { default as IcOrigonSpeakerSettings_28Filled } from './IcOrigonSpeakerSettings_28Filled';
+export { default as IcOrigonSpeakerSettings_28Regular } from './IcOrigonSpeakerSettings_28Regular';

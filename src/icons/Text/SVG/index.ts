@@ -1,7 +1,7 @@
-export { default as IcFluentText_12Filled } from './IcFluentText_12Filled';
-export { default as IcFluentText_12Regular } from './IcFluentText_12Regular';
-export { default as IcFluentText_16Filled } from './IcFluentText_16Filled';
-export { default as IcFluentText_16Regular } from './IcFluentText_16Regular';
-export { default as IcFluentText_32Filled } from './IcFluentText_32Filled';
-export { default as IcFluentText_32Light } from './IcFluentText_32Light';
-export { default as IcFluentText_32Regular } from './IcFluentText_32Regular';
+export { default as IcOrigonText_12Filled } from './IcOrigonText_12Filled';
+export { default as IcOrigonText_12Regular } from './IcOrigonText_12Regular';
+export { default as IcOrigonText_16Filled } from './IcOrigonText_16Filled';
+export { default as IcOrigonText_16Regular } from './IcOrigonText_16Regular';
+export { default as IcOrigonText_32Filled } from './IcOrigonText_32Filled';
+export { default as IcOrigonText_32Light } from './IcOrigonText_32Light';
+export { default as IcOrigonText_32Regular } from './IcOrigonText_32Regular';

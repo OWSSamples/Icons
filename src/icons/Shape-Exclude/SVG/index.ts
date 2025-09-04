@@ -1,6 +1,6 @@
-export { default as IcFluentShapeExclude_16Filled } from './IcFluentShapeExclude_16Filled';
-export { default as IcFluentShapeExclude_16Regular } from './IcFluentShapeExclude_16Regular';
-export { default as IcFluentShapeExclude_20Filled } from './IcFluentShapeExclude_20Filled';
-export { default as IcFluentShapeExclude_20Regular } from './IcFluentShapeExclude_20Regular';
-export { default as IcFluentShapeExclude_24Filled } from './IcFluentShapeExclude_24Filled';
-export { default as IcFluentShapeExclude_24Regular } from './IcFluentShapeExclude_24Regular';
+export { default as IcOrigonShapeExclude_16Filled } from './IcOrigonShapeExclude_16Filled';
+export { default as IcOrigonShapeExclude_16Regular } from './IcOrigonShapeExclude_16Regular';
+export { default as IcOrigonShapeExclude_20Filled } from './IcOrigonShapeExclude_20Filled';
+export { default as IcOrigonShapeExclude_20Regular } from './IcOrigonShapeExclude_20Regular';
+export { default as IcOrigonShapeExclude_24Filled } from './IcOrigonShapeExclude_24Filled';
+export { default as IcOrigonShapeExclude_24Regular } from './IcOrigonShapeExclude_24Regular';

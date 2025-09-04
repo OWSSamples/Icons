@@ -1,4 +1,4 @@
-export { default as IcFluentAccessTime_20Filled } from './IcFluentAccessTime_20Filled';
-export { default as IcFluentAccessTime_20Regular } from './IcFluentAccessTime_20Regular';
-export { default as IcFluentAccessTime_24Filled } from './IcFluentAccessTime_24Filled';
-export { default as IcFluentAccessTime_24Regular } from './IcFluentAccessTime_24Regular';
+export { default as IcOrigonAccessTime_20Filled } from './IcOrigonAccessTime_20Filled';
+export { default as IcOrigonAccessTime_20Regular } from './IcOrigonAccessTime_20Regular';
+export { default as IcOrigonAccessTime_24Filled } from './IcOrigonAccessTime_24Filled';
+export { default as IcOrigonAccessTime_24Regular } from './IcOrigonAccessTime_24Regular';

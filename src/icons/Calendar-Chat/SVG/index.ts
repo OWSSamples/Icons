@@ -1,4 +1,4 @@
-export { default as IcFluentCalendarChat_20Filled } from './IcFluentCalendarChat_20Filled';
-export { default as IcFluentCalendarChat_20Regular } from './IcFluentCalendarChat_20Regular';
-export { default as IcFluentCalendarChat_24Filled } from './IcFluentCalendarChat_24Filled';
-export { default as IcFluentCalendarChat_24Regular } from './IcFluentCalendarChat_24Regular';
+export { default as IcOrigonCalendarChat_20Filled } from './IcOrigonCalendarChat_20Filled';
+export { default as IcOrigonCalendarChat_20Regular } from './IcOrigonCalendarChat_20Regular';
+export { default as IcOrigonCalendarChat_24Filled } from './IcOrigonCalendarChat_24Filled';
+export { default as IcOrigonCalendarChat_24Regular } from './IcOrigonCalendarChat_24Regular';

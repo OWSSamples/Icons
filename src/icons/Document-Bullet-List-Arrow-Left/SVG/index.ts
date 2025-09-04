@@ -1,6 +1,6 @@
-export { default as IcFluentDocumentBulletListArrowLeft_16Filled } from './IcFluentDocumentBulletListArrowLeft_16Filled';
-export { default as IcFluentDocumentBulletListArrowLeft_16Regular } from './IcFluentDocumentBulletListArrowLeft_16Regular';
-export { default as IcFluentDocumentBulletListArrowLeft_20Filled } from './IcFluentDocumentBulletListArrowLeft_20Filled';
-export { default as IcFluentDocumentBulletListArrowLeft_20Regular } from './IcFluentDocumentBulletListArrowLeft_20Regular';
-export { default as IcFluentDocumentBulletListArrowLeft_24Filled } from './IcFluentDocumentBulletListArrowLeft_24Filled';
-export { default as IcFluentDocumentBulletListArrowLeft_24Regular } from './IcFluentDocumentBulletListArrowLeft_24Regular';
+export { default as IcOrigonDocumentBulletListArrowLeft_16Filled } from './IcOrigonDocumentBulletListArrowLeft_16Filled';
+export { default as IcOrigonDocumentBulletListArrowLeft_16Regular } from './IcOrigonDocumentBulletListArrowLeft_16Regular';
+export { default as IcOrigonDocumentBulletListArrowLeft_20Filled } from './IcOrigonDocumentBulletListArrowLeft_20Filled';
+export { default as IcOrigonDocumentBulletListArrowLeft_20Regular } from './IcOrigonDocumentBulletListArrowLeft_20Regular';
+export { default as IcOrigonDocumentBulletListArrowLeft_24Filled } from './IcOrigonDocumentBulletListArrowLeft_24Filled';
+export { default as IcOrigonDocumentBulletListArrowLeft_24Regular } from './IcOrigonDocumentBulletListArrowLeft_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentPanelSeparateWindow_20Filled } from './IcFluentPanelSeparateWindow_20Filled';
-export { default as IcFluentPanelSeparateWindow_20Regular } from './IcFluentPanelSeparateWindow_20Regular';
+export { default as IcOrigonPanelSeparateWindow_20Filled } from './IcOrigonPanelSeparateWindow_20Filled';
+export { default as IcOrigonPanelSeparateWindow_20Regular } from './IcOrigonPanelSeparateWindow_20Regular';

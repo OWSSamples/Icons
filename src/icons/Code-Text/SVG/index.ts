@@ -1,4 +1,4 @@
-export { default as IcFluentCodeText_16Filled } from './IcFluentCodeText_16Filled';
-export { default as IcFluentCodeText_16Regular } from './IcFluentCodeText_16Regular';
-export { default as IcFluentCodeText_20Filled } from './IcFluentCodeText_20Filled';
-export { default as IcFluentCodeText_20Regular } from './IcFluentCodeText_20Regular';
+export { default as IcOrigonCodeText_16Filled } from './IcOrigonCodeText_16Filled';
+export { default as IcOrigonCodeText_16Regular } from './IcOrigonCodeText_16Regular';
+export { default as IcOrigonCodeText_20Filled } from './IcOrigonCodeText_20Filled';
+export { default as IcOrigonCodeText_20Regular } from './IcOrigonCodeText_20Regular';

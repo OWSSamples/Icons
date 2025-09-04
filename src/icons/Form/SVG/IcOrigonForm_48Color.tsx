@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonForm_48Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 48 48">
+    <path fill="currentColor" d="M12.25 6A6.25 6.25 0 0 0 6 12.25v23.5A6.25 6.25 0 0 0 12.25 42h23.5A6.25 6.25 0 0 0 42 35.75v-23.5A6.25 6.25 0 0 0 35.75 6z"/><path fill="currentColor" d="M12 13.25c0-.69.56-1.25 1.25-1.25h21.5a1.25 1.25 0 1 1 0 2.5h-21.5c-.69 0-1.25-.56-1.25-1.25"/><path fill="currentColor" d="M23.25 20.5a1.25 1.25 0 1 0 0 2.5h11.5a1.25 1.25 0 1 0 0-2.5z"/><path fill="currentColor" d="M22 32.25c0-.69.56-1.25 1.25-1.25h11.5a1.25 1.25 0 1 1 0 2.5h-11.5c-.69 0-1.25-.56-1.25-1.25"/><path fill="currentColor" d="M19 21.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0"/><path fill="currentColor" d="M19 32.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0"/><defs><linearGradient id="a" x1="18.857" x2="32.65" y1="6" y2="40.059" gradientUnits="userSpaceOnUse"><stop stop-color="#B3E0FF"/><stop offset="1" stop-color="#8CD0FF"/></linearGradient><linearGradient id="b" x1="10.8" x2="39.979" y1="10.8" y2="15.979" gradientUnits="userSpaceOnUse"><stop stop-color="#0094F0"/><stop offset="1" stop-color="#2764E7"/></linearGradient><linearGradient id="c" x1="10.8" x2="39.979" y1="10.8" y2="15.979" gradientUnits="userSpaceOnUse"><stop stop-color="#0094F0"/><stop offset="1" stop-color="#2764E7"/></linearGradient><linearGradient id="d" x1="10.8" x2="39.979" y1="10.8" y2="15.979" gradientUnits="userSpaceOnUse"><stop stop-color="#0094F0"/><stop offset="1" stop-color="#2764E7"/></linearGradient><linearGradient id="e" x1="10.8" x2="39.979" y1="10.8" y2="15.979" gradientUnits="userSpaceOnUse"><stop stop-color="#0094F0"/><stop offset="1" stop-color="#2764E7"/></linearGradient><linearGradient id="f" x1="10.8" x2="39.979" y1="10.8" y2="15.979" gradientUnits="userSpaceOnUse"><stop stop-color="#0094F0"/><stop offset="1" stop-color="#2764E7"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcOrigonForm_48Color;

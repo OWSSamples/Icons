@@ -1,6 +1,6 @@
-export { default as IcFluentSpeakerBluetooth_20Filled } from './IcFluentSpeakerBluetooth_20Filled';
-export { default as IcFluentSpeakerBluetooth_20Regular } from './IcFluentSpeakerBluetooth_20Regular';
-export { default as IcFluentSpeakerBluetooth_24Filled } from './IcFluentSpeakerBluetooth_24Filled';
-export { default as IcFluentSpeakerBluetooth_24Regular } from './IcFluentSpeakerBluetooth_24Regular';
-export { default as IcFluentSpeakerBluetooth_28Filled } from './IcFluentSpeakerBluetooth_28Filled';
-export { default as IcFluentSpeakerBluetooth_28Regular } from './IcFluentSpeakerBluetooth_28Regular';
+export { default as IcOrigonSpeakerBluetooth_20Filled } from './IcOrigonSpeakerBluetooth_20Filled';
+export { default as IcOrigonSpeakerBluetooth_20Regular } from './IcOrigonSpeakerBluetooth_20Regular';
+export { default as IcOrigonSpeakerBluetooth_24Filled } from './IcOrigonSpeakerBluetooth_24Filled';
+export { default as IcOrigonSpeakerBluetooth_24Regular } from './IcOrigonSpeakerBluetooth_24Regular';
+export { default as IcOrigonSpeakerBluetooth_28Filled } from './IcOrigonSpeakerBluetooth_28Filled';
+export { default as IcOrigonSpeakerBluetooth_28Regular } from './IcOrigonSpeakerBluetooth_28Regular';

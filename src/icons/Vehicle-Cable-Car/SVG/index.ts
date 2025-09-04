@@ -1,6 +1,6 @@
-export { default as IcFluentVehicleCableCar_20Filled } from './IcFluentVehicleCableCar_20Filled';
-export { default as IcFluentVehicleCableCar_20Regular } from './IcFluentVehicleCableCar_20Regular';
-export { default as IcFluentVehicleCableCar_24Filled } from './IcFluentVehicleCableCar_24Filled';
-export { default as IcFluentVehicleCableCar_24Regular } from './IcFluentVehicleCableCar_24Regular';
-export { default as IcFluentVehicleCableCar_28Filled } from './IcFluentVehicleCableCar_28Filled';
-export { default as IcFluentVehicleCableCar_28Regular } from './IcFluentVehicleCableCar_28Regular';
+export { default as IcOrigonVehicleCableCar_20Filled } from './IcOrigonVehicleCableCar_20Filled';
+export { default as IcOrigonVehicleCableCar_20Regular } from './IcOrigonVehicleCableCar_20Regular';
+export { default as IcOrigonVehicleCableCar_24Filled } from './IcOrigonVehicleCableCar_24Filled';
+export { default as IcOrigonVehicleCableCar_24Regular } from './IcOrigonVehicleCableCar_24Regular';
+export { default as IcOrigonVehicleCableCar_28Filled } from './IcOrigonVehicleCableCar_28Filled';
+export { default as IcOrigonVehicleCableCar_28Regular } from './IcOrigonVehicleCableCar_28Regular';

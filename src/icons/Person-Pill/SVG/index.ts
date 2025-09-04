@@ -1,4 +1,4 @@
-export { default as IcFluentPersonPill_20Filled } from './IcFluentPersonPill_20Filled';
-export { default as IcFluentPersonPill_20Regular } from './IcFluentPersonPill_20Regular';
-export { default as IcFluentPersonPill_24Filled } from './IcFluentPersonPill_24Filled';
-export { default as IcFluentPersonPill_24Regular } from './IcFluentPersonPill_24Regular';
+export { default as IcOrigonPersonPill_20Filled } from './IcOrigonPersonPill_20Filled';
+export { default as IcOrigonPersonPill_20Regular } from './IcOrigonPersonPill_20Regular';
+export { default as IcOrigonPersonPill_24Filled } from './IcOrigonPersonPill_24Filled';
+export { default as IcOrigonPersonPill_24Regular } from './IcOrigonPersonPill_24Regular';

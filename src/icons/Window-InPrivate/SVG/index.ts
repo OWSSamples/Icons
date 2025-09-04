@@ -1,2 +1,2 @@
-export { default as IcFluentWindowInprivate_20Filled } from './IcFluentWindowInprivate_20Filled';
-export { default as IcFluentWindowInprivate_20Regular } from './IcFluentWindowInprivate_20Regular';
+export { default as IcOrigonWindowInprivate_20Filled } from './IcOrigonWindowInprivate_20Filled';
+export { default as IcOrigonWindowInprivate_20Regular } from './IcOrigonWindowInprivate_20Regular';

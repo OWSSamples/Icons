@@ -1,8 +1,8 @@
-export { default as IcFluentAlertSnooze_12Filled } from './IcFluentAlertSnooze_12Filled';
-export { default as IcFluentAlertSnooze_12Regular } from './IcFluentAlertSnooze_12Regular';
-export { default as IcFluentAlertSnooze_16Filled } from './IcFluentAlertSnooze_16Filled';
-export { default as IcFluentAlertSnooze_16Regular } from './IcFluentAlertSnooze_16Regular';
-export { default as IcFluentAlertSnooze_20Filled } from './IcFluentAlertSnooze_20Filled';
-export { default as IcFluentAlertSnooze_20Regular } from './IcFluentAlertSnooze_20Regular';
-export { default as IcFluentAlertSnooze_24Filled } from './IcFluentAlertSnooze_24Filled';
-export { default as IcFluentAlertSnooze_24Regular } from './IcFluentAlertSnooze_24Regular';
+export { default as IcOrigonAlertSnooze_12Filled } from './IcOrigonAlertSnooze_12Filled';
+export { default as IcOrigonAlertSnooze_12Regular } from './IcOrigonAlertSnooze_12Regular';
+export { default as IcOrigonAlertSnooze_16Filled } from './IcOrigonAlertSnooze_16Filled';
+export { default as IcOrigonAlertSnooze_16Regular } from './IcOrigonAlertSnooze_16Regular';
+export { default as IcOrigonAlertSnooze_20Filled } from './IcOrigonAlertSnooze_20Filled';
+export { default as IcOrigonAlertSnooze_20Regular } from './IcOrigonAlertSnooze_20Regular';
+export { default as IcOrigonAlertSnooze_24Filled } from './IcOrigonAlertSnooze_24Filled';
+export { default as IcOrigonAlertSnooze_24Regular } from './IcOrigonAlertSnooze_24Regular';

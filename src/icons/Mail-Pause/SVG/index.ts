@@ -1,4 +1,4 @@
-export { default as IcFluentMailPause_16Filled } from './IcFluentMailPause_16Filled';
-export { default as IcFluentMailPause_16Regular } from './IcFluentMailPause_16Regular';
-export { default as IcFluentMailPause_20Filled } from './IcFluentMailPause_20Filled';
-export { default as IcFluentMailPause_20Regular } from './IcFluentMailPause_20Regular';
+export { default as IcOrigonMailPause_16Filled } from './IcOrigonMailPause_16Filled';
+export { default as IcOrigonMailPause_16Regular } from './IcOrigonMailPause_16Regular';
+export { default as IcOrigonMailPause_20Filled } from './IcOrigonMailPause_20Filled';
+export { default as IcOrigonMailPause_20Regular } from './IcOrigonMailPause_20Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentOrientation_20Filled } from './IcFluentOrientation_20Filled';
-export { default as IcFluentOrientation_20Regular } from './IcFluentOrientation_20Regular';
-export { default as IcFluentOrientation_24Filled } from './IcFluentOrientation_24Filled';
-export { default as IcFluentOrientation_24Regular } from './IcFluentOrientation_24Regular';
+export { default as IcOrigonOrientation_20Filled } from './IcOrigonOrientation_20Filled';
+export { default as IcOrigonOrientation_20Regular } from './IcOrigonOrientation_20Regular';
+export { default as IcOrigonOrientation_24Filled } from './IcOrigonOrientation_24Filled';
+export { default as IcOrigonOrientation_24Regular } from './IcOrigonOrientation_24Regular';

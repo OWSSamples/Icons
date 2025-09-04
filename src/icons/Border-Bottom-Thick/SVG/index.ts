@@ -1,4 +1,4 @@
-export { default as IcFluentBorderBottomThick_20Filled } from './IcFluentBorderBottomThick_20Filled';
-export { default as IcFluentBorderBottomThick_20Regular } from './IcFluentBorderBottomThick_20Regular';
-export { default as IcFluentBorderBottomThick_24Filled } from './IcFluentBorderBottomThick_24Filled';
-export { default as IcFluentBorderBottomThick_24Regular } from './IcFluentBorderBottomThick_24Regular';
+export { default as IcOrigonBorderBottomThick_20Filled } from './IcOrigonBorderBottomThick_20Filled';
+export { default as IcOrigonBorderBottomThick_20Regular } from './IcOrigonBorderBottomThick_20Regular';
+export { default as IcOrigonBorderBottomThick_24Filled } from './IcOrigonBorderBottomThick_24Filled';
+export { default as IcOrigonBorderBottomThick_24Regular } from './IcOrigonBorderBottomThick_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentDatabaseLink_20Filled } from './IcFluentDatabaseLink_20Filled';
-export { default as IcFluentDatabaseLink_20Regular } from './IcFluentDatabaseLink_20Regular';
-export { default as IcFluentDatabaseLink_24Filled } from './IcFluentDatabaseLink_24Filled';
-export { default as IcFluentDatabaseLink_24Regular } from './IcFluentDatabaseLink_24Regular';
+export { default as IcOrigonDatabaseLink_20Filled } from './IcOrigonDatabaseLink_20Filled';
+export { default as IcOrigonDatabaseLink_20Regular } from './IcOrigonDatabaseLink_20Regular';
+export { default as IcOrigonDatabaseLink_24Filled } from './IcOrigonDatabaseLink_24Filled';
+export { default as IcOrigonDatabaseLink_24Regular } from './IcOrigonDatabaseLink_24Regular';

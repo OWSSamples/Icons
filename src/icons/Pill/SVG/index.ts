@@ -1,8 +1,8 @@
-export { default as IcFluentPill_16Filled } from './IcFluentPill_16Filled';
-export { default as IcFluentPill_16Regular } from './IcFluentPill_16Regular';
-export { default as IcFluentPill_20Filled } from './IcFluentPill_20Filled';
-export { default as IcFluentPill_20Regular } from './IcFluentPill_20Regular';
-export { default as IcFluentPill_24Filled } from './IcFluentPill_24Filled';
-export { default as IcFluentPill_24Regular } from './IcFluentPill_24Regular';
-export { default as IcFluentPill_28Filled } from './IcFluentPill_28Filled';
-export { default as IcFluentPill_28Regular } from './IcFluentPill_28Regular';
+export { default as IcOrigonPill_16Filled } from './IcOrigonPill_16Filled';
+export { default as IcOrigonPill_16Regular } from './IcOrigonPill_16Regular';
+export { default as IcOrigonPill_20Filled } from './IcOrigonPill_20Filled';
+export { default as IcOrigonPill_20Regular } from './IcOrigonPill_20Regular';
+export { default as IcOrigonPill_24Filled } from './IcOrigonPill_24Filled';
+export { default as IcOrigonPill_24Regular } from './IcOrigonPill_24Regular';
+export { default as IcOrigonPill_28Filled } from './IcOrigonPill_28Filled';
+export { default as IcOrigonPill_28Regular } from './IcOrigonPill_28Regular';

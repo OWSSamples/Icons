@@ -1,6 +1,6 @@
-export { default as IcFluentBinFull_20Filled } from './IcFluentBinFull_20Filled';
-export { default as IcFluentBinFull_20Regular } from './IcFluentBinFull_20Regular';
-export { default as IcFluentBinFull_24Filled } from './IcFluentBinFull_24Filled';
-export { default as IcFluentBinFull_24Regular } from './IcFluentBinFull_24Regular';
-export { default as IcFluentBinFull_48Filled } from './IcFluentBinFull_48Filled';
-export { default as IcFluentBinFull_48Regular } from './IcFluentBinFull_48Regular';
+export { default as IcOrigonBinFull_20Filled } from './IcOrigonBinFull_20Filled';
+export { default as IcOrigonBinFull_20Regular } from './IcOrigonBinFull_20Regular';
+export { default as IcOrigonBinFull_24Filled } from './IcOrigonBinFull_24Filled';
+export { default as IcOrigonBinFull_24Regular } from './IcOrigonBinFull_24Regular';
+export { default as IcOrigonBinFull_48Filled } from './IcOrigonBinFull_48Filled';
+export { default as IcOrigonBinFull_48Regular } from './IcOrigonBinFull_48Regular';

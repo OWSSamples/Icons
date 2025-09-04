@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonMusicNoteOff_2_16Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="m12.553 13.26 1.593 1.594a.5.5 0 0 0 .708-.708l-13-13a.5.5 0 1 0-.708.708L5 5.707v5.56A2 2 0 1 0 6 13V7.352l.475-.17 3.265 3.265a2 2 0 1 0 2.813 2.813m-.715-.715a.999.999 0 1 1-1.383-1.383zM4 12a1 1 0 1 1 0 2 1 1 0 0 1 0-2m8-7.852L7.777 5.656l.783.782L12 5.21v4.669l1 1V1.926a.8.8 0 0 0-1.07-.754L5.568 3.445l.782.783L12 2.209z"/>
+  </IconBase>
+);
+
+export default IcOrigonMusicNoteOff_2_16Regular;

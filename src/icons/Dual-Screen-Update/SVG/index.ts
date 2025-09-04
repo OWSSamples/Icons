@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenUpdate_20Filled } from './IcFluentDualScreenUpdate_20Filled';
-export { default as IcFluentDualScreenUpdate_20Regular } from './IcFluentDualScreenUpdate_20Regular';
-export { default as IcFluentDualScreenUpdate_24Filled } from './IcFluentDualScreenUpdate_24Filled';
-export { default as IcFluentDualScreenUpdate_24Regular } from './IcFluentDualScreenUpdate_24Regular';
+export { default as IcOrigonDualScreenUpdate_20Filled } from './IcOrigonDualScreenUpdate_20Filled';
+export { default as IcOrigonDualScreenUpdate_20Regular } from './IcOrigonDualScreenUpdate_20Regular';
+export { default as IcOrigonDualScreenUpdate_24Filled } from './IcOrigonDualScreenUpdate_24Filled';
+export { default as IcOrigonDualScreenUpdate_24Regular } from './IcOrigonDualScreenUpdate_24Regular';

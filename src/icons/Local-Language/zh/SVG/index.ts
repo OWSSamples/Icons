@@ -1,4 +1,4 @@
-export { default as IcFluentLocalLanguage_20Filled } from './IcFluentLocalLanguage_20Filled';
-export { default as IcFluentLocalLanguage_20Regular } from './IcFluentLocalLanguage_20Regular';
-export { default as IcFluentLocalLanguage_24Filled } from './IcFluentLocalLanguage_24Filled';
-export { default as IcFluentLocalLanguage_24Regular } from './IcFluentLocalLanguage_24Regular';
+export { default as IcOrigonLocalLanguage_20Filled } from './IcOrigonLocalLanguage_20Filled';
+export { default as IcOrigonLocalLanguage_20Regular } from './IcOrigonLocalLanguage_20Regular';
+export { default as IcOrigonLocalLanguage_24Filled } from './IcOrigonLocalLanguage_24Filled';
+export { default as IcOrigonLocalLanguage_24Regular } from './IcOrigonLocalLanguage_24Regular';

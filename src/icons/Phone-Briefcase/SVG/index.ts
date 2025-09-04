@@ -1,2 +1,2 @@
-export { default as IcFluentPhoneBriefcase_24Filled } from './IcFluentPhoneBriefcase_24Filled';
-export { default as IcFluentPhoneBriefcase_24Regular } from './IcFluentPhoneBriefcase_24Regular';
+export { default as IcOrigonPhoneBriefcase_24Filled } from './IcOrigonPhoneBriefcase_24Filled';
+export { default as IcOrigonPhoneBriefcase_24Regular } from './IcOrigonPhoneBriefcase_24Regular';

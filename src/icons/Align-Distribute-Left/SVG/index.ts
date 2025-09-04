@@ -1,2 +1,2 @@
-export { default as IcFluentAlignDistributeLeft_16Filled } from './IcFluentAlignDistributeLeft_16Filled';
-export { default as IcFluentAlignDistributeLeft_16Regular } from './IcFluentAlignDistributeLeft_16Regular';
+export { default as IcOrigonAlignDistributeLeft_16Filled } from './IcOrigonAlignDistributeLeft_16Filled';
+export { default as IcOrigonAlignDistributeLeft_16Regular } from './IcOrigonAlignDistributeLeft_16Regular';

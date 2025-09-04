@@ -1,4 +1,4 @@
-export { default as IcFluentPatch_20Filled } from './IcFluentPatch_20Filled';
-export { default as IcFluentPatch_20Regular } from './IcFluentPatch_20Regular';
-export { default as IcFluentPatch_24Filled } from './IcFluentPatch_24Filled';
-export { default as IcFluentPatch_24Regular } from './IcFluentPatch_24Regular';
+export { default as IcOrigonPatch_20Filled } from './IcOrigonPatch_20Filled';
+export { default as IcOrigonPatch_20Regular } from './IcOrigonPatch_20Regular';
+export { default as IcOrigonPatch_24Filled } from './IcOrigonPatch_24Filled';
+export { default as IcOrigonPatch_24Regular } from './IcOrigonPatch_24Regular';

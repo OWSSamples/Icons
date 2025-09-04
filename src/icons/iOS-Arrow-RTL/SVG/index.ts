@@ -1,2 +1,2 @@
-export { default as IcFluentIosArrowRtl_24Filled } from './IcFluentIosArrowRtl_24Filled';
-export { default as IcFluentIosArrowRtl_24Regular } from './IcFluentIosArrowRtl_24Regular';
+export { default as IcOrigonIosArrowRtl_24Filled } from './IcOrigonIosArrowRtl_24Filled';
+export { default as IcOrigonIosArrowRtl_24Regular } from './IcOrigonIosArrowRtl_24Regular';

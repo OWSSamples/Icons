@@ -1,8 +1,8 @@
-export { default as IcFluentCallTransfer_16Filled } from './IcFluentCallTransfer_16Filled';
-export { default as IcFluentCallTransfer_16Regular } from './IcFluentCallTransfer_16Regular';
-export { default as IcFluentCallTransfer_20Filled } from './IcFluentCallTransfer_20Filled';
-export { default as IcFluentCallTransfer_20Regular } from './IcFluentCallTransfer_20Regular';
-export { default as IcFluentCallTransfer_24Filled } from './IcFluentCallTransfer_24Filled';
-export { default as IcFluentCallTransfer_24Regular } from './IcFluentCallTransfer_24Regular';
-export { default as IcFluentCallTransfer_32Filled } from './IcFluentCallTransfer_32Filled';
-export { default as IcFluentCallTransfer_32Regular } from './IcFluentCallTransfer_32Regular';
+export { default as IcOrigonCallTransfer_16Filled } from './IcOrigonCallTransfer_16Filled';
+export { default as IcOrigonCallTransfer_16Regular } from './IcOrigonCallTransfer_16Regular';
+export { default as IcOrigonCallTransfer_20Filled } from './IcOrigonCallTransfer_20Filled';
+export { default as IcOrigonCallTransfer_20Regular } from './IcOrigonCallTransfer_20Regular';
+export { default as IcOrigonCallTransfer_24Filled } from './IcOrigonCallTransfer_24Filled';
+export { default as IcOrigonCallTransfer_24Regular } from './IcOrigonCallTransfer_24Regular';
+export { default as IcOrigonCallTransfer_32Filled } from './IcOrigonCallTransfer_32Filled';
+export { default as IcOrigonCallTransfer_32Regular } from './IcOrigonCallTransfer_32Regular';

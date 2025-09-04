@@ -1,4 +1,4 @@
-export { default as IcFluentFolderList_16Filled } from './IcFluentFolderList_16Filled';
-export { default as IcFluentFolderList_16Regular } from './IcFluentFolderList_16Regular';
-export { default as IcFluentFolderList_20Filled } from './IcFluentFolderList_20Filled';
-export { default as IcFluentFolderList_20Regular } from './IcFluentFolderList_20Regular';
+export { default as IcOrigonFolderList_16Filled } from './IcOrigonFolderList_16Filled';
+export { default as IcOrigonFolderList_16Regular } from './IcOrigonFolderList_16Regular';
+export { default as IcOrigonFolderList_20Filled } from './IcOrigonFolderList_20Filled';
+export { default as IcOrigonFolderList_20Regular } from './IcOrigonFolderList_20Regular';

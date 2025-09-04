@@ -1,4 +1,4 @@
-export { default as IcFluentBroomSparkle_16Filled } from './IcFluentBroomSparkle_16Filled';
-export { default as IcFluentBroomSparkle_16Regular } from './IcFluentBroomSparkle_16Regular';
-export { default as IcFluentBroomSparkle_20Filled } from './IcFluentBroomSparkle_20Filled';
-export { default as IcFluentBroomSparkle_20Regular } from './IcFluentBroomSparkle_20Regular';
+export { default as IcOrigonBroomSparkle_16Filled } from './IcOrigonBroomSparkle_16Filled';
+export { default as IcOrigonBroomSparkle_16Regular } from './IcOrigonBroomSparkle_16Regular';
+export { default as IcOrigonBroomSparkle_20Filled } from './IcOrigonBroomSparkle_20Filled';
+export { default as IcOrigonBroomSparkle_20Regular } from './IcOrigonBroomSparkle_20Regular';

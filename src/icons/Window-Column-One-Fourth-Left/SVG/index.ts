@@ -1,2 +1,2 @@
-export { default as IcFluentWindowColumnOneFourthLeft_20Filled } from './IcFluentWindowColumnOneFourthLeft_20Filled';
-export { default as IcFluentWindowColumnOneFourthLeft_20Regular } from './IcFluentWindowColumnOneFourthLeft_20Regular';
+export { default as IcOrigonWindowColumnOneFourthLeft_20Filled } from './IcOrigonWindowColumnOneFourthLeft_20Filled';
+export { default as IcOrigonWindowColumnOneFourthLeft_20Regular } from './IcOrigonWindowColumnOneFourthLeft_20Regular';

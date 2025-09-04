@@ -1,6 +1,6 @@
-export { default as IcFluentArrowParagraph_16Filled } from './IcFluentArrowParagraph_16Filled';
-export { default as IcFluentArrowParagraph_16Regular } from './IcFluentArrowParagraph_16Regular';
-export { default as IcFluentArrowParagraph_20Filled } from './IcFluentArrowParagraph_20Filled';
-export { default as IcFluentArrowParagraph_20Regular } from './IcFluentArrowParagraph_20Regular';
-export { default as IcFluentArrowParagraph_24Filled } from './IcFluentArrowParagraph_24Filled';
-export { default as IcFluentArrowParagraph_24Regular } from './IcFluentArrowParagraph_24Regular';
+export { default as IcOrigonArrowParagraph_16Filled } from './IcOrigonArrowParagraph_16Filled';
+export { default as IcOrigonArrowParagraph_16Regular } from './IcOrigonArrowParagraph_16Regular';
+export { default as IcOrigonArrowParagraph_20Filled } from './IcOrigonArrowParagraph_20Filled';
+export { default as IcOrigonArrowParagraph_20Regular } from './IcOrigonArrowParagraph_20Regular';
+export { default as IcOrigonArrowParagraph_24Filled } from './IcOrigonArrowParagraph_24Filled';
+export { default as IcOrigonArrowParagraph_24Regular } from './IcOrigonArrowParagraph_24Regular';

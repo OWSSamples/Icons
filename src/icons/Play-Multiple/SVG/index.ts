@@ -1,2 +1,2 @@
-export { default as IcFluentPlayMultiple_16Filled } from './IcFluentPlayMultiple_16Filled';
-export { default as IcFluentPlayMultiple_16Regular } from './IcFluentPlayMultiple_16Regular';
+export { default as IcOrigonPlayMultiple_16Filled } from './IcOrigonPlayMultiple_16Filled';
+export { default as IcOrigonPlayMultiple_16Regular } from './IcOrigonPlayMultiple_16Regular';

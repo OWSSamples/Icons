@@ -1,8 +1,8 @@
-export { default as IcFluentArrowUpload_16Filled } from './IcFluentArrowUpload_16Filled';
-export { default as IcFluentArrowUpload_16Regular } from './IcFluentArrowUpload_16Regular';
-export { default as IcFluentArrowUpload_20Filled } from './IcFluentArrowUpload_20Filled';
-export { default as IcFluentArrowUpload_20Regular } from './IcFluentArrowUpload_20Regular';
-export { default as IcFluentArrowUpload_24Filled } from './IcFluentArrowUpload_24Filled';
-export { default as IcFluentArrowUpload_24Regular } from './IcFluentArrowUpload_24Regular';
-export { default as IcFluentArrowUpload_32Filled } from './IcFluentArrowUpload_32Filled';
-export { default as IcFluentArrowUpload_32Regular } from './IcFluentArrowUpload_32Regular';
+export { default as IcOrigonArrowUpload_16Filled } from './IcOrigonArrowUpload_16Filled';
+export { default as IcOrigonArrowUpload_16Regular } from './IcOrigonArrowUpload_16Regular';
+export { default as IcOrigonArrowUpload_20Filled } from './IcOrigonArrowUpload_20Filled';
+export { default as IcOrigonArrowUpload_20Regular } from './IcOrigonArrowUpload_20Regular';
+export { default as IcOrigonArrowUpload_24Filled } from './IcOrigonArrowUpload_24Filled';
+export { default as IcOrigonArrowUpload_24Regular } from './IcOrigonArrowUpload_24Regular';
+export { default as IcOrigonArrowUpload_32Filled } from './IcOrigonArrowUpload_32Filled';
+export { default as IcOrigonArrowUpload_32Regular } from './IcOrigonArrowUpload_32Regular';

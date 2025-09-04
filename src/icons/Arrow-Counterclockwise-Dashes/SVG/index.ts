@@ -1,4 +1,4 @@
-export { default as IcFluentArrowCounterclockwiseDashes_20Filled } from './IcFluentArrowCounterclockwiseDashes_20Filled';
-export { default as IcFluentArrowCounterclockwiseDashes_20Regular } from './IcFluentArrowCounterclockwiseDashes_20Regular';
-export { default as IcFluentArrowCounterclockwiseDashes_24Filled } from './IcFluentArrowCounterclockwiseDashes_24Filled';
-export { default as IcFluentArrowCounterclockwiseDashes_24Regular } from './IcFluentArrowCounterclockwiseDashes_24Regular';
+export { default as IcOrigonArrowCounterclockwiseDashes_20Filled } from './IcOrigonArrowCounterclockwiseDashes_20Filled';
+export { default as IcOrigonArrowCounterclockwiseDashes_20Regular } from './IcOrigonArrowCounterclockwiseDashes_20Regular';
+export { default as IcOrigonArrowCounterclockwiseDashes_24Filled } from './IcOrigonArrowCounterclockwiseDashes_24Filled';
+export { default as IcOrigonArrowCounterclockwiseDashes_24Regular } from './IcOrigonArrowCounterclockwiseDashes_24Regular';

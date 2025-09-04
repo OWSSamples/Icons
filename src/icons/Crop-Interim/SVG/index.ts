@@ -1,4 +1,4 @@
-export { default as IcFluentCropInterim_20Filled } from './IcFluentCropInterim_20Filled';
-export { default as IcFluentCropInterim_20Regular } from './IcFluentCropInterim_20Regular';
-export { default as IcFluentCropInterim_24Filled } from './IcFluentCropInterim_24Filled';
-export { default as IcFluentCropInterim_24Regular } from './IcFluentCropInterim_24Regular';
+export { default as IcOrigonCropInterim_20Filled } from './IcOrigonCropInterim_20Filled';
+export { default as IcOrigonCropInterim_20Regular } from './IcOrigonCropInterim_20Regular';
+export { default as IcOrigonCropInterim_24Filled } from './IcOrigonCropInterim_24Filled';
+export { default as IcOrigonCropInterim_24Regular } from './IcOrigonCropInterim_24Regular';

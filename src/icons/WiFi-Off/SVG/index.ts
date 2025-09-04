@@ -1,4 +1,4 @@
-export { default as IcFluentWifiOff_20Filled } from './IcFluentWifiOff_20Filled';
-export { default as IcFluentWifiOff_20Regular } from './IcFluentWifiOff_20Regular';
-export { default as IcFluentWifiOff_24Filled } from './IcFluentWifiOff_24Filled';
-export { default as IcFluentWifiOff_24Regular } from './IcFluentWifiOff_24Regular';
+export { default as IcOrigonWifiOff_20Filled } from './IcOrigonWifiOff_20Filled';
+export { default as IcOrigonWifiOff_20Regular } from './IcOrigonWifiOff_20Regular';
+export { default as IcOrigonWifiOff_24Filled } from './IcOrigonWifiOff_24Filled';
+export { default as IcOrigonWifiOff_24Regular } from './IcOrigonWifiOff_24Regular';

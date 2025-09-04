@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonFlow_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M15 5a2 2 0 1 0 0 4 2 2 0 0 0 0-4m-2.959 1.5a3 3 0 1 1 0 1H12A1.5 1.5 0 0 0 10.5 9v2A2.5 2.5 0 0 1 8 13.5h-.042a3 3 0 1 1 0-1H8A1.5 1.5 0 0 0 9.5 11V9A2.5 2.5 0 0 1 12 6.5zM5 11a2 2 0 1 0 0 4 2 2 0 0 0 0-4"/>
+  </IconBase>
+);
+
+export default IcOrigonFlow_20Regular;

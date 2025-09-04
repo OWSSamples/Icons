@@ -1,4 +1,4 @@
-export { default as IcFluentTextAsterisk_16Filled } from './IcFluentTextAsterisk_16Filled';
-export { default as IcFluentTextAsterisk_16Regular } from './IcFluentTextAsterisk_16Regular';
-export { default as IcFluentTextAsterisk_20Filled } from './IcFluentTextAsterisk_20Filled';
-export { default as IcFluentTextAsterisk_20Regular } from './IcFluentTextAsterisk_20Regular';
+export { default as IcOrigonTextAsterisk_16Filled } from './IcOrigonTextAsterisk_16Filled';
+export { default as IcOrigonTextAsterisk_16Regular } from './IcOrigonTextAsterisk_16Regular';
+export { default as IcOrigonTextAsterisk_20Filled } from './IcOrigonTextAsterisk_20Filled';
+export { default as IcOrigonTextAsterisk_20Regular } from './IcOrigonTextAsterisk_20Regular';

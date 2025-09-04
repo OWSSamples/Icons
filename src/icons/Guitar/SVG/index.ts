@@ -1,8 +1,8 @@
-export { default as IcFluentGuitar_16Filled } from './IcFluentGuitar_16Filled';
-export { default as IcFluentGuitar_16Regular } from './IcFluentGuitar_16Regular';
-export { default as IcFluentGuitar_20Filled } from './IcFluentGuitar_20Filled';
-export { default as IcFluentGuitar_20Regular } from './IcFluentGuitar_20Regular';
-export { default as IcFluentGuitar_24Filled } from './IcFluentGuitar_24Filled';
-export { default as IcFluentGuitar_24Regular } from './IcFluentGuitar_24Regular';
-export { default as IcFluentGuitar_28Filled } from './IcFluentGuitar_28Filled';
-export { default as IcFluentGuitar_28Regular } from './IcFluentGuitar_28Regular';
+export { default as IcOrigonGuitar_16Filled } from './IcOrigonGuitar_16Filled';
+export { default as IcOrigonGuitar_16Regular } from './IcOrigonGuitar_16Regular';
+export { default as IcOrigonGuitar_20Filled } from './IcOrigonGuitar_20Filled';
+export { default as IcOrigonGuitar_20Regular } from './IcOrigonGuitar_20Regular';
+export { default as IcOrigonGuitar_24Filled } from './IcOrigonGuitar_24Filled';
+export { default as IcOrigonGuitar_24Regular } from './IcOrigonGuitar_24Regular';
+export { default as IcOrigonGuitar_28Filled } from './IcOrigonGuitar_28Filled';
+export { default as IcOrigonGuitar_28Regular } from './IcOrigonGuitar_28Regular';

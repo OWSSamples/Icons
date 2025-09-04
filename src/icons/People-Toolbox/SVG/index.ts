@@ -1,4 +1,4 @@
-export { default as IcFluentPeopleToolbox_16Filled } from './IcFluentPeopleToolbox_16Filled';
-export { default as IcFluentPeopleToolbox_16Regular } from './IcFluentPeopleToolbox_16Regular';
-export { default as IcFluentPeopleToolbox_20Filled } from './IcFluentPeopleToolbox_20Filled';
-export { default as IcFluentPeopleToolbox_20Regular } from './IcFluentPeopleToolbox_20Regular';
+export { default as IcOrigonPeopleToolbox_16Filled } from './IcOrigonPeopleToolbox_16Filled';
+export { default as IcOrigonPeopleToolbox_16Regular } from './IcOrigonPeopleToolbox_16Regular';
+export { default as IcOrigonPeopleToolbox_20Filled } from './IcOrigonPeopleToolbox_20Filled';
+export { default as IcOrigonPeopleToolbox_20Regular } from './IcOrigonPeopleToolbox_20Regular';

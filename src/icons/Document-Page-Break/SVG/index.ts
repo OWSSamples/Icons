@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentPageBreak_20Filled } from './IcFluentDocumentPageBreak_20Filled';
-export { default as IcFluentDocumentPageBreak_20Regular } from './IcFluentDocumentPageBreak_20Regular';
-export { default as IcFluentDocumentPageBreak_24Filled } from './IcFluentDocumentPageBreak_24Filled';
-export { default as IcFluentDocumentPageBreak_24Regular } from './IcFluentDocumentPageBreak_24Regular';
+export { default as IcOrigonDocumentPageBreak_20Filled } from './IcOrigonDocumentPageBreak_20Filled';
+export { default as IcOrigonDocumentPageBreak_20Regular } from './IcOrigonDocumentPageBreak_20Regular';
+export { default as IcOrigonDocumentPageBreak_24Filled } from './IcOrigonDocumentPageBreak_24Filled';
+export { default as IcOrigonDocumentPageBreak_24Regular } from './IcOrigonDocumentPageBreak_24Regular';

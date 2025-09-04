@@ -1,2 +1,2 @@
-export { default as IcFluentWindowBulletList_20Filled } from './IcFluentWindowBulletList_20Filled';
-export { default as IcFluentWindowBulletList_20Regular } from './IcFluentWindowBulletList_20Regular';
+export { default as IcOrigonWindowBulletList_20Filled } from './IcOrigonWindowBulletList_20Filled';
+export { default as IcOrigonWindowBulletList_20Regular } from './IcOrigonWindowBulletList_20Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentTextBulletListSquareSearch_20Filled } from './IcFluentTextBulletListSquareSearch_20Filled';
-export { default as IcFluentTextBulletListSquareSearch_20Regular } from './IcFluentTextBulletListSquareSearch_20Regular';
+export { default as IcOrigonTextBulletListSquareSearch_20Filled } from './IcOrigonTextBulletListSquareSearch_20Filled';
+export { default as IcOrigonTextBulletListSquareSearch_20Regular } from './IcOrigonTextBulletListSquareSearch_20Regular';

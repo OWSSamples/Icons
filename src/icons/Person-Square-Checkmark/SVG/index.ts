@@ -1,8 +1,8 @@
-export { default as IcFluentPersonSquareCheckmark_16Filled } from './IcFluentPersonSquareCheckmark_16Filled';
-export { default as IcFluentPersonSquareCheckmark_16Regular } from './IcFluentPersonSquareCheckmark_16Regular';
-export { default as IcFluentPersonSquareCheckmark_20Filled } from './IcFluentPersonSquareCheckmark_20Filled';
-export { default as IcFluentPersonSquareCheckmark_20Regular } from './IcFluentPersonSquareCheckmark_20Regular';
-export { default as IcFluentPersonSquareCheckmark_24Filled } from './IcFluentPersonSquareCheckmark_24Filled';
-export { default as IcFluentPersonSquareCheckmark_24Regular } from './IcFluentPersonSquareCheckmark_24Regular';
-export { default as IcFluentPersonSquareCheckmark_32Filled } from './IcFluentPersonSquareCheckmark_32Filled';
-export { default as IcFluentPersonSquareCheckmark_32Regular } from './IcFluentPersonSquareCheckmark_32Regular';
+export { default as IcOrigonPersonSquareCheckmark_16Filled } from './IcOrigonPersonSquareCheckmark_16Filled';
+export { default as IcOrigonPersonSquareCheckmark_16Regular } from './IcOrigonPersonSquareCheckmark_16Regular';
+export { default as IcOrigonPersonSquareCheckmark_20Filled } from './IcOrigonPersonSquareCheckmark_20Filled';
+export { default as IcOrigonPersonSquareCheckmark_20Regular } from './IcOrigonPersonSquareCheckmark_20Regular';
+export { default as IcOrigonPersonSquareCheckmark_24Filled } from './IcOrigonPersonSquareCheckmark_24Filled';
+export { default as IcOrigonPersonSquareCheckmark_24Regular } from './IcOrigonPersonSquareCheckmark_24Regular';
+export { default as IcOrigonPersonSquareCheckmark_32Filled } from './IcOrigonPersonSquareCheckmark_32Filled';
+export { default as IcOrigonPersonSquareCheckmark_32Regular } from './IcOrigonPersonSquareCheckmark_32Regular';

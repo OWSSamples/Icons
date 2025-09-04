@@ -1,4 +1,4 @@
-export { default as IcFluentDrawImage_20Filled } from './IcFluentDrawImage_20Filled';
-export { default as IcFluentDrawImage_20Regular } from './IcFluentDrawImage_20Regular';
-export { default as IcFluentDrawImage_24Filled } from './IcFluentDrawImage_24Filled';
-export { default as IcFluentDrawImage_24Regular } from './IcFluentDrawImage_24Regular';
+export { default as IcOrigonDrawImage_20Filled } from './IcOrigonDrawImage_20Filled';
+export { default as IcOrigonDrawImage_20Regular } from './IcOrigonDrawImage_20Regular';
+export { default as IcOrigonDrawImage_24Filled } from './IcOrigonDrawImage_24Filled';
+export { default as IcOrigonDrawImage_24Regular } from './IcOrigonDrawImage_24Regular';

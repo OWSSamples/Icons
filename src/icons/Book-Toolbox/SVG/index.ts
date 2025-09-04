@@ -1,6 +1,6 @@
-export { default as IcFluentBookToolbox_16Filled } from './IcFluentBookToolbox_16Filled';
-export { default as IcFluentBookToolbox_16Regular } from './IcFluentBookToolbox_16Regular';
-export { default as IcFluentBookToolbox_20Filled } from './IcFluentBookToolbox_20Filled';
-export { default as IcFluentBookToolbox_20Regular } from './IcFluentBookToolbox_20Regular';
-export { default as IcFluentBookToolbox_24Filled } from './IcFluentBookToolbox_24Filled';
-export { default as IcFluentBookToolbox_24Regular } from './IcFluentBookToolbox_24Regular';
+export { default as IcOrigonBookToolbox_16Filled } from './IcOrigonBookToolbox_16Filled';
+export { default as IcOrigonBookToolbox_16Regular } from './IcOrigonBookToolbox_16Regular';
+export { default as IcOrigonBookToolbox_20Filled } from './IcOrigonBookToolbox_20Filled';
+export { default as IcOrigonBookToolbox_20Regular } from './IcOrigonBookToolbox_20Regular';
+export { default as IcOrigonBookToolbox_24Filled } from './IcOrigonBookToolbox_24Filled';
+export { default as IcOrigonBookToolbox_24Regular } from './IcOrigonBookToolbox_24Regular';

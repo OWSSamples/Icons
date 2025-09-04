@@ -1,2 +1,2 @@
-export { default as IcFluentCubeAdd_20Filled } from './IcFluentCubeAdd_20Filled';
-export { default as IcFluentCubeAdd_20Regular } from './IcFluentCubeAdd_20Regular';
+export { default as IcOrigonCubeAdd_20Filled } from './IcOrigonCubeAdd_20Filled';
+export { default as IcOrigonCubeAdd_20Regular } from './IcOrigonCubeAdd_20Regular';

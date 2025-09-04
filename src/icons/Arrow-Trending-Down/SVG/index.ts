@@ -1,6 +1,6 @@
-export { default as IcFluentArrowTrendingDown_16Filled } from './IcFluentArrowTrendingDown_16Filled';
-export { default as IcFluentArrowTrendingDown_16Regular } from './IcFluentArrowTrendingDown_16Regular';
-export { default as IcFluentArrowTrendingDown_20Filled } from './IcFluentArrowTrendingDown_20Filled';
-export { default as IcFluentArrowTrendingDown_20Regular } from './IcFluentArrowTrendingDown_20Regular';
-export { default as IcFluentArrowTrendingDown_24Filled } from './IcFluentArrowTrendingDown_24Filled';
-export { default as IcFluentArrowTrendingDown_24Regular } from './IcFluentArrowTrendingDown_24Regular';
+export { default as IcOrigonArrowTrendingDown_16Filled } from './IcOrigonArrowTrendingDown_16Filled';
+export { default as IcOrigonArrowTrendingDown_16Regular } from './IcOrigonArrowTrendingDown_16Regular';
+export { default as IcOrigonArrowTrendingDown_20Filled } from './IcOrigonArrowTrendingDown_20Filled';
+export { default as IcOrigonArrowTrendingDown_20Regular } from './IcOrigonArrowTrendingDown_20Regular';
+export { default as IcOrigonArrowTrendingDown_24Filled } from './IcOrigonArrowTrendingDown_24Filled';
+export { default as IcOrigonArrowTrendingDown_24Regular } from './IcOrigonArrowTrendingDown_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentTextPositionTopBottom_20Filled } from './IcFluentTextPositionTopBottom_20Filled';
-export { default as IcFluentTextPositionTopBottom_20Regular } from './IcFluentTextPositionTopBottom_20Regular';
-export { default as IcFluentTextPositionTopBottom_24Filled } from './IcFluentTextPositionTopBottom_24Filled';
-export { default as IcFluentTextPositionTopBottom_24Regular } from './IcFluentTextPositionTopBottom_24Regular';
+export { default as IcOrigonTextPositionTopBottom_20Filled } from './IcOrigonTextPositionTopBottom_20Filled';
+export { default as IcOrigonTextPositionTopBottom_20Regular } from './IcOrigonTextPositionTopBottom_20Regular';
+export { default as IcOrigonTextPositionTopBottom_24Filled } from './IcOrigonTextPositionTopBottom_24Filled';
+export { default as IcOrigonTextPositionTopBottom_24Regular } from './IcOrigonTextPositionTopBottom_24Regular';

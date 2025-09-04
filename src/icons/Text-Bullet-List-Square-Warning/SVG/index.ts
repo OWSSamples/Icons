@@ -1,6 +1,6 @@
-export { default as IcFluentTextBulletListSquareWarning_16Filled } from './IcFluentTextBulletListSquareWarning_16Filled';
-export { default as IcFluentTextBulletListSquareWarning_16Regular } from './IcFluentTextBulletListSquareWarning_16Regular';
-export { default as IcFluentTextBulletListSquareWarning_20Filled } from './IcFluentTextBulletListSquareWarning_20Filled';
-export { default as IcFluentTextBulletListSquareWarning_20Regular } from './IcFluentTextBulletListSquareWarning_20Regular';
-export { default as IcFluentTextBulletListSquareWarning_24Filled } from './IcFluentTextBulletListSquareWarning_24Filled';
-export { default as IcFluentTextBulletListSquareWarning_24Regular } from './IcFluentTextBulletListSquareWarning_24Regular';
+export { default as IcOrigonTextBulletListSquareWarning_16Filled } from './IcOrigonTextBulletListSquareWarning_16Filled';
+export { default as IcOrigonTextBulletListSquareWarning_16Regular } from './IcOrigonTextBulletListSquareWarning_16Regular';
+export { default as IcOrigonTextBulletListSquareWarning_20Filled } from './IcOrigonTextBulletListSquareWarning_20Filled';
+export { default as IcOrigonTextBulletListSquareWarning_20Regular } from './IcOrigonTextBulletListSquareWarning_20Regular';
+export { default as IcOrigonTextBulletListSquareWarning_24Filled } from './IcOrigonTextBulletListSquareWarning_24Filled';
+export { default as IcOrigonTextBulletListSquareWarning_24Regular } from './IcOrigonTextBulletListSquareWarning_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentTextBulletListCheckmark_20Filled } from './IcFluentTextBulletListCheckmark_20Filled';
-export { default as IcFluentTextBulletListCheckmark_20Regular } from './IcFluentTextBulletListCheckmark_20Regular';
+export { default as IcOrigonTextBulletListCheckmark_20Filled } from './IcOrigonTextBulletListCheckmark_20Filled';
+export { default as IcOrigonTextBulletListCheckmark_20Regular } from './IcOrigonTextBulletListCheckmark_20Regular';

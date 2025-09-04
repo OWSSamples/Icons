@@ -1,2 +1,2 @@
-export { default as IcFluentReorder_20Filled } from './IcFluentReorder_20Filled';
-export { default as IcFluentReorder_20Regular } from './IcFluentReorder_20Regular';
+export { default as IcOrigonReorder_20Filled } from './IcOrigonReorder_20Filled';
+export { default as IcOrigonReorder_20Regular } from './IcOrigonReorder_20Regular';

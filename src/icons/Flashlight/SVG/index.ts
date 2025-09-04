@@ -1,6 +1,6 @@
-export { default as IcFluentFlashlight_16Filled } from './IcFluentFlashlight_16Filled';
-export { default as IcFluentFlashlight_16Regular } from './IcFluentFlashlight_16Regular';
-export { default as IcFluentFlashlight_20Filled } from './IcFluentFlashlight_20Filled';
-export { default as IcFluentFlashlight_20Regular } from './IcFluentFlashlight_20Regular';
-export { default as IcFluentFlashlight_24Filled } from './IcFluentFlashlight_24Filled';
-export { default as IcFluentFlashlight_24Regular } from './IcFluentFlashlight_24Regular';
+export { default as IcOrigonFlashlight_16Filled } from './IcOrigonFlashlight_16Filled';
+export { default as IcOrigonFlashlight_16Regular } from './IcOrigonFlashlight_16Regular';
+export { default as IcOrigonFlashlight_20Filled } from './IcOrigonFlashlight_20Filled';
+export { default as IcOrigonFlashlight_20Regular } from './IcOrigonFlashlight_20Regular';
+export { default as IcOrigonFlashlight_24Filled } from './IcOrigonFlashlight_24Filled';
+export { default as IcOrigonFlashlight_24Regular } from './IcOrigonFlashlight_24Regular';

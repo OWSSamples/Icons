@@ -1,1 +1,1 @@
-export { default as IcFluentWindowColumnOneFourthLeftFocusTop_20Filled } from './IcFluentWindowColumnOneFourthLeftFocusTop_20Filled';
+export { default as IcOrigonWindowColumnOneFourthLeftFocusTop_20Filled } from './IcOrigonWindowColumnOneFourthLeftFocusTop_20Filled';

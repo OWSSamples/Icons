@@ -1,2 +1,2 @@
-export { default as IcFluentPhoneSubtract_24Filled } from './IcFluentPhoneSubtract_24Filled';
-export { default as IcFluentPhoneSubtract_24Regular } from './IcFluentPhoneSubtract_24Regular';
+export { default as IcOrigonPhoneSubtract_24Filled } from './IcOrigonPhoneSubtract_24Filled';
+export { default as IcOrigonPhoneSubtract_24Regular } from './IcOrigonPhoneSubtract_24Regular';

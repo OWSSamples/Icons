@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentLandscape_20Filled } from './IcFluentDocumentLandscape_20Filled';
-export { default as IcFluentDocumentLandscape_20Regular } from './IcFluentDocumentLandscape_20Regular';
-export { default as IcFluentDocumentLandscape_24Filled } from './IcFluentDocumentLandscape_24Filled';
-export { default as IcFluentDocumentLandscape_24Regular } from './IcFluentDocumentLandscape_24Regular';
+export { default as IcOrigonDocumentLandscape_20Filled } from './IcOrigonDocumentLandscape_20Filled';
+export { default as IcOrigonDocumentLandscape_20Regular } from './IcOrigonDocumentLandscape_20Regular';
+export { default as IcOrigonDocumentLandscape_24Filled } from './IcOrigonDocumentLandscape_24Filled';
+export { default as IcOrigonDocumentLandscape_24Regular } from './IcOrigonDocumentLandscape_24Regular';

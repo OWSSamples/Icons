@@ -1,2 +1,2 @@
-export { default as IcFluentPersonAccount_16Filled } from './IcFluentPersonAccount_16Filled';
-export { default as IcFluentPersonAccount_16Regular } from './IcFluentPersonAccount_16Regular';
+export { default as IcOrigonPersonAccount_16Filled } from './IcOrigonPersonAccount_16Filled';
+export { default as IcOrigonPersonAccount_16Regular } from './IcOrigonPersonAccount_16Regular';

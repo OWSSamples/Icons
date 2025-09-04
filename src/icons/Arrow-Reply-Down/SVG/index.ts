@@ -1,6 +1,6 @@
-export { default as IcFluentArrowReplyDown_16Filled } from './IcFluentArrowReplyDown_16Filled';
-export { default as IcFluentArrowReplyDown_16Regular } from './IcFluentArrowReplyDown_16Regular';
-export { default as IcFluentArrowReplyDown_20Filled } from './IcFluentArrowReplyDown_20Filled';
-export { default as IcFluentArrowReplyDown_20Regular } from './IcFluentArrowReplyDown_20Regular';
-export { default as IcFluentArrowReplyDown_24Filled } from './IcFluentArrowReplyDown_24Filled';
-export { default as IcFluentArrowReplyDown_24Regular } from './IcFluentArrowReplyDown_24Regular';
+export { default as IcOrigonArrowReplyDown_16Filled } from './IcOrigonArrowReplyDown_16Filled';
+export { default as IcOrigonArrowReplyDown_16Regular } from './IcOrigonArrowReplyDown_16Regular';
+export { default as IcOrigonArrowReplyDown_20Filled } from './IcOrigonArrowReplyDown_20Filled';
+export { default as IcOrigonArrowReplyDown_20Regular } from './IcOrigonArrowReplyDown_20Regular';
+export { default as IcOrigonArrowReplyDown_24Filled } from './IcOrigonArrowReplyDown_24Filled';
+export { default as IcOrigonArrowReplyDown_24Regular } from './IcOrigonArrowReplyDown_24Regular';

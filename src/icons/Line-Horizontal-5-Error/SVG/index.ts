@@ -1,2 +1,2 @@
-export { default as IcFluentLineHorizontal_5Error_20Filled } from './IcFluentLineHorizontal_5Error_20Filled';
-export { default as IcFluentLineHorizontal_5Error_20Regular } from './IcFluentLineHorizontal_5Error_20Regular';
+export { default as IcOrigonLineHorizontal_5Error_20Filled } from './IcOrigonLineHorizontal_5Error_20Filled';
+export { default as IcOrigonLineHorizontal_5Error_20Regular } from './IcOrigonLineHorizontal_5Error_20Regular';

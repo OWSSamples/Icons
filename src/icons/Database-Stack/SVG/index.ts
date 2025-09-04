@@ -1,2 +1,2 @@
-export { default as IcFluentDatabaseStack_16Filled } from './IcFluentDatabaseStack_16Filled';
-export { default as IcFluentDatabaseStack_16Regular } from './IcFluentDatabaseStack_16Regular';
+export { default as IcOrigonDatabaseStack_16Filled } from './IcOrigonDatabaseStack_16Filled';
+export { default as IcOrigonDatabaseStack_16Regular } from './IcOrigonDatabaseStack_16Regular';

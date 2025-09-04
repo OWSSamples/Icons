@@ -1,4 +1,4 @@
-export { default as IcFluentPhonePagination_20Filled } from './IcFluentPhonePagination_20Filled';
-export { default as IcFluentPhonePagination_20Regular } from './IcFluentPhonePagination_20Regular';
-export { default as IcFluentPhonePagination_24Filled } from './IcFluentPhonePagination_24Filled';
-export { default as IcFluentPhonePagination_24Regular } from './IcFluentPhonePagination_24Regular';
+export { default as IcOrigonPhonePagination_20Filled } from './IcOrigonPhonePagination_20Filled';
+export { default as IcOrigonPhonePagination_20Regular } from './IcOrigonPhonePagination_20Regular';
+export { default as IcOrigonPhonePagination_24Filled } from './IcOrigonPhonePagination_24Filled';
+export { default as IcOrigonPhonePagination_24Regular } from './IcOrigonPhonePagination_24Regular';

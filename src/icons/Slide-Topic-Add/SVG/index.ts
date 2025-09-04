@@ -1,6 +1,6 @@
-export { default as IcFluentSlideTopicAdd_16Filled } from './IcFluentSlideTopicAdd_16Filled';
-export { default as IcFluentSlideTopicAdd_16Regular } from './IcFluentSlideTopicAdd_16Regular';
-export { default as IcFluentSlideTopicAdd_20Filled } from './IcFluentSlideTopicAdd_20Filled';
-export { default as IcFluentSlideTopicAdd_20Regular } from './IcFluentSlideTopicAdd_20Regular';
-export { default as IcFluentSlideTopicAdd_32Filled } from './IcFluentSlideTopicAdd_32Filled';
-export { default as IcFluentSlideTopicAdd_32Regular } from './IcFluentSlideTopicAdd_32Regular';
+export { default as IcOrigonSlideTopicAdd_16Filled } from './IcOrigonSlideTopicAdd_16Filled';
+export { default as IcOrigonSlideTopicAdd_16Regular } from './IcOrigonSlideTopicAdd_16Regular';
+export { default as IcOrigonSlideTopicAdd_20Filled } from './IcOrigonSlideTopicAdd_20Filled';
+export { default as IcOrigonSlideTopicAdd_20Regular } from './IcOrigonSlideTopicAdd_20Regular';
+export { default as IcOrigonSlideTopicAdd_32Filled } from './IcOrigonSlideTopicAdd_32Filled';
+export { default as IcOrigonSlideTopicAdd_32Regular } from './IcOrigonSlideTopicAdd_32Regular';

@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonChatHistory_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M10 2a8 8 0 1 1-3.613 15.14l-.121-.065-3.645.91a.5.5 0 0 1-.62-.441v-.082l.014-.083.91-3.644-.063-.12a8 8 0 0 1-.83-2.887l-.025-.382L2 10q.001-.823.16-1.599V8.4a.506.506 0 0 1 .615-.394c.307.08.413.394.353.671l-.012.049a7.04 7.04 0 0 0 .778 4.7.5.5 0 0 1 .063.272l-.014.094-.756 3.021 3.024-.754a.5.5 0 0 1 .188-.01l.091.021.087.039A7 7 0 1 0 4.255 6H6.5a.5.5 0 0 1 0 1h-3a.5.5 0 0 1-.5-.5v-3a.5.5 0 0 1 1 0v1.208A7.98 7.98 0 0 1 10 2m0 5.5a.5.5 0 0 0-1 0v4a.5.5 0 0 0 .5.5h3a.5.5 0 0 0 0-1H10z"/>
+  </IconBase>
+);
+
+export default IcOrigonChatHistory_20Regular;

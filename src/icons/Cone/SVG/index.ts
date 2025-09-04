@@ -1,2 +1,2 @@
-export { default as IcFluentCone_16Filled } from './IcFluentCone_16Filled';
-export { default as IcFluentCone_16Regular } from './IcFluentCone_16Regular';
+export { default as IcOrigonCone_16Filled } from './IcOrigonCone_16Filled';
+export { default as IcOrigonCone_16Regular } from './IcOrigonCone_16Regular';

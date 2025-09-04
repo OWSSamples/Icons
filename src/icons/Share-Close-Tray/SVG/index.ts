@@ -1,4 +1,4 @@
-export { default as IcFluentShareCloseTray_20Filled } from './IcFluentShareCloseTray_20Filled';
-export { default as IcFluentShareCloseTray_20Regular } from './IcFluentShareCloseTray_20Regular';
-export { default as IcFluentShareCloseTray_24Filled } from './IcFluentShareCloseTray_24Filled';
-export { default as IcFluentShareCloseTray_24Regular } from './IcFluentShareCloseTray_24Regular';
+export { default as IcOrigonShareCloseTray_20Filled } from './IcOrigonShareCloseTray_20Filled';
+export { default as IcOrigonShareCloseTray_20Regular } from './IcOrigonShareCloseTray_20Regular';
+export { default as IcOrigonShareCloseTray_24Filled } from './IcOrigonShareCloseTray_24Filled';
+export { default as IcOrigonShareCloseTray_24Regular } from './IcOrigonShareCloseTray_24Regular';

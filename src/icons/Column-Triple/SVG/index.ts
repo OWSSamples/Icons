@@ -1,4 +1,4 @@
-export { default as IcFluentColumnTriple_20Filled } from './IcFluentColumnTriple_20Filled';
-export { default as IcFluentColumnTriple_20Regular } from './IcFluentColumnTriple_20Regular';
-export { default as IcFluentColumnTriple_24Filled } from './IcFluentColumnTriple_24Filled';
-export { default as IcFluentColumnTriple_24Regular } from './IcFluentColumnTriple_24Regular';
+export { default as IcOrigonColumnTriple_20Filled } from './IcOrigonColumnTriple_20Filled';
+export { default as IcOrigonColumnTriple_20Regular } from './IcOrigonColumnTriple_20Regular';
+export { default as IcOrigonColumnTriple_24Filled } from './IcOrigonColumnTriple_24Filled';
+export { default as IcOrigonColumnTriple_24Regular } from './IcOrigonColumnTriple_24Regular';

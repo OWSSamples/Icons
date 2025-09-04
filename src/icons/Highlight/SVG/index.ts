@@ -1,6 +1,6 @@
-export { default as IcFluentHighlight_16Filled } from './IcFluentHighlight_16Filled';
-export { default as IcFluentHighlight_16Regular } from './IcFluentHighlight_16Regular';
-export { default as IcFluentHighlight_20Filled } from './IcFluentHighlight_20Filled';
-export { default as IcFluentHighlight_20Regular } from './IcFluentHighlight_20Regular';
-export { default as IcFluentHighlight_24Filled } from './IcFluentHighlight_24Filled';
-export { default as IcFluentHighlight_24Regular } from './IcFluentHighlight_24Regular';
+export { default as IcOrigonHighlight_16Filled } from './IcOrigonHighlight_16Filled';
+export { default as IcOrigonHighlight_16Regular } from './IcOrigonHighlight_16Regular';
+export { default as IcOrigonHighlight_20Filled } from './IcOrigonHighlight_20Filled';
+export { default as IcOrigonHighlight_20Regular } from './IcOrigonHighlight_20Regular';
+export { default as IcOrigonHighlight_24Filled } from './IcOrigonHighlight_24Filled';
+export { default as IcOrigonHighlight_24Regular } from './IcOrigonHighlight_24Regular';

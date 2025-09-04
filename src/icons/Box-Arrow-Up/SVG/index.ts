@@ -1,4 +1,4 @@
-export { default as IcFluentBoxArrowUp_20Filled } from './IcFluentBoxArrowUp_20Filled';
-export { default as IcFluentBoxArrowUp_20Regular } from './IcFluentBoxArrowUp_20Regular';
-export { default as IcFluentBoxArrowUp_24Filled } from './IcFluentBoxArrowUp_24Filled';
-export { default as IcFluentBoxArrowUp_24Regular } from './IcFluentBoxArrowUp_24Regular';
+export { default as IcOrigonBoxArrowUp_20Filled } from './IcOrigonBoxArrowUp_20Filled';
+export { default as IcOrigonBoxArrowUp_20Regular } from './IcOrigonBoxArrowUp_20Regular';
+export { default as IcOrigonBoxArrowUp_24Filled } from './IcOrigonBoxArrowUp_24Filled';
+export { default as IcOrigonBoxArrowUp_24Regular } from './IcOrigonBoxArrowUp_24Regular';

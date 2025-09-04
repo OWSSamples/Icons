@@ -1,4 +1,4 @@
-export { default as IcFluentPeopleMoney_20Filled } from './IcFluentPeopleMoney_20Filled';
-export { default as IcFluentPeopleMoney_20Regular } from './IcFluentPeopleMoney_20Regular';
-export { default as IcFluentPeopleMoney_24Filled } from './IcFluentPeopleMoney_24Filled';
-export { default as IcFluentPeopleMoney_24Regular } from './IcFluentPeopleMoney_24Regular';
+export { default as IcOrigonPeopleMoney_20Filled } from './IcOrigonPeopleMoney_20Filled';
+export { default as IcOrigonPeopleMoney_20Regular } from './IcOrigonPeopleMoney_20Regular';
+export { default as IcOrigonPeopleMoney_24Filled } from './IcOrigonPeopleMoney_24Filled';
+export { default as IcOrigonPeopleMoney_24Regular } from './IcOrigonPeopleMoney_24Regular';

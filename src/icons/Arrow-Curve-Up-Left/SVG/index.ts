@@ -1,2 +1,2 @@
-export { default as IcFluentArrowCurveUpLeft_20Filled } from './IcFluentArrowCurveUpLeft_20Filled';
-export { default as IcFluentArrowCurveUpLeft_20Regular } from './IcFluentArrowCurveUpLeft_20Regular';
+export { default as IcOrigonArrowCurveUpLeft_20Filled } from './IcOrigonArrowCurveUpLeft_20Filled';
+export { default as IcOrigonArrowCurveUpLeft_20Regular } from './IcOrigonArrowCurveUpLeft_20Regular';

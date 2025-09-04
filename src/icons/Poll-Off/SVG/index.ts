@@ -1,8 +1,8 @@
-export { default as IcFluentPollOff_16Filled } from './IcFluentPollOff_16Filled';
-export { default as IcFluentPollOff_16Regular } from './IcFluentPollOff_16Regular';
-export { default as IcFluentPollOff_20Filled } from './IcFluentPollOff_20Filled';
-export { default as IcFluentPollOff_20Regular } from './IcFluentPollOff_20Regular';
-export { default as IcFluentPollOff_24Filled } from './IcFluentPollOff_24Filled';
-export { default as IcFluentPollOff_24Regular } from './IcFluentPollOff_24Regular';
-export { default as IcFluentPollOff_32Filled } from './IcFluentPollOff_32Filled';
-export { default as IcFluentPollOff_32Regular } from './IcFluentPollOff_32Regular';
+export { default as IcOrigonPollOff_16Filled } from './IcOrigonPollOff_16Filled';
+export { default as IcOrigonPollOff_16Regular } from './IcOrigonPollOff_16Regular';
+export { default as IcOrigonPollOff_20Filled } from './IcOrigonPollOff_20Filled';
+export { default as IcOrigonPollOff_20Regular } from './IcOrigonPollOff_20Regular';
+export { default as IcOrigonPollOff_24Filled } from './IcOrigonPollOff_24Filled';
+export { default as IcOrigonPollOff_24Regular } from './IcOrigonPollOff_24Regular';
+export { default as IcOrigonPollOff_32Filled } from './IcOrigonPollOff_32Filled';
+export { default as IcOrigonPollOff_32Regular } from './IcOrigonPollOff_32Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentLayer_20Filled } from './IcFluentLayer_20Filled';
-export { default as IcFluentLayer_20Regular } from './IcFluentLayer_20Regular';
-export { default as IcFluentLayer_24Filled } from './IcFluentLayer_24Filled';
-export { default as IcFluentLayer_24Regular } from './IcFluentLayer_24Regular';
+export { default as IcOrigonLayer_20Filled } from './IcOrigonLayer_20Filled';
+export { default as IcOrigonLayer_20Regular } from './IcOrigonLayer_20Regular';
+export { default as IcOrigonLayer_24Filled } from './IcOrigonLayer_24Filled';
+export { default as IcOrigonLayer_24Regular } from './IcOrigonLayer_24Regular';

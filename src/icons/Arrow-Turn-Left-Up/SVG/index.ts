@@ -1,4 +1,4 @@
-export { default as IcFluentArrowTurnLeftUp_20Filled } from './IcFluentArrowTurnLeftUp_20Filled';
-export { default as IcFluentArrowTurnLeftUp_20Regular } from './IcFluentArrowTurnLeftUp_20Regular';
-export { default as IcFluentArrowTurnLeftUp_48Filled } from './IcFluentArrowTurnLeftUp_48Filled';
-export { default as IcFluentArrowTurnLeftUp_48Regular } from './IcFluentArrowTurnLeftUp_48Regular';
+export { default as IcOrigonArrowTurnLeftUp_20Filled } from './IcOrigonArrowTurnLeftUp_20Filled';
+export { default as IcOrigonArrowTurnLeftUp_20Regular } from './IcOrigonArrowTurnLeftUp_20Regular';
+export { default as IcOrigonArrowTurnLeftUp_48Filled } from './IcOrigonArrowTurnLeftUp_48Filled';
+export { default as IcOrigonArrowTurnLeftUp_48Regular } from './IcOrigonArrowTurnLeftUp_48Regular';

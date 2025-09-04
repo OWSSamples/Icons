@@ -1,6 +1,6 @@
-export { default as IcFluentGanttChart_16Filled } from './IcFluentGanttChart_16Filled';
-export { default as IcFluentGanttChart_16Regular } from './IcFluentGanttChart_16Regular';
-export { default as IcFluentGanttChart_20Filled } from './IcFluentGanttChart_20Filled';
-export { default as IcFluentGanttChart_20Regular } from './IcFluentGanttChart_20Regular';
-export { default as IcFluentGanttChart_24Filled } from './IcFluentGanttChart_24Filled';
-export { default as IcFluentGanttChart_24Regular } from './IcFluentGanttChart_24Regular';
+export { default as IcOrigonGanttChart_16Filled } from './IcOrigonGanttChart_16Filled';
+export { default as IcOrigonGanttChart_16Regular } from './IcOrigonGanttChart_16Regular';
+export { default as IcOrigonGanttChart_20Filled } from './IcOrigonGanttChart_20Filled';
+export { default as IcOrigonGanttChart_20Regular } from './IcOrigonGanttChart_20Regular';
+export { default as IcOrigonGanttChart_24Filled } from './IcOrigonGanttChart_24Filled';
+export { default as IcOrigonGanttChart_24Regular } from './IcOrigonGanttChart_24Regular';

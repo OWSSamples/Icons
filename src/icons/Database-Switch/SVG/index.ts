@@ -1,4 +1,4 @@
-export { default as IcFluentDatabaseSwitch_20Filled } from './IcFluentDatabaseSwitch_20Filled';
-export { default as IcFluentDatabaseSwitch_20Regular } from './IcFluentDatabaseSwitch_20Regular';
-export { default as IcFluentDatabaseSwitch_24Filled } from './IcFluentDatabaseSwitch_24Filled';
-export { default as IcFluentDatabaseSwitch_24Regular } from './IcFluentDatabaseSwitch_24Regular';
+export { default as IcOrigonDatabaseSwitch_20Filled } from './IcOrigonDatabaseSwitch_20Filled';
+export { default as IcOrigonDatabaseSwitch_20Regular } from './IcOrigonDatabaseSwitch_20Regular';
+export { default as IcOrigonDatabaseSwitch_24Filled } from './IcOrigonDatabaseSwitch_24Filled';
+export { default as IcOrigonDatabaseSwitch_24Regular } from './IcOrigonDatabaseSwitch_24Regular';

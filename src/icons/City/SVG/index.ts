@@ -1,6 +1,6 @@
-export { default as IcFluentCity_16Filled } from './IcFluentCity_16Filled';
-export { default as IcFluentCity_16Regular } from './IcFluentCity_16Regular';
-export { default as IcFluentCity_20Filled } from './IcFluentCity_20Filled';
-export { default as IcFluentCity_20Regular } from './IcFluentCity_20Regular';
-export { default as IcFluentCity_24Filled } from './IcFluentCity_24Filled';
-export { default as IcFluentCity_24Regular } from './IcFluentCity_24Regular';
+export { default as IcOrigonCity_16Filled } from './IcOrigonCity_16Filled';
+export { default as IcOrigonCity_16Regular } from './IcOrigonCity_16Regular';
+export { default as IcOrigonCity_20Filled } from './IcOrigonCity_20Filled';
+export { default as IcOrigonCity_20Regular } from './IcOrigonCity_20Regular';
+export { default as IcOrigonCity_24Filled } from './IcOrigonCity_24Filled';
+export { default as IcOrigonCity_24Regular } from './IcOrigonCity_24Regular';

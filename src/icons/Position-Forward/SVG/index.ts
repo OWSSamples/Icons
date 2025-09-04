@@ -1,4 +1,4 @@
-export { default as IcFluentPositionForward_20Filled } from './IcFluentPositionForward_20Filled';
-export { default as IcFluentPositionForward_20Regular } from './IcFluentPositionForward_20Regular';
-export { default as IcFluentPositionForward_24Filled } from './IcFluentPositionForward_24Filled';
-export { default as IcFluentPositionForward_24Regular } from './IcFluentPositionForward_24Regular';
+export { default as IcOrigonPositionForward_20Filled } from './IcOrigonPositionForward_20Filled';
+export { default as IcOrigonPositionForward_20Regular } from './IcOrigonPositionForward_20Regular';
+export { default as IcOrigonPositionForward_24Filled } from './IcOrigonPositionForward_24Filled';
+export { default as IcOrigonPositionForward_24Regular } from './IcOrigonPositionForward_24Regular';

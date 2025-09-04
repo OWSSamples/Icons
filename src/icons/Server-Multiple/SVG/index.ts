@@ -1,2 +1,2 @@
-export { default as IcFluentServerMultiple_20Filled } from './IcFluentServerMultiple_20Filled';
-export { default as IcFluentServerMultiple_20Regular } from './IcFluentServerMultiple_20Regular';
+export { default as IcOrigonServerMultiple_20Filled } from './IcOrigonServerMultiple_20Filled';
+export { default as IcOrigonServerMultiple_20Regular } from './IcOrigonServerMultiple_20Regular';

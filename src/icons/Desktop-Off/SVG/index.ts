@@ -1,4 +1,4 @@
-export { default as IcFluentDesktopOff_20Filled } from './IcFluentDesktopOff_20Filled';
-export { default as IcFluentDesktopOff_20Regular } from './IcFluentDesktopOff_20Regular';
-export { default as IcFluentDesktopOff_24Filled } from './IcFluentDesktopOff_24Filled';
-export { default as IcFluentDesktopOff_24Regular } from './IcFluentDesktopOff_24Regular';
+export { default as IcOrigonDesktopOff_20Filled } from './IcOrigonDesktopOff_20Filled';
+export { default as IcOrigonDesktopOff_20Regular } from './IcOrigonDesktopOff_20Regular';
+export { default as IcOrigonDesktopOff_24Filled } from './IcOrigonDesktopOff_24Filled';
+export { default as IcOrigonDesktopOff_24Regular } from './IcOrigonDesktopOff_24Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentChatCursor_16Filled } from './IcFluentChatCursor_16Filled';
-export { default as IcFluentChatCursor_16Regular } from './IcFluentChatCursor_16Regular';
-export { default as IcFluentChatCursor_20Filled } from './IcFluentChatCursor_20Filled';
-export { default as IcFluentChatCursor_20Regular } from './IcFluentChatCursor_20Regular';
-export { default as IcFluentChatCursor_24Filled } from './IcFluentChatCursor_24Filled';
-export { default as IcFluentChatCursor_24Regular } from './IcFluentChatCursor_24Regular';
+export { default as IcOrigonChatCursor_16Filled } from './IcOrigonChatCursor_16Filled';
+export { default as IcOrigonChatCursor_16Regular } from './IcOrigonChatCursor_16Regular';
+export { default as IcOrigonChatCursor_20Filled } from './IcOrigonChatCursor_20Filled';
+export { default as IcOrigonChatCursor_20Regular } from './IcOrigonChatCursor_20Regular';
+export { default as IcOrigonChatCursor_24Filled } from './IcOrigonChatCursor_24Filled';
+export { default as IcOrigonChatCursor_24Regular } from './IcOrigonChatCursor_24Regular';

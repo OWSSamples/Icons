@@ -1,4 +1,4 @@
-export { default as IcFluentFilterSync_20Filled } from './IcFluentFilterSync_20Filled';
-export { default as IcFluentFilterSync_20Regular } from './IcFluentFilterSync_20Regular';
-export { default as IcFluentFilterSync_24Filled } from './IcFluentFilterSync_24Filled';
-export { default as IcFluentFilterSync_24Regular } from './IcFluentFilterSync_24Regular';
+export { default as IcOrigonFilterSync_20Filled } from './IcOrigonFilterSync_20Filled';
+export { default as IcOrigonFilterSync_20Regular } from './IcOrigonFilterSync_20Regular';
+export { default as IcOrigonFilterSync_24Filled } from './IcOrigonFilterSync_24Filled';
+export { default as IcOrigonFilterSync_24Regular } from './IcOrigonFilterSync_24Regular';

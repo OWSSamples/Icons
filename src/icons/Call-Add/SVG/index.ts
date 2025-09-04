@@ -1,6 +1,6 @@
-export { default as IcFluentCallAdd_16Filled } from './IcFluentCallAdd_16Filled';
-export { default as IcFluentCallAdd_16Regular } from './IcFluentCallAdd_16Regular';
-export { default as IcFluentCallAdd_20Filled } from './IcFluentCallAdd_20Filled';
-export { default as IcFluentCallAdd_20Regular } from './IcFluentCallAdd_20Regular';
-export { default as IcFluentCallAdd_24Filled } from './IcFluentCallAdd_24Filled';
-export { default as IcFluentCallAdd_24Regular } from './IcFluentCallAdd_24Regular';
+export { default as IcOrigonCallAdd_16Filled } from './IcOrigonCallAdd_16Filled';
+export { default as IcOrigonCallAdd_16Regular } from './IcOrigonCallAdd_16Regular';
+export { default as IcOrigonCallAdd_20Filled } from './IcOrigonCallAdd_20Filled';
+export { default as IcOrigonCallAdd_20Regular } from './IcOrigonCallAdd_20Regular';
+export { default as IcOrigonCallAdd_24Filled } from './IcOrigonCallAdd_24Filled';
+export { default as IcOrigonCallAdd_24Regular } from './IcOrigonCallAdd_24Regular';

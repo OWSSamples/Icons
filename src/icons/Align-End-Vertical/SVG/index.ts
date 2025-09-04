@@ -1,2 +1,2 @@
-export { default as IcFluentAlignEndVertical_20Filled } from './IcFluentAlignEndVertical_20Filled';
-export { default as IcFluentAlignEndVertical_20Regular } from './IcFluentAlignEndVertical_20Regular';
+export { default as IcOrigonAlignEndVertical_20Filled } from './IcOrigonAlignEndVertical_20Filled';
+export { default as IcOrigonAlignEndVertical_20Regular } from './IcOrigonAlignEndVertical_20Regular';

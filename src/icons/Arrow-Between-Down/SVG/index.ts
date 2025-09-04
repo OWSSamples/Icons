@@ -1,4 +1,4 @@
-export { default as IcFluentArrowBetweenDown_20Filled } from './IcFluentArrowBetweenDown_20Filled';
-export { default as IcFluentArrowBetweenDown_20Regular } from './IcFluentArrowBetweenDown_20Regular';
-export { default as IcFluentArrowBetweenDown_24Filled } from './IcFluentArrowBetweenDown_24Filled';
-export { default as IcFluentArrowBetweenDown_24Regular } from './IcFluentArrowBetweenDown_24Regular';
+export { default as IcOrigonArrowBetweenDown_20Filled } from './IcOrigonArrowBetweenDown_20Filled';
+export { default as IcOrigonArrowBetweenDown_20Regular } from './IcOrigonArrowBetweenDown_20Regular';
+export { default as IcOrigonArrowBetweenDown_24Filled } from './IcOrigonArrowBetweenDown_24Filled';
+export { default as IcOrigonArrowBetweenDown_24Regular } from './IcOrigonArrowBetweenDown_24Regular';

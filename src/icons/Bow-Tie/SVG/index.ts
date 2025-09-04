@@ -1,4 +1,4 @@
-export { default as IcFluentBowTie_20Filled } from './IcFluentBowTie_20Filled';
-export { default as IcFluentBowTie_20Regular } from './IcFluentBowTie_20Regular';
-export { default as IcFluentBowTie_24Filled } from './IcFluentBowTie_24Filled';
-export { default as IcFluentBowTie_24Regular } from './IcFluentBowTie_24Regular';
+export { default as IcOrigonBowTie_20Filled } from './IcOrigonBowTie_20Filled';
+export { default as IcOrigonBowTie_20Regular } from './IcOrigonBowTie_20Regular';
+export { default as IcOrigonBowTie_24Filled } from './IcOrigonBowTie_24Filled';
+export { default as IcOrigonBowTie_24Regular } from './IcOrigonBowTie_24Regular';

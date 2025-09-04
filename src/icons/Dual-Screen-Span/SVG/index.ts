@@ -1,4 +1,4 @@
-export { default as IcFluentDualScreenSpan_20Filled } from './IcFluentDualScreenSpan_20Filled';
-export { default as IcFluentDualScreenSpan_20Regular } from './IcFluentDualScreenSpan_20Regular';
-export { default as IcFluentDualScreenSpan_24Filled } from './IcFluentDualScreenSpan_24Filled';
-export { default as IcFluentDualScreenSpan_24Regular } from './IcFluentDualScreenSpan_24Regular';
+export { default as IcOrigonDualScreenSpan_20Filled } from './IcOrigonDualScreenSpan_20Filled';
+export { default as IcOrigonDualScreenSpan_20Regular } from './IcOrigonDualScreenSpan_20Regular';
+export { default as IcOrigonDualScreenSpan_24Filled } from './IcOrigonDualScreenSpan_24Filled';
+export { default as IcOrigonDualScreenSpan_24Regular } from './IcOrigonDualScreenSpan_24Regular';

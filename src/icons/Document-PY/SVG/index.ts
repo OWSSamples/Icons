@@ -1,2 +1,2 @@
-export { default as IcFluentDocumentPy_16Filled } from './IcFluentDocumentPy_16Filled';
-export { default as IcFluentDocumentPy_16Regular } from './IcFluentDocumentPy_16Regular';
+export { default as IcOrigonDocumentPy_16Filled } from './IcOrigonDocumentPy_16Filled';
+export { default as IcOrigonDocumentPy_16Regular } from './IcOrigonDocumentPy_16Regular';

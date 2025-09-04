@@ -1,6 +1,6 @@
-export { default as IcFluentChatHistory_20Filled } from './IcFluentChatHistory_20Filled';
-export { default as IcFluentChatHistory_20Regular } from './IcFluentChatHistory_20Regular';
-export { default as IcFluentChatHistory_24Filled } from './IcFluentChatHistory_24Filled';
-export { default as IcFluentChatHistory_24Regular } from './IcFluentChatHistory_24Regular';
-export { default as IcFluentChatHistory_28Filled } from './IcFluentChatHistory_28Filled';
-export { default as IcFluentChatHistory_28Regular } from './IcFluentChatHistory_28Regular';
+export { default as IcOrigonChatHistory_20Filled } from './IcOrigonChatHistory_20Filled';
+export { default as IcOrigonChatHistory_20Regular } from './IcOrigonChatHistory_20Regular';
+export { default as IcOrigonChatHistory_24Filled } from './IcOrigonChatHistory_24Filled';
+export { default as IcOrigonChatHistory_24Regular } from './IcOrigonChatHistory_24Regular';
+export { default as IcOrigonChatHistory_28Filled } from './IcOrigonChatHistory_28Filled';
+export { default as IcOrigonChatHistory_28Regular } from './IcOrigonChatHistory_28Regular';

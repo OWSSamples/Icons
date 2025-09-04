@@ -1,6 +1,6 @@
-export { default as IcFluentDocumentOnePageLink_16Filled } from './IcFluentDocumentOnePageLink_16Filled';
-export { default as IcFluentDocumentOnePageLink_16Regular } from './IcFluentDocumentOnePageLink_16Regular';
-export { default as IcFluentDocumentOnePageLink_20Filled } from './IcFluentDocumentOnePageLink_20Filled';
-export { default as IcFluentDocumentOnePageLink_20Regular } from './IcFluentDocumentOnePageLink_20Regular';
-export { default as IcFluentDocumentOnePageLink_24Filled } from './IcFluentDocumentOnePageLink_24Filled';
-export { default as IcFluentDocumentOnePageLink_24Regular } from './IcFluentDocumentOnePageLink_24Regular';
+export { default as IcOrigonDocumentOnePageLink_16Filled } from './IcOrigonDocumentOnePageLink_16Filled';
+export { default as IcOrigonDocumentOnePageLink_16Regular } from './IcOrigonDocumentOnePageLink_16Regular';
+export { default as IcOrigonDocumentOnePageLink_20Filled } from './IcOrigonDocumentOnePageLink_20Filled';
+export { default as IcOrigonDocumentOnePageLink_20Regular } from './IcOrigonDocumentOnePageLink_20Regular';
+export { default as IcOrigonDocumentOnePageLink_24Filled } from './IcOrigonDocumentOnePageLink_24Filled';
+export { default as IcOrigonDocumentOnePageLink_24Regular } from './IcOrigonDocumentOnePageLink_24Regular';

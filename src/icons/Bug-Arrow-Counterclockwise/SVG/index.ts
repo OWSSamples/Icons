@@ -1,2 +1,2 @@
-export { default as IcFluentBugArrowCounterclockwise_20Filled } from './IcFluentBugArrowCounterclockwise_20Filled';
-export { default as IcFluentBugArrowCounterclockwise_20Regular } from './IcFluentBugArrowCounterclockwise_20Regular';
+export { default as IcOrigonBugArrowCounterclockwise_20Filled } from './IcOrigonBugArrowCounterclockwise_20Filled';
+export { default as IcOrigonBugArrowCounterclockwise_20Regular } from './IcOrigonBugArrowCounterclockwise_20Regular';

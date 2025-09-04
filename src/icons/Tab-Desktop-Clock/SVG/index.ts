@@ -1,2 +1,2 @@
-export { default as IcFluentTabDesktopClock_20Filled } from './IcFluentTabDesktopClock_20Filled';
-export { default as IcFluentTabDesktopClock_20Regular } from './IcFluentTabDesktopClock_20Regular';
+export { default as IcOrigonTabDesktopClock_20Filled } from './IcOrigonTabDesktopClock_20Filled';
+export { default as IcOrigonTabDesktopClock_20Regular } from './IcOrigonTabDesktopClock_20Regular';

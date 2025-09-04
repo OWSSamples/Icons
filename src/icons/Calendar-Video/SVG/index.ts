@@ -1,6 +1,6 @@
-export { default as IcFluentCalendarVideo_20Filled } from './IcFluentCalendarVideo_20Filled';
-export { default as IcFluentCalendarVideo_20Regular } from './IcFluentCalendarVideo_20Regular';
-export { default as IcFluentCalendarVideo_24Filled } from './IcFluentCalendarVideo_24Filled';
-export { default as IcFluentCalendarVideo_24Regular } from './IcFluentCalendarVideo_24Regular';
-export { default as IcFluentCalendarVideo_28Filled } from './IcFluentCalendarVideo_28Filled';
-export { default as IcFluentCalendarVideo_28Regular } from './IcFluentCalendarVideo_28Regular';
+export { default as IcOrigonCalendarVideo_20Filled } from './IcOrigonCalendarVideo_20Filled';
+export { default as IcOrigonCalendarVideo_20Regular } from './IcOrigonCalendarVideo_20Regular';
+export { default as IcOrigonCalendarVideo_24Filled } from './IcOrigonCalendarVideo_24Filled';
+export { default as IcOrigonCalendarVideo_24Regular } from './IcOrigonCalendarVideo_24Regular';
+export { default as IcOrigonCalendarVideo_28Filled } from './IcOrigonCalendarVideo_28Filled';
+export { default as IcOrigonCalendarVideo_28Regular } from './IcOrigonCalendarVideo_28Regular';

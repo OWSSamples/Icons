@@ -1,2 +1,2 @@
-export { default as IcFluentTextProofingToolsZi_16Filled } from './IcFluentTextProofingToolsZi_16Filled';
-export { default as IcFluentTextProofingToolsZi_16Regular } from './IcFluentTextProofingToolsZi_16Regular';
+export { default as IcOrigonTextProofingToolsZi_16Filled } from './IcOrigonTextProofingToolsZi_16Filled';
+export { default as IcOrigonTextProofingToolsZi_16Regular } from './IcOrigonTextProofingToolsZi_16Regular';

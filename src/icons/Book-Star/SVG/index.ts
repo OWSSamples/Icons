@@ -1,6 +1,6 @@
-export { default as IcFluentBookStar_20Color } from './IcFluentBookStar_20Color';
-export { default as IcFluentBookStar_20Filled } from './IcFluentBookStar_20Filled';
-export { default as IcFluentBookStar_20Regular } from './IcFluentBookStar_20Regular';
-export { default as IcFluentBookStar_24Color } from './IcFluentBookStar_24Color';
-export { default as IcFluentBookStar_24Filled } from './IcFluentBookStar_24Filled';
-export { default as IcFluentBookStar_24Regular } from './IcFluentBookStar_24Regular';
+export { default as IcOrigonBookStar_20Color } from './IcOrigonBookStar_20Color';
+export { default as IcOrigonBookStar_20Filled } from './IcOrigonBookStar_20Filled';
+export { default as IcOrigonBookStar_20Regular } from './IcOrigonBookStar_20Regular';
+export { default as IcOrigonBookStar_24Color } from './IcOrigonBookStar_24Color';
+export { default as IcOrigonBookStar_24Filled } from './IcOrigonBookStar_24Filled';
+export { default as IcOrigonBookStar_24Regular } from './IcOrigonBookStar_24Regular';

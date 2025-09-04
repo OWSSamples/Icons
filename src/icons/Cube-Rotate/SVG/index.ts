@@ -1,2 +1,2 @@
-export { default as IcFluentCubeRotate_20Filled } from './IcFluentCubeRotate_20Filled';
-export { default as IcFluentCubeRotate_20Regular } from './IcFluentCubeRotate_20Regular';
+export { default as IcOrigonCubeRotate_20Filled } from './IcOrigonCubeRotate_20Filled';
+export { default as IcOrigonCubeRotate_20Regular } from './IcOrigonCubeRotate_20Regular';

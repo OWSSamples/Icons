@@ -1,4 +1,4 @@
-export { default as IcFluentPinGlobe_16Filled } from './IcFluentPinGlobe_16Filled';
-export { default as IcFluentPinGlobe_16Regular } from './IcFluentPinGlobe_16Regular';
-export { default as IcFluentPinGlobe_20Filled } from './IcFluentPinGlobe_20Filled';
-export { default as IcFluentPinGlobe_20Regular } from './IcFluentPinGlobe_20Regular';
+export { default as IcOrigonPinGlobe_16Filled } from './IcOrigonPinGlobe_16Filled';
+export { default as IcOrigonPinGlobe_16Regular } from './IcOrigonPinGlobe_16Regular';
+export { default as IcOrigonPinGlobe_20Filled } from './IcOrigonPinGlobe_20Filled';
+export { default as IcOrigonPinGlobe_20Regular } from './IcOrigonPinGlobe_20Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentLottery_20Filled } from './IcFluentLottery_20Filled';
-export { default as IcFluentLottery_20Regular } from './IcFluentLottery_20Regular';
-export { default as IcFluentLottery_24Filled } from './IcFluentLottery_24Filled';
-export { default as IcFluentLottery_24Regular } from './IcFluentLottery_24Regular';
+export { default as IcOrigonLottery_20Filled } from './IcOrigonLottery_20Filled';
+export { default as IcOrigonLottery_20Regular } from './IcOrigonLottery_20Regular';
+export { default as IcOrigonLottery_24Filled } from './IcOrigonLottery_24Filled';
+export { default as IcOrigonLottery_24Regular } from './IcOrigonLottery_24Regular';

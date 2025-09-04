@@ -1,8 +1,8 @@
-export { default as IcFluentRename_16Filled } from './IcFluentRename_16Filled';
-export { default as IcFluentRename_16Regular } from './IcFluentRename_16Regular';
-export { default as IcFluentRename_20Filled } from './IcFluentRename_20Filled';
-export { default as IcFluentRename_20Regular } from './IcFluentRename_20Regular';
-export { default as IcFluentRename_24Filled } from './IcFluentRename_24Filled';
-export { default as IcFluentRename_24Regular } from './IcFluentRename_24Regular';
-export { default as IcFluentRename_28Filled } from './IcFluentRename_28Filled';
-export { default as IcFluentRename_28Regular } from './IcFluentRename_28Regular';
+export { default as IcOrigonRename_16Filled } from './IcOrigonRename_16Filled';
+export { default as IcOrigonRename_16Regular } from './IcOrigonRename_16Regular';
+export { default as IcOrigonRename_20Filled } from './IcOrigonRename_20Filled';
+export { default as IcOrigonRename_20Regular } from './IcOrigonRename_20Regular';
+export { default as IcOrigonRename_24Filled } from './IcOrigonRename_24Filled';
+export { default as IcOrigonRename_24Regular } from './IcOrigonRename_24Regular';
+export { default as IcOrigonRename_28Filled } from './IcOrigonRename_28Filled';
+export { default as IcOrigonRename_28Regular } from './IcOrigonRename_28Regular';

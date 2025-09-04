@@ -1,2 +1,2 @@
-export { default as IcFluentNavigationLocationTarget_20Filled } from './IcFluentNavigationLocationTarget_20Filled';
-export { default as IcFluentNavigationLocationTarget_20Regular } from './IcFluentNavigationLocationTarget_20Regular';
+export { default as IcOrigonNavigationLocationTarget_20Filled } from './IcOrigonNavigationLocationTarget_20Filled';
+export { default as IcOrigonNavigationLocationTarget_20Regular } from './IcOrigonNavigationLocationTarget_20Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentDividerShort_16Filled } from './IcFluentDividerShort_16Filled';
-export { default as IcFluentDividerShort_16Regular } from './IcFluentDividerShort_16Regular';
-export { default as IcFluentDividerShort_20Filled } from './IcFluentDividerShort_20Filled';
-export { default as IcFluentDividerShort_20Regular } from './IcFluentDividerShort_20Regular';
-export { default as IcFluentDividerShort_24Filled } from './IcFluentDividerShort_24Filled';
-export { default as IcFluentDividerShort_24Regular } from './IcFluentDividerShort_24Regular';
+export { default as IcOrigonDividerShort_16Filled } from './IcOrigonDividerShort_16Filled';
+export { default as IcOrigonDividerShort_16Regular } from './IcOrigonDividerShort_16Regular';
+export { default as IcOrigonDividerShort_20Filled } from './IcOrigonDividerShort_20Filled';
+export { default as IcOrigonDividerShort_20Regular } from './IcOrigonDividerShort_20Regular';
+export { default as IcOrigonDividerShort_24Filled } from './IcOrigonDividerShort_24Filled';
+export { default as IcOrigonDividerShort_24Regular } from './IcOrigonDividerShort_24Regular';

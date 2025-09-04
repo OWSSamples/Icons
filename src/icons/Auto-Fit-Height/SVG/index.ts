@@ -1,8 +1,8 @@
-export { default as IcFluentAutoFitHeight_20Filled } from './IcFluentAutoFitHeight_20Filled';
-export { default as IcFluentAutoFitHeight_20Regular } from './IcFluentAutoFitHeight_20Regular';
-export { default as IcFluentAutoFitHeight_24Filled } from './IcFluentAutoFitHeight_24Filled';
-export { default as IcFluentAutoFitHeight_24Regular } from './IcFluentAutoFitHeight_24Regular';
-export { default as IcFluentAutoFitHeight_28Filled } from './IcFluentAutoFitHeight_28Filled';
-export { default as IcFluentAutoFitHeight_28Regular } from './IcFluentAutoFitHeight_28Regular';
-export { default as IcFluentAutoFitHeight_32Filled } from './IcFluentAutoFitHeight_32Filled';
-export { default as IcFluentAutoFitHeight_32Regular } from './IcFluentAutoFitHeight_32Regular';
+export { default as IcOrigonAutoFitHeight_20Filled } from './IcOrigonAutoFitHeight_20Filled';
+export { default as IcOrigonAutoFitHeight_20Regular } from './IcOrigonAutoFitHeight_20Regular';
+export { default as IcOrigonAutoFitHeight_24Filled } from './IcOrigonAutoFitHeight_24Filled';
+export { default as IcOrigonAutoFitHeight_24Regular } from './IcOrigonAutoFitHeight_24Regular';
+export { default as IcOrigonAutoFitHeight_28Filled } from './IcOrigonAutoFitHeight_28Filled';
+export { default as IcOrigonAutoFitHeight_28Regular } from './IcOrigonAutoFitHeight_28Regular';
+export { default as IcOrigonAutoFitHeight_32Filled } from './IcOrigonAutoFitHeight_32Filled';
+export { default as IcOrigonAutoFitHeight_32Regular } from './IcOrigonAutoFitHeight_32Regular';

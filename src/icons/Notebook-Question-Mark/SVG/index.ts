@@ -1,6 +1,6 @@
-export { default as IcFluentNotebookQuestionMark_20Color } from './IcFluentNotebookQuestionMark_20Color';
-export { default as IcFluentNotebookQuestionMark_20Filled } from './IcFluentNotebookQuestionMark_20Filled';
-export { default as IcFluentNotebookQuestionMark_20Regular } from './IcFluentNotebookQuestionMark_20Regular';
-export { default as IcFluentNotebookQuestionMark_24Color } from './IcFluentNotebookQuestionMark_24Color';
-export { default as IcFluentNotebookQuestionMark_24Filled } from './IcFluentNotebookQuestionMark_24Filled';
-export { default as IcFluentNotebookQuestionMark_24Regular } from './IcFluentNotebookQuestionMark_24Regular';
+export { default as IcOrigonNotebookQuestionMark_20Color } from './IcOrigonNotebookQuestionMark_20Color';
+export { default as IcOrigonNotebookQuestionMark_20Filled } from './IcOrigonNotebookQuestionMark_20Filled';
+export { default as IcOrigonNotebookQuestionMark_20Regular } from './IcOrigonNotebookQuestionMark_20Regular';
+export { default as IcOrigonNotebookQuestionMark_24Color } from './IcOrigonNotebookQuestionMark_24Color';
+export { default as IcOrigonNotebookQuestionMark_24Filled } from './IcOrigonNotebookQuestionMark_24Filled';
+export { default as IcOrigonNotebookQuestionMark_24Regular } from './IcOrigonNotebookQuestionMark_24Regular';

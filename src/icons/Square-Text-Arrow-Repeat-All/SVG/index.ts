@@ -1,8 +1,8 @@
-export { default as IcFluentSquareTextArrowRepeatAll_16Filled } from './IcFluentSquareTextArrowRepeatAll_16Filled';
-export { default as IcFluentSquareTextArrowRepeatAll_16Regular } from './IcFluentSquareTextArrowRepeatAll_16Regular';
-export { default as IcFluentSquareTextArrowRepeatAll_20Filled } from './IcFluentSquareTextArrowRepeatAll_20Filled';
-export { default as IcFluentSquareTextArrowRepeatAll_20Regular } from './IcFluentSquareTextArrowRepeatAll_20Regular';
-export { default as IcFluentSquareTextArrowRepeatAll_24Filled } from './IcFluentSquareTextArrowRepeatAll_24Filled';
-export { default as IcFluentSquareTextArrowRepeatAll_24Regular } from './IcFluentSquareTextArrowRepeatAll_24Regular';
-export { default as IcFluentSquareTextArrowRepeatAll_32Filled } from './IcFluentSquareTextArrowRepeatAll_32Filled';
-export { default as IcFluentSquareTextArrowRepeatAll_32Regular } from './IcFluentSquareTextArrowRepeatAll_32Regular';
+export { default as IcOrigonSquareTextArrowRepeatAll_16Filled } from './IcOrigonSquareTextArrowRepeatAll_16Filled';
+export { default as IcOrigonSquareTextArrowRepeatAll_16Regular } from './IcOrigonSquareTextArrowRepeatAll_16Regular';
+export { default as IcOrigonSquareTextArrowRepeatAll_20Filled } from './IcOrigonSquareTextArrowRepeatAll_20Filled';
+export { default as IcOrigonSquareTextArrowRepeatAll_20Regular } from './IcOrigonSquareTextArrowRepeatAll_20Regular';
+export { default as IcOrigonSquareTextArrowRepeatAll_24Filled } from './IcOrigonSquareTextArrowRepeatAll_24Filled';
+export { default as IcOrigonSquareTextArrowRepeatAll_24Regular } from './IcOrigonSquareTextArrowRepeatAll_24Regular';
+export { default as IcOrigonSquareTextArrowRepeatAll_32Filled } from './IcOrigonSquareTextArrowRepeatAll_32Filled';
+export { default as IcOrigonSquareTextArrowRepeatAll_32Regular } from './IcOrigonSquareTextArrowRepeatAll_32Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentEmojiSurprise_20Filled } from './IcFluentEmojiSurprise_20Filled';
-export { default as IcFluentEmojiSurprise_20Regular } from './IcFluentEmojiSurprise_20Regular';
-export { default as IcFluentEmojiSurprise_24Filled } from './IcFluentEmojiSurprise_24Filled';
-export { default as IcFluentEmojiSurprise_24Regular } from './IcFluentEmojiSurprise_24Regular';
+export { default as IcOrigonEmojiSurprise_20Filled } from './IcOrigonEmojiSurprise_20Filled';
+export { default as IcOrigonEmojiSurprise_20Regular } from './IcOrigonEmojiSurprise_20Regular';
+export { default as IcOrigonEmojiSurprise_24Filled } from './IcOrigonEmojiSurprise_24Filled';
+export { default as IcOrigonEmojiSurprise_24Regular } from './IcOrigonEmojiSurprise_24Regular';

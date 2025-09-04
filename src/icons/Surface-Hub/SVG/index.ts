@@ -1,4 +1,4 @@
-export { default as IcFluentSurfaceHub_20Filled } from './IcFluentSurfaceHub_20Filled';
-export { default as IcFluentSurfaceHub_20Regular } from './IcFluentSurfaceHub_20Regular';
-export { default as IcFluentSurfaceHub_24Filled } from './IcFluentSurfaceHub_24Filled';
-export { default as IcFluentSurfaceHub_24Regular } from './IcFluentSurfaceHub_24Regular';
+export { default as IcOrigonSurfaceHub_20Filled } from './IcOrigonSurfaceHub_20Filled';
+export { default as IcOrigonSurfaceHub_20Regular } from './IcOrigonSurfaceHub_20Regular';
+export { default as IcOrigonSurfaceHub_24Filled } from './IcOrigonSurfaceHub_24Filled';
+export { default as IcOrigonSurfaceHub_24Regular } from './IcOrigonSurfaceHub_24Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentVoicemailArrowSubtract_20Filled } from './IcFluentVoicemailArrowSubtract_20Filled';
-export { default as IcFluentVoicemailArrowSubtract_20Regular } from './IcFluentVoicemailArrowSubtract_20Regular';
+export { default as IcOrigonVoicemailArrowSubtract_20Filled } from './IcOrigonVoicemailArrowSubtract_20Filled';
+export { default as IcOrigonVoicemailArrowSubtract_20Regular } from './IcOrigonVoicemailArrowSubtract_20Regular';

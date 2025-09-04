@@ -1,6 +1,6 @@
-export { default as IcFluentDocumentOnePageMultipleSparkle_16Filled } from './IcFluentDocumentOnePageMultipleSparkle_16Filled';
-export { default as IcFluentDocumentOnePageMultipleSparkle_16Regular } from './IcFluentDocumentOnePageMultipleSparkle_16Regular';
-export { default as IcFluentDocumentOnePageMultipleSparkle_20Filled } from './IcFluentDocumentOnePageMultipleSparkle_20Filled';
-export { default as IcFluentDocumentOnePageMultipleSparkle_20Regular } from './IcFluentDocumentOnePageMultipleSparkle_20Regular';
-export { default as IcFluentDocumentOnePageMultipleSparkle_24Filled } from './IcFluentDocumentOnePageMultipleSparkle_24Filled';
-export { default as IcFluentDocumentOnePageMultipleSparkle_24Regular } from './IcFluentDocumentOnePageMultipleSparkle_24Regular';
+export { default as IcOrigonDocumentOnePageMultipleSparkle_16Filled } from './IcOrigonDocumentOnePageMultipleSparkle_16Filled';
+export { default as IcOrigonDocumentOnePageMultipleSparkle_16Regular } from './IcOrigonDocumentOnePageMultipleSparkle_16Regular';
+export { default as IcOrigonDocumentOnePageMultipleSparkle_20Filled } from './IcOrigonDocumentOnePageMultipleSparkle_20Filled';
+export { default as IcOrigonDocumentOnePageMultipleSparkle_20Regular } from './IcOrigonDocumentOnePageMultipleSparkle_20Regular';
+export { default as IcOrigonDocumentOnePageMultipleSparkle_24Filled } from './IcOrigonDocumentOnePageMultipleSparkle_24Filled';
+export { default as IcOrigonDocumentOnePageMultipleSparkle_24Regular } from './IcOrigonDocumentOnePageMultipleSparkle_24Regular';

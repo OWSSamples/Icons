@@ -1,2 +1,2 @@
-export { default as IcFluentKeyboardMouse_16Filled } from './IcFluentKeyboardMouse_16Filled';
-export { default as IcFluentKeyboardMouse_16Regular } from './IcFluentKeyboardMouse_16Regular';
+export { default as IcOrigonKeyboardMouse_16Filled } from './IcOrigonKeyboardMouse_16Filled';
+export { default as IcOrigonKeyboardMouse_16Regular } from './IcOrigonKeyboardMouse_16Regular';

@@ -1,2 +1,2 @@
-export { default as IcFluentMarkdown_20Filled } from './IcFluentMarkdown_20Filled';
-export { default as IcFluentMarkdown_20Regular } from './IcFluentMarkdown_20Regular';
+export { default as IcOrigonMarkdown_20Filled } from './IcOrigonMarkdown_20Filled';
+export { default as IcOrigonMarkdown_20Regular } from './IcOrigonMarkdown_20Regular';

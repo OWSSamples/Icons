@@ -1,2 +1,2 @@
-export { default as IcFluentDocumentContract_16Filled } from './IcFluentDocumentContract_16Filled';
-export { default as IcFluentDocumentContract_16Regular } from './IcFluentDocumentContract_16Regular';
+export { default as IcOrigonDocumentContract_16Filled } from './IcOrigonDocumentContract_16Filled';
+export { default as IcOrigonDocumentContract_16Regular } from './IcOrigonDocumentContract_16Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentErrorCircleSettings_16Filled } from './IcFluentErrorCircleSettings_16Filled';
-export { default as IcFluentErrorCircleSettings_16Regular } from './IcFluentErrorCircleSettings_16Regular';
-export { default as IcFluentErrorCircleSettings_20Filled } from './IcFluentErrorCircleSettings_20Filled';
-export { default as IcFluentErrorCircleSettings_20Regular } from './IcFluentErrorCircleSettings_20Regular';
+export { default as IcOrigonErrorCircleSettings_16Filled } from './IcOrigonErrorCircleSettings_16Filled';
+export { default as IcOrigonErrorCircleSettings_16Regular } from './IcOrigonErrorCircleSettings_16Regular';
+export { default as IcOrigonErrorCircleSettings_20Filled } from './IcOrigonErrorCircleSettings_20Filled';
+export { default as IcOrigonErrorCircleSettings_20Regular } from './IcOrigonErrorCircleSettings_20Regular';

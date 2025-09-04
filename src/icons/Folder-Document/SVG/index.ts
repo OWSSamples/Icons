@@ -1,8 +1,8 @@
-export { default as IcFluentFolderDocument_16Filled } from './IcFluentFolderDocument_16Filled';
-export { default as IcFluentFolderDocument_16Regular } from './IcFluentFolderDocument_16Regular';
-export { default as IcFluentFolderDocument_20Filled } from './IcFluentFolderDocument_20Filled';
-export { default as IcFluentFolderDocument_20Regular } from './IcFluentFolderDocument_20Regular';
-export { default as IcFluentFolderDocument_24Filled } from './IcFluentFolderDocument_24Filled';
-export { default as IcFluentFolderDocument_24Regular } from './IcFluentFolderDocument_24Regular';
-export { default as IcFluentFolderDocument_28Filled } from './IcFluentFolderDocument_28Filled';
-export { default as IcFluentFolderDocument_28Regular } from './IcFluentFolderDocument_28Regular';
+export { default as IcOrigonFolderDocument_16Filled } from './IcOrigonFolderDocument_16Filled';
+export { default as IcOrigonFolderDocument_16Regular } from './IcOrigonFolderDocument_16Regular';
+export { default as IcOrigonFolderDocument_20Filled } from './IcOrigonFolderDocument_20Filled';
+export { default as IcOrigonFolderDocument_20Regular } from './IcOrigonFolderDocument_20Regular';
+export { default as IcOrigonFolderDocument_24Filled } from './IcOrigonFolderDocument_24Filled';
+export { default as IcOrigonFolderDocument_24Regular } from './IcOrigonFolderDocument_24Regular';
+export { default as IcOrigonFolderDocument_28Filled } from './IcOrigonFolderDocument_28Filled';
+export { default as IcOrigonFolderDocument_28Regular } from './IcOrigonFolderDocument_28Regular';

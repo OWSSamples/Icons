@@ -1,4 +1,4 @@
-export { default as IcFluentDeveloperBoardSearch_20Filled } from './IcFluentDeveloperBoardSearch_20Filled';
-export { default as IcFluentDeveloperBoardSearch_20Regular } from './IcFluentDeveloperBoardSearch_20Regular';
-export { default as IcFluentDeveloperBoardSearch_24Filled } from './IcFluentDeveloperBoardSearch_24Filled';
-export { default as IcFluentDeveloperBoardSearch_24Regular } from './IcFluentDeveloperBoardSearch_24Regular';
+export { default as IcOrigonDeveloperBoardSearch_20Filled } from './IcOrigonDeveloperBoardSearch_20Filled';
+export { default as IcOrigonDeveloperBoardSearch_20Regular } from './IcOrigonDeveloperBoardSearch_20Regular';
+export { default as IcOrigonDeveloperBoardSearch_24Filled } from './IcOrigonDeveloperBoardSearch_24Filled';
+export { default as IcOrigonDeveloperBoardSearch_24Regular } from './IcOrigonDeveloperBoardSearch_24Regular';

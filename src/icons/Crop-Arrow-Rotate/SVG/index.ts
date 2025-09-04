@@ -1,6 +1,6 @@
-export { default as IcFluentCropArrowRotate_16Filled } from './IcFluentCropArrowRotate_16Filled';
-export { default as IcFluentCropArrowRotate_16Regular } from './IcFluentCropArrowRotate_16Regular';
-export { default as IcFluentCropArrowRotate_20Filled } from './IcFluentCropArrowRotate_20Filled';
-export { default as IcFluentCropArrowRotate_20Regular } from './IcFluentCropArrowRotate_20Regular';
-export { default as IcFluentCropArrowRotate_24Filled } from './IcFluentCropArrowRotate_24Filled';
-export { default as IcFluentCropArrowRotate_24Regular } from './IcFluentCropArrowRotate_24Regular';
+export { default as IcOrigonCropArrowRotate_16Filled } from './IcOrigonCropArrowRotate_16Filled';
+export { default as IcOrigonCropArrowRotate_16Regular } from './IcOrigonCropArrowRotate_16Regular';
+export { default as IcOrigonCropArrowRotate_20Filled } from './IcOrigonCropArrowRotate_20Filled';
+export { default as IcOrigonCropArrowRotate_20Regular } from './IcOrigonCropArrowRotate_20Regular';
+export { default as IcOrigonCropArrowRotate_24Filled } from './IcOrigonCropArrowRotate_24Filled';
+export { default as IcOrigonCropArrowRotate_24Regular } from './IcOrigonCropArrowRotate_24Regular';

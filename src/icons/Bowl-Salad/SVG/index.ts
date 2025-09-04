@@ -1,4 +1,4 @@
-export { default as IcFluentBowlSalad_20Filled } from './IcFluentBowlSalad_20Filled';
-export { default as IcFluentBowlSalad_20Regular } from './IcFluentBowlSalad_20Regular';
-export { default as IcFluentBowlSalad_24Filled } from './IcFluentBowlSalad_24Filled';
-export { default as IcFluentBowlSalad_24Regular } from './IcFluentBowlSalad_24Regular';
+export { default as IcOrigonBowlSalad_20Filled } from './IcOrigonBowlSalad_20Filled';
+export { default as IcOrigonBowlSalad_20Regular } from './IcOrigonBowlSalad_20Regular';
+export { default as IcOrigonBowlSalad_24Filled } from './IcOrigonBowlSalad_24Filled';
+export { default as IcOrigonBowlSalad_24Regular } from './IcOrigonBowlSalad_24Regular';

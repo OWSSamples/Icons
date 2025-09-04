@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonKeyboardTab_24Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 24 24">
+    <path fill="currentColor" d="m18.03 11.47-6.5-6.5a.75.75 0 0 0-1.133.976l.073.084 5.22 5.22H3.75a.75.75 0 0 0-.743.648L3 12c0 .38.282.694.648.743l.102.007h11.94l-5.22 5.22a.75.75 0 0 0-.073.976l.073.084a.75.75 0 0 0 .976.073l.084-.073 6.5-6.5a.75.75 0 0 0 .073-.976zl-6.5-6.5zM21 18.5v-13a.75.75 0 0 0-1.5 0v13a.75.75 0 0 0 1.5 0"/>
+  </IconBase>
+);
+
+export default IcOrigonKeyboardTab_24Regular;

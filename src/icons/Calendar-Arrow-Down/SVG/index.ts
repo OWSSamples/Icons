@@ -1,4 +1,4 @@
-export { default as IcFluentCalendarArrowDown_20Filled } from './IcFluentCalendarArrowDown_20Filled';
-export { default as IcFluentCalendarArrowDown_20Regular } from './IcFluentCalendarArrowDown_20Regular';
-export { default as IcFluentCalendarArrowDown_24Filled } from './IcFluentCalendarArrowDown_24Filled';
-export { default as IcFluentCalendarArrowDown_24Regular } from './IcFluentCalendarArrowDown_24Regular';
+export { default as IcOrigonCalendarArrowDown_20Filled } from './IcOrigonCalendarArrowDown_20Filled';
+export { default as IcOrigonCalendarArrowDown_20Regular } from './IcOrigonCalendarArrowDown_20Regular';
+export { default as IcOrigonCalendarArrowDown_24Filled } from './IcOrigonCalendarArrowDown_24Filled';
+export { default as IcOrigonCalendarArrowDown_24Regular } from './IcOrigonCalendarArrowDown_24Regular';

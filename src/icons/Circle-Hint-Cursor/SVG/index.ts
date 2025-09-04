@@ -1,6 +1,6 @@
-export { default as IcFluentCircleHintCursor_16Filled } from './IcFluentCircleHintCursor_16Filled';
-export { default as IcFluentCircleHintCursor_16Regular } from './IcFluentCircleHintCursor_16Regular';
-export { default as IcFluentCircleHintCursor_20Filled } from './IcFluentCircleHintCursor_20Filled';
-export { default as IcFluentCircleHintCursor_20Regular } from './IcFluentCircleHintCursor_20Regular';
-export { default as IcFluentCircleHintCursor_24Filled } from './IcFluentCircleHintCursor_24Filled';
-export { default as IcFluentCircleHintCursor_24Regular } from './IcFluentCircleHintCursor_24Regular';
+export { default as IcOrigonCircleHintCursor_16Filled } from './IcOrigonCircleHintCursor_16Filled';
+export { default as IcOrigonCircleHintCursor_16Regular } from './IcOrigonCircleHintCursor_16Regular';
+export { default as IcOrigonCircleHintCursor_20Filled } from './IcOrigonCircleHintCursor_20Filled';
+export { default as IcOrigonCircleHintCursor_20Regular } from './IcOrigonCircleHintCursor_20Regular';
+export { default as IcOrigonCircleHintCursor_24Filled } from './IcOrigonCircleHintCursor_24Filled';
+export { default as IcOrigonCircleHintCursor_24Regular } from './IcOrigonCircleHintCursor_24Regular';

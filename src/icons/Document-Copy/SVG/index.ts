@@ -1,8 +1,8 @@
-export { default as IcFluentDocumentCopy_16Filled } from './IcFluentDocumentCopy_16Filled';
-export { default as IcFluentDocumentCopy_16Regular } from './IcFluentDocumentCopy_16Regular';
-export { default as IcFluentDocumentCopy_20Filled } from './IcFluentDocumentCopy_20Filled';
-export { default as IcFluentDocumentCopy_20Regular } from './IcFluentDocumentCopy_20Regular';
-export { default as IcFluentDocumentCopy_24Filled } from './IcFluentDocumentCopy_24Filled';
-export { default as IcFluentDocumentCopy_24Regular } from './IcFluentDocumentCopy_24Regular';
-export { default as IcFluentDocumentCopy_48Filled } from './IcFluentDocumentCopy_48Filled';
-export { default as IcFluentDocumentCopy_48Regular } from './IcFluentDocumentCopy_48Regular';
+export { default as IcOrigonDocumentCopy_16Filled } from './IcOrigonDocumentCopy_16Filled';
+export { default as IcOrigonDocumentCopy_16Regular } from './IcOrigonDocumentCopy_16Regular';
+export { default as IcOrigonDocumentCopy_20Filled } from './IcOrigonDocumentCopy_20Filled';
+export { default as IcOrigonDocumentCopy_20Regular } from './IcOrigonDocumentCopy_20Regular';
+export { default as IcOrigonDocumentCopy_24Filled } from './IcOrigonDocumentCopy_24Filled';
+export { default as IcOrigonDocumentCopy_24Regular } from './IcOrigonDocumentCopy_24Regular';
+export { default as IcOrigonDocumentCopy_48Filled } from './IcOrigonDocumentCopy_48Filled';
+export { default as IcOrigonDocumentCopy_48Regular } from './IcOrigonDocumentCopy_48Regular';

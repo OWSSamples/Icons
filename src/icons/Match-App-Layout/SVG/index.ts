@@ -1,4 +1,4 @@
-export { default as IcFluentMatchAppLayout_20Filled } from './IcFluentMatchAppLayout_20Filled';
-export { default as IcFluentMatchAppLayout_20Regular } from './IcFluentMatchAppLayout_20Regular';
-export { default as IcFluentMatchAppLayout_24Filled } from './IcFluentMatchAppLayout_24Filled';
-export { default as IcFluentMatchAppLayout_24Regular } from './IcFluentMatchAppLayout_24Regular';
+export { default as IcOrigonMatchAppLayout_20Filled } from './IcOrigonMatchAppLayout_20Filled';
+export { default as IcOrigonMatchAppLayout_20Regular } from './IcOrigonMatchAppLayout_20Regular';
+export { default as IcOrigonMatchAppLayout_24Filled } from './IcOrigonMatchAppLayout_24Filled';
+export { default as IcOrigonMatchAppLayout_24Regular } from './IcOrigonMatchAppLayout_24Regular';

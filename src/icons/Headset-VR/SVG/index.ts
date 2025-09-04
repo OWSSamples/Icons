@@ -1,4 +1,4 @@
-export { default as IcFluentHeadsetVr_20Filled } from './IcFluentHeadsetVr_20Filled';
-export { default as IcFluentHeadsetVr_20Regular } from './IcFluentHeadsetVr_20Regular';
-export { default as IcFluentHeadsetVr_24Filled } from './IcFluentHeadsetVr_24Filled';
-export { default as IcFluentHeadsetVr_24Regular } from './IcFluentHeadsetVr_24Regular';
+export { default as IcOrigonHeadsetVr_20Filled } from './IcOrigonHeadsetVr_20Filled';
+export { default as IcOrigonHeadsetVr_20Regular } from './IcOrigonHeadsetVr_20Regular';
+export { default as IcOrigonHeadsetVr_24Filled } from './IcOrigonHeadsetVr_24Filled';
+export { default as IcOrigonHeadsetVr_24Regular } from './IcOrigonHeadsetVr_24Regular';

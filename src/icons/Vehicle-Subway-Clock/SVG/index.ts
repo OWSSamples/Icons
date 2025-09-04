@@ -1,6 +1,6 @@
-export { default as IcFluentVehicleSubwayClock_16Filled } from './IcFluentVehicleSubwayClock_16Filled';
-export { default as IcFluentVehicleSubwayClock_16Regular } from './IcFluentVehicleSubwayClock_16Regular';
-export { default as IcFluentVehicleSubwayClock_20Filled } from './IcFluentVehicleSubwayClock_20Filled';
-export { default as IcFluentVehicleSubwayClock_20Regular } from './IcFluentVehicleSubwayClock_20Regular';
-export { default as IcFluentVehicleSubwayClock_24Filled } from './IcFluentVehicleSubwayClock_24Filled';
-export { default as IcFluentVehicleSubwayClock_24Regular } from './IcFluentVehicleSubwayClock_24Regular';
+export { default as IcOrigonVehicleSubwayClock_16Filled } from './IcOrigonVehicleSubwayClock_16Filled';
+export { default as IcOrigonVehicleSubwayClock_16Regular } from './IcOrigonVehicleSubwayClock_16Regular';
+export { default as IcOrigonVehicleSubwayClock_20Filled } from './IcOrigonVehicleSubwayClock_20Filled';
+export { default as IcOrigonVehicleSubwayClock_20Regular } from './IcOrigonVehicleSubwayClock_20Regular';
+export { default as IcOrigonVehicleSubwayClock_24Filled } from './IcOrigonVehicleSubwayClock_24Filled';
+export { default as IcOrigonVehicleSubwayClock_24Regular } from './IcOrigonVehicleSubwayClock_24Regular';

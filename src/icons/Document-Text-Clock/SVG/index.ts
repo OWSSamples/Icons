@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentTextClock_20Filled } from './IcFluentDocumentTextClock_20Filled';
-export { default as IcFluentDocumentTextClock_20Regular } from './IcFluentDocumentTextClock_20Regular';
-export { default as IcFluentDocumentTextClock_24Filled } from './IcFluentDocumentTextClock_24Filled';
-export { default as IcFluentDocumentTextClock_24Regular } from './IcFluentDocumentTextClock_24Regular';
+export { default as IcOrigonDocumentTextClock_20Filled } from './IcOrigonDocumentTextClock_20Filled';
+export { default as IcOrigonDocumentTextClock_20Regular } from './IcOrigonDocumentTextClock_20Regular';
+export { default as IcOrigonDocumentTextClock_24Filled } from './IcOrigonDocumentTextClock_24Filled';
+export { default as IcOrigonDocumentTextClock_24Regular } from './IcOrigonDocumentTextClock_24Regular';

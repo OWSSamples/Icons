@@ -1,6 +1,6 @@
-export { default as IcFluentProjectionScreenText_16Filled } from './IcFluentProjectionScreenText_16Filled';
-export { default as IcFluentProjectionScreenText_16Regular } from './IcFluentProjectionScreenText_16Regular';
-export { default as IcFluentProjectionScreenText_20Filled } from './IcFluentProjectionScreenText_20Filled';
-export { default as IcFluentProjectionScreenText_20Regular } from './IcFluentProjectionScreenText_20Regular';
-export { default as IcFluentProjectionScreenText_24Filled } from './IcFluentProjectionScreenText_24Filled';
-export { default as IcFluentProjectionScreenText_24Regular } from './IcFluentProjectionScreenText_24Regular';
+export { default as IcOrigonProjectionScreenText_16Filled } from './IcOrigonProjectionScreenText_16Filled';
+export { default as IcOrigonProjectionScreenText_16Regular } from './IcOrigonProjectionScreenText_16Regular';
+export { default as IcOrigonProjectionScreenText_20Filled } from './IcOrigonProjectionScreenText_20Filled';
+export { default as IcOrigonProjectionScreenText_20Regular } from './IcOrigonProjectionScreenText_20Regular';
+export { default as IcOrigonProjectionScreenText_24Filled } from './IcOrigonProjectionScreenText_24Filled';
+export { default as IcOrigonProjectionScreenText_24Regular } from './IcOrigonProjectionScreenText_24Regular';

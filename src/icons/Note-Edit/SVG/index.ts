@@ -1,4 +1,4 @@
-export { default as IcFluentNoteEdit_20Filled } from './IcFluentNoteEdit_20Filled';
-export { default as IcFluentNoteEdit_20Regular } from './IcFluentNoteEdit_20Regular';
-export { default as IcFluentNoteEdit_24Filled } from './IcFluentNoteEdit_24Filled';
-export { default as IcFluentNoteEdit_24Regular } from './IcFluentNoteEdit_24Regular';
+export { default as IcOrigonNoteEdit_20Filled } from './IcOrigonNoteEdit_20Filled';
+export { default as IcOrigonNoteEdit_20Regular } from './IcOrigonNoteEdit_20Regular';
+export { default as IcOrigonNoteEdit_24Filled } from './IcOrigonNoteEdit_24Filled';
+export { default as IcOrigonNoteEdit_24Regular } from './IcOrigonNoteEdit_24Regular';

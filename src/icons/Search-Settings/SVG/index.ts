@@ -1,2 +1,2 @@
-export { default as IcFluentSearchSettings_20Filled } from './IcFluentSearchSettings_20Filled';
-export { default as IcFluentSearchSettings_20Regular } from './IcFluentSearchSettings_20Regular';
+export { default as IcOrigonSearchSettings_20Filled } from './IcOrigonSearchSettings_20Filled';
+export { default as IcOrigonSearchSettings_20Regular } from './IcOrigonSearchSettings_20Regular';

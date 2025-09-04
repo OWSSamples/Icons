@@ -1,4 +1,4 @@
-export { default as IcFluentPhoneKey_20Filled } from './IcFluentPhoneKey_20Filled';
-export { default as IcFluentPhoneKey_20Regular } from './IcFluentPhoneKey_20Regular';
-export { default as IcFluentPhoneKey_24Filled } from './IcFluentPhoneKey_24Filled';
-export { default as IcFluentPhoneKey_24Regular } from './IcFluentPhoneKey_24Regular';
+export { default as IcOrigonPhoneKey_20Filled } from './IcOrigonPhoneKey_20Filled';
+export { default as IcOrigonPhoneKey_20Regular } from './IcOrigonPhoneKey_20Regular';
+export { default as IcOrigonPhoneKey_24Filled } from './IcOrigonPhoneKey_24Filled';
+export { default as IcOrigonPhoneKey_24Regular } from './IcOrigonPhoneKey_24Regular';

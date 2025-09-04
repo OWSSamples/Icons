@@ -1,2 +1,2 @@
-export { default as IcFluentPanelRightAdd_20Filled } from './IcFluentPanelRightAdd_20Filled';
-export { default as IcFluentPanelRightAdd_20Regular } from './IcFluentPanelRightAdd_20Regular';
+export { default as IcOrigonPanelRightAdd_20Filled } from './IcOrigonPanelRightAdd_20Filled';
+export { default as IcOrigonPanelRightAdd_20Regular } from './IcOrigonPanelRightAdd_20Regular';

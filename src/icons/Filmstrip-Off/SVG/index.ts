@@ -1,2 +1,2 @@
-export { default as IcFluentFilmstripOff_48Filled } from './IcFluentFilmstripOff_48Filled';
-export { default as IcFluentFilmstripOff_48Regular } from './IcFluentFilmstripOff_48Regular';
+export { default as IcOrigonFilmstripOff_48Filled } from './IcOrigonFilmstripOff_48Filled';
+export { default as IcOrigonFilmstripOff_48Regular } from './IcOrigonFilmstripOff_48Regular';

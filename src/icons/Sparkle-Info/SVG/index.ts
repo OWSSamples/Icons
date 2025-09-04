@@ -1,4 +1,4 @@
-export { default as IcFluentSparkleInfo_20Filled } from './IcFluentSparkleInfo_20Filled';
-export { default as IcFluentSparkleInfo_20Regular } from './IcFluentSparkleInfo_20Regular';
-export { default as IcFluentSparkleInfo_24Filled } from './IcFluentSparkleInfo_24Filled';
-export { default as IcFluentSparkleInfo_24Regular } from './IcFluentSparkleInfo_24Regular';
+export { default as IcOrigonSparkleInfo_20Filled } from './IcOrigonSparkleInfo_20Filled';
+export { default as IcOrigonSparkleInfo_20Regular } from './IcOrigonSparkleInfo_20Regular';
+export { default as IcOrigonSparkleInfo_24Filled } from './IcOrigonSparkleInfo_24Filled';
+export { default as IcOrigonSparkleInfo_24Regular } from './IcOrigonSparkleInfo_24Regular';

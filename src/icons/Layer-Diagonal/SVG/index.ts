@@ -1,6 +1,6 @@
-export { default as IcFluentLayerDiagonal_16Filled } from './IcFluentLayerDiagonal_16Filled';
-export { default as IcFluentLayerDiagonal_16Regular } from './IcFluentLayerDiagonal_16Regular';
-export { default as IcFluentLayerDiagonal_20Filled } from './IcFluentLayerDiagonal_20Filled';
-export { default as IcFluentLayerDiagonal_20Regular } from './IcFluentLayerDiagonal_20Regular';
-export { default as IcFluentLayerDiagonal_24Filled } from './IcFluentLayerDiagonal_24Filled';
-export { default as IcFluentLayerDiagonal_24Regular } from './IcFluentLayerDiagonal_24Regular';
+export { default as IcOrigonLayerDiagonal_16Filled } from './IcOrigonLayerDiagonal_16Filled';
+export { default as IcOrigonLayerDiagonal_16Regular } from './IcOrigonLayerDiagonal_16Regular';
+export { default as IcOrigonLayerDiagonal_20Filled } from './IcOrigonLayerDiagonal_20Filled';
+export { default as IcOrigonLayerDiagonal_20Regular } from './IcOrigonLayerDiagonal_20Regular';
+export { default as IcOrigonLayerDiagonal_24Filled } from './IcOrigonLayerDiagonal_24Filled';
+export { default as IcOrigonLayerDiagonal_24Regular } from './IcOrigonLayerDiagonal_24Regular';

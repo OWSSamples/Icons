@@ -1,2 +1,2 @@
-export { default as IcFluentMentionArrowDown_20Filled } from './IcFluentMentionArrowDown_20Filled';
-export { default as IcFluentMentionArrowDown_20Regular } from './IcFluentMentionArrowDown_20Regular';
+export { default as IcOrigonMentionArrowDown_20Filled } from './IcOrigonMentionArrowDown_20Filled';
+export { default as IcOrigonMentionArrowDown_20Regular } from './IcOrigonMentionArrowDown_20Regular';

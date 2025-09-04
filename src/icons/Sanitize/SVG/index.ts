@@ -1,4 +1,4 @@
-export { default as IcFluentSanitize_20Filled } from './IcFluentSanitize_20Filled';
-export { default as IcFluentSanitize_20Regular } from './IcFluentSanitize_20Regular';
-export { default as IcFluentSanitize_24Filled } from './IcFluentSanitize_24Filled';
-export { default as IcFluentSanitize_24Regular } from './IcFluentSanitize_24Regular';
+export { default as IcOrigonSanitize_20Filled } from './IcOrigonSanitize_20Filled';
+export { default as IcOrigonSanitize_20Regular } from './IcOrigonSanitize_20Regular';
+export { default as IcOrigonSanitize_24Filled } from './IcOrigonSanitize_24Filled';
+export { default as IcOrigonSanitize_24Regular } from './IcOrigonSanitize_24Regular';

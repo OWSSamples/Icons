@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonTextBulletListTree_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M3 5.5a1 1 0 1 0 0-2 1 1 0 0 0 0 2m3-1a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m0 5a.5.5 0 0 1 .5-.5h11a.5.5 0 0 1 0 1h-11a.5.5 0 0 1-.5-.5m4.5 4.5a.5.5 0 0 0 0 1h7a.5.5 0 0 0 0-1zm-2.5.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0m-5-4a1 1 0 1 0 0-2 1 1 0 0 0 0 2"/>
+  </IconBase>
+);
+
+export default IcOrigonTextBulletListTree_20Regular;

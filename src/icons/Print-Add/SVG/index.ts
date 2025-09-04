@@ -1,4 +1,4 @@
-export { default as IcFluentPrintAdd_20Filled } from './IcFluentPrintAdd_20Filled';
-export { default as IcFluentPrintAdd_20Regular } from './IcFluentPrintAdd_20Regular';
-export { default as IcFluentPrintAdd_24Filled } from './IcFluentPrintAdd_24Filled';
-export { default as IcFluentPrintAdd_24Regular } from './IcFluentPrintAdd_24Regular';
+export { default as IcOrigonPrintAdd_20Filled } from './IcOrigonPrintAdd_20Filled';
+export { default as IcOrigonPrintAdd_20Regular } from './IcOrigonPrintAdd_20Regular';
+export { default as IcOrigonPrintAdd_24Filled } from './IcOrigonPrintAdd_24Filled';
+export { default as IcOrigonPrintAdd_24Regular } from './IcOrigonPrintAdd_24Regular';

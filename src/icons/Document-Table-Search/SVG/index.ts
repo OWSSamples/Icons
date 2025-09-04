@@ -1,4 +1,4 @@
-export { default as IcFluentDocumentTableSearch_20Filled } from './IcFluentDocumentTableSearch_20Filled';
-export { default as IcFluentDocumentTableSearch_20Regular } from './IcFluentDocumentTableSearch_20Regular';
-export { default as IcFluentDocumentTableSearch_24Filled } from './IcFluentDocumentTableSearch_24Filled';
-export { default as IcFluentDocumentTableSearch_24Regular } from './IcFluentDocumentTableSearch_24Regular';
+export { default as IcOrigonDocumentTableSearch_20Filled } from './IcOrigonDocumentTableSearch_20Filled';
+export { default as IcOrigonDocumentTableSearch_20Regular } from './IcOrigonDocumentTableSearch_20Regular';
+export { default as IcOrigonDocumentTableSearch_24Filled } from './IcOrigonDocumentTableSearch_24Filled';
+export { default as IcOrigonDocumentTableSearch_24Regular } from './IcOrigonDocumentTableSearch_24Regular';

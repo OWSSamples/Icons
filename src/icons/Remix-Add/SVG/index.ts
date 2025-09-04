@@ -1,8 +1,8 @@
-export { default as IcFluentRemixAdd_16Filled } from './IcFluentRemixAdd_16Filled';
-export { default as IcFluentRemixAdd_16Regular } from './IcFluentRemixAdd_16Regular';
-export { default as IcFluentRemixAdd_20Filled } from './IcFluentRemixAdd_20Filled';
-export { default as IcFluentRemixAdd_20Regular } from './IcFluentRemixAdd_20Regular';
-export { default as IcFluentRemixAdd_24Filled } from './IcFluentRemixAdd_24Filled';
-export { default as IcFluentRemixAdd_24Regular } from './IcFluentRemixAdd_24Regular';
-export { default as IcFluentRemixAdd_32Filled } from './IcFluentRemixAdd_32Filled';
-export { default as IcFluentRemixAdd_32Regular } from './IcFluentRemixAdd_32Regular';
+export { default as IcOrigonRemixAdd_16Filled } from './IcOrigonRemixAdd_16Filled';
+export { default as IcOrigonRemixAdd_16Regular } from './IcOrigonRemixAdd_16Regular';
+export { default as IcOrigonRemixAdd_20Filled } from './IcOrigonRemixAdd_20Filled';
+export { default as IcOrigonRemixAdd_20Regular } from './IcOrigonRemixAdd_20Regular';
+export { default as IcOrigonRemixAdd_24Filled } from './IcOrigonRemixAdd_24Filled';
+export { default as IcOrigonRemixAdd_24Regular } from './IcOrigonRemixAdd_24Regular';
+export { default as IcOrigonRemixAdd_32Filled } from './IcOrigonRemixAdd_32Filled';
+export { default as IcOrigonRemixAdd_32Regular } from './IcOrigonRemixAdd_32Regular';

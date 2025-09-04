@@ -1,6 +1,6 @@
-export { default as IcFluentTextSubscript_16Filled } from './IcFluentTextSubscript_16Filled';
-export { default as IcFluentTextSubscript_16Regular } from './IcFluentTextSubscript_16Regular';
-export { default as IcFluentTextSubscript_20Filled } from './IcFluentTextSubscript_20Filled';
-export { default as IcFluentTextSubscript_20Regular } from './IcFluentTextSubscript_20Regular';
-export { default as IcFluentTextSubscript_24Filled } from './IcFluentTextSubscript_24Filled';
-export { default as IcFluentTextSubscript_24Regular } from './IcFluentTextSubscript_24Regular';
+export { default as IcOrigonTextSubscript_16Filled } from './IcOrigonTextSubscript_16Filled';
+export { default as IcOrigonTextSubscript_16Regular } from './IcOrigonTextSubscript_16Regular';
+export { default as IcOrigonTextSubscript_20Filled } from './IcOrigonTextSubscript_20Filled';
+export { default as IcOrigonTextSubscript_20Regular } from './IcOrigonTextSubscript_20Regular';
+export { default as IcOrigonTextSubscript_24Filled } from './IcOrigonTextSubscript_24Filled';
+export { default as IcOrigonTextSubscript_24Regular } from './IcOrigonTextSubscript_24Regular';

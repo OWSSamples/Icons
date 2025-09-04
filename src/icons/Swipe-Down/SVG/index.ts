@@ -1,4 +1,4 @@
-export { default as IcFluentSwipeDown_20Filled } from './IcFluentSwipeDown_20Filled';
-export { default as IcFluentSwipeDown_20Regular } from './IcFluentSwipeDown_20Regular';
-export { default as IcFluentSwipeDown_24Filled } from './IcFluentSwipeDown_24Filled';
-export { default as IcFluentSwipeDown_24Regular } from './IcFluentSwipeDown_24Regular';
+export { default as IcOrigonSwipeDown_20Filled } from './IcOrigonSwipeDown_20Filled';
+export { default as IcOrigonSwipeDown_20Regular } from './IcOrigonSwipeDown_20Regular';
+export { default as IcOrigonSwipeDown_24Filled } from './IcOrigonSwipeDown_24Filled';
+export { default as IcOrigonSwipeDown_24Regular } from './IcOrigonSwipeDown_24Regular';

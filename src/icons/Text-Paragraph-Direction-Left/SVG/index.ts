@@ -1,6 +1,6 @@
-export { default as IcFluentTextParagraphDirectionLeft_16Filled } from './IcFluentTextParagraphDirectionLeft_16Filled';
-export { default as IcFluentTextParagraphDirectionLeft_16Regular } from './IcFluentTextParagraphDirectionLeft_16Regular';
-export { default as IcFluentTextParagraphDirectionLeft_20Filled } from './IcFluentTextParagraphDirectionLeft_20Filled';
-export { default as IcFluentTextParagraphDirectionLeft_20Regular } from './IcFluentTextParagraphDirectionLeft_20Regular';
-export { default as IcFluentTextParagraphDirectionLeft_24Filled } from './IcFluentTextParagraphDirectionLeft_24Filled';
-export { default as IcFluentTextParagraphDirectionLeft_24Regular } from './IcFluentTextParagraphDirectionLeft_24Regular';
+export { default as IcOrigonTextParagraphDirectionLeft_16Filled } from './IcOrigonTextParagraphDirectionLeft_16Filled';
+export { default as IcOrigonTextParagraphDirectionLeft_16Regular } from './IcOrigonTextParagraphDirectionLeft_16Regular';
+export { default as IcOrigonTextParagraphDirectionLeft_20Filled } from './IcOrigonTextParagraphDirectionLeft_20Filled';
+export { default as IcOrigonTextParagraphDirectionLeft_20Regular } from './IcOrigonTextParagraphDirectionLeft_20Regular';
+export { default as IcOrigonTextParagraphDirectionLeft_24Filled } from './IcOrigonTextParagraphDirectionLeft_24Filled';
+export { default as IcOrigonTextParagraphDirectionLeft_24Regular } from './IcOrigonTextParagraphDirectionLeft_24Regular';

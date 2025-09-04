@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonNumberCircle_5_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M10 2a8 8 0 1 0 0 16 8 8 0 0 0 0-16m-7 8a7 7 0 1 1 14 0 7 7 0 0 1-14 0m5.303-3.554A.5.5 0 0 1 8.8 6H12a.5.5 0 1 1 0 1H9.248l-.19 1.74.246-.002c.42-.003.95.002 1.221.04a2.875 2.875 0 1 1-2.972 4.132.5.5 0 0 1 .894-.447 1.875 1.875 0 1 0 1.939-2.694c-.184-.027-.632-.034-1.076-.031a41 41 0 0 0-.733.01l-.047.002h-.016a.5.5 0 0 1-.511-.554z"/>
+  </IconBase>
+);
+
+export default IcOrigonNumberCircle_5_20Regular;

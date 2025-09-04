@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonChevronLeft_28Filled = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 28 28">
+    <path fill="currentColor" d="M18.457 23.207a1 1 0 0 1-1.414 0l-8.75-8.75a1 1 0 0 1 0-1.414l8.75-8.75a1 1 0 1 1 1.414 1.414l-8.043 8.043 8.043 8.043a1 1 0 0 1 0 1.414"/>
+  </IconBase>
+);
+
+export default IcOrigonChevronLeft_28Filled;

@@ -1,2 +1,2 @@
-export { default as IcFluentChatMail_20Filled } from './IcFluentChatMail_20Filled';
-export { default as IcFluentChatMail_20Regular } from './IcFluentChatMail_20Regular';
+export { default as IcOrigonChatMail_20Filled } from './IcOrigonChatMail_20Filled';
+export { default as IcOrigonChatMail_20Regular } from './IcOrigonChatMail_20Regular';

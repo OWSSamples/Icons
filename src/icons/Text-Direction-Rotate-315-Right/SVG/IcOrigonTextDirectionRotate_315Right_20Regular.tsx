@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonTextDirectionRotate_315Right_20Regular = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 20 20">
+    <path fill="currentColor" d="M8.5 2a.5.5 0 0 0 0 1h1.794L7.146 6.148a.5.5 0 1 0 .708.707l3.148-3.148V5.5a.5.5 0 1 0 1 0v-3a.5.5 0 0 0-.5-.5zM2.725 7.053a.5.5 0 0 0-.671.67l4 7.999a.5.5 0 1 0 .894-.447l-1.172-2.343 2.157-2.157 2.344 1.172a.5.5 0 1 0 .447-.894zm4.265 3.25L5.304 11.99 3.618 8.62zM14.5 8a.5.5 0 0 0 0 1h1.794l-8.148 8.146a.5.5 0 0 0 .708.708L17 9.707V11.5a.5.5 0 1 0 1 0v-3a.5.5 0 0 0-.5-.5z"/>
+  </IconBase>
+);
+
+export default IcOrigonTextDirectionRotate_315Right_20Regular;

@@ -1,2 +1,2 @@
-export { default as IcFluentWifiSettings_20Filled } from './IcFluentWifiSettings_20Filled';
-export { default as IcFluentWifiSettings_20Regular } from './IcFluentWifiSettings_20Regular';
+export { default as IcOrigonWifiSettings_20Filled } from './IcOrigonWifiSettings_20Filled';
+export { default as IcOrigonWifiSettings_20Regular } from './IcOrigonWifiSettings_20Regular';

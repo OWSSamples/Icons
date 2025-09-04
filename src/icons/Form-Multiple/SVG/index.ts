@@ -1,8 +1,8 @@
-export { default as IcFluentFormMultiple_20Filled } from './IcFluentFormMultiple_20Filled';
-export { default as IcFluentFormMultiple_20Regular } from './IcFluentFormMultiple_20Regular';
-export { default as IcFluentFormMultiple_24Filled } from './IcFluentFormMultiple_24Filled';
-export { default as IcFluentFormMultiple_24Regular } from './IcFluentFormMultiple_24Regular';
-export { default as IcFluentFormMultiple_28Filled } from './IcFluentFormMultiple_28Filled';
-export { default as IcFluentFormMultiple_28Regular } from './IcFluentFormMultiple_28Regular';
-export { default as IcFluentFormMultiple_48Filled } from './IcFluentFormMultiple_48Filled';
-export { default as IcFluentFormMultiple_48Regular } from './IcFluentFormMultiple_48Regular';
+export { default as IcOrigonFormMultiple_20Filled } from './IcOrigonFormMultiple_20Filled';
+export { default as IcOrigonFormMultiple_20Regular } from './IcOrigonFormMultiple_20Regular';
+export { default as IcOrigonFormMultiple_24Filled } from './IcOrigonFormMultiple_24Filled';
+export { default as IcOrigonFormMultiple_24Regular } from './IcOrigonFormMultiple_24Regular';
+export { default as IcOrigonFormMultiple_28Filled } from './IcOrigonFormMultiple_28Filled';
+export { default as IcOrigonFormMultiple_28Regular } from './IcOrigonFormMultiple_28Regular';
+export { default as IcOrigonFormMultiple_48Filled } from './IcOrigonFormMultiple_48Filled';
+export { default as IcOrigonFormMultiple_48Regular } from './IcOrigonFormMultiple_48Regular';

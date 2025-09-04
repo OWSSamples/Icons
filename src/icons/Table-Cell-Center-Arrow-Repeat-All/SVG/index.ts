@@ -1,6 +1,6 @@
-export { default as IcFluentTableCellCenterArrowRepeatAll_20Filled } from './IcFluentTableCellCenterArrowRepeatAll_20Filled';
-export { default as IcFluentTableCellCenterArrowRepeatAll_20Regular } from './IcFluentTableCellCenterArrowRepeatAll_20Regular';
-export { default as IcFluentTableCellCenterArrowRepeatAll_24Filled } from './IcFluentTableCellCenterArrowRepeatAll_24Filled';
-export { default as IcFluentTableCellCenterArrowRepeatAll_24Regular } from './IcFluentTableCellCenterArrowRepeatAll_24Regular';
-export { default as IcFluentTableCellCenterArrowRepeatAll_28Filled } from './IcFluentTableCellCenterArrowRepeatAll_28Filled';
-export { default as IcFluentTableCellCenterArrowRepeatAll_28Regular } from './IcFluentTableCellCenterArrowRepeatAll_28Regular';
+export { default as IcOrigonTableCellCenterArrowRepeatAll_20Filled } from './IcOrigonTableCellCenterArrowRepeatAll_20Filled';
+export { default as IcOrigonTableCellCenterArrowRepeatAll_20Regular } from './IcOrigonTableCellCenterArrowRepeatAll_20Regular';
+export { default as IcOrigonTableCellCenterArrowRepeatAll_24Filled } from './IcOrigonTableCellCenterArrowRepeatAll_24Filled';
+export { default as IcOrigonTableCellCenterArrowRepeatAll_24Regular } from './IcOrigonTableCellCenterArrowRepeatAll_24Regular';
+export { default as IcOrigonTableCellCenterArrowRepeatAll_28Filled } from './IcOrigonTableCellCenterArrowRepeatAll_28Filled';
+export { default as IcOrigonTableCellCenterArrowRepeatAll_28Regular } from './IcOrigonTableCellCenterArrowRepeatAll_28Regular';

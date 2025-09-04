@@ -1,4 +1,4 @@
-export { default as IcFluentShiftsAvailability_20Filled } from './IcFluentShiftsAvailability_20Filled';
-export { default as IcFluentShiftsAvailability_20Regular } from './IcFluentShiftsAvailability_20Regular';
-export { default as IcFluentShiftsAvailability_24Filled } from './IcFluentShiftsAvailability_24Filled';
-export { default as IcFluentShiftsAvailability_24Regular } from './IcFluentShiftsAvailability_24Regular';
+export { default as IcOrigonShiftsAvailability_20Filled } from './IcOrigonShiftsAvailability_20Filled';
+export { default as IcOrigonShiftsAvailability_20Regular } from './IcOrigonShiftsAvailability_20Regular';
+export { default as IcOrigonShiftsAvailability_24Filled } from './IcOrigonShiftsAvailability_24Filled';
+export { default as IcOrigonShiftsAvailability_24Regular } from './IcOrigonShiftsAvailability_24Regular';

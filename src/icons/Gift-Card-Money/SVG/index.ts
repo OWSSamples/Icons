@@ -1,4 +1,4 @@
-export { default as IcFluentGiftCardMoney_20Filled } from './IcFluentGiftCardMoney_20Filled';
-export { default as IcFluentGiftCardMoney_20Regular } from './IcFluentGiftCardMoney_20Regular';
-export { default as IcFluentGiftCardMoney_24Filled } from './IcFluentGiftCardMoney_24Filled';
-export { default as IcFluentGiftCardMoney_24Regular } from './IcFluentGiftCardMoney_24Regular';
+export { default as IcOrigonGiftCardMoney_20Filled } from './IcOrigonGiftCardMoney_20Filled';
+export { default as IcOrigonGiftCardMoney_20Regular } from './IcOrigonGiftCardMoney_20Regular';
+export { default as IcOrigonGiftCardMoney_24Filled } from './IcOrigonGiftCardMoney_24Filled';
+export { default as IcOrigonGiftCardMoney_24Regular } from './IcOrigonGiftCardMoney_24Regular';

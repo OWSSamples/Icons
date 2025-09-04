@@ -1,4 +1,4 @@
-export { default as IcFluentThinking_20Filled } from './IcFluentThinking_20Filled';
-export { default as IcFluentThinking_20Regular } from './IcFluentThinking_20Regular';
-export { default as IcFluentThinking_24Filled } from './IcFluentThinking_24Filled';
-export { default as IcFluentThinking_24Regular } from './IcFluentThinking_24Regular';
+export { default as IcOrigonThinking_20Filled } from './IcOrigonThinking_20Filled';
+export { default as IcOrigonThinking_20Regular } from './IcOrigonThinking_20Regular';
+export { default as IcOrigonThinking_24Filled } from './IcOrigonThinking_24Filled';
+export { default as IcOrigonThinking_24Regular } from './IcOrigonThinking_24Regular';

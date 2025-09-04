@@ -1,2 +1,2 @@
-export { default as IcFluentVideoRecording_20Filled } from './IcFluentVideoRecording_20Filled';
-export { default as IcFluentVideoRecording_20Regular } from './IcFluentVideoRecording_20Regular';
+export { default as IcOrigonVideoRecording_20Filled } from './IcOrigonVideoRecording_20Filled';
+export { default as IcOrigonVideoRecording_20Regular } from './IcOrigonVideoRecording_20Regular';

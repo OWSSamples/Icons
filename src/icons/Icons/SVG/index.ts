@@ -1,4 +1,4 @@
-export { default as IcFluentIcons_20Filled } from './IcFluentIcons_20Filled';
-export { default as IcFluentIcons_20Regular } from './IcFluentIcons_20Regular';
-export { default as IcFluentIcons_24Filled } from './IcFluentIcons_24Filled';
-export { default as IcFluentIcons_24Regular } from './IcFluentIcons_24Regular';
+export { default as IcOrigonIcons_20Filled } from './IcOrigonIcons_20Filled';
+export { default as IcOrigonIcons_20Regular } from './IcOrigonIcons_20Regular';
+export { default as IcOrigonIcons_24Filled } from './IcOrigonIcons_24Filled';
+export { default as IcOrigonIcons_24Regular } from './IcOrigonIcons_24Regular';

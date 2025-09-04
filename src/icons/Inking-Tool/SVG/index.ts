@@ -1,8 +1,8 @@
-export { default as IcFluentInkingTool_16Filled } from './IcFluentInkingTool_16Filled';
-export { default as IcFluentInkingTool_16Regular } from './IcFluentInkingTool_16Regular';
-export { default as IcFluentInkingTool_20Filled } from './IcFluentInkingTool_20Filled';
-export { default as IcFluentInkingTool_20Regular } from './IcFluentInkingTool_20Regular';
-export { default as IcFluentInkingTool_24Filled } from './IcFluentInkingTool_24Filled';
-export { default as IcFluentInkingTool_24Regular } from './IcFluentInkingTool_24Regular';
-export { default as IcFluentInkingTool_32Filled } from './IcFluentInkingTool_32Filled';
-export { default as IcFluentInkingTool_32Regular } from './IcFluentInkingTool_32Regular';
+export { default as IcOrigonInkingTool_16Filled } from './IcOrigonInkingTool_16Filled';
+export { default as IcOrigonInkingTool_16Regular } from './IcOrigonInkingTool_16Regular';
+export { default as IcOrigonInkingTool_20Filled } from './IcOrigonInkingTool_20Filled';
+export { default as IcOrigonInkingTool_20Regular } from './IcOrigonInkingTool_20Regular';
+export { default as IcOrigonInkingTool_24Filled } from './IcOrigonInkingTool_24Filled';
+export { default as IcOrigonInkingTool_24Regular } from './IcOrigonInkingTool_24Regular';
+export { default as IcOrigonInkingTool_32Filled } from './IcOrigonInkingTool_32Filled';
+export { default as IcOrigonInkingTool_32Regular } from './IcOrigonInkingTool_32Regular';

@@ -1,8 +1,8 @@
-export { default as IcFluentCalendarPerson_16Filled } from './IcFluentCalendarPerson_16Filled';
-export { default as IcFluentCalendarPerson_16Regular } from './IcFluentCalendarPerson_16Regular';
-export { default as IcFluentCalendarPerson_20Filled } from './IcFluentCalendarPerson_20Filled';
-export { default as IcFluentCalendarPerson_20Regular } from './IcFluentCalendarPerson_20Regular';
-export { default as IcFluentCalendarPerson_24Filled } from './IcFluentCalendarPerson_24Filled';
-export { default as IcFluentCalendarPerson_24Regular } from './IcFluentCalendarPerson_24Regular';
-export { default as IcFluentCalendarPerson_32Filled } from './IcFluentCalendarPerson_32Filled';
-export { default as IcFluentCalendarPerson_32Regular } from './IcFluentCalendarPerson_32Regular';
+export { default as IcOrigonCalendarPerson_16Filled } from './IcOrigonCalendarPerson_16Filled';
+export { default as IcOrigonCalendarPerson_16Regular } from './IcOrigonCalendarPerson_16Regular';
+export { default as IcOrigonCalendarPerson_20Filled } from './IcOrigonCalendarPerson_20Filled';
+export { default as IcOrigonCalendarPerson_20Regular } from './IcOrigonCalendarPerson_20Regular';
+export { default as IcOrigonCalendarPerson_24Filled } from './IcOrigonCalendarPerson_24Filled';
+export { default as IcOrigonCalendarPerson_24Regular } from './IcOrigonCalendarPerson_24Regular';
+export { default as IcOrigonCalendarPerson_32Filled } from './IcOrigonCalendarPerson_32Filled';
+export { default as IcOrigonCalendarPerson_32Regular } from './IcOrigonCalendarPerson_32Regular';

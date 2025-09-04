@@ -1,4 +1,4 @@
-export { default as IcFluentTabletSpeaker_20Filled } from './IcFluentTabletSpeaker_20Filled';
-export { default as IcFluentTabletSpeaker_20Regular } from './IcFluentTabletSpeaker_20Regular';
-export { default as IcFluentTabletSpeaker_24Filled } from './IcFluentTabletSpeaker_24Filled';
-export { default as IcFluentTabletSpeaker_24Regular } from './IcFluentTabletSpeaker_24Regular';
+export { default as IcOrigonTabletSpeaker_20Filled } from './IcOrigonTabletSpeaker_20Filled';
+export { default as IcOrigonTabletSpeaker_20Regular } from './IcOrigonTabletSpeaker_20Regular';
+export { default as IcOrigonTabletSpeaker_24Filled } from './IcOrigonTabletSpeaker_24Filled';
+export { default as IcOrigonTabletSpeaker_24Regular } from './IcOrigonTabletSpeaker_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentBookClock_20Filled } from './IcFluentBookClock_20Filled';
-export { default as IcFluentBookClock_20Regular } from './IcFluentBookClock_20Regular';
-export { default as IcFluentBookClock_24Filled } from './IcFluentBookClock_24Filled';
-export { default as IcFluentBookClock_24Regular } from './IcFluentBookClock_24Regular';
+export { default as IcOrigonBookClock_20Filled } from './IcOrigonBookClock_20Filled';
+export { default as IcOrigonBookClock_20Regular } from './IcOrigonBookClock_20Regular';
+export { default as IcOrigonBookClock_24Filled } from './IcOrigonBookClock_24Filled';
+export { default as IcOrigonBookClock_24Regular } from './IcOrigonBookClock_24Regular';

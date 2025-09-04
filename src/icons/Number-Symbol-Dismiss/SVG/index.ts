@@ -1,4 +1,4 @@
-export { default as IcFluentNumberSymbolDismiss_20Filled } from './IcFluentNumberSymbolDismiss_20Filled';
-export { default as IcFluentNumberSymbolDismiss_20Regular } from './IcFluentNumberSymbolDismiss_20Regular';
-export { default as IcFluentNumberSymbolDismiss_24Filled } from './IcFluentNumberSymbolDismiss_24Filled';
-export { default as IcFluentNumberSymbolDismiss_24Regular } from './IcFluentNumberSymbolDismiss_24Regular';
+export { default as IcOrigonNumberSymbolDismiss_20Filled } from './IcOrigonNumberSymbolDismiss_20Filled';
+export { default as IcOrigonNumberSymbolDismiss_20Regular } from './IcOrigonNumberSymbolDismiss_20Regular';
+export { default as IcOrigonNumberSymbolDismiss_24Filled } from './IcOrigonNumberSymbolDismiss_24Filled';
+export { default as IcOrigonNumberSymbolDismiss_24Regular } from './IcOrigonNumberSymbolDismiss_24Regular';

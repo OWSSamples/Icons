@@ -1,2 +1,2 @@
-export { default as IcFluentPuzzlePieceShield_20Filled } from './IcFluentPuzzlePieceShield_20Filled';
-export { default as IcFluentPuzzlePieceShield_20Regular } from './IcFluentPuzzlePieceShield_20Regular';
+export { default as IcOrigonPuzzlePieceShield_20Filled } from './IcOrigonPuzzlePieceShield_20Filled';
+export { default as IcOrigonPuzzlePieceShield_20Regular } from './IcOrigonPuzzlePieceShield_20Regular';

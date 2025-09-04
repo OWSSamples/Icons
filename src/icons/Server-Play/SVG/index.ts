@@ -1,2 +1,2 @@
-export { default as IcFluentServerPlay_20Filled } from './IcFluentServerPlay_20Filled';
-export { default as IcFluentServerPlay_20Regular } from './IcFluentServerPlay_20Regular';
+export { default as IcOrigonServerPlay_20Filled } from './IcOrigonServerPlay_20Filled';
+export { default as IcOrigonServerPlay_20Regular } from './IcOrigonServerPlay_20Regular';

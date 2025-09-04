@@ -1,6 +1,6 @@
-export { default as IcFluentMailOff_16Filled } from './IcFluentMailOff_16Filled';
-export { default as IcFluentMailOff_16Regular } from './IcFluentMailOff_16Regular';
-export { default as IcFluentMailOff_20Filled } from './IcFluentMailOff_20Filled';
-export { default as IcFluentMailOff_20Regular } from './IcFluentMailOff_20Regular';
-export { default as IcFluentMailOff_24Filled } from './IcFluentMailOff_24Filled';
-export { default as IcFluentMailOff_24Regular } from './IcFluentMailOff_24Regular';
+export { default as IcOrigonMailOff_16Filled } from './IcOrigonMailOff_16Filled';
+export { default as IcOrigonMailOff_16Regular } from './IcOrigonMailOff_16Regular';
+export { default as IcOrigonMailOff_20Filled } from './IcOrigonMailOff_20Filled';
+export { default as IcOrigonMailOff_20Regular } from './IcOrigonMailOff_20Regular';
+export { default as IcOrigonMailOff_24Filled } from './IcOrigonMailOff_24Filled';
+export { default as IcOrigonMailOff_24Regular } from './IcOrigonMailOff_24Regular';

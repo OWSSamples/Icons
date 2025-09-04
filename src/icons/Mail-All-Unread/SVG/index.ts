@@ -1,2 +1,2 @@
-export { default as IcFluentMailAllUnread_20Filled } from './IcFluentMailAllUnread_20Filled';
-export { default as IcFluentMailAllUnread_20Regular } from './IcFluentMailAllUnread_20Regular';
+export { default as IcOrigonMailAllUnread_20Filled } from './IcOrigonMailAllUnread_20Filled';
+export { default as IcOrigonMailAllUnread_20Regular } from './IcOrigonMailAllUnread_20Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentTextboxAlignMiddleRotate_90_20Filled } from './IcFluentTextboxAlignMiddleRotate_90_20Filled';
-export { default as IcFluentTextboxAlignMiddleRotate_90_20Regular } from './IcFluentTextboxAlignMiddleRotate_90_20Regular';
-export { default as IcFluentTextboxAlignMiddleRotate_90_24Filled } from './IcFluentTextboxAlignMiddleRotate_90_24Filled';
-export { default as IcFluentTextboxAlignMiddleRotate_90_24Regular } from './IcFluentTextboxAlignMiddleRotate_90_24Regular';
+export { default as IcOrigonTextboxAlignMiddleRotate_90_20Filled } from './IcOrigonTextboxAlignMiddleRotate_90_20Filled';
+export { default as IcOrigonTextboxAlignMiddleRotate_90_20Regular } from './IcOrigonTextboxAlignMiddleRotate_90_20Regular';
+export { default as IcOrigonTextboxAlignMiddleRotate_90_24Filled } from './IcOrigonTextboxAlignMiddleRotate_90_24Filled';
+export { default as IcOrigonTextboxAlignMiddleRotate_90_24Regular } from './IcOrigonTextboxAlignMiddleRotate_90_24Regular';

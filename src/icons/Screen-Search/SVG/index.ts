@@ -1,4 +1,4 @@
-export { default as IcFluentScreenSearch_20Filled } from './IcFluentScreenSearch_20Filled';
-export { default as IcFluentScreenSearch_20Regular } from './IcFluentScreenSearch_20Regular';
-export { default as IcFluentScreenSearch_24Filled } from './IcFluentScreenSearch_24Filled';
-export { default as IcFluentScreenSearch_24Regular } from './IcFluentScreenSearch_24Regular';
+export { default as IcOrigonScreenSearch_20Filled } from './IcOrigonScreenSearch_20Filled';
+export { default as IcOrigonScreenSearch_20Regular } from './IcOrigonScreenSearch_20Regular';
+export { default as IcOrigonScreenSearch_24Filled } from './IcOrigonScreenSearch_24Filled';
+export { default as IcOrigonScreenSearch_24Regular } from './IcOrigonScreenSearch_24Regular';

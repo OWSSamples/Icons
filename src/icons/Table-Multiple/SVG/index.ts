@@ -1,2 +1,2 @@
-export { default as IcFluentTableMultiple_20Filled } from './IcFluentTableMultiple_20Filled';
-export { default as IcFluentTableMultiple_20Regular } from './IcFluentTableMultiple_20Regular';
+export { default as IcOrigonTableMultiple_20Filled } from './IcOrigonTableMultiple_20Filled';
+export { default as IcOrigonTableMultiple_20Regular } from './IcOrigonTableMultiple_20Regular';

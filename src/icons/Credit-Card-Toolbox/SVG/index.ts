@@ -1,4 +1,4 @@
-export { default as IcFluentCreditCardToolbox_20Filled } from './IcFluentCreditCardToolbox_20Filled';
-export { default as IcFluentCreditCardToolbox_20Regular } from './IcFluentCreditCardToolbox_20Regular';
-export { default as IcFluentCreditCardToolbox_24Filled } from './IcFluentCreditCardToolbox_24Filled';
-export { default as IcFluentCreditCardToolbox_24Regular } from './IcFluentCreditCardToolbox_24Regular';
+export { default as IcOrigonCreditCardToolbox_20Filled } from './IcOrigonCreditCardToolbox_20Filled';
+export { default as IcOrigonCreditCardToolbox_20Regular } from './IcOrigonCreditCardToolbox_20Regular';
+export { default as IcOrigonCreditCardToolbox_24Filled } from './IcOrigonCreditCardToolbox_24Filled';
+export { default as IcOrigonCreditCardToolbox_24Regular } from './IcOrigonCreditCardToolbox_24Regular';

@@ -1,4 +1,4 @@
-export { default as IcFluentDataBarHorizontal_20Filled } from './IcFluentDataBarHorizontal_20Filled';
-export { default as IcFluentDataBarHorizontal_20Regular } from './IcFluentDataBarHorizontal_20Regular';
-export { default as IcFluentDataBarHorizontal_24Filled } from './IcFluentDataBarHorizontal_24Filled';
-export { default as IcFluentDataBarHorizontal_24Regular } from './IcFluentDataBarHorizontal_24Regular';
+export { default as IcOrigonDataBarHorizontal_20Filled } from './IcOrigonDataBarHorizontal_20Filled';
+export { default as IcOrigonDataBarHorizontal_20Regular } from './IcOrigonDataBarHorizontal_20Regular';
+export { default as IcOrigonDataBarHorizontal_24Filled } from './IcOrigonDataBarHorizontal_24Filled';
+export { default as IcOrigonDataBarHorizontal_24Regular } from './IcOrigonDataBarHorizontal_24Regular';

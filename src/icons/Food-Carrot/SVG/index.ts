@@ -1,4 +1,4 @@
-export { default as IcFluentFoodCarrot_20Filled } from './IcFluentFoodCarrot_20Filled';
-export { default as IcFluentFoodCarrot_20Regular } from './IcFluentFoodCarrot_20Regular';
-export { default as IcFluentFoodCarrot_24Filled } from './IcFluentFoodCarrot_24Filled';
-export { default as IcFluentFoodCarrot_24Regular } from './IcFluentFoodCarrot_24Regular';
+export { default as IcOrigonFoodCarrot_20Filled } from './IcOrigonFoodCarrot_20Filled';
+export { default as IcOrigonFoodCarrot_20Regular } from './IcOrigonFoodCarrot_20Regular';
+export { default as IcOrigonFoodCarrot_24Filled } from './IcOrigonFoodCarrot_24Filled';
+export { default as IcOrigonFoodCarrot_24Regular } from './IcOrigonFoodCarrot_24Regular';

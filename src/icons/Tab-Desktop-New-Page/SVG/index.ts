@@ -1,2 +1,2 @@
-export { default as IcFluentTabDesktopNewPage_20Filled } from './IcFluentTabDesktopNewPage_20Filled';
-export { default as IcFluentTabDesktopNewPage_20Regular } from './IcFluentTabDesktopNewPage_20Regular';
+export { default as IcOrigonTabDesktopNewPage_20Filled } from './IcOrigonTabDesktopNewPage_20Filled';
+export { default as IcOrigonTabDesktopNewPage_20Regular } from './IcOrigonTabDesktopNewPage_20Regular';

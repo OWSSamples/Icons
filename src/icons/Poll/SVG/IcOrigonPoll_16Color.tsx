@@ -1,0 +1,11 @@
+import React from 'react';
+import IconBase from '../../../IconBase';
+import { IconProps } from '../../../types';
+
+const IcOrigonPoll_16Color = (props: IconProps) => (
+  <IconBase {...props} viewBox="0 0 16 16">
+    <path fill="currentColor" d="M6 3a2 2 0 1 1 4 0v10a2 2 0 1 1-4 0z"/><path fill="currentColor" d="M13 5a2 2 0 0 0-2 2v6a2 2 0 1 0 4 0V7a2 2 0 0 0-2-2"/><path fill="currentColor" d="M3 7a2 2 0 0 0-2 2v4a2 2 0 1 0 4 0V9a2 2 0 0 0-2-2"/><defs><linearGradient id="a" x1="9.667" x2="7.529" y1="12.433" y2=".854" gradientUnits="userSpaceOnUse"><stop stop-color="#6D37CD"/><stop offset="1" stop-color="#EA71EF"/></linearGradient><linearGradient id="b" x1="14.667" x2="13.558" y1="13.167" y2="4.76" gradientUnits="userSpaceOnUse"><stop stop-color="#E23CB4"/><stop offset="1" stop-color="#EA71EF"/></linearGradient><linearGradient id="c" x1="1.5" x2="9.148" y1="7.333" y2="11.857" gradientUnits="userSpaceOnUse"><stop stop-color="#36DFF1"/><stop offset="1" stop-color="#0078D4"/></linearGradient></defs>
+  </IconBase>
+);
+
+export default IcOrigonPoll_16Color;

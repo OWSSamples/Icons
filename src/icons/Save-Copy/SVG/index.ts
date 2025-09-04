@@ -1,4 +1,4 @@
-export { default as IcFluentSaveCopy_20Filled } from './IcFluentSaveCopy_20Filled';
-export { default as IcFluentSaveCopy_20Regular } from './IcFluentSaveCopy_20Regular';
-export { default as IcFluentSaveCopy_24Filled } from './IcFluentSaveCopy_24Filled';
-export { default as IcFluentSaveCopy_24Regular } from './IcFluentSaveCopy_24Regular';
+export { default as IcOrigonSaveCopy_20Filled } from './IcOrigonSaveCopy_20Filled';
+export { default as IcOrigonSaveCopy_20Regular } from './IcOrigonSaveCopy_20Regular';
+export { default as IcOrigonSaveCopy_24Filled } from './IcOrigonSaveCopy_24Filled';
+export { default as IcOrigonSaveCopy_24Regular } from './IcOrigonSaveCopy_24Regular';

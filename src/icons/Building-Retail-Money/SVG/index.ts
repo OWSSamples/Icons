@@ -1,4 +1,4 @@
-export { default as IcFluentBuildingRetailMoney_20Filled } from './IcFluentBuildingRetailMoney_20Filled';
-export { default as IcFluentBuildingRetailMoney_20Regular } from './IcFluentBuildingRetailMoney_20Regular';
-export { default as IcFluentBuildingRetailMoney_24Filled } from './IcFluentBuildingRetailMoney_24Filled';
-export { default as IcFluentBuildingRetailMoney_24Regular } from './IcFluentBuildingRetailMoney_24Regular';
+export { default as IcOrigonBuildingRetailMoney_20Filled } from './IcOrigonBuildingRetailMoney_20Filled';
+export { default as IcOrigonBuildingRetailMoney_20Regular } from './IcOrigonBuildingRetailMoney_20Regular';
+export { default as IcOrigonBuildingRetailMoney_24Filled } from './IcOrigonBuildingRetailMoney_24Filled';
+export { default as IcOrigonBuildingRetailMoney_24Regular } from './IcOrigonBuildingRetailMoney_24Regular';

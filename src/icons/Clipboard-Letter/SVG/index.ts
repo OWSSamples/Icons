@@ -1,6 +1,6 @@
-export { default as IcFluentClipboardLetter_16Filled } from './IcFluentClipboardLetter_16Filled';
-export { default as IcFluentClipboardLetter_16Regular } from './IcFluentClipboardLetter_16Regular';
-export { default as IcFluentClipboardLetter_20Filled } from './IcFluentClipboardLetter_20Filled';
-export { default as IcFluentClipboardLetter_20Regular } from './IcFluentClipboardLetter_20Regular';
-export { default as IcFluentClipboardLetter_24Filled } from './IcFluentClipboardLetter_24Filled';
-export { default as IcFluentClipboardLetter_24Regular } from './IcFluentClipboardLetter_24Regular';
+export { default as IcOrigonClipboardLetter_16Filled } from './IcOrigonClipboardLetter_16Filled';
+export { default as IcOrigonClipboardLetter_16Regular } from './IcOrigonClipboardLetter_16Regular';
+export { default as IcOrigonClipboardLetter_20Filled } from './IcOrigonClipboardLetter_20Filled';
+export { default as IcOrigonClipboardLetter_20Regular } from './IcOrigonClipboardLetter_20Regular';
+export { default as IcOrigonClipboardLetter_24Filled } from './IcOrigonClipboardLetter_24Filled';
+export { default as IcOrigonClipboardLetter_24Regular } from './IcOrigonClipboardLetter_24Regular';

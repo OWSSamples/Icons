@@ -1,6 +1,6 @@
-export { default as IcFluentHandWave_16Filled } from './IcFluentHandWave_16Filled';
-export { default as IcFluentHandWave_16Regular } from './IcFluentHandWave_16Regular';
-export { default as IcFluentHandWave_20Filled } from './IcFluentHandWave_20Filled';
-export { default as IcFluentHandWave_20Regular } from './IcFluentHandWave_20Regular';
-export { default as IcFluentHandWave_24Filled } from './IcFluentHandWave_24Filled';
-export { default as IcFluentHandWave_24Regular } from './IcFluentHandWave_24Regular';
+export { default as IcOrigonHandWave_16Filled } from './IcOrigonHandWave_16Filled';
+export { default as IcOrigonHandWave_16Regular } from './IcOrigonHandWave_16Regular';
+export { default as IcOrigonHandWave_20Filled } from './IcOrigonHandWave_20Filled';
+export { default as IcOrigonHandWave_20Regular } from './IcOrigonHandWave_20Regular';
+export { default as IcOrigonHandWave_24Filled } from './IcOrigonHandWave_24Filled';
+export { default as IcOrigonHandWave_24Regular } from './IcOrigonHandWave_24Regular';

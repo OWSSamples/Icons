@@ -1,8 +1,8 @@
-export { default as IcFluentMailInboxPerson_16Filled } from './IcFluentMailInboxPerson_16Filled';
-export { default as IcFluentMailInboxPerson_16Regular } from './IcFluentMailInboxPerson_16Regular';
-export { default as IcFluentMailInboxPerson_20Filled } from './IcFluentMailInboxPerson_20Filled';
-export { default as IcFluentMailInboxPerson_20Regular } from './IcFluentMailInboxPerson_20Regular';
-export { default as IcFluentMailInboxPerson_32Filled } from './IcFluentMailInboxPerson_32Filled';
-export { default as IcFluentMailInboxPerson_32Regular } from './IcFluentMailInboxPerson_32Regular';
-export { default as IcFluentMailInboxPerson_48Filled } from './IcFluentMailInboxPerson_48Filled';
-export { default as IcFluentMailInboxPerson_48Regular } from './IcFluentMailInboxPerson_48Regular';
+export { default as IcOrigonMailInboxPerson_16Filled } from './IcOrigonMailInboxPerson_16Filled';
+export { default as IcOrigonMailInboxPerson_16Regular } from './IcOrigonMailInboxPerson_16Regular';
+export { default as IcOrigonMailInboxPerson_20Filled } from './IcOrigonMailInboxPerson_20Filled';
+export { default as IcOrigonMailInboxPerson_20Regular } from './IcOrigonMailInboxPerson_20Regular';
+export { default as IcOrigonMailInboxPerson_32Filled } from './IcOrigonMailInboxPerson_32Filled';
+export { default as IcOrigonMailInboxPerson_32Regular } from './IcOrigonMailInboxPerson_32Regular';
+export { default as IcOrigonMailInboxPerson_48Filled } from './IcOrigonMailInboxPerson_48Filled';
+export { default as IcOrigonMailInboxPerson_48Regular } from './IcOrigonMailInboxPerson_48Regular';

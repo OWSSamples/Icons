@@ -1,4 +1,4 @@
-export { default as IcFluentSportBasketball_20Filled } from './IcFluentSportBasketball_20Filled';
-export { default as IcFluentSportBasketball_20Regular } from './IcFluentSportBasketball_20Regular';
-export { default as IcFluentSportBasketball_24Filled } from './IcFluentSportBasketball_24Filled';
-export { default as IcFluentSportBasketball_24Regular } from './IcFluentSportBasketball_24Regular';
+export { default as IcOrigonSportBasketball_20Filled } from './IcOrigonSportBasketball_20Filled';
+export { default as IcOrigonSportBasketball_20Regular } from './IcOrigonSportBasketball_20Regular';
+export { default as IcOrigonSportBasketball_24Filled } from './IcOrigonSportBasketball_24Filled';
+export { default as IcOrigonSportBasketball_24Regular } from './IcOrigonSportBasketball_24Regular';

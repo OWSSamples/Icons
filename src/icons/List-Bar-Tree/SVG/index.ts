@@ -1,4 +1,4 @@
-export { default as IcFluentListBarTree_16Filled } from './IcFluentListBarTree_16Filled';
-export { default as IcFluentListBarTree_16Regular } from './IcFluentListBarTree_16Regular';
-export { default as IcFluentListBarTree_20Filled } from './IcFluentListBarTree_20Filled';
-export { default as IcFluentListBarTree_20Regular } from './IcFluentListBarTree_20Regular';
+export { default as IcOrigonListBarTree_16Filled } from './IcOrigonListBarTree_16Filled';
+export { default as IcOrigonListBarTree_16Regular } from './IcOrigonListBarTree_16Regular';
+export { default as IcOrigonListBarTree_20Filled } from './IcOrigonListBarTree_20Filled';
+export { default as IcOrigonListBarTree_20Regular } from './IcOrigonListBarTree_20Regular';

@@ -1,6 +1,6 @@
-export { default as IcFluentScaleFit_16Filled } from './IcFluentScaleFit_16Filled';
-export { default as IcFluentScaleFit_16Regular } from './IcFluentScaleFit_16Regular';
-export { default as IcFluentScaleFit_20Filled } from './IcFluentScaleFit_20Filled';
-export { default as IcFluentScaleFit_20Regular } from './IcFluentScaleFit_20Regular';
-export { default as IcFluentScaleFit_24Filled } from './IcFluentScaleFit_24Filled';
-export { default as IcFluentScaleFit_24Regular } from './IcFluentScaleFit_24Regular';
+export { default as IcOrigonScaleFit_16Filled } from './IcOrigonScaleFit_16Filled';
+export { default as IcOrigonScaleFit_16Regular } from './IcOrigonScaleFit_16Regular';
+export { default as IcOrigonScaleFit_20Filled } from './IcOrigonScaleFit_20Filled';
+export { default as IcOrigonScaleFit_20Regular } from './IcOrigonScaleFit_20Regular';
+export { default as IcOrigonScaleFit_24Filled } from './IcOrigonScaleFit_24Filled';
+export { default as IcOrigonScaleFit_24Regular } from './IcOrigonScaleFit_24Regular';

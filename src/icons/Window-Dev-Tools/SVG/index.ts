@@ -1,6 +1,6 @@
-export { default as IcFluentWindowDevTools_16Filled } from './IcFluentWindowDevTools_16Filled';
-export { default as IcFluentWindowDevTools_16Regular } from './IcFluentWindowDevTools_16Regular';
-export { default as IcFluentWindowDevTools_20Filled } from './IcFluentWindowDevTools_20Filled';
-export { default as IcFluentWindowDevTools_20Regular } from './IcFluentWindowDevTools_20Regular';
-export { default as IcFluentWindowDevTools_24Filled } from './IcFluentWindowDevTools_24Filled';
-export { default as IcFluentWindowDevTools_24Regular } from './IcFluentWindowDevTools_24Regular';
+export { default as IcOrigonWindowDevTools_16Filled } from './IcOrigonWindowDevTools_16Filled';
+export { default as IcOrigonWindowDevTools_16Regular } from './IcOrigonWindowDevTools_16Regular';
+export { default as IcOrigonWindowDevTools_20Filled } from './IcOrigonWindowDevTools_20Filled';
+export { default as IcOrigonWindowDevTools_20Regular } from './IcOrigonWindowDevTools_20Regular';
+export { default as IcOrigonWindowDevTools_24Filled } from './IcOrigonWindowDevTools_24Filled';
+export { default as IcOrigonWindowDevTools_24Regular } from './IcOrigonWindowDevTools_24Regular';
