@@ -41,7 +41,7 @@ export function IconBase({
   );
 }
 
-// Mantener el componente original para compatibilidad
+// Componente SVG inline para compatibilidad
 export function IconBaseSVG({
   size = 24,
   color = 'currentColor',
