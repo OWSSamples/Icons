@@ -50,7 +50,7 @@ jobs:
           echo "✅ All checks passed" >> monitoring-report.md
 
       - name: Upload monitoring report
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v5
         with:
           name: monitoring-report
           path: monitoring-report.md
